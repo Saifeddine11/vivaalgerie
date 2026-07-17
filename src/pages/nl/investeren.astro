@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/investissement") },
+  { lang: "en", href: absoluteUrl("/en/investment") },
+  { lang: "es", href: absoluteUrl("/es/inversion") },
+  { lang: "nl", href: absoluteUrl("/nl/investeren") },
+  { lang: "x-default", href: absoluteUrl("/investissement") },
+];
+---
+
+<CategoryPage
+  category="investissement"
+  locale="nl"
+  title="Investeren in Algerije — Vastgoed, diaspora en marktanalyse"
+  description="Investeren in Algerije: vastgoed, kopersprofielen, diaspora en stedelijke context zonder rendementpromises."
+  h1="Investeren in Algerije"
+  intro="Een voorzichtige lezing van kansen: vastgoedmarkt, steden, diaspora en operationeel kader — zonder ROI-garantie."
+  relatedLinks={[
+    { href: "/nl/vastgoedprijzen-algiers", label: "Prijzen in Algiers" },
+    { href: "/nl/safe-vastgoedcertificering", label: "S.A.F.E" },
+    { href: "/nl/documenten-vastgoedkoop-algerije", label: "Aankoopdocumenten" },
+  ]}
+  hreflang={hreflang}
+/>

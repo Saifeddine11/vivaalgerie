@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/immobilier") },
+  { lang: "en", href: absoluteUrl("/en/real-estate") },
+  { lang: "es", href: absoluteUrl("/es/inmobiliario") },
+  { lang: "nl", href: absoluteUrl("/nl/vastgoed") },
+  { lang: "x-default", href: absoluteUrl("/immobilier") },
+];
+---
+
+<CategoryPage
+  category="immobilier"
+  locale="nl"
+  title="Vastgoed in Algerije — Analyses, aankoop en markt"
+  description="Vastgoedinzichten Algerije: off-plan kopen, ontwikkelaars, prijzen, risico’s en nieuwbouw."
+  h1="Vastgoed in Algerije"
+  intro="Marktanalyses, koopgidsen, nieuwbouwprojecten en aandachtspunten om Algerijns vastgoed methodisch te begrijpen."
+  relatedLinks={[
+    { href: "/nl/off-plan-kopen-algerije", label: "Off-plan kopen in Algerije" },
+    { href: "/nl/vastgoedprijzen-algiers", label: "Vastgoedprijzen in Algiers" },
+    { href: "/nl/vastgoedrisicos-algerije", label: "Vastgoedrisico’s" },
+    { href: "/nl/safe-vastgoedcertificering", label: "S.A.F.E-certificering" },
+  ]}
+  hreflang={hreflang}
+/>

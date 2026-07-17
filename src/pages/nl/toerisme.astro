@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/tourisme") },
+  { lang: "en", href: absoluteUrl("/en/tourism") },
+  { lang: "es", href: absoluteUrl("/es/turismo") },
+  { lang: "nl", href: absoluteUrl("/nl/toerisme") },
+  { lang: "x-default", href: absoluteUrl("/tourisme") },
+];
+---
+
+<CategoryPage
+  category="tourisme"
+  locale="nl"
+  title="Toerisme in Algerije — Bestemmingen, kust en potentieel"
+  description="Toerisme in Algerije: kuststeden, erfgoed, hospitality en bezoekersstromen met bronnen."
+  h1="Toerisme in Algerije"
+  intro="Algerijns toerisme voorbij slogans: kust, erfgoed, steden en implicaties voor de lokale economie en vastgoed."
+  relatedLinks={[
+    { href: "/nl/steden", label: "Algerijnse steden" },
+    { href: "/nl/analyses", label: "Analyses" },
+    { href: "/nl/investeren", label: "Investeren" },
+  ]}
+  hreflang={hreflang}
+/>

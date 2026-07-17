@@ -1,0 +1,94 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { CITIES } from '../../lib/site';
+import { absoluteUrl, getHomePath } from '../../lib/paths';
+import { getArticlesByCategory } from '../../lib/content';
+import { t } from '../../i18n/ui';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'es';
+const articles = await getArticlesByCategory('villes', locale);
+const canonical = absoluteUrl('/es/ciudades');
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/villes') },
+  { lang: 'en', href: absoluteUrl('/en/cities') },
+  { lang: 'es', href: absoluteUrl('/es/ciudades') },
+  { lang: 'nl', href: absoluteUrl('/nl/steden') },
+  { lang: 'x-default', href: absoluteUrl('/villes') },
+];
+---
+
+<PageLayout
+  title="Ciudades de Argelia — Argel, Orán, Constantina y más"
+  description="Guías urbanas Argelia: Argel, Orán, Constantina, Annaba, Bugía, Tipasa y dinámicas locales inmobiliario / turismo."
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+>
+  <section class="border-b border-border bg-bg-secondary">
+    <div class="container-editorial max-w-4xl py-14 sm:py-20">
+      <Breadcrumbs
+        items={[
+          { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+          { label: 'Ciudades', href: canonical },
+        ]}
+      />
+      <p class="eyebrow mb-3">Ciudades</p>
+      <h1 class="mb-5 text-4xl sm:text-5xl">Ciudades de Argelia</h1>
+      <p class="max-w-2xl text-lg text-muted">
+        Comprender las dinámicas locales: capitales regionales, litoral y ciudades secundarias a seguir para el inmobiliario y el turismo.
+      </p>
+    </div>
+  </section>
+
+  <section class="section-pad">
+    <div class="container-editorial">
+      <h2 class="mb-8 text-3xl">Ciudades a seguir</h2>
+      <div class="mb-16 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          CITIES.map((city) => (
+            <div
+              id={city.slug}
+              class="scroll-mt-24 rounded-[var(--radius-card)] border border-border bg-bg p-5"
+            >
+              <h3 class="font-serif text-xl">{city.name.es}</h3>
+              <p class="mt-2 text-sm text-muted">
+                Punto de atención editorial: inmobiliario, accesibilidad y potencial turístico local.
+              </p>
+            </div>
+          ))
+        }
+      </div>
+
+      <h2 class="mb-8 text-3xl">Artículos</h2>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          articles.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              slug={article.data.slug}
+              category={article.data.category}
+              lang={locale}
+              pubDate={article.data.pubDate}
+              image={article.data.image}
+              imageAlt={article.data.imageAlt}
+            />
+          ))
+        }
+      </div>
+
+      <aside class="mt-16 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-8">
+        <h2 class="mb-4 text-2xl">Recursos relacionados</h2>
+        <ul class="grid gap-3 sm:grid-cols-2">
+          <li><a href="/es/inmobiliario" class="text-green hover:underline">Inmobiliario →</a></li>
+          <li><a href="/es/turismo" class="text-green hover:underline">Turismo →</a></li>
+          <li><a href="/es/precios-inmobiliarios-argel" class="text-green hover:underline">Precios en Argel →</a></li>
+          <li><a href="/es/inversion" class="text-green hover:underline">Inversión →</a></li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+</PageLayout>

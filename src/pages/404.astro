@@ -1,0 +1,25 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { absoluteUrl, getHomePath } from '../lib/paths';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+---
+
+<PageLayout
+  title="Page introuvable — Viva Algérie"
+  description="La page demandée n’existe pas."
+  locale={locale}
+  canonical={absoluteUrl('/404')}
+  noindex={true}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial max-w-xl py-20 text-center">
+      <p class="eyebrow mb-4">404</p>
+      <h1 class="mb-4 text-4xl">{t(locale, '404.title')}</h1>
+      <p class="mb-8 text-muted">{t(locale, '404.text')}</p>
+      <a href={getHomePath(locale)} class="btn-primary">{t(locale, '404.cta')}</a>
+    </div>
+  </section>
+</PageLayout>

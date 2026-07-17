@@ -1,0 +1,215 @@
+---
+/**
+ * Localized homepage — pass locale via props from en/es/nl index pages.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import ArticleCard from './ArticleCard.astro';
+import SafeBlock from './SafeBlock.astro';
+import Icon from './Icon.astro';
+import { t } from '../i18n/ui';
+import { ALGERIA_FIGURES, CITIES, CATEGORY_PATHS, SITE, type Locale } from '../lib/site';
+import { absoluteUrl, getCategoryPath } from '../lib/paths';
+import { homeHreflang } from '../lib/hreflang';
+import { getArticles, getFeaturedArticles } from '../lib/content';
+
+interface Props {
+  locale: Locale;
+  title?: string;
+  description?: string;
+}
+
+const { locale, title, description } = Astro.props;
+const featured = await getFeaturedArticles(locale, 1);
+const latest = (await getArticles(locale)).slice(0, 6);
+const featuredArticle = featured[0];
+
+const metaTitle =
+  title ??
+  ({
+    fr: SITE.defaultTitle,
+    en: 'Viva Algérie — Real Estate, Tourism and Investment in Algeria',
+    es: 'Viva Algérie — Inmobiliario, turismo e inversión en Argelia',
+    nl: 'Viva Algérie — Vastgoed, toerisme en investeren in Algerije',
+  }[locale]);
+
+const metaDescription =
+  description ??
+  ({
+    fr: SITE.defaultDescription,
+    en: 'Viva Algérie decodes real estate, tourism, cities and investment opportunities in Algeria.',
+    es: 'Viva Algérie descifra el inmobiliario, el turismo, las ciudades y las oportunidades de inversión en Argelia.',
+    nl: 'Viva Algérie analyseert vastgoed, toerisme, steden en investeringskansen in Algerije.',
+  }[locale]);
+
+const pillars = [
+  { key: 'immobilier' as const, icon: 'building' as const },
+  { key: 'tourisme' as const, icon: 'map' as const },
+  { key: 'investissement' as const, icon: 'trend' as const },
+  { key: 'villes' as const, icon: 'home' as const },
+];
+---
+
+<PageLayout
+  title={metaTitle}
+  description={metaDescription}
+  locale={locale}
+  canonical={absoluteUrl(locale === 'fr' ? '/' : `/${locale}`)}
+  image={featuredArticle?.data.image ?? '/images/og-default.webp'}
+  hreflang={homeHreflang()}
+>
+  <section class="relative overflow-hidden border-b border-border bg-bg-secondary">
+    <div
+      class="pointer-events-none absolute inset-0 opacity-40"
+      style="background:
+        radial-gradient(ellipse 80% 50% at 10% -10%, #EAF5EF 0%, transparent 55%),
+        radial-gradient(ellipse 60% 40% at 90% 10%, #FDECEF 0%, transparent 50%),
+        linear-gradient(180deg, #F7F8F6 0%, #FFFFFF 100%);"
+      aria-hidden="true"
+    />
+    <div class="container-editorial relative grid min-h-[78vh] items-center gap-12 py-20 lg:grid-cols-[1.15fr_0.85fr] lg:py-28">
+      <div>
+        <p class="eyebrow animate-fade-up mb-5">Viva Algérie</p>
+        <h1 class="animate-fade-up delay-1 mb-6 max-w-3xl font-serif text-4xl leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl">
+          {t(locale, 'home.heroTitle')}
+        </h1>
+        <p class="animate-fade-up delay-2 mb-10 max-w-xl text-lg text-muted sm:text-xl">
+          {t(locale, 'home.heroSubtitle')}
+        </p>
+        <div class="animate-fade-up delay-3 flex flex-wrap gap-3">
+          <a href={getCategoryPath(locale, 'analyses')} class="btn-primary">{t(locale, 'cta.readAnalyses')}</a>
+          <a href={getCategoryPath(locale, 'villes')} class="btn-secondary">{t(locale, 'cta.exploreCities')}</a>
+        </div>
+      </div>
+      <div class="animate-fade-in delay-2 relative">
+        <div class="glass overflow-hidden rounded-[1.75rem] shadow-[var(--shadow-soft)]">
+          <img
+            src="/images/articles/hero-alger-front-de-mer.webp"
+            alt="Algiers seafront"
+            class="aspect-[4/5] w-full object-cover sm:aspect-[5/6]"
+            width={900}
+            height={1080}
+            fetchpriority="high"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {
+    featuredArticle && (
+      <section class="section-pad">
+        <div class="container-editorial">
+          <div class="mb-8">
+            <p class="eyebrow mb-2">{t(locale, 'home.featured')}</p>
+            <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.featured')}</h2>
+          </div>
+          <ArticleCard
+            title={featuredArticle.data.title}
+            description={featuredArticle.data.description}
+            slug={featuredArticle.data.slug}
+            category={featuredArticle.data.category}
+            lang={locale}
+            pubDate={featuredArticle.data.pubDate}
+            image={featuredArticle.data.image}
+            imageAlt={featuredArticle.data.imageAlt}
+            featured
+          />
+        </div>
+      </section>
+    )
+  }
+
+  <section class="section-pad bg-bg-secondary">
+    <div class="container-editorial">
+      <div class="mb-8">
+        <p class="eyebrow mb-2">{t(locale, 'home.latest')}</p>
+        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.latest')}</h2>
+      </div>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          latest.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              slug={article.data.slug}
+              category={article.data.category}
+              lang={locale}
+              pubDate={article.data.pubDate}
+              image={article.data.image}
+              imageAlt={article.data.imageAlt}
+            />
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section-pad">
+    <div class="container-editorial">
+      <div class="mb-10 max-w-2xl">
+        <p class="eyebrow mb-2">{t(locale, 'home.pillars')}</p>
+        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.pillars')}</h2>
+      </div>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          pillars.map((p) => (
+            <a
+              href={CATEGORY_PATHS[locale][p.key]}
+              class="group rounded-[var(--radius-card)] border border-border bg-bg p-6 transition hover:border-green hover:shadow-[var(--shadow-hover)]"
+            >
+              <span class="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-green-soft text-green">
+                <Icon name={p.icon} size={20} />
+              </span>
+              <h3 class="mb-2 text-xl">{t(locale, `pillar.${p.key}`)}</h3>
+              <p class="text-sm leading-relaxed text-muted">{t(locale, `pillar.${p.key}Desc`)}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section-pad bg-bg-secondary">
+    <div class="container-editorial">
+      <div class="mb-10">
+        <p class="eyebrow mb-2">{t(locale, 'home.figures')}</p>
+        <h2 class="mb-2 text-3xl sm:text-4xl">{t(locale, 'home.figures')}</h2>
+        <p class="text-sm text-muted">{t(locale, 'home.figuresNote')}</p>
+      </div>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          ALGERIA_FIGURES.map((fig) => (
+            <div class="rounded-[var(--radius-card)] border border-border bg-bg p-6">
+              <p class="font-serif text-4xl text-green">{fig.value}</p>
+              <p class="mt-2 font-medium">{fig.label[locale]}</p>
+              <p class="mt-3 text-xs text-muted">{fig.source}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section-pad">
+    <div class="container-editorial">
+      <div class="mb-10">
+        <p class="eyebrow mb-2">{t(locale, 'home.cities')}</p>
+        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.cities')}</h2>
+      </div>
+      <div class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+        {
+          CITIES.map((city) => (
+            <a
+              href={`${getCategoryPath(locale, 'villes')}#${city.slug}`}
+              class="rounded-2xl border border-border bg-bg-secondary px-4 py-5 text-center transition hover:border-green hover:bg-green-soft"
+            >
+              <span class="font-serif text-lg">{city.name[locale]}</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <SafeBlock locale={locale} />
+</PageLayout>

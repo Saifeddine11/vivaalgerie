@@ -1,0 +1,63 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../../lib/paths';
+import { SITE } from '../../lib/site';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'es';
+const canonical = absoluteUrl(getLegalPaths(locale).mentions);
+---
+
+<PageLayout
+  title="Aviso legal — Viva Algérie"
+  description="Aviso legal del sitio editorial Viva Algérie."
+  locale={locale}
+  canonical={canonical}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Aviso legal</h1>
+      <h2>Editor</h2>
+      <p>
+        El sitio <strong>Viva Algérie</strong> (https://vivaalgerie.com) es un sitio editorial
+        de información dedicado al inmobiliario, al turismo y a la inversión en Argelia.
+      </p>
+      <p>
+        Contacto editorial: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </p>
+      <p>
+        No se muestra ningún número de inscripción mercantil en esta página mientras no haya sido
+        comunicado por el editor. La información se actualizará cuando esté disponible.
+      </p>
+
+      <h2>Naturaleza del contenido</h2>
+      <p>
+        Los artículos, guías y páginas temáticas constituyen análisis editoriales y pedagógicos.
+        <strong>No constituyen</strong> asesoramiento jurídico, fiscal, financiero, notarial ni de
+        inversión. Toda decisión de compra o inversión debe ir precedida de verificaciones ante
+        profesionales cualificados (en particular un notario).
+      </p>
+
+      <h2>Propiedad intelectual</h2>
+      <p>
+        Los textos, la marca Viva Algérie, el marco S.A.F.E (Secure Approved For Estate) y los
+        elementos gráficos del sitio están protegidos. Queda prohibida toda reproducción no autorizada.
+      </p>
+
+      <h2>Alojamiento</h2>
+      <p>
+        El sitio está pensado para un despliegue estático en alojamiento Apache / cPanel (p. ej.
+        Hostinger). Los formularios de contacto y newsletter usan scripts PHP locales
+        (<code>send-contact.php</code>, <code>send-newsletter.php</code>).
+      </p>
+
+      <h2>Responsabilidad</h2>
+      <p>
+        Pese al cuidado en la verificación de la información, el editor no puede garantizar la
+        exhaustividad o la actualidad permanente de cada contenido. Los enlaces externos se
+        facilitan a título informativo.
+      </p>
+    </div>
+  </section>
+</PageLayout>

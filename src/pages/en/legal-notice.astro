@@ -1,0 +1,62 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../../lib/paths';
+import { SITE } from '../../lib/site';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'en';
+const canonical = absoluteUrl(getLegalPaths(locale).mentions);
+---
+
+<PageLayout
+  title="Legal notice — Viva Algérie"
+  description="Legal notice of the Viva Algérie editorial website."
+  locale={locale}
+  canonical={canonical}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Legal notice</h1>
+      <h2>Publisher</h2>
+      <p>
+        The website <strong>Viva Algérie</strong> (https://vivaalgerie.com) is an editorial
+        information site dedicated to real estate, tourism and investment in Algeria.
+      </p>
+      <p>
+        Editorial contact: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </p>
+      <p>
+        No commercial registration number is displayed on this page until it has been
+        communicated by the publisher. Information will be updated when available.
+      </p>
+
+      <h2>Nature of the content</h2>
+      <p>
+        Articles, guides and thematic pages are editorial and educational analyses. They
+        <strong>do not constitute</strong> legal, tax, financial, notarial or investment advice.
+        Any purchase or investment decision must be preceded by checks with qualified professionals
+        (notably a notary).
+      </p>
+
+      <h2>Intellectual property</h2>
+      <p>
+        Texts, the Viva Algérie brand, the S.A.F.E framework (Secure Approved For Estate) and
+        graphic elements of the site are protected. Unauthorised reproduction is prohibited.
+      </p>
+
+      <h2>Hosting</h2>
+      <p>
+        The site is designed for static deployment on Apache / cPanel hosting (e.g. Hostinger).
+        Contact and newsletter forms use local PHP scripts
+        (<code>send-contact.php</code>, <code>send-newsletter.php</code>).
+      </p>
+
+      <h2>Liability</h2>
+      <p>
+        Despite care in verifying information, the publisher cannot guarantee the exhaustiveness
+        or permanent currency of every piece of content. External links are provided for information.
+      </p>
+    </div>
+  </section>
+</PageLayout>

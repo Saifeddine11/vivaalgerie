@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/guides") },
+  { lang: "en", href: absoluteUrl("/en/guides") },
+  { lang: "es", href: absoluteUrl("/es/guias") },
+  { lang: "nl", href: absoluteUrl("/nl/gidsen") },
+  { lang: "x-default", href: absoluteUrl("/guides") },
+];
+---
+
+<CategoryPage
+  category="guides"
+  locale="nl"
+  title="Praktische gidsen — Vastgoed kopen in Algerije"
+  description="Viva Algérie-gidsen: documenten, notaris, off-plan kopen, ontwikkelaar controleren en koperschecklists."
+  h1="Praktische gidsen"
+  intro="Checklists en methodes om een aankoopbeslissing te beveiligen: documenten, ontwikkelaar, oplevering en controlepunten."
+  relatedLinks={[
+    { href: "/nl/documenten-vastgoedkoop-algerije", label: "Te controleren documenten" },
+    { href: "/nl/vastgoedontwikkelaar-controleren-algerije", label: "Ontwikkelaar controleren" },
+    { href: "/nl/oplevering-nieuwe-woning-algerije", label: "Oplevering nieuwbouw" },
+    { href: "/nl/off-plan-kopen-algerije", label: "Off-plan kopen" },
+  ]}
+  hreflang={hreflang}
+/>

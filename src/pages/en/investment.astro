@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/investissement") },
+  { lang: "en", href: absoluteUrl("/en/investment") },
+  { lang: "es", href: absoluteUrl("/es/inversion") },
+  { lang: "nl", href: absoluteUrl("/nl/investeren") },
+  { lang: "x-default", href: absoluteUrl("/investissement") },
+];
+---
+
+<CategoryPage
+  category="investissement"
+  locale="en"
+  title="Investment in Algeria — Real estate, diaspora and market reading"
+  description="Investment in Algeria: real estate, buyer profiles, diaspora and urban context without return promises."
+  h1="Investment in Algeria"
+  intro="A cautious reading of opportunities: property market, cities, diaspora and operational framework — without ROI guarantees."
+  relatedLinks={[
+    { href: "/en/algiers-property-prices", label: "Algiers property prices" },
+    { href: "/en/safe-real-estate-certification", label: "S.A.F.E" },
+    { href: "/en/real-estate-documents-algeria", label: "Purchase documents" },
+  ]}
+  hreflang={hreflang}
+/>

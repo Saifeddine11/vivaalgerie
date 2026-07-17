@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../components/CategoryPage.astro';
+import { absoluteUrl } from '../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/guides') },
+  { lang: 'en', href: absoluteUrl('/en/guides') },
+  { lang: 'es', href: absoluteUrl('/es/guias') },
+  { lang: 'nl', href: absoluteUrl('/nl/gidsen') },
+  { lang: 'x-default', href: absoluteUrl('/guides') },
+];
+---
+
+<CategoryPage
+  category="guides"
+  title="Guides pratiques — Achat immobilier en Algérie"
+  description="Guides Viva Algérie : documents, notaire, achat sur plan, vérifications promoteur et checklist acheteur en Algérie."
+  h1="Guides pratiques"
+  intro="Des checklists et méthodes pour sécuriser une décision d’achat : documents, promoteur, livraison et points de contrôle."
+  relatedLinks={[
+    { href: '/documents-achat-immobilier-algerie', label: 'Documents à vérifier' },
+    { href: '/comment-verifier-promoteur-immobilier-algerie', label: 'Vérifier un promoteur' },
+    { href: '/livraison-logement-neuf-algerie', label: 'Livraison logement neuf' },
+    { href: '/acheter-sur-plan-algerie', label: 'Acheter sur plan' },
+  ]}
+  hreflang={hreflang}
+/>

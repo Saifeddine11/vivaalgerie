@@ -1,0 +1,44 @@
+---
+import Icon from './Icon.astro';
+import { SAFE_PATH, type Locale } from '../lib/site';
+import { t } from '../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = 'fr' } = Astro.props;
+const href = SAFE_PATH[locale];
+---
+
+<section class="section-pad">
+  <div class="container-editorial">
+    <div class="relative overflow-hidden rounded-[1.75rem] border border-border bg-green px-6 py-12 text-white sm:px-12 sm:py-16">
+      <div
+        class="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-white/10 blur-2xl"
+        aria-hidden="true"
+      >
+      </div>
+      <div
+        class="pointer-events-none absolute -bottom-20 left-10 h-56 w-56 rounded-full bg-red/30 blur-3xl"
+        aria-hidden="true"
+      >
+      </div>
+      <div class="relative max-w-2xl">
+        <p class="mb-3 inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-medium uppercase tracking-[0.16em]">
+          <Icon name="shield" size={14} />
+          {t(locale, 'safe.badge')}
+        </p>
+        <h2 class="mb-4 text-3xl text-white sm:text-4xl">{t(locale, 'home.safeTitle')}</h2>
+        <p class="mb-8 text-white/85">{t(locale, 'home.safeText')}</p>
+        <a
+          href={href}
+          class="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-medium text-green transition hover:bg-bg-secondary"
+        >
+          {t(locale, 'cta.discoverSafe')}
+          <Icon name="arrow" size={14} />
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

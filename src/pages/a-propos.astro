@@ -1,0 +1,61 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath, getLegalPaths } from '../lib/paths';
+import { SITE } from '../lib/site';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+const canonical = absoluteUrl(getLegalPaths(locale).about);
+const hreflang = [
+  { lang: 'fr', href: canonical },
+  { lang: 'en', href: absoluteUrl('/en/about') },
+  { lang: 'es', href: absoluteUrl('/es/sobre-nosotros') },
+  { lang: 'nl', href: absoluteUrl('/nl/over-ons') },
+  { lang: 'x-default', href: canonical },
+];
+---
+
+<PageLayout
+  title="À propos — Viva Algérie"
+  description="Viva Algérie est un média éditorial premium sur l’immobilier, le tourisme et l’investissement en Algérie."
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+>
+  <section class="section-pad">
+    <div class="container-editorial max-w-3xl">
+      <Breadcrumbs
+        items={[
+          { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+          { label: t(locale, 'about.title'), href: canonical },
+        ]}
+      />
+      <h1 class="mb-6 text-4xl sm:text-5xl">À propos de Viva Algérie</h1>
+      <div class="prose-editorial">
+        <p>
+          <strong>Viva Algérie</strong> est un média éditorial indépendant consacré à l’immobilier,
+          au tourisme, à l’investissement et aux dynamiques urbaines en Algérie. Notre ligne :
+          expliquer, contextualiser et outiller le lecteur — sans promesses de rendement et sans
+          conseils juridiques déguisés.
+        </p>
+        <p>
+          Nous publions des analyses, des guides pratiques et des dossiers thématiques destinés aux
+          acheteurs, à la diaspora, aux observateurs du marché et à toute personne qui souhaite
+          mieux comprendre la réalité du terrain algérien.
+        </p>
+        <h2>Notre méthode</h2>
+        <ul>
+          <li>Priorité aux sources officielles et aux textes algériens (ONS, ONAT, lois, institutions).</li>
+          <li>Distinction claire entre faits établis, hypothèses et lectures éditoriales.</li>
+          <li>Encadrement S.A.F.E présenté comme grille propriétaire, non comme label d’État.</li>
+        </ul>
+        <h2>Contact</h2>
+        <p>
+          Rédaction : <a href={`mailto:${SITE.email}`}>{SITE.email}</a><br />
+          Site : <a href={SITE.url}>{SITE.url}</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</PageLayout>

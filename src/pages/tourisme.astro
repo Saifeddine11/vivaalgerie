@@ -1,0 +1,26 @@
+---
+import CategoryPage from '../components/CategoryPage.astro';
+import { absoluteUrl } from '../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/tourisme') },
+  { lang: 'en', href: absoluteUrl('/en/tourism') },
+  { lang: 'es', href: absoluteUrl('/es/turismo') },
+  { lang: 'nl', href: absoluteUrl('/nl/toerisme') },
+  { lang: 'x-default', href: absoluteUrl('/tourisme') },
+];
+---
+
+<CategoryPage
+  category="tourisme"
+  title="Tourisme en Algérie — Destinations, littoral et potentiel"
+  description="Tourisme en Algérie : villes côtières, patrimoine, hospitalité et tendances de fréquentation sourcées."
+  h1="Tourisme en Algérie"
+  intro="Lire le tourisme algérien au-delà des slogans : littoral, patrimoine, villes et implications pour l’économie locale et l’immobilier."
+  relatedLinks={[
+    { href: '/villes', label: 'Villes algériennes' },
+    { href: '/analyses', label: 'Analyses' },
+    { href: '/investissement', label: 'Investissement' },
+  ]}
+  hreflang={hreflang}
+/>

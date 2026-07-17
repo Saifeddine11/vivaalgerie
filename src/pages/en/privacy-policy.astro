@@ -1,0 +1,68 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../../lib/paths';
+import { legalHreflang } from '../../lib/hreflang';
+import { SITE } from '../../lib/site';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'en';
+const canonical = absoluteUrl(getLegalPaths(locale).privacy);
+---
+
+<PageLayout
+  title="Privacy policy — Viva Algérie"
+  description="Viva Algérie privacy policy: contact and newsletter data."
+  locale={locale}
+  canonical={canonical}
+  hreflang={legalHreflang('privacy')}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Privacy policy</h1>
+      <p>
+        This policy describes how <strong>Viva Algérie</strong> processes personal data
+        collected via https://vivaalgerie.com.
+      </p>
+
+      <h2>Data collected</h2>
+      <ul>
+        <li><strong>Contact form</strong>: name, email address, subject, message.</li>
+        <li><strong>Newsletter</strong>: email address.</li>
+        <li>Possible technical data linked to sending (IP address, date, user-agent) to prevent abuse.</li>
+      </ul>
+
+      <h2>Purposes</h2>
+      <p>
+        Data is used only to reply to messages, manage newsletter subscriptions and operate forms.
+        It is not sold.
+      </p>
+
+      <h2>Technical processing</h2>
+      <p>
+        Forms send information by email via PHP scripts
+        <code>send-contact.php</code> and <code>send-newsletter.php</code> to
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>, using the host’s
+        <code>mail()</code> function.
+      </p>
+
+      <h2>Retention</h2>
+      <p>
+        Messages and subscriptions are kept for as long as needed for processing and the editorial
+        relationship, then deleted or archived according to operational needs.
+      </p>
+
+      <h2>Your rights</h2>
+      <p>
+        For any access, rectification or deletion request, contact
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+
+      <h2>Cookies</h2>
+      <p>
+        The site is mainly static. No third-party advertising tool is integrated by default.
+        If analytics cookies are added later, this page will be updated.
+      </p>
+    </div>
+  </section>
+</PageLayout>

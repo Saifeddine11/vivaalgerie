@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/tourisme") },
+  { lang: "en", href: absoluteUrl("/en/tourism") },
+  { lang: "es", href: absoluteUrl("/es/turismo") },
+  { lang: "nl", href: absoluteUrl("/nl/toerisme") },
+  { lang: "x-default", href: absoluteUrl("/tourisme") },
+];
+---
+
+<CategoryPage
+  category="tourisme"
+  locale="en"
+  title="Tourism in Algeria — Destinations, coastline and potential"
+  description="Tourism in Algeria: coastal cities, heritage, hospitality and sourced visitation trends."
+  h1="Tourism in Algeria"
+  intro="Read Algerian tourism beyond slogans: coastline, heritage, cities and implications for the local economy and real estate."
+  relatedLinks={[
+    { href: "/en/cities", label: "Algerian cities" },
+    { href: "/en/analysis", label: "Analysis" },
+    { href: "/en/investment", label: "Investment" },
+  ]}
+  hreflang={hreflang}
+/>

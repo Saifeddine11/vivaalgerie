@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/immobilier") },
+  { lang: "en", href: absoluteUrl("/en/real-estate") },
+  { lang: "es", href: absoluteUrl("/es/inmobiliario") },
+  { lang: "nl", href: absoluteUrl("/nl/vastgoed") },
+  { lang: "x-default", href: absoluteUrl("/immobilier") },
+];
+---
+
+<CategoryPage
+  category="immobilier"
+  locale="en"
+  title="Real estate in Algeria — Analysis, buying and market"
+  description="Algeria real estate insights: off-plan buying, developers, prices, risks and new housing."
+  h1="Real estate in Algeria"
+  intro="Market analysis, buying guides, new projects and vigilance points to understand Algerian real estate with method."
+  relatedLinks={[
+    { href: "/en/buying-off-plan-algeria", label: "Buying off-plan in Algeria" },
+    { href: "/en/algiers-property-prices", label: "Property prices in Algiers" },
+    { href: "/en/real-estate-risks-algeria", label: "Real estate purchase risks" },
+    { href: "/en/safe-real-estate-certification", label: "S.A.F.E certification" },
+  ]}
+  hreflang={hreflang}
+/>

@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/investissement") },
+  { lang: "en", href: absoluteUrl("/en/investment") },
+  { lang: "es", href: absoluteUrl("/es/inversion") },
+  { lang: "nl", href: absoluteUrl("/nl/investeren") },
+  { lang: "x-default", href: absoluteUrl("/investissement") },
+];
+---
+
+<CategoryPage
+  category="investissement"
+  locale="es"
+  title="Inversión en Argelia — Inmobiliario, diáspora y lectura de mercado"
+  description="Inversión en Argelia: inmobiliario, perfiles de comprador, diáspora y contexto urbano sin promesas de rentabilidad."
+  h1="Inversión en Argelia"
+  intro="Una lectura prudente de las oportunidades: mercado inmobiliario, ciudades, diáspora y marco operativo — sin garantía de ROI."
+  relatedLinks={[
+    { href: "/es/precios-inmobiliarios-argel", label: "Precios en Argel" },
+    { href: "/es/certificacion-inmobiliaria-safe", label: "S.A.F.E" },
+    { href: "/es/documentos-compra-inmobiliaria-argelia", label: "Documentos de compra" },
+  ]}
+  hreflang={hreflang}
+/>

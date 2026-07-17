@@ -1,0 +1,104 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import type { Category, Locale } from '../lib/site';
+import { CATEGORY_LABELS, t } from '../i18n/ui';
+import { absoluteUrl, getCategoryPath, getHomePath, getBlogPath } from '../lib/paths';
+import { getArticlesByCategory } from '../lib/content';
+
+interface Props {
+  category: Category;
+  locale?: Locale;
+  title: string;
+  description: string;
+  h1: string;
+  intro: string;
+  relatedLinks?: { href: string; label: string }[];
+  hreflang?: { lang: string; href: string }[];
+}
+
+const {
+  category,
+  locale = 'fr',
+  title,
+  description,
+  h1,
+  intro,
+  relatedLinks = [],
+  hreflang = [],
+} = Astro.props;
+
+const articles = await getArticlesByCategory(category, locale);
+const canonical = absoluteUrl(getCategoryPath(locale, category));
+---
+
+<PageLayout
+  title={title}
+  description={description}
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+>
+  <section class="border-b border-border bg-bg-secondary">
+    <div class="container-editorial max-w-4xl py-14 sm:py-20">
+      <Breadcrumbs
+        items={[
+          { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+          { label: CATEGORY_LABELS[locale][category], href: canonical },
+        ]}
+      />
+      <p class="eyebrow mb-3">{CATEGORY_LABELS[locale][category]}</p>
+      <h1 class="mb-5 text-4xl sm:text-5xl">{h1}</h1>
+      <p class="max-w-2xl text-lg text-muted">{intro}</p>
+    </div>
+  </section>
+
+  <section class="section-pad">
+    <div class="container-editorial">
+      {
+        articles.length > 0 ? (
+          <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {articles.map((article) => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                slug={article.data.slug}
+                category={article.data.category}
+                lang={locale}
+                pubDate={article.data.pubDate}
+                image={article.data.image}
+                imageAlt={article.data.imageAlt}
+              />
+            ))}
+          </div>
+        ) : (
+          <p class="text-muted">
+            {t(locale, 'category.empty')}{' '}
+            <a href={getBlogPath(locale)} class="text-green underline">
+              blog
+            </a>
+            .
+          </p>
+        )
+      }
+
+      {
+        relatedLinks.length > 0 && (
+          <aside class="mt-16 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-8">
+            <h2 class="mb-4 text-2xl">{t(locale, 'category.related')}</h2>
+            <ul class="grid gap-3 sm:grid-cols-2">
+              {relatedLinks.map((link) => (
+                <li>
+                  <a href={link.href} class="text-green hover:underline">
+                    {link.label} →
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </aside>
+        )
+      }
+    </div>
+  </section>
+</PageLayout>

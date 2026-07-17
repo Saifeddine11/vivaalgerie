@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../components/CategoryPage.astro';
+import { absoluteUrl } from '../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/immobilier') },
+  { lang: 'en', href: absoluteUrl('/en/real-estate') },
+  { lang: 'es', href: absoluteUrl('/es/inmobiliario') },
+  { lang: 'nl', href: absoluteUrl('/nl/vastgoed') },
+  { lang: 'x-default', href: absoluteUrl('/immobilier') },
+];
+---
+
+<CategoryPage
+  category="immobilier"
+  title="Immobilier en Algérie — Analyses, achat et marché"
+  description="Décryptages immobiliers en Algérie : achat sur plan, promoteurs, prix, risques et logement neuf."
+  h1="Immobilier en Algérie"
+  intro="Analyses de marché, guides d’achat, projets neufs et points de vigilance pour comprendre l’immobilier algérien avec méthode."
+  relatedLinks={[
+    { href: '/acheter-sur-plan-algerie', label: 'Acheter sur plan en Algérie' },
+    { href: '/prix-immobilier-alger', label: 'Prix immobilier à Alger' },
+    { href: '/risques-achat-immobilier-algerie', label: 'Risques d’achat immobilier' },
+    { href: '/safe-certification-immobiliere', label: 'Certification S.A.F.E' },
+  ]}
+  hreflang={hreflang}
+/>

@@ -1,0 +1,113 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath, getLegalPaths } from '../../lib/paths';
+import { SITE } from '../../lib/site';
+import { t } from '../../i18n/ui';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'en';
+const legal = getLegalPaths(locale);
+const canonical = absoluteUrl(legal.contact);
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/contact') },
+  { lang: 'en', href: absoluteUrl('/en/contact') },
+  { lang: 'es', href: absoluteUrl('/es/contacto') },
+  { lang: 'nl', href: absoluteUrl('/nl/contact') },
+  { lang: 'x-default', href: absoluteUrl('/contact') },
+];
+---
+
+<PageLayout
+  title="Contact — Viva Algérie"
+  description="Contact the Viva Algérie editorial team: questions, partnerships and reader feedback."
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial grid max-w-5xl gap-12 lg:grid-cols-[0.9fr_1.1fr]">
+      <div>
+        <Breadcrumbs
+          items={[
+            { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+            { label: t(locale, 'contact.title'), href: canonical },
+          ]}
+        />
+        <h1 class="mb-4 text-4xl sm:text-5xl">{t(locale, 'contact.title')}</h1>
+        <p class="mb-6 text-lg text-muted">{t(locale, 'contact.subtitle')}</p>
+        <p class="text-sm text-muted">
+          Email:
+          <a href={`mailto:${SITE.email}`} class="text-green hover:underline">{SITE.email}</a>
+        </p>
+      </div>
+
+      <form
+        method="POST"
+        action="/send-contact.php"
+        class="rounded-[var(--radius-card)] border border-border bg-bg-secondary p-6 sm:p-8"
+        data-contact-form
+      >
+        <div class="grid gap-4">
+          <div>
+            <label class="mb-1.5 block text-sm font-medium" for="name">{t(locale, 'contact.name')}</label>
+            <input class="input-field" id="name" name="name" type="text" required maxlength="120" />
+          </div>
+          <div>
+            <label class="mb-1.5 block text-sm font-medium" for="email">{t(locale, 'contact.email')}</label>
+            <input class="input-field" id="email" name="email" type="email" required maxlength="190" />
+          </div>
+          <div>
+            <label class="mb-1.5 block text-sm font-medium" for="subject">{t(locale, 'contact.subject')}</label>
+            <input class="input-field" id="subject" name="subject" type="text" required maxlength="180" />
+          </div>
+          <div>
+            <label class="mb-1.5 block text-sm font-medium" for="message">{t(locale, 'contact.message')}</label>
+            <textarea class="input-field min-h-[140px]" id="message" name="message" required maxlength="5000"></textarea>
+          </div>
+          <input
+            type="text"
+            name="website"
+            tabindex="-1"
+            autocomplete="off"
+            class="absolute left-[-9999px] h-0 w-0 opacity-0"
+            aria-hidden="true"
+          />
+          <button type="submit" class="btn-primary w-full sm:w-auto">{t(locale, 'cta.send')}</button>
+          <p class="hidden text-sm text-green" data-contact-success>{t(locale, 'contact.success')}</p>
+          <p class="hidden text-sm text-red" data-contact-error>{t(locale, 'contact.error')}</p>
+        </div>
+      </form>
+    </div>
+  </section>
+</PageLayout>
+
+<script>
+  document.querySelectorAll('[data-contact-form]').forEach((form) => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = e.currentTarget as HTMLFormElement;
+      const success = f.querySelector('[data-contact-success]');
+      const error = f.querySelector('[data-contact-error]');
+      success?.classList.add('hidden');
+      error?.classList.add('hidden');
+      try {
+        const res = await fetch(f.action, {
+          method: 'POST',
+          body: new FormData(f),
+          headers: { Accept: 'application/json' },
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok && data.ok) {
+          success?.classList.remove('hidden');
+          f.reset();
+        } else {
+          error?.classList.remove('hidden');
+        }
+      } catch {
+        error?.classList.remove('hidden');
+      }
+    });
+  });
+</script>

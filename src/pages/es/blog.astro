@@ -1,0 +1,66 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { absoluteUrl, getBlogPath, getHomePath } from '../../lib/paths';
+import { getArticles } from '../../lib/content';
+import { t } from '../../i18n/ui';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'es';
+const articles = await getArticles(locale);
+const canonical = absoluteUrl(getBlogPath(locale));
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/blog') },
+  { lang: 'en', href: absoluteUrl('/en/blog') },
+  { lang: 'es', href: absoluteUrl('/es/blog') },
+  { lang: 'nl', href: absoluteUrl('/nl/blog') },
+  { lang: 'x-default', href: absoluteUrl('/blog') },
+];
+
+const titles = {
+  en: { title: 'Blog — Analyses and guides from Viva Algérie', description: 'All Viva Algérie articles: real estate, tourism, investment, cities, guides and analysis.' },
+  es: { title: 'Blog — Análisis y guías de Viva Algérie', description: 'Todos los artículos de Viva Algérie: inmobiliario, turismo, inversión, ciudades, guías y análisis.' },
+  nl: { title: 'Blog — Analyses en gidsen van Viva Algérie', description: 'Alle Viva Algérie-artikelen: vastgoed, toerisme, investeringen, steden, gidsen en analyses.' },
+}[locale];
+---
+
+<PageLayout
+  title={titles.title}
+  description={titles.description}
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+>
+  <section class="border-b border-border bg-bg-secondary">
+    <div class="container-editorial max-w-4xl py-14 sm:py-20">
+      <Breadcrumbs
+        items={[
+          { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+          { label: t(locale, 'blog.title'), href: getBlogPath(locale) },
+        ]}
+      />
+      <h1 class="mb-4 text-4xl sm:text-5xl">{t(locale, 'blog.title')}</h1>
+      <p class="text-lg text-muted">{t(locale, 'blog.subtitle')}</p>
+    </div>
+  </section>
+
+  <section class="section-pad">
+    <div class="container-editorial grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        articles.map((article) => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            slug={article.data.slug}
+            category={article.data.category}
+            lang={locale}
+            pubDate={article.data.pubDate}
+            image={article.data.image}
+            imageAlt={article.data.imageAlt}
+          />
+        ))
+      }
+    </div>
+  </section>
+</PageLayout>

@@ -1,0 +1,26 @@
+---
+import CategoryPage from '../components/CategoryPage.astro';
+import { absoluteUrl } from '../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/analyses') },
+  { lang: 'en', href: absoluteUrl('/en/analysis') },
+  { lang: 'es', href: absoluteUrl('/es/analisis') },
+  { lang: 'nl', href: absoluteUrl('/nl/analyses') },
+  { lang: 'x-default', href: absoluteUrl('/analyses') },
+];
+---
+
+<CategoryPage
+  category="analyses"
+  title="Analyses — Marché, politiques et dynamiques urbaines en Algérie"
+  description="Analyses approfondies Viva Algérie : infrastructures, marché immobilier, tourisme et lecture stratégique du territoire."
+  h1="Analyses"
+  intro="Décryptages de fond pour situer l’immobilier et l’investissement dans le contexte économique et urbain algérien."
+  relatedLinks={[
+    { href: '/immobilier', label: 'Immobilier' },
+    { href: '/investissement', label: 'Investissement' },
+    { href: '/safe-certification-immobiliere', label: 'S.A.F.E' },
+  ]}
+  hreflang={hreflang}
+/>

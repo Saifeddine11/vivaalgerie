@@ -1,0 +1,68 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../../lib/paths';
+import { legalHreflang } from '../../lib/hreflang';
+import { SITE } from '../../lib/site';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'es';
+const canonical = absoluteUrl(getLegalPaths(locale).privacy);
+---
+
+<PageLayout
+  title="Política de privacidad — Viva Algérie"
+  description="Política de privacidad de Viva Algérie: datos de contacto y newsletter."
+  locale={locale}
+  canonical={canonical}
+  hreflang={legalHreflang('privacy')}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Política de privacidad</h1>
+      <p>
+        La presente política describe cómo <strong>Viva Algérie</strong> trata los datos
+        personales recogidos a través de https://vivaalgerie.com.
+      </p>
+
+      <h2>Datos recogidos</h2>
+      <ul>
+        <li><strong>Formulario de contacto</strong>: nombre, correo, asunto, mensaje.</li>
+        <li><strong>Newsletter</strong>: dirección de correo.</li>
+        <li>Datos técnicos eventuales ligados al envío (IP, fecha, user-agent) para prevenir abusos.</li>
+      </ul>
+
+      <h2>Finalidades</h2>
+      <p>
+        Los datos se usan únicamente para responder a mensajes, gestionar suscripciones y
+        asegurar el funcionamiento de los formularios. No se venden.
+      </p>
+
+      <h2>Tratamiento técnico</h2>
+      <p>
+        Los formularios envían la información por correo mediante los scripts PHP
+        <code>send-contact.php</code> y <code>send-newsletter.php</code> hacia
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>, con la función
+        <code>mail()</code> del alojador.
+      </p>
+
+      <h2>Plazo de conservación</h2>
+      <p>
+        Los mensajes e inscripciones se conservan el tiempo necesario para el tratamiento y la
+        relación editorial, luego se suprimen o archivan según necesidades operativas.
+      </p>
+
+      <h2>Sus derechos</h2>
+      <p>
+        Para cualquier solicitud de acceso, rectificación o supresión, contacte
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+
+      <h2>Cookies</h2>
+      <p>
+        El sitio es principalmente estático. No hay herramienta publicitaria de terceros integrada
+        por defecto. Si se añaden cookies analíticas más adelante, esta página se actualizará.
+      </p>
+    </div>
+  </section>
+</PageLayout>

@@ -1,0 +1,62 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../lib/paths';
+import { SITE } from '../lib/site';
+
+const locale = 'fr' as const;
+const canonical = absoluteUrl(getLegalPaths(locale).mentions);
+---
+
+<PageLayout
+  title="Mentions légales — Viva Algérie"
+  description="Mentions légales du site éditorial Viva Algérie."
+  locale={locale}
+  canonical={canonical}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Mentions légales</h1>
+      <h2>Éditeur</h2>
+      <p>
+        Le site <strong>Viva Algérie</strong> (https://vivaalgerie.com) est un site éditorial
+        d’information dédié à l’immobilier, au tourisme et à l’investissement en Algérie.
+      </p>
+      <p>
+        Contact éditorial : <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </p>
+      <p>
+        Aucun numéro d’immatriculation commerciale n’est affiché sur cette page tant qu’il n’a pas été
+        communiqué par l’éditeur. Les informations seront mises à jour dès disponibilité.
+      </p>
+
+      <h2>Nature du contenu</h2>
+      <p>
+        Les articles, guides et pages thématiques constituent des analyses éditoriales et
+        pédagogiques. Ils <strong>ne constituent pas</strong> un conseil juridique, fiscal,
+        financier, notarial ou d’investissement. Toute décision d’achat ou d’investissement doit
+        être précédée de vérifications auprès de professionnels qualifiés (notamment notaire).
+      </p>
+
+      <h2>Propriété intellectuelle</h2>
+      <p>
+        Les textes, la marque Viva Algérie, le cadre S.A.F.E (Secure Approved For Estate) et les
+        éléments graphiques du site sont protégés. Toute reproduction non autorisée est interdite.
+      </p>
+
+      <h2>Hébergement</h2>
+      <p>
+        Le site est conçu pour un déploiement statique sur hébergement Apache / cPanel (ex.
+        Hostinger). Les formulaires de contact et newsletter utilisent des scripts PHP locaux
+        (<code>send-contact.php</code>, <code>send-newsletter.php</code>).
+      </p>
+
+      <h2>Responsabilité</h2>
+      <p>
+        Malgré le soin apporté à la vérification des informations, l’éditeur ne peut garantir
+        l’exhaustivité ou l’actualité permanente de chaque contenu. Les liens externes sont fournis
+        à titre informatif.
+      </p>
+    </div>
+  </section>
+</PageLayout>

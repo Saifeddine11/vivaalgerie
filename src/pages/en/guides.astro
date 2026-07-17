@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/guides") },
+  { lang: "en", href: absoluteUrl("/en/guides") },
+  { lang: "es", href: absoluteUrl("/es/guias") },
+  { lang: "nl", href: absoluteUrl("/nl/gidsen") },
+  { lang: "x-default", href: absoluteUrl("/guides") },
+];
+---
+
+<CategoryPage
+  category="guides"
+  locale="en"
+  title="Practical guides — Buying property in Algeria"
+  description="Viva Algérie guides: documents, notary, off-plan buying, developer checks and buyer checklists in Algeria."
+  h1="Practical guides"
+  intro="Checklists and methods to secure a purchase decision: documents, developer, delivery and control points."
+  relatedLinks={[
+    { href: "/en/real-estate-documents-algeria", label: "Documents to check" },
+    { href: "/en/how-to-check-real-estate-developer-algeria", label: "Check a developer" },
+    { href: "/en/new-housing-delivery-algeria", label: "New housing delivery" },
+    { href: "/en/buying-off-plan-algeria", label: "Buy off-plan" },
+  ]}
+  hreflang={hreflang}
+/>

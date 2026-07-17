@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/immobilier") },
+  { lang: "en", href: absoluteUrl("/en/real-estate") },
+  { lang: "es", href: absoluteUrl("/es/inmobiliario") },
+  { lang: "nl", href: absoluteUrl("/nl/vastgoed") },
+  { lang: "x-default", href: absoluteUrl("/immobilier") },
+];
+---
+
+<CategoryPage
+  category="immobilier"
+  locale="es"
+  title="Inmobiliario en Argelia — Análisis, compra y mercado"
+  description="Claves inmobiliarias en Argelia: compra sobre plano, promotores, precios, riesgos y vivienda nueva."
+  h1="Inmobiliario en Argelia"
+  intro="Análisis de mercado, guías de compra, proyectos nuevos y puntos de vigilancia para entender el inmobiliario argelino con método."
+  relatedLinks={[
+    { href: "/es/comprar-sobre-plano-argelia", label: "Comprar sobre plano en Argelia" },
+    { href: "/es/precios-inmobiliarios-argel", label: "Precios inmobiliarios en Argel" },
+    { href: "/es/riesgos-compra-inmobiliaria-argelia", label: "Riesgos de compra inmobiliaria" },
+    { href: "/es/certificacion-inmobiliaria-safe", label: "Certificación S.A.F.E" },
+  ]}
+  hreflang={hreflang}
+/>

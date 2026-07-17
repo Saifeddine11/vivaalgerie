@@ -1,0 +1,68 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { absoluteUrl, getLegalPaths } from '../../lib/paths';
+import { legalHreflang } from '../../lib/hreflang';
+import { SITE } from '../../lib/site';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'nl';
+const canonical = absoluteUrl(getLegalPaths(locale).privacy);
+---
+
+<PageLayout
+  title="Privacybeleid — Viva Algérie"
+  description="Privacybeleid van Viva Algérie: contact- en nieuwsbriefgegevens."
+  locale={locale}
+  canonical={canonical}
+  hreflang={legalHreflang('privacy')}
+  showNewsletter={false}
+>
+  <section class="section-pad">
+    <div class="container-editorial prose-editorial max-w-3xl">
+      <h1>Privacybeleid</h1>
+      <p>
+        Dit beleid beschrijft hoe <strong>Viva Algérie</strong> persoonsgegevens verwerkt
+        die via https://vivaalgerie.com worden verzameld.
+      </p>
+
+      <h2>Verzamelde gegevens</h2>
+      <ul>
+        <li><strong>Contactformulier</strong>: naam, e-mailadres, onderwerp, bericht.</li>
+        <li><strong>Nieuwsbrief</strong>: e-mailadres.</li>
+        <li>Eventuele technische gegevens gekoppeld aan verzending (IP, datum, user-agent) om misbruik te voorkomen.</li>
+      </ul>
+
+      <h2>Doelen</h2>
+      <p>
+        Gegevens worden uitsluitend gebruikt om berichten te beantwoorden, nieuwsbriefinschrijvingen
+        te beheren en formulieren te laten werken. Ze worden niet verkocht.
+      </p>
+
+      <h2>Technische verwerking</h2>
+      <p>
+        Formulieren sturen informatie per e-mail via PHP-scripts
+        <code>send-contact.php</code> en <code>send-newsletter.php</code> naar
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>, met de
+        <code>mail()</code>-functie van de host.
+      </p>
+
+      <h2>Bewaartermijn</h2>
+      <p>
+        Berichten en inschrijvingen worden bewaard zolang nodig voor verwerking en de redactionele
+        relatie, daarna verwijderd of gearchiveerd volgens operationele behoeften.
+      </p>
+
+      <h2>Uw rechten</h2>
+      <p>
+        Voor verzoeken om inzage, rectificatie of verwijdering, contacteer
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+
+      <h2>Cookies</h2>
+      <p>
+        De site is hoofdzakelijk statisch. Er is standaard geen externe advertentietool geïntegreerd.
+        Als later analytische cookies worden toegevoegd, wordt deze pagina bijgewerkt.
+      </p>
+    </div>
+  </section>
+</PageLayout>

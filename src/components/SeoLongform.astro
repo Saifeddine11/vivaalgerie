@@ -1,0 +1,198 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getCollection, render } from 'astro:content';
+import { absoluteUrl, getHomePath, getSafePath, getSeoPath } from '../lib/paths';
+import { extractFaqsFromMarkdown } from '../lib/content';
+import { SITE, SEO_CLUSTER_PATHS, type Locale } from '../lib/site';
+import { t } from '../i18n/ui';
+
+interface Props {
+  slug: string;
+  locale?: Locale;
+}
+
+const { slug, locale = 'fr' } = Astro.props;
+
+const pages = await getCollection('seo-pages');
+let page = pages.find((p) => p.data.slug === slug && p.data.lang === locale);
+if (!page) {
+  page = pages.find((p) => p.data.slug === slug && p.data.lang === 'fr');
+}
+if (!page) {
+  throw new Error(`SEO page not found: ${slug} (${locale})`);
+}
+
+const { Content } = await render(page);
+const canonical =
+  locale === page.data.lang
+    ? page.data.canonical
+    : slug === 'safe-certification-immobiliere'
+      ? absoluteUrl(getSafePath(locale))
+      : absoluteUrl(
+          getSeoPath(locale, slug as keyof (typeof SEO_CLUSTER_PATHS)['fr']),
+        );
+const faqs = extractFaqsFromMarkdown(page.body ?? '');
+
+const seoKey = slug as keyof (typeof SEO_CLUSTER_PATHS)['fr'];
+const hreflang =
+  slug === 'safe-certification-immobiliere'
+    ? [
+        { lang: 'fr', href: absoluteUrl(getSafePath('fr')) },
+        { lang: 'en', href: absoluteUrl(getSafePath('en')) },
+        { lang: 'es', href: absoluteUrl(getSafePath('es')) },
+        { lang: 'nl', href: absoluteUrl(getSafePath('nl')) },
+        { lang: 'x-default', href: absoluteUrl(getSafePath('fr')) },
+      ]
+    : SEO_CLUSTER_PATHS.fr[seoKey]
+      ? ([
+          { lang: 'fr', href: absoluteUrl(getSeoPath('fr', seoKey)) },
+          { lang: 'en', href: absoluteUrl(getSeoPath('en', seoKey)) },
+          { lang: 'es', href: absoluteUrl(getSeoPath('es', seoKey)) },
+          { lang: 'nl', href: absoluteUrl(getSeoPath('nl', seoKey)) },
+          { lang: 'x-default', href: absoluteUrl(getSeoPath('fr', seoKey)) },
+        ] as { lang: string; href: string }[])
+      : [];
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: t(locale, 'breadcrumb.home'),
+      item: absoluteUrl(getHomePath(locale)),
+    },
+    { '@type': 'ListItem', position: 2, name: page.data.h1, item: canonical },
+  ],
+};
+
+const faqLd =
+  faqs.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqs.map((f) => ({
+          '@type': 'Question',
+          name: f.question,
+          acceptedAnswer: { '@type': 'Answer', text: f.answer },
+        })),
+      }
+    : null;
+
+const webPageLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: page.data.title,
+  description: page.data.description,
+  url: canonical,
+  isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+  inLanguage: locale,
+};
+
+const related =
+  locale === 'fr'
+    ? [
+        { href: getSafePath('fr'), label: 'Certification S.A.F.E' },
+        { href: '/acheter-sur-plan-algerie', label: 'Acheter sur plan en Algérie' },
+        { href: '/documents-achat-immobilier-algerie', label: 'Documents d’achat' },
+        { href: '/guides', label: 'Guides pratiques' },
+      ]
+    : locale === 'en'
+      ? [
+          { href: getSafePath('en'), label: 'S.A.F.E certification' },
+          {
+            href: getSeoPath('en', 'acheter-sur-plan-algerie'),
+            label: 'Buying off-plan in Algeria',
+          },
+          {
+            href: getSeoPath('en', 'documents-achat-immobilier-algerie'),
+            label: 'Purchase documents',
+          },
+          { href: '/en/guides', label: 'Practical guides' },
+        ]
+      : locale === 'es'
+        ? [
+            { href: getSafePath('es'), label: 'Certificación S.A.F.E' },
+            {
+              href: getSeoPath('es', 'acheter-sur-plan-algerie'),
+              label: 'Comprar sobre plano',
+            },
+            {
+              href: getSeoPath('es', 'documents-achat-immobilier-algerie'),
+              label: 'Documentos de compra',
+            },
+            { href: '/es/guias', label: 'Guías prácticas' },
+          ]
+        : [
+            { href: getSafePath('nl'), label: 'S.A.F.E-certificering' },
+            {
+              href: getSeoPath('nl', 'acheter-sur-plan-algerie'),
+              label: 'Off-plan kopen',
+            },
+            {
+              href: getSeoPath('nl', 'documents-achat-immobilier-algerie'),
+              label: 'Aankoopdocumenten',
+            },
+            { href: '/nl/gidsen', label: 'Praktische gidsen' },
+          ];
+
+const furtherLabel =
+  locale === 'fr'
+    ? 'Aller plus loin'
+    : locale === 'en'
+      ? 'Go further'
+      : locale === 'es'
+        ? 'Ir más lejos'
+        : 'Verder lezen';
+---
+
+<PageLayout
+  title={page.data.title}
+  description={page.data.description}
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+  jsonLd={[webPageLd, breadcrumbLd, faqLd].filter(Boolean) as Record<string, unknown>[]}
+>
+  <article>
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-14 sm:py-16">
+        <Breadcrumbs
+          items={[
+            { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+            { label: page.data.h1, href: canonical },
+          ]}
+        />
+        <h1 class="mb-4 text-3xl sm:text-5xl">{page.data.h1}</h1>
+        <p class="text-lg text-muted">{page.data.description}</p>
+      </div>
+    </header>
+
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial">
+        <Content />
+      </div>
+
+      <aside class="mt-10 rounded-2xl border border-red-soft bg-red-soft/40 px-5 py-4 text-sm text-muted">
+        {t(locale, 'article.disclaimer')}
+      </aside>
+
+      <aside class="mt-12 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-6">
+        <h2 class="mb-3 text-xl">{furtherLabel}</h2>
+        <ul class="space-y-2 text-sm">
+          {
+            related.map((link) => (
+              <li>
+                <a class="text-green hover:underline" href={link.href}>
+                  {link.label} →
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </aside>
+    </div>
+  </article>
+</PageLayout>

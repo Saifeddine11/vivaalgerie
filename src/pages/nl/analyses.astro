@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/analyses") },
+  { lang: "en", href: absoluteUrl("/en/analysis") },
+  { lang: "es", href: absoluteUrl("/es/analisis") },
+  { lang: "nl", href: absoluteUrl("/nl/analyses") },
+  { lang: "x-default", href: absoluteUrl("/analyses") },
+];
+---
+
+<CategoryPage
+  category="analyses"
+  locale="nl"
+  title="Analyses — Markt, beleid en stedelijke dynamiek in Algerije"
+  description="Diepgaande Viva Algérie-analyses: infrastructuur, vastgoedmarkt, toerisme en strategische lezing van het grondgebied."
+  h1="Analyses"
+  intro="Diepgaande duiding om vastgoed en investeringen te plaatsen in de economische en stedelijke context van Algerije."
+  relatedLinks={[
+    { href: "/nl/vastgoed", label: "Vastgoed" },
+    { href: "/nl/investeren", label: "Investeren" },
+    { href: "/nl/safe-vastgoedcertificering", label: "S.A.F.E" },
+  ]}
+  hreflang={hreflang}
+/>

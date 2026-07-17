@@ -1,0 +1,220 @@
+@import "tailwindcss";
+@import "@fontsource-variable/dm-sans";
+@import "@fontsource/source-serif-4/400.css";
+@import "@fontsource/source-serif-4/600.css";
+@import "@fontsource/source-serif-4/700.css";
+
+@theme {
+  --color-bg: #ffffff;
+  --color-bg-secondary: #f7f8f6;
+  --color-text: #0a0a0a;
+  --color-muted: #6b6b6b;
+  --color-green: #006233;
+  --color-green-soft: #eaf5ef;
+  --color-red: #d21034;
+  --color-red-soft: #fdecef;
+  --color-border: rgba(0, 0, 0, 0.08);
+  --color-glass: rgba(255, 255, 255, 0.72);
+
+  --font-sans: "DM Sans Variable", "DM Sans", system-ui, sans-serif;
+  --font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+
+  --radius-card: 1.25rem;
+  --radius-pill: 9999px;
+  --shadow-soft: 0 8px 32px rgba(0, 0, 0, 0.06);
+  --shadow-hover: 0 16px 48px rgba(0, 98, 51, 0.12);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bg text-text font-sans antialiased;
+    font-feature-settings: "ss01" on, "kern" on;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--color-green) 22%, white);
+    color: var(--color-text);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif tracking-tight text-balance;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+
+  img {
+    @apply max-w-full h-auto;
+  }
+}
+
+@layer components {
+  .container-editorial {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .glass {
+    background: var(--color-glass);
+    backdrop-filter: blur(16px) saturate(1.2);
+    -webkit-backdrop-filter: blur(16px) saturate(1.2);
+    border: 1px solid var(--color-border);
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-green px-6 py-3 text-sm font-medium text-white transition-all duration-300;
+  }
+
+  .btn-primary:hover {
+    @apply bg-text shadow-[var(--shadow-hover)];
+    transform: translateY(-1px);
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-border bg-glass px-6 py-3 text-sm font-medium text-text transition-all duration-300;
+  }
+
+  .btn-secondary:hover {
+    @apply border-green text-green;
+    transform: translateY(-1px);
+  }
+
+  .card-editorial {
+    @apply overflow-hidden rounded-[var(--radius-card)] border border-border bg-bg transition-all duration-300;
+  }
+
+  .card-editorial:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-3px);
+  }
+
+  .prose-editorial {
+    @apply text-[1.0625rem] leading-8 text-text;
+  }
+
+  .prose-editorial h2 {
+    @apply mt-12 mb-4 text-2xl sm:text-3xl;
+  }
+
+  .prose-editorial h3 {
+    @apply mt-8 mb-3 text-xl sm:text-2xl;
+  }
+
+  .prose-editorial p {
+    @apply mb-5 text-pretty;
+  }
+
+  .prose-editorial ul,
+  .prose-editorial ol {
+    @apply mb-5 ml-5 space-y-2;
+  }
+
+  .prose-editorial ul {
+    @apply list-disc;
+  }
+
+  .prose-editorial ol {
+    @apply list-decimal;
+  }
+
+  .prose-editorial a {
+    @apply text-green underline underline-offset-4 decoration-green/30 hover:decoration-green;
+  }
+
+  .prose-editorial strong {
+    @apply font-semibold;
+  }
+
+  .prose-editorial blockquote {
+    @apply my-8 border-l-4 border-green bg-green-soft/50 py-4 pl-5 pr-4 italic text-muted;
+  }
+
+  .eyebrow {
+    @apply text-xs font-medium uppercase tracking-[0.18em] text-green;
+  }
+
+  .section-pad {
+    @apply py-16 sm:py-24;
+  }
+
+  .input-field {
+    @apply w-full rounded-2xl border border-border bg-bg px-4 py-3 text-sm outline-none transition focus:border-green focus:ring-2 focus:ring-green/15;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .text-pretty {
+    text-wrap: pretty;
+  }
+
+  .animate-fade-up {
+    animation: fadeUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.7s ease both;
+  }
+
+  .delay-1 {
+    animation-delay: 0.12s;
+  }
+
+  .delay-2 {
+    animation-delay: 0.24s;
+  }
+
+  .delay-3 {
+    animation-delay: 0.36s;
+  }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .animate-fade-up,
+  .animate-fade-in,
+  .delay-1,
+  .delay-2,
+  .delay-3 {
+    animation: none !important;
+  }
+
+  .card-editorial:hover,
+  .btn-primary:hover,
+  .btn-secondary:hover {
+    transform: none;
+  }
+}

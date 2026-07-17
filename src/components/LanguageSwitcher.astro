@@ -1,0 +1,69 @@
+---
+import {
+  LOCALES,
+  LOCALE_LABELS,
+  HOME_PATH,
+  type Locale,
+} from '../lib/site';
+
+interface Props {
+  locale: Locale;
+  /** Optional map of locale -> path for current page translations */
+  paths?: Partial<Record<Locale, string>>;
+}
+
+const { locale, paths } = Astro.props;
+---
+
+<div class="relative" data-lang-switcher>
+  <button
+    type="button"
+    class="inline-flex h-10 items-center gap-1.5 rounded-full border border-border px-3 text-xs font-medium text-muted hover:border-green hover:text-green"
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    data-lang-toggle
+  >
+    {LOCALE_LABELS[locale]}
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+    </svg>
+  </button>
+  <ul
+    class="absolute right-0 top-full z-50 mt-2 hidden min-w-[7rem] overflow-hidden rounded-2xl border border-border bg-bg py-1 shadow-[var(--shadow-soft)]"
+    role="listbox"
+    data-lang-menu
+  >
+    {
+      LOCALES.map((l) => (
+        <li role="option" aria-selected={l === locale}>
+          <a
+            href={paths?.[l] ?? HOME_PATH[l]}
+            class:list={[
+              'block px-4 py-2.5 text-sm hover:bg-green-soft hover:text-green',
+              l === locale && 'bg-green-soft font-medium text-green',
+            ]}
+            hreflang={l}
+          >
+            {LOCALE_LABELS[l]}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>
+
+<script>
+  document.querySelectorAll('[data-lang-switcher]').forEach((root) => {
+    const btn = root.querySelector('[data-lang-toggle]');
+    const menu = root.querySelector('[data-lang-menu]');
+    btn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const open = menu?.classList.toggle('hidden') === false;
+      btn.setAttribute('aria-expanded', String(open));
+    });
+    document.addEventListener('click', () => {
+      menu?.classList.add('hidden');
+      btn?.setAttribute('aria-expanded', 'false');
+    });
+  });
+</script>

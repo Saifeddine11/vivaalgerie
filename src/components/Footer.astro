@@ -1,0 +1,126 @@
+---
+import NewsletterForm from './NewsletterForm.astro';
+import Icon from './Icon.astro';
+import {
+  BLOG_PATH,
+  CATEGORY_PATHS,
+  SAFE_PATH,
+  SITE,
+  type Locale,
+} from '../lib/site';
+import { getLegalPaths } from '../lib/paths';
+import { t } from '../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+  showNewsletter?: boolean;
+}
+
+const { locale = 'fr', showNewsletter = true } = Astro.props;
+const legal = getLegalPaths(locale);
+const year = new Date().getFullYear();
+
+const editorial = [
+  { href: CATEGORY_PATHS[locale].immobilier, label: t(locale, 'nav.immobilier') },
+  { href: CATEGORY_PATHS[locale].tourisme, label: t(locale, 'nav.tourisme') },
+  { href: CATEGORY_PATHS[locale].investissement, label: t(locale, 'nav.investissement') },
+  { href: CATEGORY_PATHS[locale].villes, label: t(locale, 'nav.villes') },
+  { href: CATEGORY_PATHS[locale].guides, label: t(locale, 'nav.guides') },
+  { href: CATEGORY_PATHS[locale].analyses, label: t(locale, 'nav.analyses') },
+];
+
+const resources = [
+  { href: BLOG_PATH[locale], label: t(locale, 'nav.blog') },
+  { href: SAFE_PATH[locale], label: t(locale, 'nav.safe') },
+  { href: legal.about, label: t(locale, 'footer.about') },
+  { href: legal.contact, label: t(locale, 'footer.contact') },
+];
+---
+
+<footer class="mt-8 border-t border-border bg-bg-secondary">
+  {
+    showNewsletter && (
+      <section class="border-b border-border">
+        <div class="container-editorial grid gap-8 py-14 sm:grid-cols-[1.2fr_1fr] sm:items-end">
+          <div>
+            <p class="eyebrow mb-3">Newsletter</p>
+            <h2 class="mb-3 max-w-lg text-3xl sm:text-4xl">{t(locale, 'home.newsletterTitle')}</h2>
+            <p class="max-w-md text-muted">{t(locale, 'home.newsletterText')}</p>
+          </div>
+          <NewsletterForm locale={locale} />
+        </div>
+      </section>
+    )
+  }
+
+  <div class="container-editorial grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-4">
+    <div class="lg:col-span-1">
+      <a href={locale === 'fr' ? '/' : `/${locale}`} class="font-serif text-2xl">
+        Viva <span class="text-green">Algérie</span>
+      </a>
+      <p class="mt-4 text-sm leading-relaxed text-muted">{t(locale, 'footer.tagline')}</p>
+      <a
+        href={`mailto:${SITE.email}`}
+        class="mt-5 inline-flex items-center gap-2 text-sm text-green hover:underline"
+      >
+        <Icon name="mail" size={16} />
+        {SITE.email}
+      </a>
+    </div>
+
+    <div>
+      <p class="mb-4 text-xs font-medium uppercase tracking-[0.16em] text-muted">
+        {t(locale, 'footer.editorial')}
+      </p>
+      <ul class="space-y-2.5">
+        {
+          editorial.map((item) => (
+            <li>
+              <a href={item.href} class="text-sm text-text hover:text-green">
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <div>
+      <p class="mb-4 text-xs font-medium uppercase tracking-[0.16em] text-muted">
+        {t(locale, 'footer.resources')}
+      </p>
+      <ul class="space-y-2.5">
+        {
+          resources.map((item) => (
+            <li>
+              <a href={item.href} class="text-sm text-text hover:text-green">
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <div>
+      <p class="mb-4 text-xs font-medium uppercase tracking-[0.16em] text-muted">
+        {t(locale, 'footer.legal')}
+      </p>
+      <ul class="space-y-2.5">
+        <li>
+          <a href={legal.mentions} class="text-sm hover:text-green">{t(locale, 'footer.mentions')}</a>
+        </li>
+        <li>
+          <a href={legal.privacy} class="text-sm hover:text-green">{t(locale, 'footer.privacy')}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="border-t border-border">
+    <div class="container-editorial flex flex-col gap-2 py-6 text-xs text-muted sm:flex-row sm:items-center sm:justify-between">
+      <p>© {year} {SITE.name}. {t(locale, 'footer.rights')}</p>
+      <p>https://vivaalgerie.com</p>
+    </div>
+  </div>
+</footer>

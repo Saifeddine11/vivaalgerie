@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/analyses") },
+  { lang: "en", href: absoluteUrl("/en/analysis") },
+  { lang: "es", href: absoluteUrl("/es/analisis") },
+  { lang: "nl", href: absoluteUrl("/nl/analyses") },
+  { lang: "x-default", href: absoluteUrl("/analyses") },
+];
+---
+
+<CategoryPage
+  category="analyses"
+  locale="es"
+  title="Análisis — Mercado, políticas y dinámicas urbanas en Argelia"
+  description="Análisis en profundidad Viva Algérie: infraestructuras, mercado inmobiliario, turismo y lectura estratégica del territorio."
+  h1="Análisis"
+  intro="Claves de fondo para situar el inmobiliario y la inversión en el contexto económico y urbano argelino."
+  relatedLinks={[
+    { href: "/es/inmobiliario", label: "Inmobiliario" },
+    { href: "/es/inversion", label: "Inversión" },
+    { href: "/es/certificacion-inmobiliaria-safe", label: "S.A.F.E" },
+  ]}
+  hreflang={hreflang}
+/>

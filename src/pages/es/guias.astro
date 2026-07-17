@@ -1,0 +1,28 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/guides") },
+  { lang: "en", href: absoluteUrl("/en/guides") },
+  { lang: "es", href: absoluteUrl("/es/guias") },
+  { lang: "nl", href: absoluteUrl("/nl/gidsen") },
+  { lang: "x-default", href: absoluteUrl("/guides") },
+];
+---
+
+<CategoryPage
+  category="guides"
+  locale="es"
+  title="Guías prácticas — Compra inmobiliaria en Argelia"
+  description="Guías Viva Algérie: documentos, notario, compra sobre plano, verificación de promotor y checklist del comprador."
+  h1="Guías prácticas"
+  intro="Listas de control y métodos para asegurar una decisión de compra: documentos, promotor, entrega y puntos de control."
+  relatedLinks={[
+    { href: "/es/documentos-compra-inmobiliaria-argelia", label: "Documentos a verificar" },
+    { href: "/es/como-verificar-promotor-inmobiliario-argelia", label: "Verificar un promotor" },
+    { href: "/es/entrega-vivienda-nueva-argelia", label: "Entrega de vivienda nueva" },
+    { href: "/es/comprar-sobre-plano-argelia", label: "Comprar sobre plano" },
+  ]}
+  hreflang={hreflang}
+/>

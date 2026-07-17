@@ -1,0 +1,26 @@
+---
+import CategoryPage from '../components/CategoryPage.astro';
+import { absoluteUrl } from '../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/investissement') },
+  { lang: 'en', href: absoluteUrl('/en/investment') },
+  { lang: 'es', href: absoluteUrl('/es/inversion') },
+  { lang: 'nl', href: absoluteUrl('/nl/investeren') },
+  { lang: 'x-default', href: absoluteUrl('/investissement') },
+];
+---
+
+<CategoryPage
+  category="investissement"
+  title="Investissement en Algérie — Immobilier, diaspora et lecture de marché"
+  description="Investissement en Algérie : immobilier, profils d’acheteurs, diaspora et contexte urbain sans promesses de rendement."
+  h1="Investissement en Algérie"
+  intro="Une lecture prudente des opportunités : marché immobilier, villes, diaspora et cadre opérationnel — sans garantie de ROI."
+  relatedLinks={[
+    { href: '/prix-immobilier-alger', label: 'Prix immobilier Alger' },
+    { href: '/safe-certification-immobiliere', label: 'S.A.F.E' },
+    { href: '/documents-achat-immobilier-algerie', label: 'Documents d’achat' },
+  ]}
+  hreflang={hreflang}
+/>

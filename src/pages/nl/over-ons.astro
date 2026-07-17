@@ -1,0 +1,60 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath, getLegalPaths } from '../../lib/paths';
+import { SITE } from '../../lib/site';
+import { t } from '../../i18n/ui';
+import type { Locale } from '../../lib/site';
+
+const locale: Locale = 'nl';
+const canonical = absoluteUrl(getLegalPaths(locale).about);
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/a-propos') },
+  { lang: 'en', href: absoluteUrl('/en/about') },
+  { lang: 'es', href: absoluteUrl('/es/sobre-nosotros') },
+  { lang: 'nl', href: absoluteUrl('/nl/over-ons') },
+  { lang: 'x-default', href: absoluteUrl('/a-propos') },
+];
+---
+
+<PageLayout
+  title="Over ons — Viva Algérie"
+  description="Viva Algérie is een premium redactioneel medium over vastgoed, toerisme en investeringen in Algerije."
+  locale={locale}
+  canonical={canonical}
+  hreflang={hreflang}
+>
+  <section class="section-pad">
+    <div class="container-editorial max-w-3xl">
+      <Breadcrumbs
+        items={[
+          { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+          { label: t(locale, 'about.title'), href: canonical },
+        ]}
+      />
+      <h1 class="mb-6 text-4xl sm:text-5xl">Over Viva Algérie</h1>
+      <div class="prose-editorial">
+        <p>
+          <strong>Viva Algérie</strong> is een onafhankelijk redactioneel medium gewijd aan vastgoed,
+          toerisme, investeringen en stedelijke dynamiek in Algerije. Onze lijn: uitleggen, contextualiseren
+          en de lezer toerusten — zonder rendementpromises en zonder vermomd juridisch advies.
+        </p>
+        <p>
+          We publiceren analyses, praktische gidsen en thematische dossiers voor kopers, de diaspora,
+          marktwaarnemers en iedereen die de Algerijnse realiteit beter wil begrijpen.
+        </p>
+        <h2>Onze methode</h2>
+        <ul>
+          <li>Voorrang aan officiële bronnen en Algerijnse teksten (ONS, ONAT, wetten, instellingen).</li>
+          <li>Duidelijk onderscheid tussen vastgestelde feiten, hypotheses en redactionele lezingen.</li>
+          <li>S.A.F.E gepresenteerd als eigen kader, niet als staatslabel.</li>
+        </ul>
+        <h2>Contact</h2>
+        <p>
+          Editorial: <a href={`mailto:${SITE.email}`}>{SITE.email}</a><br />
+          Site: <a href={SITE.url}>{SITE.url}</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</PageLayout>

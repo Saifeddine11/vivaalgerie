@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: "fr", href: absoluteUrl("/tourisme") },
+  { lang: "en", href: absoluteUrl("/en/tourism") },
+  { lang: "es", href: absoluteUrl("/es/turismo") },
+  { lang: "nl", href: absoluteUrl("/nl/toerisme") },
+  { lang: "x-default", href: absoluteUrl("/tourisme") },
+];
+---
+
+<CategoryPage
+  category="tourisme"
+  locale="es"
+  title="Turismo en Argelia — Destinos, litoral y potencial"
+  description="Turismo en Argelia: ciudades costeras, patrimonio, hospitalidad y tendencias de afluencia con fuentes."
+  h1="Turismo en Argelia"
+  intro="Leer el turismo argelino más allá de los eslóganes: litoral, patrimonio, ciudades e implicaciones para la economía local y el inmobiliario."
+  relatedLinks={[
+    { href: "/es/ciudades", label: "Ciudades argelinas" },
+    { href: "/es/analisis", label: "Análisis" },
+    { href: "/es/inversion", label: "Inversión" },
+  ]}
+  hreflang={hreflang}
+/>

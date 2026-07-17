@@ -1,0 +1,70 @@
+---
+import { t } from '../i18n/ui';
+import type { Locale } from '../lib/site';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = 'fr' } = Astro.props;
+---
+
+<form
+  class="flex flex-col gap-3 sm:flex-row"
+  method="POST"
+  action="/send-newsletter.php"
+  data-newsletter-form
+>
+  <label class="sr-only" for="newsletter-email">{t(locale, 'contact.email')}</label>
+  <input
+    id="newsletter-email"
+    name="email"
+    type="email"
+    required
+    autocomplete="email"
+    placeholder={t(locale, 'home.newsletterPlaceholder')}
+    class="input-field flex-1"
+  />
+  <!-- honeypot -->
+  <input
+    type="text"
+    name="website"
+    tabindex="-1"
+    autocomplete="off"
+    class="absolute left-[-9999px] h-0 w-0 opacity-0"
+    aria-hidden="true"
+  />
+  <input type="hidden" name="locale" value={locale} />
+  <button type="submit" class="btn-primary whitespace-nowrap">{t(locale, 'cta.subscribe')}</button>
+</form>
+<p class="mt-2 hidden text-sm text-green" data-newsletter-success>{t(locale, 'newsletter.success')}</p>
+<p class="mt-2 hidden text-sm text-red" data-newsletter-error>{t(locale, 'newsletter.error')}</p>
+
+<script>
+  document.querySelectorAll('[data-newsletter-form]').forEach((form) => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = e.currentTarget as HTMLFormElement;
+      const success = f.parentElement?.querySelector('[data-newsletter-success]');
+      const error = f.parentElement?.querySelector('[data-newsletter-error]');
+      success?.classList.add('hidden');
+      error?.classList.add('hidden');
+      try {
+        const res = await fetch(f.action, {
+          method: 'POST',
+          body: new FormData(f),
+          headers: { Accept: 'application/json' },
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok && data.ok) {
+          success?.classList.remove('hidden');
+          f.reset();
+        } else {
+          error?.classList.remove('hidden');
+        }
+      } catch {
+        error?.classList.remove('hidden');
+      }
+    });
+  });
+</script>

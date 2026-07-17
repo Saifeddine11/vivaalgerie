@@ -1,0 +1,76 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE, type Locale } from '../lib/site';
+import { absoluteUrl } from '../lib/paths';
+
+interface Props {
+  title: string;
+  description: string;
+  locale?: Locale;
+  canonical?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  hreflang?: { lang: string; href: string }[];
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  showNewsletter?: boolean;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  locale = 'fr',
+  canonical,
+  image,
+  type,
+  hreflang,
+  jsonLd = [],
+  showNewsletter = true,
+  noindex = false,
+} = Astro.props;
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.name,
+  url: SITE.url,
+  email: SITE.email,
+  logo: absoluteUrl('/favicon.svg'),
+  sameAs: [],
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  inLanguage: locale,
+  publisher: { '@type': 'Organization', name: SITE.name },
+};
+
+const allJsonLd = [
+  orgSchema,
+  websiteSchema,
+  ...(Array.isArray(jsonLd) ? jsonLd : [jsonLd]),
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  locale={locale}
+  canonical={canonical}
+  image={image}
+  type={type}
+  hreflang={hreflang}
+  jsonLd={allJsonLd}
+  noindex={noindex}
+>
+  <Header locale={locale} />
+  <main id="main">
+    <slot />
+  </main>
+  <Footer locale={locale} showNewsletter={showNewsletter} />
+</BaseLayout>
