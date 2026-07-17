@@ -1,6 +1,6 @@
 ---
-title: "Vastgoed in Algerije in 2026: wat er echt verandert"
-description: "Juridisch kader, ontwikkelaars, off-plan verkoop en stedelijke markten: wat het Algerijnse vastgoed in 2026 echt structureert."
+title: "Vastgoed in Algerije in 2026: wat verandert er echt?"
+description: "Juridisch kader, ontwikkelaars, verkoop op plan en stedelijke markten: wat het Algerijnse vastgoed in 2026 werkelijk structureert, afgezien van de aanbiedingen."
 slug: "immobilier-algerie-2026"
 category: "immobilier"
 lang: "nl"
@@ -8,155 +8,152 @@ pubDate: 2026-01-20
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/immobilier-algerie-2026.webp"
-imageAlt: "Algiers skyline and residential buildings facing the bay"
+imageAlt: "De skyline van Algiers en woongebouwen met uitzicht op de baai"
 featured: true
 draft: false
-tags: ["real estate", "law 11-04", "developer", "off-plan sales", "Algiers", "2026"]
 translationKey: "immobilier-algerie-2026"
+tags: ["vastgoed", "wet 11-04", "ontwikkelaar", "verkoop buiten plan", "Algiers", "2026"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+In 2026 kan de Algerijnse vastgoedmarkt niet langer alleen via makelaarskantoren of online advertentiegroepen worden gelezen. Het wordt in de eerste plaats gelezen via een zichtbaarder juridisch kader, een scherpere vraag naar kwaliteit van ontwikkelaars en de stedelijke vraag die blijft evolueren met de demografie, de diaspora en het toerisme. Voor een koper, investeerder of diasporalid die een geleidelijk rendement overweegt, is de vraag niet langer alleen ‘waar te kopen’, maar ‘onder welke voorwaarden te kopen’.
 
-
-In 2026, Algeria’s property market can no longer be read only through agency windows or online listing groups. It is read first through a more visible legal framework, a sharper demand for developer quality, and urban demand that keeps evolving with demography, the diaspora and tourism. For a buyer, an investor or a diaspora member considering a gradual return, the question is no longer only “where to buy”, but “under what conditions to buy”.
-
-This article offers an editorial reading of what is truly changing — and of what, by contrast, remains structural. It draws on the law of real-estate development, on documentary security mechanisms, and on the realities of the markets in Algiers, Oran and Constantine. It replaces neither a notary, nor tax advice, nor personalised due diligence.
+Dit artikel biedt een redactionele lezing van wat er werkelijk verandert – en van wat daarentegen structureel blijft. Het is gebaseerd op de wet van de vastgoedontwikkeling, op documentaire veiligheidsmechanismen en op de realiteit van de markten in Algiers, Oran en Constantine. Het vervangt noch een notaris, noch fiscaal advies, noch een persoonlijk due diligence-onderzoek.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## A market under demographic and urban pressure
+## Een markt onder demografische en stedelijke druk
 
-According to the National Statistics Office (ONS), Algeria’s population stood at about 46.7 million in January 2024 and is approaching 47 million by mid-2025. That dynamic is not an abstraction: it feeds lasting pressure on housing, especially in major agglomerations, peri-urban corridors and better-served coastal zones.
+Volgens het Nationaal Bureau voor de Statistiek (ONS) bedroeg de bevolking van Algerije in januari 2024 ongeveer 46,7 miljoen en nadert deze medio 2025 de 47 miljoen. Die dynamiek is geen abstractie: het voedt een blijvende druk op de woningbouw, vooral in grote agglomeraties, peri-urbane corridors en beter bediende kustgebieden.
 
-Alongside that pressure sits a factor often underestimated in purely “price per square metre” analyses: the structure of demand. A significant share of transactions involves extended families, secondary-residence projects for the diaspora, or acquisitions aimed at seasonal rental in tourist cities. In 2024, the Algerian National Tourism Office (ONAT) recorded 3,548,000 visitors, of whom about 1.093 million came from the diaspora. These flows do not automatically create a property boom everywhere, but they reinforce the relative attractiveness of certain segments: well-located furnished apartments, residences near the coast, and properties close to airports and urban centres.
+Naast die druk schuilt er een factor die vaak wordt onderschat in analyses van louter “prijs per vierkante meter”: de structuur van de vraag. Een aanzienlijk deel van de transacties betreft uitgebreide families, projecten voor secundaire woningen voor de diaspora of acquisities gericht op seizoensverhuur in toeristische steden. In 2024 registreerde het Algerijnse Nationale Bureau voor Toerisme (ONAT) 3.548.000 bezoekers, van wie ongeveer 1,093 miljoen afkomstig waren uit de diaspora. Deze stromen zorgen niet automatisch overal voor een vastgoedhausse, maar versterken wel de relatieve aantrekkelijkheid van bepaalde segmenten: goed gelegen gemeubelde appartementen, woningen nabij de kust en woningen dichtbij luchthavens en stedelijke centra.
 
-In 2026, the “real” change is therefore not a brutal break in prices — a phenomenon hard to generalise without homogeneous series and without the risk of over-interpretation — but a gradual maturation of expectations. Buyers, especially those who compare with other Mediterranean markets, ask for more traceability, compliance and clarity on delivery timelines.
+In 2026 is de ‘echte’ verandering daarom geen brutale prijsdaling – een fenomeen dat moeilijk te generaliseren is zonder homogene reeksen en zonder het risico van overinterpretatie – maar een geleidelijke rijping van de verwachtingen. Kopers, vooral degenen die vergelijken met andere mediterrane markten, vragen om meer traceerbaarheid, compliance en duidelijkheid over leveringstermijnen.
 
-## What Law No. 11-04 continues to require
+## Wat wet nr. 11-04 nog steeds vereist
 
-**Law No. 11-04 of 17 February 2011** on real-estate development remains the foundation. It defines the framework in which a developer may market properties, including through **vente sur plans** (off-plan sale), and sets transparency and guarantee obligations. It is not a technical detail for specialists: it is the architecture that separates a serious project from an opaque operation.
+**Wet nr. 11-04 van 17 februari 2011** inzake vastgoedontwikkeling blijft de basis. Het definieert het kader waarbinnen een ontwikkelaar vastgoed op de markt mag brengen, onder meer via **vente sur plans** (off-plan verkoop), en stelt transparantie- en garantieverplichtingen vast. Het is geen technisch detail voor specialisten: het is de architectuur die een serieus project scheidt van een ondoorzichtige operatie.
 
-In editorial and operational practice, several points remain decisive in 2026:
+In de redactionele en operationele praktijk blijven een aantal punten in 2026 doorslaggevend:
 
-- the existence of a **developer agrément** (approval) issued at the competent wilaya level;
-- the developer’s registration or verifiability through public mechanisms linked to the **national register of developers** (tableau national des promoteurs);
-- compliance with regulated marketing rules, especially for off-plan sales, under **Executive Decree No. 13-431**;
-- the presence of legal guarantees, including the **garantie décennale** (ten-year structural guarantee), once the property is delivered and accepted under the conditions provided.
+- het bestaan ​​van een **ontwikkelaar agrément** (goedkeuring) afgegeven op het bevoegde wilaya-niveau;
+- de registratie of controleerbaarheid van de ontwikkelaar via openbare mechanismen die gekoppeld zijn aan het **nationaal register van ontwikkelaars** (tableau national des promoteurs);
+- naleving van de gereguleerde marketingregels, vooral voor verkoop buiten plan, onder **Uitvoerend besluit nr. 13-431**;
+- de aanwezigheid van wettelijke garanties, waaronder de **garantie décennale** (structurele garantie van tien jaar), zodra het onroerend goed is opgeleverd en aanvaard onder de gestelde voorwaarden.
 
-These elements do not “change” every year like a marketing trend. What evolves is the level of attention buyers and specialised media give them. In 2026, a developer without clear approval, without a documented project, or unable to explain the land status of the plot, appears immediately as a warning signal — no longer as a mere “opportunity to grab quickly”.
+Deze elementen ‘veranderen’ niet elk jaar zoals bij een marketingtrend. Wat evolueert is de mate van aandacht die kopers en gespecialiseerde media hieraan besteden. In 2026 verschijnt een ontwikkelaar zonder duidelijke goedkeuring, zonder gedocumenteerd project, of die niet in staat is de staat van de grond van het perceel uit te leggen, onmiddellijk als een waarschuwingssignaal – niet langer louter als een ‘kans om snel te grijpen’.
 
-For a deeper documentary journey, see our guide [Documents for buying property in Algeria](/nl/documenten-vastgoedkoop-algerije) and our analysis of [risks to anticipate](/nl/vastgoedrisicos-algerije).
+Voor een diepere documentaire reis, zie onze gids [Documenten voor het kopen van onroerend goed in Algerije](/nl/documenten-vastgoedkoop-algerije) en onze analyse van [risico's te anticiperen](/nl/vastgoedrisicos-algerije).
 
-## Approval, wilaya and national register: verification becomes a reflex
+## Goedkeuring, wilaya en rijksregister: verificatie wordt een reflex
 
-One of the most concrete changes for the informed buyer is methodological. Before even discussing price, the logical sequence has become:
+Een van de meest concrete veranderingen voor de geïnformeerde koper is methodologisch. Voordat we zelfs maar over de prijs praten, is de logische volgorde:
 
-1. identify the developer and their **agrément**;
-2. cross-check information with available official sources (wilaya, mechanisms linked to the national register);
-3. verify the land status and the trajectory of the **livret foncier** (land title booklet);
-4. examine the contract, payment schedules and delivery conditions;
-5. for off-plan sales, ensure compliance with the Law 11-04 / Decree 13-431 framework.
+1. identificeer de ontwikkelaar en zijn **agrément**;
+2. kruiscontrole van informatie met beschikbare officiële bronnen (wilaya, mechanismen gekoppeld aan het nationale register);
+3. verifieer de landstatus en het traject van de *livret foncier* (landtitelboekje);
+4. onderzoek van het contract, de betalingsschema's en de leveringsvoorwaarden;
+5. zorg er bij verkoop op plan voor dat het wet 11-04 / decreet 13-431-kader wordt nageleefd.
 
-This discipline does not eliminate every risk, but it sharply reduces the costliest mistakes: paying a deposit without a clear title, confusing a building permit with legitimate marketing, or believing that a 3D model equals a legal guarantee.
+Deze discipline elimineert niet elk risico, maar reduceert wel scherp de duurste fouten: het betalen van een aanbetaling zonder duidelijke eigendomstitel, het verwarren van een bouwvergunning met legitieme marketing, of het geloven dat een 3D-model gelijk staat aan een wettelijke garantie.
 
-The **Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI)** — the mutual guarantee fund for real-estate development — fits this sector-security logic. Its existence recalls that development is not an improvised private bargain: it is a regulated activity, with surety and guarantee mechanisms designed to protect public confidence. In 2026, mentioning the FGCMPI in a purchase conversation is no longer a sign of excessive distrust; it is a marker of seriousness.
+Het **Fonds de garantie et de voorzichtigheid mutuelle de la promotion immobilière (FGCMPI)** – het wederzijdse garantiefonds voor vastgoedontwikkeling – past in deze sectorveiligheidslogica. Het bestaan ​​ervan herinnert eraan dat ontwikkeling geen geïmproviseerd particulier akkoord is: het is een gereguleerde activiteit, met zekerheids- en garantiemechanismen die zijn ontworpen om het vertrouwen van het publiek te beschermen. Anno 2026 is het noemen van de FGCMPI in een aankoopgesprek niet langer een teken van buitensporig wantrouwen; het is een teken van ernst.
 
-Our dossier [How to check a real-estate developer in Algeria](/nl/vastgoedontwikkelaar-controleren-algerije) details a practical control grid. For projects marketed before completion, also read [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije) and [S.A.F.E and real-estate certification](/nl/safe-vastgoedcertificering).
+Ons dossier [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije) beschrijft een praktisch controlerooster. Voor projecten die vóór voltooiing op de markt zijn gebracht, lees ook [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije) en [S.A.F.E en vastgoedcertificering](/nl/safe-vastgoedcertificering).
 
-## Off-plan sales: more framework, less improvisation
+## Off-plan verkoop: meer raamwerk, minder improvisatie
 
-**Vente sur plans** remains attractive: it allows earlier entry into a programme, sometimes with a more accessible payment schedule, and the chance to choose still-available typologies. But it is attractive only if it is genuinely framed.
+**Vente sur plans** blijft aantrekkelijk: het maakt eerder instappen in een programma mogelijk, soms met een toegankelijker betalingsschema, en de kans om nog beschikbare typologieën te kiezen. Maar het is alleen aantrekkelijk als het echt is ingelijst.
 
-The pair **Law No. 11-04** and **Executive Decree No. 13-431** sets the principle: marketing before completion is not a grey zone. It requires documents, formalities, guarantees and readable commitments. In 2026, the most experienced buyers ask simple but decisive questions:
+Het paar **Wet nr. 11-04** en **Uitvoerend besluit nr. 13-431** bepaalt het principe: marketing vóór voltooiing is geen grijze zone. Het vereist documenten, formaliteiten, garanties en leesbare toezeggingen. In 2026 stellen de meest ervaren kopers eenvoudige maar beslissende vragen:
 
-- Is the developer approved?
-- Is the land clearly identifiable and is the land status coherent?
-- What exactly does the contract say about deadlines, penalties, plan changes and payment terms?
-- What insurance and guarantees (including the ten-year guarantee after delivery) are provided?
-- What role does the **notary** play in securing the deed and the transfer?
+- Is de ontwikkelaar goedgekeurd?
+- Is de grond duidelijk identificeerbaar en is de staat van de grond coherent?
+- Wat staat er precies in het contract over deadlines, boetes, planwijzigingen en betalingsvoorwaarden?
+- Welke verzekeringen en garanties (inclusief de tien jaar garantie na levering) worden verstrekt?
+- Welke rol speelt de **notaris** bij het veiligstellen van de akte en de overdracht?
 
-These questions do not slow a good project. They accelerate the filtering of bad ones. They also avoid a frequent confusion: believing that “off-plan” automatically means “cheaper and less risky”. In reality, the price may be attractive, but documentary risk, if poorly managed, costs more than an initial saving.
+Deze vragen vertragen een goed project niet. Ze versnellen het filteren van slechte. Ze vermijden ook vaak voorkomende verwarring: geloven dat ‘off-plan’ automatisch ‘goedkoper en minder riskant’ betekent. In werkelijkheid kan de prijs aantrekkelijk zijn, maar als het documentair risico slecht wordt beheerd, kost het meer dan een initiële besparing.
 
-## Land conservation, livret foncier, notary: the chain of truth
+## Landbehoud, livret foncier, notaris: de keten van de waarheid
 
-In Algerian real estate, security often plays out before the emotion of the viewing. The **livret foncier**, **conservation foncière** (land registry / land conservation office) and the **notary** form a chain of truth. When one link is unclear, the whole file must be slowed down.
+In Algerijns onroerend goed speelt de veiligheid vaak een rol vóór de emotie van de bezichtiging. De *livret foncier*, **conservation foncière** (kadaster/kadaster) en de **notaris** vormen een keten van waarheid. Wanneer één link onduidelijk is, moet het hele bestand worden vertraagd.
 
-In 2026, three errors remain too frequent:
+In 2026 blijven drie fouten te vaak voorkomen:
 
-- **Confusing possession with ownership.** Occupying, fitting out or “knowing the seller” does not replace a clear title.
-- **Underestimating co-ownership in undivided shares (indivision).** An inherited or family property can be legally complex; rushing signature without mapping rights holders is a classic source of disputes.
-- **Neglecting the real condition of the property.** Even with a correct title, structural disorders, non-conformities or unclear charges can turn a “good price” into a bad deal.
+- **Bezit met eigendom verwarren.** Bewonen, inrichten of “de verkoper kennen” is geen vervanging voor een duidelijke titel.
+- **Onderschatting van mede-eigendom in onverdeelde aandelen (indivisie).** Een erf- of familievermogen kan juridisch complex zijn; overhaaste handtekeningen plaatsen zonder de rechthebbenden in kaart te brengen is een klassieke bron van geschillen.
+- **Het verwaarlozen van de werkelijke staat van het onroerend goed.** Zelfs met een correcte eigendomstitel kunnen structurele afwijkingen, non-conformiteiten of onduidelijke lasten een “goede prijs” in een slechte deal veranderen.
 
-The **garantie décennale**, when it applies in the context of construction and delivery, is an important protection. It does not dispense with careful inspection and rigorous contractual reading. It is not a talisman; it is a framed guarantee whose scope must be understood.
+De **garantie décennale** is, wanneer deze van toepassing is in de context van constructie en levering, een belangrijke bescherming. Er wordt niet afgezien van zorgvuldige inspectie en strikte contractuele lezing. Het is geen talisman; het is een ingelijste garantie waarvan de reikwijdte moet worden begrepen.
 
-For a reading of prices and micro-markets in the capital, see [Property prices in Algiers](/nl/vastgoedprijzen-algiers).
+Zie [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers) voor een overzicht van de prijzen en micromarkten in de hoofdstad.
 
-## What is really changing in 2026 (and what is not)
+## Wat verandert er echt in 2026 (en wat niet)
 
-### What is changing
+## Wat verandert er
 
-- **A more demanding culture of verification**, especially among the diaspora and informed investors.
-- **Increased attention to developer compliance** (agrément, wilaya, national register, FGCMPI).
-- **A finer reading of local markets**: Algiers is not Oran, which is not Constantine; and within Algiers, Hydra is not Bab Ezzouar.
-- **A growing role for tourism and mobility** in certain rental segments, without justifying unrealistic projections.
+- **Een veeleisendere verificatiecultuur**, vooral onder de diaspora en geïnformeerde investeerders.
+- **Meer aandacht voor naleving door ontwikkelaars** (agrément, wilaya, nationaal register, FGCMPI).
+- **Een fijnere interpretatie van de lokale markten**: Algiers is niet Oran, wat niet Constantine is; en binnen Algiers is Hydra niet Bab Ezzouar.
+- **Een groeiende rol voor toerisme en mobiliteit** in bepaalde huursegmenten, zonder onrealistische prognoses te rechtvaardigen.
 
-### What is not changing
+## Wat verandert er niet
 
-- The need for a **clear title** and passage through the **notary**.
-- The centrality of **Law No. 11-04** for real-estate development.
-- The fact that a beautiful 3D render never replaces the **livret foncier** and **conservation foncière**.
-- The importance of calming artificial urgency (“last opportunity”, “exceptional price until tomorrow”).
+- De noodzaak van een **duidelijke titel** en passage via de **notaris**.
+- De centrale rol van **Wet nr. 11-04** voor vastgoedontwikkeling.
+- Het feit dat een prachtige 3D-weergave nooit de *livret foncier* en **conservation foncière** vervangt.
+- Het belang van het kalmeren van de kunstmatige urgentie (“laatste kans”, “uitzonderlijke prijs tot morgen”).
 
-In other words, 2026 is not the year of a magical market revolution. It is more a year of consolidating good reflexes. Serious actors gain in readability; opaque circuits lose credibility with a better-informed public.
+Met andere woorden: 2026 is niet het jaar van een magische marktrevolutie. Het is meer een jaar van het consolideren van goede reflexen. Serieuze acteurs winnen aan leesbaarheid; ondoorzichtige circuits verliezen hun geloofwaardigheid bij een beter geïnformeerd publiek.
 
-## Algiers, Oran, Constantine: three logics, one framework
+## Algiers, Oran, Constantine: drie logica's, één raamwerk
 
-Comparing the metropolises remains useful, provided the comparison is not turned into an absolute ranking. Algiers concentrates a major share of institutional, diplomatic and premium demand. Oran combines port, industry, coastline and western dynamics. Constantine articulates history, topography and its role as an eastern crossroads. In all three cases, the legal framework for development and documentary security remains the same; what varies are demanded typologies, potential rental yields (variable and never guaranteed), and the depth of the secondary market.
+Het vergelijken van de metropolen blijft zinvol, op voorwaarde dat de vergelijking niet wordt omgezet in een absolute rangschikking. Algiers concentreert een groot deel van de institutionele, diplomatieke en premiumvraag. Oran combineert haven, industrie, kustlijn en westerse dynamiek. Constantine verwoordt de geschiedenis, de topografie en de rol ervan als oostelijk kruispunt. In alle drie de gevallen blijft het juridische kader voor ontwikkeling en documentaire veiligheid hetzelfde; Wat varieert zijn de gevraagde typologieën, potentiële huuropbrengsten (variabel en nooit gegarandeerd) en de diepte van de secundaire markt.
 
-For a grid by investor profile, read [Algiers, Oran, Constantine: where to invest for your profile?](/nl/artikelen/alger-oran-constantine-investir). For the capital’s specific positioning, see [Why Algiers still attracts property investors](/nl/artikelen/pourquoi-investir-immobilier-alger).
+Voor een overzicht per beleggersprofiel leest u [Algiers, Oran, Constantine: waar te investeren voor uw profiel?](/nl/artikelen/alger-oran-constantine-investir). Voor de specifieke positionering van de hoofdstad, zie [Waarom Algiers nog steeds vastgoedinvesteerders aantrekt](/nl/artikelen/pourquoi-investir-immobilier-alger).
 
-## Buying method in 2026: an editorial checklist
+## Koopwijze in 2026: een redactionele checklist
 
-Without substituting for a professional, a clear method can be summarised as follows:
+Zonder een professional te vervangen, kan een duidelijke methode als volgt worden samengevat:
 
-1. **Define the use**: main residence, secondary home, long-term rental, seasonal rental, family wealth.
-2. **Set a zone and a budget** with a margin for fees, works and contingencies.
-3. **Filter the developer or seller** before becoming emotionally attached to the property.
-4. **Read the land file**: booklet, conservation, consistency of areas and boundaries.
-5. **Involve the notary early**, not “at the end to sign”.
-6. **Document every payment** and avoid off-contract circuits.
-7. **Plan the post-purchase**: rental management, charges, maintenance, tax rules applicable to your status.
+1. **Definieer het gebruik**: hoofdverblijfplaats, tweede woning, langetermijnverhuur, seizoensverhuur, familievermogen.
+2. **Stel een zone en een budget in** met een marge voor vergoedingen, werkzaamheden en onvoorziene uitgaven.
+3. **Filter de ontwikkelaar of verkoper** voordat u emotioneel gehecht raakt aan het onroerend goed.
+4. **Lees het landdossier**: boekje, behoud, consistentie van gebieden en grenzen.
+5. **Betrek de notaris er vroeg bij**, niet “op het einde om te tekenen”.
+6. **Documenteer elke betaling** en vermijd circuits buiten het contract.
+7. **Plan de post-aankoop**: verhuurbeheer, kosten, onderhoud, belastingregels die van toepassing zijn op uw statuut.
 
-This method is neither spectacular nor “viral”. It is effective. In 2026, the buyer’s competitive advantage is no longer access to rare information about an address, but the ability to execute this sequence correctly.
+Deze methode is noch spectaculair, noch “viraal”. Het is effectief. In 2026 is het concurrentievoordeel van de koper niet langer de toegang tot zeldzame informatie over een adres, maar de mogelijkheid om deze reeks correct uit te voeren.
 
-## FAQ
+## Veelgestelde vragen
 
-### Does Law No. 11-04 still apply fully in 2026?
-Yes. It remains the reference text for real-estate development. Practices evolve; the framework text remains. Any developer operation must be read against it, especially for off-plan sales.
+## Is wet nr. 11-04 in 2026 nog steeds volledig van toepassing?
+Ja. Het blijft de referentietekst voor vastgoedontwikkeling. Praktijken evolueren; de kadertekst blijft bestaan. Elke ontwikkelaaroperatie moet hiertegen worden gelezen, vooral als het gaat om verkoop op plan.
 
-### Can you buy off-plan safely?
-You can sharply reduce risk by requiring approval, land documents, a compliant contract (Law 11-04 and Executive Decree 13-431), and notarial support. No transaction is “risk-free” by nature.
+## Kun je veilig off-plan kopen?
+U kunt het risico aanzienlijk verminderen door goedkeuring, landdocumenten, een conform contract (wet 11-04 en Executive decreet 13-431) en notariële ondersteuning te vereisen. Geen enkele transactie is van nature ‘risicovrij’.
 
-### What role does the FGCMPI play?
-The mutual guarantee fund for real-estate development participates in sector security. Its mention in a file is a positive vigilance point, but it does not replace full verification of the developer and the property.
+## Welke rol speelt de FGCMPI?
+Het onderlinge garantiefonds voor vastgoedontwikkeling draagt ​​bij aan de sectorveiligheid. De vermelding ervan in een dossier is een positief waakzaamheidspunt, maar vervangt niet de volledige verificatie van de ontwikkelaar en het vastgoed.
 
-### Is the livret foncier enough on its own?
-It is a central document, but it sits in a chain: land conservation, file coherence, notary involvement, control of charges and any undivided ownership. An isolated document never summarises the whole risk.
+## Is de livret foncier op zichzelf voldoende?
+Het is een centraal document, maar het zit in een keten: landbehoud, samenhang van het dossier, betrokkenheid van de notaris, controle op de lasten en eventueel onverdeeld eigendom. Een geïsoleerd document vat nooit het hele risico samen.
 
-### Should you favour Algiers for investing in 2026?
-Algiers remains a deep and strategic market, but the “best” choice depends on profile, horizon and risk tolerance. Oran and Constantine offer other logics. See our city and investment dossiers.
+## Moet u Algiers verkiezen om in 2026 te investeren?
+Algiers blijft een diepe en strategische markt, maar de ‘beste’ keuze hangt af van profiel, horizon en risicotolerantie. Oran en Constantine bieden andere logica's aan. Bekijk onze stads- en investeringsdossiers.
 
-### Do tourism figures influence real estate?
-They influence certain segments (seasonal rental, coastal proximity, airport hubs), without automatically creating a generalised rise. The 3,548,000 visitors recorded in 2024 (ONAT), including about 1.093 million from the diaspora, are context, not a yield guarantee.
+## Hebben toeristische cijfers invloed op onroerend goed?
+Ze beïnvloeden bepaalde segmenten (seizoensverhuur, nabijheid van kustgebieden, luchthavenknooppunten), zonder automatisch een algemene stijging te veroorzaken. De 3.548.000 bezoekers geregistreerd in 2024 (ONAT), waaronder ongeveer 1,093 miljoen uit de diaspora, zijn context en geen rendementsgarantie.
 
-## Sources
+## Bronnen
 
-- National Statistics Office (ONS) — demographic data: [https://www.ons.dz](https://www.ons.dz)
-- Algerian National Tourism Office (ONAT) — 2024 tourism attendance: [https://www.onat.dz](https://www.onat.dz)
-- Official Journal / texts on real-estate development (Law No. 11-04 of 17 February 2011): [https://www.joradp.dz](https://www.joradp.dz)
-- Ministry of Housing, Urban Planning and the City — real-estate development framework: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
-- Viva Algérie — [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije)
-- Viva Algérie — [Property purchase documents](/nl/documenten-vastgoedkoop-algerije)
-- Viva Algérie — [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije)
+- Nationaal Bureau voor de Statistiek (ONS) — demografische gegevens: [https://www.ons.dz](https://www.ons.dz)
+- Algerijns Nationaal Bureau voor Toerisme (ONAT) — Toeristische bezoekersaantallen 2024: [https://www.onat.dz](https://www.onat.dz)
+- Publicatieblad / teksten over vastgoedontwikkeling (wet nr. 11-04 van 17 februari 2011): [https://www.joradp.dz](https://www.joradp.dz)
+- Ministerie van Volkshuisvesting, Stedelijke Planning en Stad — Kader voor vastgoedontwikkeling: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
+- Viva Algérie — [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije)
+- Viva Algérie — [Aankoopdocumenten van onroerend goed](/nl/documenten-vastgoedkoop-algerije)
+- Viva Algérie — [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije)
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

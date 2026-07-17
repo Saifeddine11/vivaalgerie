@@ -1,0 +1,69 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath } from '../lib/paths';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+const canonical = absoluteUrl('/frontiere-algerie-maroc');
+---
+
+<PageLayout
+  title="Frontière Algérie–Maroc fermée — pourquoi le blocage dure depuis 1994"
+  description="Pourquoi la frontière Algérie–Maroc est fermée depuis 1994 : contexte sécuritaire, crise diplomatique, Sahara occidental et conditions politiques d’une réouverture."
+  locale={locale}
+  canonical={canonical}
+>
+  <article>
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-14 sm:py-20">
+        <Breadcrumbs items={[{ label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) }, { label: 'Frontière Algérie–Maroc', href: canonical }]} />
+        <p class="eyebrow mb-3">Décryptage</p>
+        <h1 class="mb-5 text-4xl sm:text-5xl">Frontière Algérie–Maroc fermée : pourquoi le blocage dure depuis 1994</h1>
+        <p class="max-w-2xl text-lg text-muted">
+          La frontière terrestre est fermée depuis 1994. Sa réouverture dépend moins d’un simple choix technique que d’un climat politique, sécuritaire et diplomatique profondément dégradé.
+        </p>
+      </div>
+    </header>
+
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial">
+        <p>
+          La fermeture de la frontière terrestre entre l’Algérie et le Maroc remonte à 1994, après l’attentat de Marrakech et l’instauration par le Maroc de visas pour les Algériens. Alger a répondu en fermant la frontière. Depuis, le dossier est devenu un symbole : il exprime la défiance entre deux États voisins dont les sociétés restent proches, mais dont les doctrines de sécurité et de diplomatie divergent fortement.
+        </p>
+        <h2>Un problème sécuritaire devenu politique</h2>
+        <p>
+          Dans les années 1990, l’Algérie traverse une période de violence interne extrême. La question sécuritaire domine les décisions de l’État. La fermeture de la frontière s’inscrit dans ce contexte, mais elle ne peut pas être expliquée uniquement par lui. Avec le temps, le blocage s’est rattaché à d’autres dossiers : Sahara occidental, accusations réciproques, normalisation marocaine avec Israël, rupture diplomatique de 2021 et compétition d’influence.
+        </p>
+        <h2>Pourquoi la réouverture reste difficile</h2>
+        <p>
+          Le Maroc appelle régulièrement à la réouverture, en présentant la frontière comme une blessure pour les familles et une perte économique pour la région. L’Algérie répond que la question ne peut pas être séparée du climat politique général et des préoccupations de sécurité. Pour Alger, rouvrir sans traiter les causes de la défiance reviendrait à normaliser une relation diplomatique que l’État juge profondément dégradée.
+        </p>
+        <p>
+          Cette position est soutenue par une partie de l’opinion algérienne, qui voit dans la fermeture une protection de souveraineté. D’autres voix, des deux côtés, soulignent le coût humain : familles séparées, commerce frontalier bloqué, circulation régionale limitée et Maghreb économique paralysé.
+        </p>
+        <h2>Le poids du Sahara occidental</h2>
+        <p>
+          La frontière est aussi prisonnière du dossier sahraoui. Le Maroc considère le Sahara occidental comme une question d’intégrité territoriale. L’Algérie considère ce dossier comme une question d’autodétermination et de décolonisation. Tant que cette divergence reste centrale, chaque geste bilatéral est interprété comme un signal stratégique.
+        </p>
+        <h2>Une réouverture possible ?</h2>
+        <p>
+          Une réouverture supposerait au minimum un canal diplomatique stable, des garanties sécuritaires, une baisse des accusations publiques et une méthode graduelle. Rien n’indique qu’un tel climat soit aujourd’hui installé. La frontière reste donc l’un des indicateurs les plus visibles de la crise maghrébine : une ligne fermée entre deux peuples proches et deux États profondément méfiants.
+        </p>
+        <h2>À lire aussi</h2>
+        <ul>
+          <li><a href="/algerie-maroc">Algérie–Maroc : comprendre les origines d’une rivalité historique</a></li>
+          <li><a href="/articles/pourquoi-algerie-maroc-conflit">Pourquoi l’Algérie et le Maroc sont en conflit depuis des décennies</a></li>
+          <li><a href="/articles/guerre-des-sables-1963">Guerre des Sables 1963</a></li>
+          <li><a href="/sahara-occidental">Sahara occidental : histoire et positions</a></li>
+        </ul>
+        <h2>Sources</h2>
+        <ul>
+          <li>Reuters — rupture des relations diplomatiques en 2021 et contexte de frontière fermée : <a href="https://www.reuters.com">reuters.com</a></li>
+          <li>Associated Press — Algeria breaks off diplomatic ties with Morocco, 24 août 2021 : <a href="https://apnews.com">apnews.com</a></li>
+          <li>MINURSO / Nations unies — contexte du Sahara occidental : <a href="https://minurso.unmissions.org">minurso.unmissions.org</a></li>
+        </ul>
+      </div>
+    </div>
+  </article>
+</PageLayout>

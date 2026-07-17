@@ -1,265 +1,263 @@
 ---
-title: "Documenten te controleren vóór een vastgoedaankoop in Algerije | Viva Algérie"
-h1: "Documenten te controleren vóór een vastgoedaankoop in Algerije"
-description: "Kern documenten: livret foncier, notariële akte, conservation foncière, EDD."
+title: "Documenten die u moet controleren vóór de aankoop van onroerend goed in Algerije | Viva Algérie"
+h1: "Documenten die u moet controleren vóór de aankoop van onroerend goed in Algerije"
+description: "Documenten die u moet controleren vóór de aankoop van onroerend goed in Algerije: grondboekje, notariële akte, landbehoud, EDD, bouwvergunning en checklist."
 slug: "documents-achat-immobilier-algerie"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/documenten-vastgoedkoop-algerije"
 translationKey: "documents-achat-immobilier-algerie"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
-
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-In Algeria, a safe real estate purchase relies less on intuition than on a consistent **stack of documents**. Land booklet, notarial deed, land conservation information, descriptive state of division, building permit: each document answers a different question. Confusing them creates a false security.
+In Algerije is een veilige aankoop van onroerend goed minder afhankelijk van intuïtie dan van een consistente **stapel documenten**. Grondboekje, notariële akte, informatie over landbehoud, beschrijvende staat van splitsing, bouwvergunning: elk document beantwoordt een andere vraag. Door ze te verwarren, ontstaat er een valse veiligheid.
 
-This page orders the essential documents, with caution: local practices and routes (old, new, on plan) vary. The notary remains the central contact.
+Op deze pagina worden de essentiële documenten gerangschikt, met de nodige voorzichtigheid: lokale praktijken en routes (oud, nieuw, op plan) variëren. De notaris blijft het centrale aanspreekpunt.
 
-> **Warning.** Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies. The list below is indicative; have the complete file validated by a notary.
+> **Waarschuwing.** Deze pagina is een redactionele en educatieve analyse. Het betreft geen juridisch, fiscaal, financieel of notarieel advies. Onderstaande lijst is indicatief; het volledige dossier laten valideren door een notaris.
 
-## Principle: four layers of proof
+## Principe: vier bewijslagen
 
-Before signing, distinguish:
+Maak voordat u ondertekent onderscheid tussen:
 
-1. **Who sells** (identity, powers, capacity, approval if promoter);
-2. **Which right is published** (land book / land book, charges);
-3. **What physical basis** (land register, plans, areas);
-4. **What compliance** (town planning, construction, division into lots).
+1. **Wie verkoopt** (identiteit, bevoegdheden, hoedanigheid, goedkeuring als promotor);
+2. **Welk recht wordt gepubliceerd** (landboek / landboek, tarieven);
+3. **Welke fysieke basis** (kadaster, plannen, gebieden);
+4. **Welke naleving** (stedenbouwkundige planning, bouw, verdeling in percelen).
 
-A strong document on one layer does not repair a weakness on another.
+Een sterk document op de ene laag herstelt de zwakte op een andere laag niet.
 
-Useful links: [Purchase risks](/nl/vastgoedrisicos-algerije), [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije), [Legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie).
+Nuttige links: [Aankooprisico's](/nl/vastgoedrisicos-algerije), [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [Juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie).
 
-## 1. Identity documents and powers of the seller
+## 1. Identiteitsbewijzen en bevoegdheden van de verkoper
 
-- identity document of the seller/representatives;
-- in the event of joint ownership or inheritance: documents justifying the powers of disposition;
-- in the case of a company: statutes / powers of the signatory;
-- in the case of a mandate: clear and up-to-date power of attorney.
+- identiteitsbewijs van de verkoper/vertegenwoordigers;
+- in geval van mede-eigendom of erfenis: documenten die de beschikkingsbevoegdheid rechtvaardigen;
+- bij een vennootschap: statuten/bevoegdheden van de ondertekenaar;
+- bij een mandaat: duidelijke en actuele volmacht.
 
-Without a valid power of attorney, the best-written act remains fragile.
+Zonder geldige volmacht blijft de best geschreven handeling kwetsbaar.
 
-## 2. Notarial deed: proof of transaction, not always the whole truth published
+## 2. Notariële akte: bewijs van transactie, niet altijd de hele waarheid gepubliceerd
 
-The **notarial deed** records and authenticates the transaction (sale, donation, etc.). It is central. But the prudent buyer doesn’t stop at “I saw a deed.” He checks the **channel** and the **advertising** at the Land Registry.
+De **notariële akte** registreert en authenticeert de transactie (verkoop, schenking, enz.). Het staat centraal. Maar de voorzichtige koper stopt niet bij ‘Ik heb een akte gezien’. Hij controleert het **kanaal** en de **reclame** bij het Kadaster.
 
-Ask: nature of the act, parties, designation of the property, references, any special conditions.
+Vraag: aard van de handeling, partijen, bestemming van het pand, referenties, eventuele bijzondere voorwaarden.
 
-## 3. Land booklet: published property reference
+## 3. Landboekje: gepubliceerde eigendomsreferentie
 
-The **land book** (دفتر عقاري), in the land book system resulting in particular from Ordinance No. **75-74** and implementing texts, constitutes the owner's reference document for the property concerned. It is issued/managed within the **land conservation** circuit.
+Het **landboek** (دفتر عقاري), in het landboeksysteem dat met name voortkomt uit verordening nr. **75-74** en uitvoeringsteksten, vormt het referentiedocument van de eigenaar voor het betreffende onroerend goed. Het wordt uitgegeven/beheerd binnen het circuit **landbehoud**.
 
-To check with the notary:
+Voor controle bij de notaris:
 
-- registered holder(s);
-- designation and references;
-- surface area and nature of the property;
-- annotations and relevant history.
+- geregistreerde houder(s);
+- aanduiding en referenties;
+- oppervlakte en aard van de woning;
+- annotaties en relevante geschiedenis.
 
-**Caution**: do not trust a photo sent by courier. Go for verification via official channels and the notary office.
+**Let op**: vertrouw een foto die per koerier is verzonden niet. Ga voor verificatie via officiële kanalen en het notariskantoor.
 
-Useful reference: [DGDN — conservation / livret foncier](https://www.dgdn.gov.dz).
+Nuttige referentie: [DGDN — behoud / livret foncier](https://www.dgdn.gov.dz).
 
-## 4. Land conservation: situation, charges, mortgages
+## 4. Landbehoud: situatie, lasten, hypotheken
 
-The land registry is the place where the published situation of the property can be read. Depending on local procedures, you (or the notary) can obtain information / copies / land documentation allowing you to identify:
+Het kadaster is de plaats waar de gepubliceerde situatie van de woning kan worden ingezien. Afhankelijk van de lokale procedures kunt u (of de notaris) informatie/kopieën/landdocumentatie verkrijgen waarmee u het volgende kunt identificeren:
 
-- the published holder;
-- **mortgages** and charges;
-- certain inscriptions affecting the property.
+- de gepubliceerde houder;
+- **hypotheken** en lasten;
+- bepaalde opschriften die betrekking hebben op het onroerend goed.
 
-Buying without this reading means accepting a blind spot. See also [Purchase risks](/nl/vastgoedrisicos-algerije).
+Kopen zonder deze lezing betekent het accepteren van een blinde vlek. Zie ook [Aankooprisico's](/nl/vastgoedrisicos-algerije).
 
-### Note on the “negative certificate”
+## Opmerking over het “negatieve certificaat”
 
-The expression “negative certificate” circulates in everyday language and can designate different documents depending on the administrative context. Do not rely on the name of the document alone: ​​have the notary specify **what was really requested and obtained**, and for what purpose.
+De uitdrukking “negatief certificaat” circuleert in het dagelijks taalgebruik en kan verschillende documenten aanduiden, afhankelijk van de administratieve context. Vertrouw niet alleen op de naam van het document: laat de notaris specificeren **wat er werkelijk gevraagd en verkregen is**, en met welk doel.
 
-## 5. Cadastre and plan
+## 5. Kadaster en plan
 
-The plan / cadastral extract and graphic consistency help to understand the base. Check the alignment between:
+Het plan/kadastraal uittreksel en de grafische samenhang helpen de basis te begrijpen. Controleer de uitlijning tussen:
 
-- designation in the deed/booklet;
-- reality of the land or building;
-- limits and access.
+- vermelding in de akte/boekje;
+- realiteit van de grond of het gebouw;
+- limieten en toegang.
 
-An unexplained discrepancy (surface area, footprint) must be clarified before commitment.
+Een onverklaarde discrepantie (oppervlakte, voetafdruk) moet worden opgehelderd voordat er sprake is van commitment.
 
-## 6. Division Descriptive Statement (EDD)
+## 6. Divisie beschrijvende verklaring (EDD)
 
-In buildings divided into lots, the **EDD** identifies the private portions and the organization of the division. It is particularly important:
+In gebouwen die in percelen zijn verdeeld, identificeert de **EDD** de privégedeelten en de organisatie van de verdeling. Het is vooral belangrijk:
 
-- to know exactly what you are buying (apartment, parking, cellar, etc.);
-- for batch promotion/marketing operations;
-- in the context of notarial vigilance recalled in 2025 (the simple logic of division/marketing can qualify a promotion operation).
+- precies weten wat u koopt (appartement, parkeerplaats, kelder, etc.);
+- voor batchpromotie/marketingactiviteiten;
+- in de context van de notariële waakzaamheid waar we in 2025 aan herinnerd werden (de eenvoudige logica van verdeeldheid/marketing kan een promotieoperatie kwalificeren).
 
-Ask for the EDD and its consistency with the property visited.
+Vraag naar de EDD en de consistentie ervan met het bezochte pand.
 
-## 7. Co-ownership regulations and charges (where existing)
+## 7. Regels en kosten voor mede-eigendom (indien aanwezig)
 
-When available, the regulations specify uses, common areas, rules of enjoyment. Also question the practice of charges and possible co-ownership disputes. The total lack of organization in a dense building is a risk for future governance.
+Indien beschikbaar specificeren de voorschriften het gebruik, de gemeenschappelijke ruimtes en de regels voor het genot. Zet ook vraagtekens bij de praktijk van lasten en mogelijke mede-eigendomsgeschillen. Het totale gebrek aan organisatie in een dicht gebouw is een risico voor toekomstig bestuur.
 
-## 8. Building permits and compliance
+## 8. Bouwvergunningen en naleving
 
-For a recent construction or a new program:
+Voor een recente constructie of een nieuw programma:
 
-- **building permit**;
-- documents attesting to conformity/receipt depending on the stage of the project;
-- consistency between the constructed and the authorized.
+- **bouwvergunning**;
+- documenten waaruit de conformiteit/ontvangst blijkt, afhankelijk van de fase van het project;
+- consistentie tussen het geconstrueerde en het toegestane.
 
-For building land, other planning documents (depending on the project) may be necessary from the APC / competent services (urban planning certificate, etc.). Handle these requests on a case-by-case basis with a professional.
+Voor bouwgrond kunnen andere stedenbouwkundige documenten (afhankelijk van het project) nodig zijn van het APC/bevoegde diensten (stedenbouwkundig attest, enz.). Behandel deze verzoeken geval per geval met een professional.
 
-## 9. Documents specific to promotion and sale on plans
+## 9. Documenten die specifiek zijn voor promotie en verkoop van abonnementen
 
-If you are buying from a developer / off plan, add:
+Als u koopt van een ontwikkelaar/off plan, voeg dan het volgende toe:
 
-- **promoter approval**, trade register, national table;
-- developer's right to the land;
-- program permit;
-- reservation contract / sale on plans (law framework **11-04**, decree **13-431**);
-- supporting documents **FGCMPI** linked to the project;
-- technical description, plans, schedule, deadline.
+- **goedkeuring promotor**, handelsregister, nationale tabel;
+- het recht van de ontwikkelaar op de grond;
+- programmavergunning;
+- reserveringscontract / verkoop op plan (wetskader **11-04**, decreet **13-431**);
+- ondersteunende documenten **FGCMPI** gekoppeld aan het project;
+- technische beschrijving, plannen, planning, deadline.
 
-Guides: [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije), [Buying off-plan](/nl/off-plan-kopen-algerije), [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers).
+Gidsen: [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [Off-plan kopen](/nl/off-plan-kopen-algerije), [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers).
 
-## 10. Delivery documents (new)
+## 10. Leveringsdocumenten (nieuw)
 
-Before handing over the keys, prepare:
+Voordat u de sleutels overhandigt, bereidt u het volgende voor:
 
-- delivery/takeover report;
-- list of reserves;
-- service file;
-- route to the individual title (booklet) when the division is in progress.
+- opleverings-/overnamerapport;
+- lijst met reserves;
+- servicebestand;
+- route naar de individuele titel (boekje) wanneer de splitsing bezig is.
 
-See: [New housing delivery](/nl/oplevering-nieuwe-woning-algerije).
+Zie: [Oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije).
 
-## Recommended order (method)
+## Aanbevolen volgorde (methode)
 
-1. Clarify the type of purchase (old / new / off plan).
-2. Verify the actor (individual / promoter).
-3. Read the published land (booklet / conservation).
-4. Read the assessment (land register, EDD, plans).
-5. Read town planning/construction.
-6. Have the deed drawn up / reread at the notary.
-7. Pay according to the secure schedule.
+1. Verduidelijk het type aankoop (oud / nieuw / off plan).
+2. Verifieer de acteur (individu / promotor).
+3. Lees het gepubliceerde land (boekje / conservering).
+4. Lees de aanslag (kadaster, EDD, plannen).
+5. Lees stadsplanning/bouw.
+6. Laat de akte opmaken/herlezen bij de notaris.
+7. Betaal volgens het beveiligde schema.
 
-Rush often reverses this order: payment first, documents later. This is the most costly mistake. See: [Mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie).
+Rush draait deze volgorde vaak om: eerst betalen, documenten later. Dit is de duurste fout. Zie: [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie).
 
-## Diaspora case: copies, originals, traceability
+## Diasporazaak: kopieën, originelen, traceerbaarheid
 
-From abroad, demand:
+Vraag vanuit het buitenland:
 
-- controllable pieces (not just captures);
-- an appointed notary;
-- a precise mandate;
-- traceability of funds.
+- bestuurbare stukken (niet alleen captures);
+- een benoemde notaris;
+- een nauwkeurig mandaat;
+- traceerbaarheid van fondsen.
 
-Guide: [Algerian diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+Gids: [Algerijnse diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-## S.A.F.E and documents
+## S.A.F.E en documenten
 
-The **S.A.F.E** grid evaluates real estate projects according to confidence criteria. It does not replace any official document and is not a state certification.
+Het **S.A.F.E**-raster evalueert vastgoedprojecten op basis van betrouwbaarheidscriteria. Het vervangt geen enkel officieel document en is geen staatscertificering.
 
 Details: [S.A.F.E](/nl/safe-vastgoedcertificering).
 
-## What to remember
+## Wat je moet onthouden
 
-The **documents to check before a real estate purchase in Algeria** form a system: identity and powers, deed, booklet and conservation, land registry/EDD, town planning, and developer documents if applicable. No single room is enough. The notary orchestrates; the buyer prepares and refuses blind spots.
+De **documenten die moeten worden gecontroleerd vóór de aankoop van onroerend goed in Algerije** vormen een systeem: identiteit en bevoegdheden, akte, boekje en behoud, kadaster/EDD, stadsplanning en documenten van de ontwikkelaar, indien van toepassing. Geen enkele kamer is genoeg. De notaris orkestreert; de koper bereidt zich voor en weigert blinde vlekken.
 
-For the market: [Property prices in Algiers](/nl/vastgoedprijzen-algiers), [Real estate 2026](/nl/artikelen/immobilier-algerie-2026).
+Voor de markt: [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers), [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026).
 
-## Documents according to scenario: practical matrix
+## Documenten volgens scenario: praktische matrix
 
-### Scenario A — Old condominium apartment
+## Scenario A — Oud condominiumappartement
 
-Priorities: identity/powers, deed, booklet/conservation (charges), EDD, regulations if existing, technical visit, questions charges/disputes.
+Prioriteiten: identiteit/bevoegdheden, akte, boekje/instandhouding (kosten), EDD, eventuele regelgeving, technisch bezoek, vragen over aanklachten/geschillen.
 
-### Scenario B — Villa / built-up land
+## Scenario B — Villa / bebouwde grond
 
-Priorities: title, boundaries, cadastre, town planning/construction history, permits/compliance as applicable, access and easements.
+Prioriteiten: titel, grenzen, kadaster, stedenbouwkundige/bouwgeschiedenis, vergunningen/naleving indien van toepassing, toegang en erfdienstbaarheden.
 
-### Scenario C — New delivered by developer
+## Scenario C — Nieuw geleverd door ontwikkelaar
 
-Priorities: promoter documents (approval, register, table), permit, EDD, report/delivery, route booklet, guarantees and reservations.
+Prioriteiten: promotordocumenten (goedkeuring, register, tabel), vergunning, EDD, rapport/aflevering, routeboekje, garanties en reserveringen.
 
-### Scenario D — Sale on plans
+## Scenario D — Verkoop op basis van plannen
 
-Priorities: developer documents + FGCMPI project + compliant contract (11-04 / 13-431) + description + schedule + deadline + land rights.
+Prioriteiten: ontwikkelaarsdocumenten + FGCMPI-project + conform contract (11-04 / 13-431) + beschrijving + planning + deadline + landrechten.
 
-This matrix avoids asking for “all the documents in the world” without order. It forces a path.
+Deze matrix vermijdt dat zonder volgorde naar “alle documenten ter wereld” wordt gevraagd. Het forceert een pad.
 
-## How to organize your buyer's binder
+## Hoe u de map van uw koper ordent
 
-Create four digital folders:
+Maak vier digitale mappen:
 
-1. **Actor** (IDs, approval, register, table, mandates);
-2. **Land** (booklet, conservation information, land register);
-3. **Technical / urban** (permits, plans, EDD, description);
-4. **Contract / payments** (draft documents, receipts, exchanges).
+1. **Acteur** (ID's, goedkeuring, register, tabel, mandaten);
+2. **Land** (boekje, informatie over natuurbehoud, kadaster);
+3. **Technisch / stedenbouwkundig** (vergunningen, plannen, EDD, beschrijving);
+4. **Contract / betalingen** (conceptdocumenten, ontvangstbewijzen, uitwisselingen).
 
-Name the files with dates. When the notary requests a document, you save days — and you reduce version errors.
+Geef de bestanden een naam met datums. Wanneer de notaris een document opvraagt, bespaart u dagen – en vermindert u versiefouten.
 
-## “Reassuring” pieces that are not enough
+## “Geruststellende” stukken die niet genoeg zijn
 
-- a luxurious brochure;
-- a 3D rendering;
-- a WhatsApp testimonial;
-- an illegible partial copy;
-- a “certificate” not clearly identified.
+- een luxe brochure;
+- een 3D-weergave;
+- een WhatsApp-getuigenis;
+- een onleesbare gedeeltelijke kopie;
+- een “certificaat” dat niet duidelijk geïdentificeerd is.
 
-These elements can accompany a file; they don't replace it. Always ask: **which authority produced this document, on what date, for what purpose?**
+Deze elementen kunnen bij een dossier horen; ze vervangen het niet. Vraag altijd: **welke autoriteit heeft dit document opgesteld, op welke datum, met welk doel?**
 
-## Coordination with the notary: good practices
+## Coördinatie met de notaris: goede praktijken
 
-- send the file **before** the signing meeting;
-- list your questions on one page;
-- ask what parts are still missing to secure;
-- refuse to discover a critical document on site under pressure.
+- stuur het bestand **vóór** de ondertekeningsvergadering;
+- zet uw vragen op één pagina;
+- vraag welke onderdelen er nog ontbreken om vast te zetten;
+- weigeren om onder druk ter plaatse een kritisch document te ontdekken.
 
-The notary is not your adversary: it is your tipping point towards security. Arrive prepared.
+De notaris is niet uw tegenstander: hij is uw kantelpunt richting zekerheid. Kom voorbereid aan.
 
-## Retention of evidence after purchase
+## Bewaren van bewijsmateriaal na aankoop
 
-After signing, archive:
+Na ondertekening archiveren:
 
-- act and annexes;
-- proof of payment;
-- Delivery report and reserves;
-- repeat matches;
-- possible booklet / updates.
+- wet en bijlagen;
+- betalingsbewijs;
+- Opleveringsrapport en reserves;
+- herhaal wedstrijden;
+- eventueel boekje/updates.
 
-This archive protects future resale and administrative procedures. Many buyers neglect this point once the keys are in hand.
+Dit archief beschermt toekomstige wederverkoop- en administratieve procedures. Veel kopers negeren dit punt zodra de sleutels in handen zijn.
 
-## FAQ
+## Veelgestelde vragen
 
-### What is the difference between notarial deed and land record book?
+## Wat is het verschil tussen notariële akte en kadastrale akte?
 
-The act authenticates a transaction between parties. The land book is part of the advertisement/title in the land book system. The two are read together, with conservation.
+De handeling authenticeert een transactie tussen partijen. Het landboek maakt deel uit van de advertentie/titel in het landboeksysteem. De twee worden samen gelezen, met behoud.
 
-### Should I go to the land conservation office myself?
+## Moet ik zelf naar het landbeschermingskantoor gaan?
 
-Often useful, but the process is ideally done with the notary. The important thing is to obtain a reliable and recent reading of the published situation.
+Vaak handig, maar het traject verloopt idealiter bij de notaris. Het belangrijkste is om een ​​betrouwbare en recente lezing van de gepubliceerde situatie te verkrijgen.
 
-### Is EDD required for all purchases?
+## Is EDD vereist voor alle aankopen?
 
-It is crucial as soon as there is division into lots/co-ownership. For a villa on undivided land, other rooms will take precedence. Ask the notary what applies to your property.
+Het is van cruciaal belang zodra er sprake is van splitsing in percelen/mede-eigendom. Bij een villa op onverdeelde grond hebben andere kamers voorrang. Vraag bij de notaris wat voor uw woning geldt.
 
-### Can we buy a new one without an immediate individual booklet?
+## Kunnen we een nieuwe kopen zonder onmiddellijk een individueel boekje?
 
-Sometimes the individual booklet follows the division of the parent title. The notary must explain the process and the documentary guarantees at each stage. Don’t accept imprecision.
+Soms volgt het individuele boekje de indeling van de bovenliggende titel. De notaris moet in elke fase het proces en de documentaire garanties toelichten. Accepteer geen onnauwkeurigheid.
 
-### What additional documents for an off-plan purchase?
+## Welke aanvullende documenten voor een off-plan aankoop?
 
-Promoter approval, register, national table, permit, compliant contract, timetable, FGCMPI project supporting documents, technical description.
+Goedkeuring van de promotor, register, nationale tabel, vergunning, conform contract, tijdschema, ondersteunende documenten voor het FGCMPI-project, technische beschrijving.
 
-### Does a S.A.F.E file replace these documents?
+## Vervangt een S.A.F.E-bestand deze documenten?
 
-No. S.A.F.E is complementary and proprietary. The official documents remain the basis.
+Nee. S.A.F.E is complementair en bedrijfseigen. De officiële documenten blijven de basis.
 
-## Sources
+## Bronnen
 
-- Ordinance No. 75-74 relating to the general land registry and the establishment of the land register
-- DGDN practices and pages — [dgdn.gov.dz](https://www.dgdn.gov.dz)
-- Law No. 11-04 and Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
-- Note Justice 2025 (notarial vigilance / promotion) — Algerian press
+- Verordening nr. 75-74 betreffende het algemeen kadaster en de oprichting van het kadaster
+- DGDN-praktijken en -pagina's — [dgdn.gov.dz](https://www.dgdn.gov.dz)
+- Wet nr. 11-04 en decreet 13-431 — [FGCMPI](https://fgcmpi.org.dz)
+- Nota Justitie 2025 (notariële waakzaamheid/promotie) — Algerijnse pers
 - [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)

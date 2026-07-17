@@ -23,14 +23,12 @@ SEO = ROOT / "seo-pages"
 
 SEO_NEED = {
     "es": [
-        "acheter-sur-plan-algerie",
+        # Already Spanish: acheter-sur-plan-alger, acheter-sur-plan-algerie, safe-certification
         "comment-verifier-promoteur-immobilier-algerie",
         "documents-achat-immobilier-algerie",
         "livraison-logement-neuf-algerie",
         "prix-immobilier-alger",
         "risques-achat-immobilier-algerie",
-        "safe-certification-immobiliere",
-        # also re-do alger if needed — currently OK in Spanish; skip
     ],
     "nl": [
         "acheter-sur-plan-alger",

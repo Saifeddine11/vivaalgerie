@@ -3,9 +3,9 @@ export const SITE = {
   url: 'https://vivaalgerie.com',
   email: 'contact@vivaalgerie.com',
   author: 'Rédaction Viva Algérie',
-  defaultTitle: 'Viva Algérie — Immobilier, tourisme et investissement en Algérie',
+  defaultTitle: 'Viva Algérie — Actualité, Sahara occidental et analyses sur l’Algérie',
   defaultDescription:
-    'Viva Algérie décrypte l’immobilier, le tourisme, les villes et les opportunités d’investissement en Algérie.',
+    'Viva Algérie décrypte l’actualité algérienne, le Sahara occidental, les relations Algérie–Maroc, le tourisme, l’économie, la culture et les grands enjeux du Maghreb.',
   locale: 'fr_DZ',
   twitter: '@vivaalgerie',
 } as const;
@@ -22,8 +22,14 @@ export const LOCALE_LABELS: Record<Locale, string> = {
 };
 
 export type Category =
+  | 'actualite'
+  | 'algerie'
+  | 'sahara-occidental'
+  | 'algerie-maroc'
   | 'immobilier'
   | 'tourisme'
+  | 'economie'
+  | 'culture'
   | 'investissement'
   | 'villes'
   | 'guides'
@@ -34,32 +40,56 @@ export const CATEGORY_PATHS: Record<
   Record<Category, string>
 > = {
   fr: {
+    actualite: '/actualite',
+    algerie: '/algerie',
+    'sahara-occidental': '/sahara-occidental',
+    'algerie-maroc': '/algerie-maroc',
     immobilier: '/immobilier',
     tourisme: '/tourisme',
+    economie: '/economie',
+    culture: '/culture',
     investissement: '/investissement',
     villes: '/villes',
     guides: '/guides',
     analyses: '/analyses',
   },
   en: {
+    actualite: '/en/news',
+    algerie: '/en/algeria',
+    'sahara-occidental': '/en/western-sahara',
+    'algerie-maroc': '/en/algeria-morocco',
     immobilier: '/en/real-estate',
     tourisme: '/en/tourism',
+    economie: '/en/economy',
+    culture: '/en/culture',
     investissement: '/en/investment',
     villes: '/en/cities',
     guides: '/en/guides',
     analyses: '/en/analysis',
   },
   es: {
+    actualite: '/es/actualidad',
+    algerie: '/es/argelia',
+    'sahara-occidental': '/es/sahara-occidental',
+    'algerie-maroc': '/es/argelia-marruecos',
     immobilier: '/es/inmobiliario',
     tourisme: '/es/turismo',
+    economie: '/es/economia',
+    culture: '/es/cultura',
     investissement: '/es/inversion',
     villes: '/es/ciudades',
     guides: '/es/guias',
     analyses: '/es/analisis',
   },
   nl: {
+    actualite: '/nl/nieuws',
+    algerie: '/nl/algerije',
+    'sahara-occidental': '/nl/westelijke-sahara',
+    'algerie-maroc': '/nl/algerije-marokko',
     immobilier: '/nl/vastgoed',
     tourisme: '/nl/toerisme',
+    economie: '/nl/economie',
+    culture: '/nl/cultuur',
     investissement: '/nl/investeren',
     villes: '/nl/steden',
     guides: '/nl/gidsen',

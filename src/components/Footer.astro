@@ -20,21 +20,49 @@ const { locale = 'fr', showNewsletter = true } = Astro.props;
 const legal = getLegalPaths(locale);
 const year = new Date().getFullYear();
 
-const editorial = [
-  { href: CATEGORY_PATHS[locale].immobilier, label: t(locale, 'nav.immobilier') },
-  { href: CATEGORY_PATHS[locale].tourisme, label: t(locale, 'nav.tourisme') },
-  { href: CATEGORY_PATHS[locale].investissement, label: t(locale, 'nav.investissement') },
-  { href: CATEGORY_PATHS[locale].villes, label: t(locale, 'nav.villes') },
-  { href: CATEGORY_PATHS[locale].guides, label: t(locale, 'nav.guides') },
-  { href: CATEGORY_PATHS[locale].analyses, label: t(locale, 'nav.analyses') },
-];
+const editorial =
+  locale === 'fr'
+    ? [
+        { href: CATEGORY_PATHS.fr.actualite, label: t(locale, 'nav.actualite') },
+        { href: CATEGORY_PATHS.fr.algerie, label: t(locale, 'nav.algerie') },
+        {
+          href: CATEGORY_PATHS.fr['sahara-occidental'],
+          label: t(locale, 'nav.sahara-occidental'),
+        },
+        {
+          href: CATEGORY_PATHS.fr['algerie-maroc'],
+          label: t(locale, 'nav.algerie-maroc'),
+        },
+        { href: CATEGORY_PATHS.fr.tourisme, label: t(locale, 'nav.tourisme') },
+        { href: CATEGORY_PATHS.fr.economie, label: t(locale, 'nav.economie') },
+        { href: CATEGORY_PATHS.fr.culture, label: t(locale, 'nav.culture') },
+        { href: CATEGORY_PATHS.fr.analyses, label: t(locale, 'nav.analyses') },
+      ]
+    : [
+        { href: CATEGORY_PATHS[locale].immobilier, label: t(locale, 'nav.immobilier') },
+        { href: CATEGORY_PATHS[locale].tourisme, label: t(locale, 'nav.tourisme') },
+        { href: CATEGORY_PATHS[locale].investissement, label: t(locale, 'nav.investissement') },
+        { href: CATEGORY_PATHS[locale].villes, label: t(locale, 'nav.villes') },
+        { href: CATEGORY_PATHS[locale].guides, label: t(locale, 'nav.guides') },
+        { href: CATEGORY_PATHS[locale].analyses, label: t(locale, 'nav.analyses') },
+      ];
 
-const resources = [
-  { href: BLOG_PATH[locale], label: t(locale, 'nav.blog') },
-  { href: SAFE_PATH[locale], label: t(locale, 'nav.safe') },
-  { href: legal.about, label: t(locale, 'footer.about') },
-  { href: legal.contact, label: t(locale, 'footer.contact') },
-];
+const resources =
+  locale === 'fr'
+    ? [
+        { href: BLOG_PATH.fr, label: t(locale, 'nav.blog') },
+        { href: CATEGORY_PATHS.fr.immobilier, label: t(locale, 'nav.immobilier') },
+        { href: CATEGORY_PATHS.fr.investissement, label: t(locale, 'nav.investissement') },
+        { href: SAFE_PATH.fr, label: t(locale, 'nav.safe') },
+        { href: legal.about, label: t(locale, 'footer.about') },
+        { href: legal.contact, label: t(locale, 'footer.contact') },
+      ]
+    : [
+        { href: BLOG_PATH[locale], label: t(locale, 'nav.blog') },
+        { href: SAFE_PATH[locale], label: t(locale, 'nav.safe') },
+        { href: legal.about, label: t(locale, 'footer.about') },
+        { href: legal.contact, label: t(locale, 'footer.contact') },
+      ];
 ---
 
 <footer class="mt-8 border-t border-border bg-bg-secondary">

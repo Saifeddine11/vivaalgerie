@@ -55,10 +55,14 @@ export function articleHreflang(
   slugs: Partial<Record<Locale, string>>,
   fallbackSlug: string,
 ): { lang: string; href: string }[] {
-  return (['fr', 'en', 'es', 'nl'] as Locale[]).map((l) => ({
-    lang: l,
-    href: absoluteUrl(getArticlePath(l, slugs[l] ?? fallbackSlug)),
-  })).concat([
+  const available = (['fr', 'en', 'es', 'nl'] as Locale[])
+    .filter((l) => slugs[l])
+    .map((l) => ({
+      lang: l,
+      href: absoluteUrl(getArticlePath(l, slugs[l] ?? fallbackSlug)),
+    }));
+
+  return available.concat([
     {
       lang: 'x-default',
       href: absoluteUrl(getArticlePath('fr', slugs.fr ?? fallbackSlug)),

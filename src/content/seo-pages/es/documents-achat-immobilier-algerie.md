@@ -1,265 +1,263 @@
 ---
-title: "Documentos a verificar antes de una compra inmobiliaria en Argelia | Viva Algérie"
-h1: "Documentos a verificar antes de una compra inmobiliaria en Argelia"
-description: "Documentos clave: livret foncier, acto notarial, conservación foncière, EDD."
+title: "Documentos a comprobar antes de comprar una propiedad inmobiliaria en Argelia | Viva Algérie"
+h1: "Documentos a comprobar antes de comprar una propiedad inmobiliaria en Argelia"
+description: "Documentos a comprobar antes de la compra de un inmueble en Argelia: libreta de propiedad, escritura notarial, conservación de la tierra, EDD, permiso de construcción y lista de verificación."
 slug: "documents-achat-immobilier-algerie"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/documentos-compra-inmobiliaria-argelia"
 translationKey: "documents-achat-immobilier-algerie"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+> Este artículo es un análisis editorial y no constituye asesoramiento legal, fiscal, financiero o notarial.
 
-> Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial.
+En Argelia, una compra inmobiliaria segura depende menos de la intuición que de una **pila de documentos** coherente. Folleto del terreno, escritura notarial, información sobre la conservación del terreno, estado descriptivo de la división, permiso de construcción: cada documento responde a una pregunta diferente. Confundirlos crea una falsa seguridad.
 
-In Algeria, a safe real estate purchase relies less on intuition than on a consistent **stack of documents**. Land booklet, notarial deed, land conservation information, descriptive state of division, building permit: each document answers a different question. Confusing them creates a false security.
+Esta página ordena los documentos esenciales, con precaución: las prácticas y rutas locales (antiguas, nuevas, según el plan) varían. El notario sigue siendo el contacto central.
 
-This page orders the essential documents, with caution: local practices and routes (old, new, on plan) vary. The notary remains the central contact.
+> **Advertencia.** Esta página es un análisis editorial y educativo. No constituye asesoramiento legal, fiscal, financiero o notarial. La siguiente lista es indicativa; tener el expediente completo validado por un notario.
 
-> **Warning.** Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial. The list below is indicative; have the complete file validated by a notary.
+## Principio: cuatro capas de prueba
 
-## Principle: four layers of proof
+Antes de firmar, distinga:
 
-Before signing, distinguish:
+1. **Quién vende** (identidad, facultades, capacidad, aprobación si es promotor);
+2. **Qué derecho se publica** (*livret foncier* / *livret foncier*, cargos);
+3. **Qué base física** (catastro, planos, áreas);
+4. **Qué cumplimiento** (urbanismo, construcción, parcelación).
 
-1. **Who sells** (identity, powers, capacity, approval if promoter);
-2. **Which right is published** (land book / land book, charges);
-3. **What physical basis** (land register, plans, areas);
-4. **What compliance** (town planning, construction, division into lots).
+Un documento sólido en una capa no repara una debilidad en otra.
 
-A strong document on one layer does not repair a weakness on another.
+Enlaces útiles: [Riesgos de compra](/es/riesgos-compra-inmobiliaria-argelia), [Cómo verificar un promotor](/es/como-verificar-promotor-inmobiliario-argelia), [Marco legal](/es/articulos/cadre-juridique-immobilier-algerie).
 
-Useful links: [Purchase risks](/es/riesgos-compra-inmobiliaria-argelia), [Checking a developer](/es/como-verificar-promotor-inmobiliario-argelia), [Legal framework](/es/articulos/cadre-juridique-immobilier-algerie).
+## 1. Documentos de identidad y poderes del vendedor
 
-## 1. Identity documents and powers of the seller
+- documento de identidad del vendedor/representantes;
+- en caso de copropiedad o herencia: documentos que justifiquen la facultad de disposición;
+- en el caso de una empresa: estatutos/poderes del firmante;
+- en caso de mandato: poder claro y actualizado.
 
-- identity document of the seller/representatives;
-- in the event of joint ownership or inheritance: documents justifying the powers of disposition;
-- in the case of a company: statutes / powers of the signatory;
-- in the case of a mandate: clear and up-to-date power of attorney.
+Sin un poder legal válido, el acto mejor redactado sigue siendo frágil.
 
-Without a valid power of attorney, the best-written act remains fragile.
+## 2. Escritura notarial: prueba de la transacción, no siempre se publica toda la verdad
 
-## 2. Notarial deed: proof of transaction, not always the whole truth published
+La **escritura notarial** registra y autentica la transacción (compraventa, donación, etc.). Es central. Pero el comprador prudente no se limita a “Vi una escritura”. Consulta el **canal** y la **publicidad** en el Registro de la Propiedad.
 
-The **notarial deed** records and authenticates the transaction (sale, donation, etc.). It is central. But the prudent buyer doesn’t stop at “I saw a deed.” He checks the **channel** and the **advertising** at the Land Registry.
+Pregunte: naturaleza del acto, partes, designación del inmueble, referencias, eventuales condiciones especiales.
 
-Ask: nature of the act, parties, designation of the property, references, any special conditions.
+## 3. Folleto de tierras: referencia de propiedad publicada
 
-## 3. Land booklet: published property reference
+El **livret foncier** (دفتر عقاري), en el sistema de libros de tierras resultante, en particular, del Decreto nº **75-74** y sus textos de aplicación, constituye el documento de referencia del propietario del inmueble en cuestión. Se emite/gestiona dentro del circuito de **conservación del suelo**.
 
-The **land book** (دفتر عقاري), in the land book system resulting in particular from Ordinance No. **75-74** and implementing texts, constitutes the owner's reference document for the property concerned. It is issued/managed within the **land conservation** circuit.
+Para consultar con el notario:
 
-To check with the notary:
+- titular(es) registrado(s);
+- designación y referencias;
+- superficie y naturaleza del inmueble;
+- anotaciones e historia relevante.
 
-- registered holder(s);
-- designation and references;
-- surface area and nature of the property;
-- annotations and relevant history.
+**Precaución**: no te fíes de una foto enviada por mensajería. Acuda a la verificación a través de canales oficiales y notaría.
 
-**Caution**: do not trust a photo sent by courier. Go for verification via official channels and the notary office.
+Referencia útil: [DGDN — conservación / livret foncier](https://www.dgdn.gov.dz).
 
-Useful reference: [DGDN — conservation / livret foncier](https://www.dgdn.gov.dz).
+## 4. Conservación del suelo: situación, cargas, hipotecas
 
-## 4. Land conservation: situation, charges, mortgages
+El registro de la propiedad es el lugar donde se puede leer la situación publicada del inmueble. Dependiendo de los procedimientos locales, usted (o el notario) puede obtener información/copias/documentación del terreno que le permita identificar:
 
-The land registry is the place where the published situation of the property can be read. Depending on local procedures, you (or the notary) can obtain information / copies / land documentation allowing you to identify:
+- el titular publicado;
+- **hipotecas** y cargos;
+- determinadas inscripciones que afectan a la propiedad.
 
-- the published holder;
-- **mortgages** and charges;
-- certain inscriptions affecting the property.
+Comprar sin esta lectura significa aceptar un punto ciego. Véase también [Riesgos de compra](/es/riesgos-compra-inmobiliaria-argelia).
 
-Buying without this reading means accepting a blind spot. See also [Purchase risks](/es/riesgos-compra-inmobiliaria-argelia).
+## Nota sobre el “certificado negativo”
 
-### Note on the “negative certificate”
+La expresión “certificado negativo” circula en el lenguaje cotidiano y puede designar diferentes documentos según el contexto administrativo. No te fíes únicamente del nombre del documento: haz que el notario especifique **qué fue realmente solicitado y obtenido**, y con qué propósito.
 
-The expression “negative certificate” circulates in everyday language and can designate different documents depending on the administrative context. Do not rely on the name of the document alone: ​​have the notary specify **what was really requested and obtained**, and for what purpose.
+## 5. Catastro y plano
 
-## 5. Cadastre and plan
+El plano/extracto catastral y la coherencia gráfica ayudan a comprender la base. Verifique la alineación entre:
 
-The plan / cadastral extract and graphic consistency help to understand the base. Check the alignment between:
+- designación en la escritura/folleto;
+- realidad del terreno o edificio;
+- límites y acceso.
 
-- designation in the deed/booklet;
-- reality of the land or building;
-- limits and access.
+Una discrepancia inexplicable (superficie, huella) debe aclararse antes del compromiso.
 
-An unexplained discrepancy (surface area, footprint) must be clarified before commitment.
+## 6. Declaración Descriptiva de la División (EDD)
 
-## 6. Division Descriptive Statement (EDD)
+En edificios divididos en lotes, el **EDD** identifica las porciones privadas y la organización de la división. Es particularmente importante:
 
-In buildings divided into lots, the **EDD** identifies the private portions and the organization of the division. It is particularly important:
+- saber exactamente lo que está comprando (apartamento, aparcamiento, trastero, etc.);
+- para operaciones de promoción/comercialización de lotes;
+- en el contexto de la vigilancia notarial recuperada en 2025 (la simple lógica de división/comercialización puede calificar una operación de promoción).
 
-- to know exactly what you are buying (apartment, parking, cellar, etc.);
-- for batch promotion/marketing operations;
-- in the context of notarial vigilance recalled in 2025 (the simple logic of division/marketing can qualify a promotion operation).
+Preguntar por el EDD y su coherencia con el inmueble visitado.
 
-Ask for the EDD and its consistency with the property visited.
+## 7. Regulaciones y cargos de copropiedad (cuando existan)
 
-## 7. Co-ownership regulations and charges (where existing)
+Cuando está disponible, el reglamento especifica usos, áreas comunes, reglas de disfrute. Cuestiona también la práctica de cobros y posibles disputas de copropiedad. La total falta de organización en un edificio denso es un riesgo para la futura gobernanza.
 
-When available, the regulations specify uses, common areas, rules of enjoyment. Also question the practice of charges and possible co-ownership disputes. The total lack of organization in a dense building is a risk for future governance.
+## 8. Permisos de construcción y cumplimiento
 
-## 8. Building permits and compliance
+Para una construcción reciente o un nuevo programa:
 
-For a recent construction or a new program:
+- **permiso de construcción**;
+- documentos que acrediten la conformidad/recepción según la fase del proyecto;
+- coherencia entre lo construido y lo autorizado.
 
-- **building permit**;
-- documents attesting to conformity/receipt depending on the stage of the project;
-- consistency between the constructed and the authorized.
+Para terrenos edificables, pueden ser necesarios otros documentos urbanísticos (según el proyecto) del APC/servicios competentes (certificado urbanístico, etc.). Maneje estas solicitudes caso por caso con un profesional.
 
-For building land, other planning documents (depending on the project) may be necessary from the APC / competent services (urban planning certificate, etc.). Handle these requests on a case-by-case basis with a professional.
+## 9. Documentos específicos de promoción y venta de planos.
 
-## 9. Documents specific to promotion and sale on plans
+Si está comprando a un promotor/sobre plano, agregue:
 
-If you are buying from a developer / off plan, add:
+- **aprobación del promotor**, registro mercantil, tabla nacional;
+- derecho del promotor sobre el terreno;
+- permiso del programa;
+- contrato de reserva / venta sobre planos (marco de ley **11-04**, decreto **13-431**);
+- documentos justificativos **FGCMPI** vinculados al proyecto;
+- descripción técnica, planos, cronograma, plazo.
 
-- **promoter approval**, trade register, national table;
-- developer's right to the land;
-- program permit;
-- reservation contract / sale on plans (law framework **11-04**, decree **13-431**);
-- supporting documents **FGCMPI** linked to the project;
-- technical description, plans, schedule, deadline.
+Guías: [Cómo verificar un promotor](/es/como-verificar-promotor-inmobiliario-argelia), [Comprar sobre plano](/es/comprar-sobre-plano-argelia), [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel).
 
-Guides: [Checking a developer](/es/como-verificar-promotor-inmobiliario-argelia), [Buying off-plan](/es/comprar-sobre-plano-argelia), [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel).
+## 10. Documentos de entrega (nuevos)
 
-## 10. Delivery documents (new)
+Antes de entregar las llaves, prepare:
 
-Before handing over the keys, prepare:
+- informe de entrega/recepción;
+- lista de reservas;
+- expediente de servicio;
+- ruta al título individual (cuaderno) cuando la división está en curso.
 
-- delivery/takeover report;
-- list of reserves;
-- service file;
-- route to the individual title (booklet) when the division is in progress.
+Ver: [Entrega de vivienda nueva](/es/entrega-vivienda-nueva-argelia).
 
-See: [New housing delivery](/es/entrega-vivienda-nueva-argelia).
+## Orden recomendado (método)
 
-## Recommended order (method)
+1. Aclarar el tipo de compra (antigua/nueva/sobre plano).
+2. Verificar al actor (individuo/promotor).
+3. Leer el terreno publicado (folleto/conservación).
+4. Leer la tasación (catastro, EDD, planos).
+5. Leer urbanismo/construcción.
+6. Hacer redactar/releer la escritura ante notario.
+7. Pague según el cronograma seguro.
 
-1. Clarify the type of purchase (old / new / off plan).
-2. Verify the actor (individual / promoter).
-3. Read the published land (booklet / conservation).
-4. Read the assessment (land register, EDD, plans).
-5. Read town planning/construction.
-6. Have the deed drawn up / reread at the notary.
-7. Pay according to the secure schedule.
+Rush a menudo invierte este orden: primero el pago, después los documentos. Éste es el error más costoso. Ver: [Errores a evitar](/es/articulos/erreurs-acheter-immobilier-algerie).
 
-Rush often reverses this order: payment first, documents later. This is the most costly mistake. See: [Mistakes to avoid](/es/articulos/erreurs-acheter-immobilier-algerie).
+## Caso diáspora: copias, originales, trazabilidad
 
-## Diaspora case: copies, originals, traceability
+Desde el exterior, exigen:
 
-From abroad, demand:
+- piezas controlables (no sólo capturas);
+- un notario designado;
+- un mandato preciso;
+- trazabilidad de los fondos.
 
-- controllable pieces (not just captures);
-- an appointed notary;
-- a precise mandate;
-- traceability of funds.
+Guía: [diáspora argelina](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-Guide: [Algerian diaspora](/es/articulos/diaspora-algerienne-acheter-immobilier).
+## S.A.F.E y documentos
 
-## S.A.F.E and documents
+La rejilla **S.A.F.E** evalúa proyectos inmobiliarios según criterios de confianza. No reemplaza ningún documento oficial y no es una certificación estatal.
 
-The **S.A.F.E** grid evaluates real estate projects according to confidence criteria. It does not replace any official document and is not a state certification.
+Detalles: [S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
-Details: [S.A.F.E](/es/certificacion-inmobiliaria-safe).
+## Qué recordar
 
-## What to remember
+Los **documentos a comprobar antes de la compra de un inmueble en Argelia** forman un sistema: identidad y poderes, escritura, libreta y conservación, registro de la propiedad/EDD, urbanismo y documentos del promotor si procede. Ninguna habitación individual es suficiente. El notario orquesta; el comprador prepara y rechaza los puntos ciegos.
 
-The **documents to check before a real estate purchase in Algeria** form a system: identity and powers, deed, booklet and conservation, land registry/EDD, town planning, and developer documents if applicable. No single room is enough. The notary orchestrates; the buyer prepares and refuses blind spots.
+Para el mercado: [Precios de propiedades en Argel](/es/precios-inmobiliarios-argel), [Bienes raíces 2026](/es/articulos/immobilier-algerie-2026).
 
-For the market: [Property prices in Algiers](/es/precios-inmobiliarios-argel), [Real estate 2026](/es/articulos/immobilier-algerie-2026).
+## Documentos según escenario: matriz práctica
 
-## Documents according to scenario: practical matrix
+## Escenario A: antiguo apartamento en condominio
 
-### Scenario A — Old condominium apartment
+Prioridades: identidad/poderes, escritura, cuadernillo/conservación (cargos), EDD, reglamento si existe, visita técnica, consultas cargos/controversias.
 
-Priorities: identity/powers, deed, booklet/conservation (charges), EDD, regulations if existing, technical visit, questions charges/disputes.
+## Escenario B: Villa/terreno edificado
 
-### Scenario B — Villa / built-up land
+Prioridades: título, linderos, catastro, urbanismo/historial de construcción, permisos/cumplimiento según corresponda, accesos y servidumbres.
 
-Priorities: title, boundaries, cadastre, town planning/construction history, permits/compliance as applicable, access and easements.
+## Escenario C: nuevo entregado por el promotor
 
-### Scenario C — New delivered by developer
+Prioridades: documentos del promotor (aprobación, registro, mesa), permiso, EDD, informe/entrega, libreta de ruta, garantías y reservas.
 
-Priorities: promoter documents (approval, register, table), permit, EDD, report/delivery, route booklet, guarantees and reservations.
+## Escenario D: Venta de planos
 
-### Scenario D — Sale on plans
+Prioridades: documentos del promotor + proyecto FGCMPI + contrato conforme (11-04 / 13-431) + descripción + cronograma + fecha límite + derechos de terreno.
 
-Priorities: developer documents + FGCMPI project + compliant contract (11-04 / 13-431) + description + schedule + deadline + land rights.
+Esta matriz evita pedir “todos los documentos del mundo” sin orden. Fuerza un camino.
 
-This matrix avoids asking for “all the documents in the world” without order. It forces a path.
+## Cómo organizar la carpeta de tu comprador
 
-## How to organize your buyer's binder
+Crea cuatro carpetas digitales:
 
-Create four digital folders:
+1. **Actor** (identificaciones, aprobación, registro, tabla, mandatos);
+2. **Tierra** (folleto, información de conservación, catastro);
+3. **Técnico/urbano** (permisos, planos, EDD, descripción);
+4. **Contrato/pagos** (borradores de documentos, recibos, cambios).
 
-1. **Actor** (IDs, approval, register, table, mandates);
-2. **Land** (booklet, conservation information, land register);
-3. **Technical / urban** (permits, plans, EDD, description);
-4. **Contract / payments** (draft documents, receipts, exchanges).
+Nombra los archivos con fechas. Cuando el notario solicita un documento, usted ahorra días y reduce los errores de versión.
 
-Name the files with dates. When the notary requests a document, you save days — and you reduce version errors.
+## Piezas “tranquilizadoras” que no son suficientes
 
-## “Reassuring” pieces that are not enough
+- un folleto de lujo;
+- una representación 3D;
+- un testimonio de WhatsApp;
+- una copia parcial ilegible;
+- un “certificado” no claramente identificado.
 
-- a luxurious brochure;
-- a 3D rendering;
-- a WhatsApp testimonial;
-- an illegible partial copy;
-- a “certificate” not clearly identified.
+Estos elementos pueden acompañar a un expediente; no lo reemplazan. Pregunte siempre: **¿qué autoridad produjo este documento, en qué fecha, con qué propósito?**
 
-These elements can accompany a file; they don't replace it. Always ask: **which authority produced this document, on what date, for what purpose?**
+## Coordinación con el notario: buenas prácticas
 
-## Coordination with the notary: good practices
+- enviar el archivo **antes** de la reunión de firma;
+- enumere sus preguntas en una página;
+- preguntar qué piezas aún faltan por asegurar;
+- negarse a descubrir un documento crítico en el lugar bajo presión.
 
-- send the file **before** the signing meeting;
-- list your questions on one page;
-- ask what parts are still missing to secure;
-- refuse to discover a critical document on site under pressure.
+El notario no es su adversario: es su punto de inflexión hacia la seguridad. Llegue preparado.
 
-The notary is not your adversary: it is your tipping point towards security. Arrive prepared.
+## Retención de pruebas después de la compra
 
-## Retention of evidence after purchase
+Después de firmar, archive:
 
-After signing, archive:
+- acto y anexos;
+- comprobante de pago;
+- Informe de entrega y reservas;
+- repetir partidos;
+- posible folleto / actualizaciones.
 
-- act and annexes;
-- proof of payment;
-- Delivery report and reserves;
-- repeat matches;
-- possible booklet / updates.
+Este archivo protege futuros procedimientos administrativos y de reventa. Muchos compradores descuidan este punto una vez que tienen las llaves en la mano.
 
-This archive protects future resale and administrative procedures. Many buyers neglect this point once the keys are in hand.
+## Preguntas frecuentes
 
-## FAQ
+## ¿Cuál es la diferencia entre escritura notarial y *livret foncier*?
 
-### What is the difference between notarial deed and land record book?
+El acto autentica una transacción entre las partes. El *livret foncier* forma parte del anuncio/título en el sistema de libros de tierras. Los dos se leen juntos, con conservación.
 
-The act authenticates a transaction between parties. The land book is part of the advertisement/title in the land book system. The two are read together, with conservation.
+## ¿Debería ir yo mismo a la oficina de *conservation foncière*?
 
-### Should I go to the land conservation office myself?
+Suele ser útil, pero lo ideal es que el trámite se realice ante notario. Lo importante es obtener una lectura fiable y reciente de la situación publicada.
 
-Often useful, but the process is ideally done with the notary. The important thing is to obtain a reliable and recent reading of the published situation.
+## ¿Se requiere EDD para todas las compras?
 
-### Is EDD required for all purchases?
+Es crucial en cuanto se produce la división en lotes/copropiedad. Para una villa en terreno indiviso, tendrán prioridad otras habitaciones. Pregúntele al notario qué se aplica a su propiedad.
 
-It is crucial as soon as there is division into lots/co-ownership. For a villa on undivided land, other rooms will take precedence. Ask the notary what applies to your property.
+## ¿Podemos comprar uno nuevo sin un folleto individual inmediato?
 
-### Can we buy a new one without an immediate individual booklet?
+A veces, el folleto individual sigue la división del título principal. El notario deberá explicar el proceso y las garantías documentales en cada etapa. No aceptes la imprecisión.
 
-Sometimes the individual booklet follows the division of the parent title. The notary must explain the process and the documentary guarantees at each stage. Don’t accept imprecision.
+## ¿Qué documentos adicionales para una compra sobre plano?
 
-### What additional documents for an off-plan purchase?
+Aprobación del promotor, registro, cuadro nacional, permiso, contrato conforme, cronograma, documentos de respaldo del proyecto FGCMPI, descripción técnica.
 
-Promoter approval, register, national table, permit, compliant contract, timetable, FGCMPI project supporting documents, technical description.
+## ¿Un archivo S.A.F.E reemplaza estos documentos?
 
-### Does a S.A.F.E file replace these documents?
+No. S.A.F.E es complementario y propietario. Los documentos oficiales siguen siendo la base.
 
-No. S.A.F.E is complementary and proprietary. The official documents remain the basis.
+## Fuentes
 
-## Sources
-
-- Ordinance No. 75-74 relating to the general land registry and the establishment of the land register
-- DGDN practices and pages — [dgdn.gov.dz](https://www.dgdn.gov.dz)
-- Law No. 11-04 and Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
-- Note Justice 2025 (notarial vigilance / promotion) — Algerian press
+- Ordenanza nº 75-74 relativa al registro general de la propiedad y al establecimiento del registro de la propiedad
+- Prácticas y páginas DGDN — [dgdn.gov.dz](https://www.dgdn.gov.dz)
+- Ley N° 11-04 y decreto 13-431 — [FGCMPI](https://fgcmpi.org.dz)
+- Nota Justicia 2025 (vigilancia / promoción notarial) — Prensa argelina
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "audit:language": "python3 scripts/audit_language.py --fail"
   },
   "dependencies": {
     "@fontsource-variable/dm-sans": "^5.2.8",

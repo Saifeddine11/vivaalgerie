@@ -27,8 +27,16 @@ export const GET: APIRoute = async () => {
   const staticFr = [
     '/',
     '/blog',
+    '/actualite',
+    '/algerie',
+    '/sahara-occidental',
+    '/algerie-maroc',
+    '/algerie-vs-maroc',
+    '/frontiere-algerie-maroc',
     '/immobilier',
     '/tourisme',
+    '/economie',
+    '/culture',
     '/investissement',
     '/villes',
     '/guides',
@@ -48,11 +56,20 @@ export const GET: APIRoute = async () => {
   }
 
   // Multilingual homes + core pages
+  const legacyLocalizedCategories = [
+    'immobilier',
+    'tourisme',
+    'investissement',
+    'villes',
+    'guides',
+    'analyses',
+  ] as const;
+
   for (const locale of LOCALES.filter((l) => l !== 'fr') as Locale[]) {
     urls.push(url(HOME_PATH[locale], now));
     urls.push(url(BLOG_PATH[locale], now));
-    for (const cat of Object.values(CATEGORY_PATHS[locale])) {
-      urls.push(url(cat, now));
+    for (const cat of legacyLocalizedCategories) {
+      urls.push(url(CATEGORY_PATHS[locale][cat], now));
     }
     urls.push(url(SAFE_PATH[locale], now));
     for (const p of Object.values(SEO_CLUSTER_PATHS[locale])) {

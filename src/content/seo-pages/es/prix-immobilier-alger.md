@@ -1,233 +1,230 @@
 ---
-title: "Precios inmobiliarios en Argel: entender el mercado | Viva Algérie"
-h1: "Precios inmobiliarios en Argel: entender el mercado antes de comprar"
-description: "Cómo leer el mercado de Argel sin inventar precios por m²."
+title: "Precios de las propiedades en Argel: comprenda el mercado antes de comprar | Viva Algérie"
+h1: "Precios de las propiedades en Argel: comprenda el mercado antes de comprar"
+description: "Precios inmobiliarios en Argel: cómo leer el mercado por segmentos (Hydra, Bab Ezzouar…), factores de valor y método sin cifras inventadas."
 slug: "prix-immobilier-alger"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/precios-inmobiliarios-argel"
 translationKey: "prix-immobilier-alger"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+Buscar “el” precio del metro cuadrado en Argel es el reflejo más frecuente y uno de los más engañosos. La capital argelina no tiene un mercado único: superpone micromercados por barrio, situación, estado de la propiedad, calidad de los títulos, vistas, aparcamiento y liquidez. Esta página explica **cómo leer** el mercado de precios inmobiliarios de Argel antes de comprar, **sin inventar cotizaciones**.
 
+Para tomar una decisión sobre el precio, recurra a una **tasación profesional** y comparables verificados cerca del notario/expertos competentes. Los listados en línea no son una cotización oficial.
 
-Searching for “the” price per square metre in Algiers is the most frequent reflex — and one of the most misleading. The Algerian capital does not have a single market: it overlays micro-markets by neighbourhood, standing, property condition, title quality, view, parking and liquidity. This page explains **how to read** the Algiers property-price market before buying, **without inventing quotations**.
+> **Descargo de responsabilidad.** Esta página es un análisis editorial. No constituye asesoramiento financiero o legal ni experiencia inmobiliaria valorada. Aquí no se indica ningún precio por m².
 
-For a priced decision, call on a **professional valuation** and verified comparables near the notary / competent experts. Online listings are not an official quote.
+## Por qué no existe un único “precio de Argel”
 
-> **Disclaimer.** This page is an editorial analysis. It does not constitute financial or legal advice or a priced real-estate expertise. No price per m² is asserted here.
+Argel concentra centros históricos, barrios residenciales consolidados, polos de empleo, zonas en densificación y periferias en transición. Comparar un apartamento de segunda mano en Hydra, una nueva construcción en Bab Ezzouar y una villa en Dély Ibrahim bajo un único promedio produce una ilusión.
 
-## Why there is not a single “Algiers price”
+Tres razones estructurales:
 
-Algiers concentrates historic centres, consolidated residential neighbourhoods, employment hubs, densifying zones and peripheries in transition. Comparing a second-hand apartment in Hydra, a new build in Bab Ezzouar and a villa in Dély Ibrahim under a single average produces an illusion.
+1. **Heterogeneidad urbana**: relieve, conexiones de transporte, servicios, densidad.
+2. **Heterogeneidad jurídica**: calidad del título, cargas, conformidad.
+3. **Heterogeneidad de producto**: reformado/a reformar de segunda mano, entregado obra nueva, sobre plano.
 
-Three structural reasons:
+Antes de hablar de precio, clasifique la propiedad en un **segmento**. Consulte también [Riesgos de compra](/es/riesgos-compra-inmobiliaria-argelia) y [Documentos](/es/documentos-compra-inmobiliaria-argelia).
 
-1. **Urban heterogeneity**: relief, transport links, services, density.
-2. **Legal heterogeneity**: title quality, charges, conformity.
-3. **Product heterogeneity**: renovated / to-renovate second-hand, delivered new build, off-plan.
+## Segmentos útiles para leer Argel (sin cifras)
 
-Before talking price, classify the property in a **segment**. See also [Purchase risks](/es/riesgos-compra-inmobiliaria-argelia) and [Documents](/es/documentos-compra-inmobiliaria-argelia).
+## Centros establecidos y barrios residenciales
 
-## Useful segments for reading Algiers (without figures)
+Sectores como **Hydra**, **El Biar**, **Ben Aknoun**, partes de **Dély Ibrahim** o **Cheraga** (dependiendo de las calles y los productos) a menudo se perciben como mercados permanentes con relativa escasez. Eso no dice nada sobre un precio exacto: dice que debes comparar **dentro** del segmento (misma tipología, misma condición, misma calidad del título).
 
-### Established centres and residential neighbourhoods
+## Centros de actividad y accesibilidad
 
-Sectors such as **Hydra**, **El Biar**, **Ben Aknoun**, parts of **Dély Ibrahim** or **Cheraga** (depending on streets and products) are often perceived as standing markets with relative scarcity. That says nothing of an exact price: it says you must compare **within** the segment (same typology, same condition, same title quality).
+**Bab Ezzouar** (proximidad a actividades/aeropuerto según sectores), determinados ejes de **Bordj El Kiffan**, zonas vinculadas a importantes equipamientos: la demanda puede estar más ligada a la movilidad y el uso que al “prestigio” histórico. Luego, el precio se lee teniendo en cuenta las restricciones de densidad, ruido y estacionamiento.
 
-### Activity and accessibility hubs
+## Periferias y municipios de la zona de Argel
 
-**Bab Ezzouar** (proximity to activities / airport depending on sectors), certain axes of **Bordj El Kiffan**, zones linked to major facilities: demand may be more tied to mobility and use than to historic “prestige”. Price is then read with density, noise and parking constraints.
+Draria, Birkhadem, Ouled Fayet y otros municipios del conjunto de Argel ofrecen diferentes productos (superficie, obra nueva, presupuestos). El riesgo es comparar un m² periférico con un m² hipercéntrico como si fueran fungibles.
 
-### Peripheries and communes of the Algiers area
+## Nuevo/sobre plano vs usado
 
-Draria, Birkhadem, Ouled Fayet, and other communes of the Algiers ensemble offer different products (surface, new build, budgets). The risk is comparing a peripheral m² to a hyper-central m² as if they were fungible.
+La obra nueva puede parecer “más cara” o “más barata” dependiendo de lo que incluya el anuncio (acabados, aparcamiento, cargos futuros, retrasos, riesgo de ejecución). Un precio sobre plano es comparable a un precio de entrega solo después de ajustarlo por **riesgo** y **tiempo**. Consulte [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel), [Comprar sobre plano en Argelia](/es/comprar-sobre-plano-argelia), [Entrega de vivienda nueva](/es/entrega-vivienda-nueva-argelia).
 
-### New / off-plan vs second-hand
+## Factores que realmente hacen que el valor varíe
 
-New build may seem “more expensive” or “cheaper” depending on what the listing includes (finishes, parking, future charges, delay, execution risk). An off-plan price is comparable to a delivered price only after adjusting for **risk** and **time**. See [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel), [Buying off-plan in Algeria](/es/comprar-sobre-plano-argelia), [New housing delivery](/es/entrega-vivienda-nueva-argelia).
+## 1. Microubicación (no solo el nombre del vecindario)
 
-## Factors that really make value vary
+Calle, exposición, molestias, proximidad a servicios, accesibilidad real en horas punta. Dos propiedades “Hydra” pueden pertenecer a dos mercados.
 
-### 1. Micro-location (not only the neighbourhood name)
+## 2. Calidad jurídica
 
-Street, exposure, nuisances, proximity to services, real accessibility at peak hours. Two “Hydra” properties can belong to two markets.
+Claro *livret* / publicidad del terreno, ausencia de cargas problemáticas, conformidad: una propiedad “más barata” puede tener un riesgo más elevado. Ver [Documentos](/es/documentos-compra-inmobiliaria-argelia).
 
-### 2. Legal quality
+## 3. Condición y cargos técnicos.
 
-Clear *livret* / land publicity, absence of problematic charges, conformity: a “cheaper” property can be more expensive in risk. See [Documents](/es/documentos-compra-inmobiliaria-argelia).
+Reforma real vs cosmética, impermeabilización, chimeneas, copropiedad. Los artículos de segunda mano “baratos” pueden absorber un presupuesto de obras subestimado.
 
-### 3. Condition and technical charges
+## 4. Anexos
 
-Real vs cosmetic renovation, waterproofing, stacks, co-ownership. “Cheap” second-hand can absorb an underestimated works budget.
+El aparcamiento y el sótano en Argel no son detalles: cambian de uso y de liquidez.
 
-### 4. Annexes
+## 5. Piso, luz natural, vista, molestias.
 
-Parking and cellar in Algiers are not details: they change use and liquidity.
+Factores clásicos, a menudo mal estandarizados en los listados.
 
-### 5. Floor, daylight, view, nuisance
+## 6. Liquidez y retraso en la reventa
 
-Classic factors, often poorly standardised in listings.
+Un precio de compra “ganado” por una propiedad difícil de revender no es necesariamente un buen negocio patrimonial.
 
-### 6. Liquidity and resale delay
+## 7. Perfil del comprador
 
-A purchase price “won” on a hard-to-resell property is not necessarily a good patrimonial deal.
+Residencia, familia, diáspora, colocación: cambios en la disposición a pagar. Consulte [Por qué Argel atrae](/es/articulos/pourquoi-investir-immobilier-alger), [Diáspora](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-### 7. Buyer profile
+## Cómo construir una lectura de mercado (método)
 
-Residence, family, diaspora, placement: willingness to pay changes. See [Why Algiers attracts](/es/articulos/pourquoi-investir-immobilier-alger), [Diaspora](/es/articulos/diaspora-algerienne-acheter-immobilier).
+## Paso A: Definir lo comparable
 
-## How to build a market reading (method)
+Misma comuna / barrio, misma tipología (F3/F4…), superficie cercana, estado cercano, título comparable, anexos comparables.
 
-### Step A — Define the comparable
+## Paso B: Reúna varias fuentes
 
-Same commune / neighbourhood, same typology (F3/F4…), close surface, close condition, comparable title, comparable annexes.
+Listados (preguntar), transacciones realmente concluidas (más difíciles de obtener), opiniones de expertos, comentarios notariales. Cuidado con los precios “mostrados” durante mucho tiempo sin venta.
 
-### Step B — Gather several sources
+## Paso C: Ajustar cualitativamente
 
-Listings (asking), actually concluded transactions (harder to obtain), expert opinions, notarial feedback. Beware prices “displayed” for a long time without a sale.
+Obras, piso, vista, estacionamiento, urgencia del vendedor, riesgo legal. Sin convertir el ajuste en una cifra falsamente precisa.
 
-### Step C — Adjust qualitatively
+## Paso D: precio de lista separado y precio negociado
 
-Works, floor, view, parking, seller urgency, legal risk. Without turning the adjustment into a false precise figure.
+El mercado de Argel puede incluir márgenes de negociación que varían según la liquidez y la calidad de los archivos. La ausencia de negociación no es prueba de un “precio justo”.
 
-### Step D — Separate listed price and negotiated price
+## Paso E: hágalo valorar
 
-The Algiers market can include negotiation margins that vary by liquidity and file quality. Absence of negotiation is not proof of a “fair price”.
+Para un compromiso importante, una **valoración profesional** (experto/profesional reconocido según el contexto) reduce el punto ciego. Viva Algérie no reemplaza este paso.
 
-### Step E — Have it valued
+## Sobre plano: leer un precio de forma diferente
 
-For a major commitment, a **professional valuation** (expert / recognised professional depending on context) reduces the blind spot. Viva Algérie does not replace this step.
+Un precio sobre plano debe leerse con:
 
-## Off-plan: reading a price differently
+- calendario e inmovilización de capitales;
+- riesgo de retraso;
+- riesgo de revisión de precios si así lo prevé el contrato;
+- posible brecha entre el 3D y el producto entregado;
+- calidad del promotor (*agrément*, FGCMPI, historial).
 
-An off-plan price must be read with:
+Consulte [Cómo verificar un promotor](/es/como-verificar-promotor-inmobiliario-argelia) y [Riesgos](/es/riesgos-compra-inmobiliaria-argelia).
 
-- schedule and capital immobilisation;
-- delay risk;
-- price-revision risk if provided in the contract;
-- possible gap between 3D and delivered product;
-- developer quality (*agrément*, FGCMPI, history).
+decreto 13-431 recuerda la disciplina de pagos ligada al progreso: un “precio bajo” obtenido a costa de los depósitos fuera del marco no es un buen negocio.
 
-See [Checking a developer](/es/como-verificar-promotor-inmobiliario-argelia) and [Risks](/es/riesgos-compra-inmobiliaria-argelia).
+## Trampas clásicas relacionadas con los precios en Argel
 
-Decree 13-431 recalls payment discipline linked to progress: a “low price” obtained at the cost of off-framework deposits is not a good deal.
+1. **Promedio nacional o urbano** aplicado a una calle concreta.
+2. **Precio por m²** calculado sobre una superficie mal definida (útil/construida/aproximada).
+3. **Listados de llamadas** no disponibles.
+4. **Comparación nuevo/segunda mano** sin ajustar riesgo.
+5. **Olvidarse de tarifas** y obras.
+6. **Presión**: “mañana sube” sin datos.
 
-## Classic price-related traps in Algiers
+Complementos: [Errores al comprar](/es/articulos/erreurs-acheter-immobilier-algerie), [Bienes raíces 2026](/es/articulos/immobilier-algerie-2026), [Argel / Orán / Constantina](/es/articulos/alger-oran-constantine-investir).
 
-1. **National or urban average** applied to a precise street.
-2. **Price per m²** calculated on a poorly defined surface (useful / built / approximate).
-3. **Call listings** not available.
-4. **New/second-hand comparison** without adjusting risk.
-5. **Forgetting fees** and works.
-6. **Pressure**: “tomorrow it goes up” without data.
+## Precio y S.A.F.E
 
-Complements: [Mistakes when buying](/es/articulos/erreurs-acheter-immobilier-algerie), [Real estate 2026](/es/articulos/immobilier-algerie-2026), [Algiers / Oran / Constantine](/es/articulos/alger-oran-constantine-investir).
+El grid **S.A.F.E** integra un **análisis de inversión** entre otros pilares (seguridad, confiabilidad de ejecución, soporte). Puede ayudar a juzgar si un proyecto es coherente, sin publicar una cotización oficial y sin reemplazar una experiencia. S.A.F.E es **propietario**, no gubernamental.
 
-## Price and S.A.F.E
+Detalles: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
-The **S.A.F.E** grid integrates an **investment analysis** among other pillars (security, execution reliability, support). It can help judge whether a project is coherent — without publishing an official quote and without replacing an expertise. S.A.F.E is **proprietary**, not governmental.
+## Miniprotocolo antes de ofrecer un precio
 
-Details: [S.A.F.E certification](/es/certificacion-inmobiliaria-safe).
+1. Clasificar el inmueble en un segmento (barrio + tipología + condición + título).
+2. Reúna al menos varios comparables cercanos, no un solo listado.
+3. Ajustar cualitativamente (estacionamiento, piso, obras, riesgos).
+4. Comprobar que el expediente legal no contamina valor.
+5. Hacer que un profesional cuestione la cifra si el billete es elevado.
+6. Precio de oferta por separado, precio de reserva personal y precio de “emoción”.
 
-## Mini-protocol before offering a price
+Si no puede explicar por qué ofrece esa cantidad en cinco oraciones objetivas, no está listo para ofrecer.
 
-1. Classify the property in a segment (neighbourhood + typology + condition + title).
-2. Gather at least several close comparables, not a single listing.
-3. Adjust qualitatively (parking, floor, works, risks).
-4. Check that the legal file does not contaminate value.
-5. Have the figure challenged by a professional if the ticket is high.
-6. Separate offer price, personal reserve price and “emotion” price.
+## Conclusiones clave
 
-If you cannot explain why you offer that amount in five factual sentences, you are not ready to offer.
+Comprender los **precios inmobiliarios en Argel** significa abandonar el promedio mágico y adoptar una lectura por segmentos, factores y comparables. No compre una figura de cotización: compre un archivo (legal + producto + liquidez). Para la cifra final pasa por una tasación profesional y el notario.
 
-## Key takeaways
+Para el recorrido de compra: [Documentos](/es/documentos-compra-inmobiliaria-argelia), [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel), [Marco legal](/es/articulos/cadre-juridique-immobilier-algerie).
 
-Understanding **property prices in Algiers** means abandoning the magic average and adopting a reading by segments, factors and comparables. Do not buy a listing figure: buy a file (legal + product + liquidity). For the final figure, go through a professional valuation and the notary.
 
-For the purchase journey: [Documents](/es/documentos-compra-inmobiliaria-argelia), [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel), [Legal framework](/es/articulos/cadre-juridique-immobilier-algerie).
+## Leer un listado de Argel sin confundir la unidad
 
+Los listados a veces se mezclan:
 
-## Reading an Algiers listing without mistaking the unit
+- superficie “comercial” aproximada;
+- superficie útil real;
+- inclusión o no de anexos;
+- precio “desde” sobre plano;
+- precio negociable no mostrado.
 
-Listings sometimes mix:
+Antes de cualquier comparación, normalizar: ¿de qué estamos hablando? Sin esa normalización, el “m²” se convierte en un eslogan.
 
-- approximate “commercial” surface;
-- real useful surface;
-- inclusion or not of annexes;
-- “from” price off-plan;
-- negotiable price not displayed.
+## Ejemplos de razonamiento (cualitativo, no tasado)
 
-Before any comparison, normalise: what are we talking about? Without that normalisation, the “m²” becomes a slogan.
+- Un F3 central sin aparcamiento puede valer “menos” en el uso diario que un F3 un poco más periférico con aparcamiento seguro, dependiendo de tu vida real.
+- Una construcción nueva con un gran retraso debe compararse con una segunda mano inmediatamente habitable **después** de integrar el coste del tiempo (alquiler, inmovilización).
+- Un precio agresivo sobre una propiedad con un título difuso no es una ganga: a menudo es una transferencia de riesgo.
 
-## Examples of reasoning (qualitative, not priced)
+Estos ejemplos no dan cifras; entrenan el juicio.
 
-- A central F3 without parking may be worth “less” in daily use than a slightly more outlying F3 with secure parking, depending on your real life.
-- A new build with a long delay must be compared to immediately habitable second-hand **after** integrating the cost of time (rent, immobilisation).
-- An aggressive price on a property with a fuzzy title is not a bargain: it is often a transfer of risk.
+## Papel de la infraestructura y la percepción
 
-These examples give no figures; they train judgement.
+Las grandes instalaciones, las conexiones de transporte y los proyectos urbanos influyen en la **percepción** del valor. Pero tenga cuidado de no pagar hoy por una infraestructura “anunciada” como si ya estuviera allí. Integre un escenario prudente: retraso, densidad adicional, molestias en el sitio.
 
-## Role of infrastructure and perception
+Para una lectura más amplia de trayectorias urbanas: [Argelia 2030](/es/articulos/algerie-2030-infrastructures-opportunites), [Bienes raíces 2026](/es/articulos/immobilier-algerie-2026).
 
-Major facilities, transport links and urban projects influence the **perception** of value. Be careful, however, not to pay today for an “announced” infrastructure as if it were already there. Integrate a prudent scenario: delay, additional density, site nuisances.
+## Negociación: marco mental
 
-For a broader reading of urban trajectories: [Algeria 2030](/es/articulos/algerie-2030-infrastructures-opportunites), [Real estate 2026](/es/articulos/immobilier-algerie-2026).
+Negociar en Argel no es un espectáculo. Es una conversación basada en:
 
-## Negotiation: mental framework
+- defectos objetivados;
+- comparables cercanos;
+- plazos de disponibilidad;
+- solidez del expediente judicial.
 
-Negotiating in Algiers is not a spectacle. It is a conversation based on:
+Sin argumentos, la negociación se vuelve un engaño. Con una lima, se vuelve racional. Y a veces, lo correcto no es negociar el precio, sino exigir **obras/documentos/cláusulas** faltantes.
 
-- objectified defects;
-- close comparables;
-- availability deadlines;
-- solidity of the legal file.
+## Cuándo recurrir a una valoración profesional
 
-Without arguments, negotiation becomes bluff. With a file, it becomes rational. And sometimes, the right move is not to negotiate the price, but to require missing **works / documents / clauses**.
+- ticket de compra elevado;
+- propiedad atípica (vista rara, villa grande, local mixto);
+- desacuerdo familiar sobre el valor;
+- arbitraje entre dos propiedades cercanas;
+- Proyecto patrimonial o de transmisión.
 
-## When to call on a professional valuation
+La valoración no sustituye al notario; complementa la lectura económica. Cuidado con los “presupuestos” gratuitos y puramente comerciales destinados a obtener un mandato.
 
-- high purchase ticket;
-- atypical property (rare view, large villa, mixed premises);
-- family disagreement on value;
-- arbitration between two close properties;
-- patrimonial or transmission project.
+## Precio, emoción y diáspora
 
-Valuation does not replace the notary; it complements the economic reading. Beware of free purely commercial “estimates” aimed at obtaining a mandate.
+La diáspora a veces compra bajo restricciones de estadías cortas. Esa restricción eleva el precio psicológico. Anticiparse: expedientes elaborados a distancia, mandatos, lista corta antes del viaje, negativa a decidir el último día en el aeropuerto. El tiempo comprimido es el aliado del vendedor apresurado, no el tuyo. Explore más en nuestros centros [guías](/es/guias) y [inmobiliario](/es/inmobiliario).
 
-## Price, emotion and diaspora
+## Preguntas frecuentes
 
-The diaspora sometimes buys under short-stay constraint. That constraint raises the psychological price. Anticipate: files prepared at a distance, mandates, shortlist before the trip, refusal to decide on the last day at the airport. Compressed time is the ally of the hurried seller, not yours. Explore more in our [guides](/es/guias) and [real estate](/es/inmobiliario) hubs.
+## ¿Cuál es el precio por m² en Argel hoy?
 
-## FAQ
+No hay un precio único confiable publicado aquí. Los niveles varían mucho según el barrio, el producto y el título. Solicite una valoración y comparables serios.
 
-### What is the price per m² in Algiers today?
+## ¿Por qué los listados divergen tanto?
 
-There is no single reliable price published here. Levels vary strongly by neighbourhood, product and title. Ask for a valuation and serious comparables.
+Superficies mal definidas, precios de compra, propiedades no comparables y brecha entre exhibición y transacción real.
 
-### Why do listings diverge so much?
+## ¿Cómo comparar productos nuevos y usados?
 
-Poorly defined surfaces, call prices, non-comparable properties, and gap between display and real transaction.
+A igualdad de calidad del título, ajuste condición, cargos, demora, riesgo de ejecución y anexos. Un m² no es automáticamente equivalente.
 
-### How to compare new and second-hand?
+## ¿El barrio Hydra es siempre “más caro”?
 
-At equal title quality, adjust condition, charges, delay, execution risk and annexes. A m² is not automatically equivalent.
+A menudo se percibe como un segmento permanente, pero cada calle y cada propiedad deben compararse en su micromercado. Aquí no se afirma ninguna cifra de precio automático.
 
-### Is the Hydra neighbourhood always “more expensive”?
+## ¿Paga más la diáspora?
 
-Often perceived as a standing segment, but each street and each property must be compared in its micro-market. No automatic priced figure is asserted here.
+Puede estar más expuesto a la asimetría y a las prisas en la información. El método (comparables, notario, documentos) cuenta más que el estereotipo.
 
-### Does the diaspora pay more?
+## ¿S.A.F.E da un precio oficial?
 
-It can be more exposed to information asymmetry and rush. Method (comparables, notary, documents) counts more than the stereotype.
+No. Es una rejilla de análisis propietaria, no una cotización pública ni una experiencia alternativa.
 
-### Does S.A.F.E give an official price?
+## Fuentes
 
-No. It is a proprietary analysis grid, not a public quote or a substitute expertise.
-
-## Sources
-
-- Qualitative observation of the Algiers market (urban segments) — Viva Algérie editorial analysis
-- Development / *vente sur plans* framework: Law 11-04, Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
-- *Conservation foncière* / title: [DGDN](https://www.dgdn.gov.dz)
+- Observación cualitativa del mercado de Argel (segmentos urbanos) — Análisis editorial Viva Algérie
+- Desarrollo / framework *vente sur plans*: ley 11-04, decreto 13-431 — [FGCMPI](https://fgcmpi.org.dz)
+- *Conservación foncière* / título: [DGDN](https://www.dgdn.gov.dz)
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

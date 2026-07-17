@@ -1,6 +1,6 @@
 ---
-title: "Algiers, Oran, Constantine: waar investeren volgens uw profiel?"
-description: "Vergelijking van drie metropolen voor verschillende koperprofielen: risico, liquiditeit en lokale dynamiek."
+title: "Algiers, Oran, Constantine: waar te investeren voor uw profiel?"
+description: "Vergelijk Algiers, Oran en Constantine voor een vastgoedproject: liquiditeit, toerisme, budget en beleggersprofiel – zonder een absolute rangorde."
 slug: "alger-oran-constantine-investir"
 category: "villes"
 lang: "nl"
@@ -8,197 +8,194 @@ pubDate: 2026-02-05
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/alger-oran-constantine-investir.webp"
-imageAlt: "Urban triptych illustrating Algiers, Oran and Constantine"
+imageAlt: "Stedelijk drieluik met afbeeldingen van Algiers, Oran en Constantine"
 featured: false
 draft: false
-tags: ["Algiers", "Oran", "Constantine", "cities", "investment", "comparison"]
 translationKey: "alger-oran-constantine-investir"
+tags: ["Algiers", "Oran", "Constantine", "steden", "investering", "vergelijking"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+Kiezen tussen Algiers, Oran en Constantine is geen populariteitswedstrijd. Het is een matching-oefening tussen een beleggersprofiel (of een koper die een eigenaar-bewoner is), een budget, een beleggingshorizon en een tolerantie voor documentair risico. De drie steden delen hetzelfde nationale raamwerk voor vastgoedontwikkeling: **wet nr. 11-04 van 17 februari 2011**, ontwikkelaar **agrément** (goedkeuring) op **wilaya** niveau, het **nationaal register van ontwikkelaars** (tableau national des promoteurs), het **FGCMPI** (wederzijds garantiefonds voor vastgoedontwikkeling), het *livret foncier* (kadasterboekje), **conservation foncière** (kadaster) / landbeschermingskantoor), de **notaris**, **vente sur plans** (off-plan verkoop onder wet 11-04 en **Uitvoerend Decreet nr. 13-431**), en de **garantie décennale** (tienjarige structurele garantie) – maar ze bieden niet dezelfde marktdichtheid, noch dezelfde vraagfactoren.
 
-
-Choosing between Algiers, Oran and Constantine is not a popularity contest. It is a matching exercise between an investor profile (or an owner-occupier buyer), a budget, a holding horizon and a tolerance for documentary risk. The three cities share the same national real-estate development framework — **Law No. 11-04 of 17 February 2011**, developer **agrément** (approval) at the **wilaya** level, the **national register of developers** (tableau national des promoteurs), the **FGCMPI** (mutual guarantee fund for real-estate development), the **livret foncier** (land title booklet), **conservation foncière** (land registry / land conservation office), the **notary**, **vente sur plans** (off-plan sale under Law 11-04 and **Executive Decree No. 13-431**), and the **garantie décennale** (ten-year structural guarantee) — but they do not offer the same market density, nor the same demand drivers.
-
-With nearly 46.7 million inhabitants in January 2024 and a population approaching 47 million by mid-2025 (ONS), Algeria remains a country under urban pressure. That pressure is not evenly distributed. It concentrates, shifts and recomposes according to infrastructure, jobs and, increasingly, tourist and diaspora flows.
+Met bijna 46,7 miljoen inwoners in januari 2024 en een bevolking die medio 2025 de 47 miljoen nadert (ONS), blijft Algerije een land dat onder stedelijke druk staat. Die druk is niet gelijkmatig verdeeld. Het concentreert, verschuift en hercomponeert zich afhankelijk van de infrastructuur, de werkgelegenheid en, in toenemende mate, de toeristen- en diasporastromen.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## Reading grid: five criteria before “feeling”
+## Leesraster: vijf criteria vóór ‘voelen’
 
-Before preferring one city, clarify:
+Voordat u de voorkeur geeft aan één stad, moet u het volgende verduidelijken:
 
-1. **Use**: live in it, rent it out, pass it on, or a mix.
-2. **Horizon**: 3 years, 7 years, 15 years and beyond.
-3. **Desired liquidity**: ability to resell or rent quickly.
-4. **Net budget**: price + fees + works + reserve.
-5. **Operational capacity**: local presence, remote management, notarial and technical network.
+1. **Gebruik**: er wonen, verhuren, doorgeven, of een mix.
+2. **Horizon**: 3 jaar, 7 jaar, 15 jaar en langer.
+3. **Gewenste liquiditeit**: mogelijkheid om snel door te verkopen of te verhuren.
+4. **Nettobudget**: prijs + ereloon + werken + reserve.
+5. **Operationele capaciteit**: lokale aanwezigheid, beheer op afstand, notarieel en technisch netwerk.
 
-Without this grid, comparison becomes purely emotional: “Algiers is the capital”, “Oran is the coast”, “Constantine is authentic”. Those intuitions contain a share of truth; they are not enough to decide.
+Zonder dit raster wordt de vergelijking louter emotioneel: “Algiers is de hoofdstad”, “Oran is de kust”, “Constantine is authentiek”. Die intuïties bevatten een deel van de waarheid; ze zijn niet genoeg om te beslissen.
 
-## Algiers: depth, capital status, entry ticket
+## Algiers: diepte, kapitaalstatus, toegangsbewijs
 
-### Best-suited profile
-An investor or family seeking **relative liquidity**, address prestige, proximity to institutions and services, and a thicker secondary market. A diaspora profile with frequent stays via Algiers airport. A wealth-oriented profile aiming at transmission.
+## Meest geschikte profiel
+Een investeerder of familie die op zoek is naar **relatieve liquiditeit**, prestige, nabijheid van instellingen en diensten, en een dikkere secundaire markt. Een diasporaprofiel met frequente verblijven via de luchthaven van Algiers. Een vermogensgericht profiel gericht op overdracht.
 
-### Strengths
-- Structural demand density.
-- Concentration of services and tertiary employment.
-- Symbolic and family attractiveness for part of the diaspora.
-- Greater variety of typologies (from collective housing to higher standing).
+## Sterke punten
+- Structurele vraagdichtheid.
+- Concentratie van diensten en tertiaire werkgelegenheid.
+- Symbolische en familiale aantrekkelijkheid voor een deel van de diaspora.
+- Grotere variatie aan typologieën (van collectieve huisvesting tot hoger aanzien).
 
-### Limits
-- High entry prices in sought-after zones.
-- Risk of overpaying for the address.
-- Strong competition; “good deals” require both speed *and* discipline.
+## Limieten
+- Hoge toegangsprijzen in gewilde zones.
+- Risico van te veel betalen voor het adres.
+- Sterke concurrentie; “goede deals” vereisen zowel snelheid *en* discipline.
 
-### Segments to watch
-Family residential, compliant new builds, properly titled properties in demanded communes, and possibly airport/mobility segments depending on the rental thesis.
+## Segmenten om te bekijken
+Familiewoningen, nieuwbouw die aan de eisen voldoet, eigendommen met de juiste titel in gewilde gemeenten en mogelijk luchthaven-/mobiliteitssegmenten, afhankelijk van de huurthese.
 
-For more depth: [Why Algiers still attracts property investors](/nl/artikelen/pourquoi-investir-immobilier-alger) and [Property prices in Algiers](/nl/vastgoedprijzen-algiers).
+Voor meer diepgang: [Waarom Algiers nog steeds vastgoedinvesteerders aantrekt](/nl/artikelen/pourquoi-investir-immobilier-alger) en [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers).
 
-## Oran: coast, western economy, tourism
+## Oran: kust, westerse economie, toerisme
 
-### Best-suited profile
-An investor sensitive to the **coast**, to the dynamics of the West, and to theses linked to tourism and regional mobility. A profile sometimes seeking a more accessible entry ticket than central Algiers, while remaining in a major metropolis.
+## Meest geschikte profiel
+Een investeerder die gevoelig is voor de **kust**, voor de dynamiek van het Westen en voor stellingen die verband houden met toerisme en regionale mobiliteit. Een profiel dat soms op zoek is naar een toegankelijker toegangsbewijs dan het centrum van Algiers, terwijl het toch in een grote metropool blijft.
 
-### Strengths
-- Strong coastal identity and seasonal attractiveness.
-- Economic and port role of the West.
-- Potential on certain properties oriented toward seasonal or secondary rental — subject to real management capacity.
+## Sterke punten
+- Sterke kustidentiteit en seizoensaantrekkelijkheid.
+- Economische en havenrol van het Westen.
+- Potentieel op bepaalde eigendommen gericht op seizoens- of secundaire verhuur — afhankelijk van reële beheerscapaciteit.
 
-### Limits
-- Seasonality can create vacancy if the thesis is poorly calibrated.
-- Not all sectors of Oran benefit equally from the coast.
-- As elsewhere, developer and land risk remain filter number one.
+## Limieten
+- Seizoensgebondenheid kan leegstand creëren als de scriptie slecht gekalibreerd is.
+- Niet alle sectoren van Oran profiteren in gelijke mate van de kust.
+- Net als elders blijven ontwikkelaar- en landrisico filter nummer één.
 
-### Segments to watch
-Residences near the seafront (with realism on prices), family properties in well-served communes, new programmes from an approved developer.
+## Segmenten om te bekijken
+Woningen vlakbij de kust (met realistische prijzen), gezinswoningen in goed bediende gemeenten, nieuwe programma's van een erkende ontwikkelaar.
 
-The national tourism context — 3,548,000 visitors in 2024 according to ONAT, including about 1.093 million from the diaspora — feeds interest in coastal cities without guaranteeing an occupancy rate. See [The effect of tourism on Algeria’s coastal cities](/nl/artikelen/tourisme-villes-cotieres-algerie).
+De nationale toeristische context – 3.548.000 bezoekers in 2024 volgens ONAT, waaronder ongeveer 1,093 miljoen uit de diaspora – voedt de belangstelling voor kuststeden zonder een bezettingsgraad te garanderen. Zie [Het effect van toerisme op de kuststeden van Algerije](/nl/artikelen/tourisme-villes-cotieres-algerie).
 
-## Constantine: eastern crossroads, identity, potentially more accessible ticket
+## Constantine: oostelijk kruispunt, identiteit, potentieel toegankelijker ticket
 
-### Best-suited profile
-An investor or family linked to eastern Algeria, seeking a regional anchor, a use property, or a wealth thesis less “media-saturated” than Algiers. A patient profile, less obsessed with capital-style immediate liquidity.
+## Meest geschikte profiel
+Een investeerder of familie die verbonden is met Oost-Algerije en op zoek is naar een regionaal anker, een gebruikseigendom of een welvaartsthese die minder “media-verzadigd” is dan Algiers. Een geduldig profiel, minder geobsedeerd door onmiddellijke liquiditeit in kapitaalstijl.
 
-### Strengths
-- Role as metropolis of the East.
-- Strong urban identity; heritage and topography that structure micro-markets.
-- Entry points sometimes more accessible depending on the sector.
+## Sterke punten
+- Rol als metropool van het Oosten.
+- Sterke stedelijke identiteit; erfgoed en topografie die micromarkten structureren.
+- Instappunten soms toegankelijker afhankelijk van de sector.
 
-### Limits
-- Secondary market often less deep than in Algiers.
-- Liquidity more dependent on the local network and on typology.
-- Less media “noise” does not mean less documentary risk.
+## Limieten
+- Secundaire markt vaak minder diep dan in Algiers.
+- Liquiditeit is meer afhankelijk van het lokale netwerk en van de typologie.
+- Minder ‘lawaai’ in de media betekent niet minder documentaire risico’s.
 
-### Segments to watch
-Family residential, properties linked to a local life project, operations by clearly approved developers, with a strict reading of the livret foncier.
+## Segmenten om te bekijken
+Familiewoningen, eigendommen gekoppeld aan een lokaal levensproject, exploitatie door duidelijk goedgekeurde ontwikkelaars, met een strikte lezing van de livret foncier.
 
-## Comparative table (qualitative reading)
+## Vergelijkende tabel (kwalitatieve lezing)
 
-| Criterion | Algiers | Oran | Constantine |
+| Criterium | Algiers | Oran | Constantine |
 |---|---|---|---|
-| Relative liquidity | High | Medium to good | Variable |
-| Entry ticket (sought-after zones) | High | Medium to high | Often more accessible |
-| Diaspora / tourism driver | Strong (capital + airport) | Strong (coast + season) | Moderate to local |
-| Market depth | Strong | Good | More selective |
-| Sensitivity to rental management | Important | Very important if seasonal | Important |
+| Relatieve liquiditeit | Hoog | Gemiddeld tot goed | Variabel |
+| Toegangsticket (gewilde zones) | Hoog | Gemiddeld tot hoog | Vaak toegankelijker |
+| Diaspora / toerismechauffeur | Sterk (hoofdstad + luchthaven) | Sterk (kust + seizoen) | Matig tot lokaal |
+| Marktdiepte | Sterk | Goed | Selectiever |
+| Gevoeligheid voor verhuurbeheer | Belangrijk | Zeer belangrijk als het seizoensgebonden is | Belangrijk |
 
-This table is not a score. It is a compass. An excellent file in Constantine beats a weak file in Algiers. Always.
+Deze tabel is geen score. Het is een kompas. Een uitstekend bestand in Constantine verslaat een zwak bestand in Algiers. Altijd.
 
-## The legal framework: identical, non-negotiable
+## Het juridische kader: identiek, niet onderhandelbaar
 
-Whatever the city, the security sequence remains the same:
+Wat de stad ook is, de veiligheidsvolgorde blijft hetzelfde:
 
-1. Verify the **developer** (wilaya agrément, elements of the **national register**, project coherence, **FGCMPI** where applicable).
-2. Read the **land status** (**livret foncier**, **conservation foncière**).
-3. Involve the **notary** early.
-4. For new / off-plan: respect the **Law 11-04** and **Executive Decree 13-431** framework.
-5. Anticipate the **garantie décennale** and acceptance conditions.
+1. Verifieer de **ontwikkelaar** (wilaya agrément, elementen van het **rijksregister**, projectcoherentie, **FGCMPI** indien van toepassing).
+2. Lees de **landstatus** (*livret foncier*, **conservation foncière**).
+3. Betrek de **notaris** vroegtijdig.
+4. Voor nieuwbouw/off-plan: respecteer het **wet 11-04** en **uitvoerend decreet 13-431** raamwerk.
+5. Houd rekening met de **garantie décennale** en acceptatievoorwaarden.
 
-Cross-cutting guides:
+Cross-cutting gidsen:
 
-- [How to check a real-estate developer](/nl/vastgoedontwikkelaar-controleren-algerije)
-- [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije)
-- [Purchase documents](/nl/documenten-vastgoedkoop-algerije)
-- [Purchase risks](/nl/vastgoedrisicos-algerije)
-- [S.A.F.E certification](/nl/safe-vastgoedcertificering)
-- [Mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie)
-- [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026)
+- [Hoe een vastgoedontwikkelaar te controleren](/nl/vastgoedontwikkelaar-controleren-algerije)
+- [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije)
+- [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije)
+- [Aankooprisico's](/nl/vastgoedrisicos-algerije)
+- [S.A.F.E-certificering](/nl/safe-vastgoedcertificering)
+- [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie)
+- [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026)
 
-## Three typical profiles (fictional, for teaching purposes)
+## Drie typische profielen (fictief, voor onderwijsdoeleinden)
 
-### Profile A — Diaspora, stays of 6 to 10 weeks/year, premium budget
-**Dominant track: Algiers.** Priority to airport access, liquidity and a property usable immediately. Oran as an alternative if family attachment to the West and a clear coastal thesis.
+## Profiel A — Diaspora, verblijf van 6 tot 10 weken/jaar, premium budget
+**Dominante track: Algiers.** Prioriteit voor toegang tot de luchthaven, liquiditeit en een onroerend goed dat onmiddellijk bruikbaar is. Oran als alternatief voor de gehechtheid van het gezin aan het Westen en een duidelijke kuststelling.
 
-### Profile B — Patient investor, mid-range ticket, seasonal interest
-**Dominant track: Oran** (or another coastal city depending on the file). Requires realistic occupancy modelling and management capacity. Algiers possible on a smaller, well-located property.
+## Profiel B — Geduldige investeerder, middenklasseticket, seizoensinteresse
+**Dominant nummer: Oran** (of een andere kuststad, afhankelijk van het bestand). Vereist realistische bezettingsmodellering en managementcapaciteit. Algiers mogelijk op een kleiner, goed gelegen perceel.
 
-### Profile C — Eastern anchor, family use, transmission
-**Dominant track: Constantine.** Less tourist “storytelling”, more life logic. Title quality and developer quality remain decisive.
+## Profiel C — Oostelijk anker, gezinsgebruik, transmissie
+**Dominant nummer: Constantine.** Minder toeristische ‘verhalen vertellen’, meer levenslogica. Titelkwaliteit en ontwikkelaarskwaliteit blijven doorslaggevend.
 
-These profiles do not cover every case. They illustrate a method: start from the profile, not from rumour.
+Deze profielen dekken niet elk geval. Ze illustreren een methode: begin vanuit het profiel, niet vanuit geruchten.
 
-## Infrastructure and the 2030 horizon: a common factor
+## Infrastructuur en de horizon voor 2030: een gemeenschappelijke factor
 
-The three metropolises sit within a national trajectory of infrastructure, mobility and tourism. The investor must not buy a 2030 brochure; they must assess what is already delivered, what is committed, and what remains declarative. For a broader reading, see [Algeria 2030: infrastructure, tourism and new opportunities](/nl/artikelen/algerie-2030-infrastructures-opportunites).
+De drie metropolen bevinden zich binnen een nationaal traject van infrastructuur, mobiliteit en toerisme. De belegger mag geen brochure 2030 kopen; ze moeten beoordelen wat al is opgeleverd, wat is vastgelegd en wat declaratief blijft. Voor een bredere lezing, zie [Algerije 2030: infrastructuur, toerisme en nieuwe kansen](/nl/artikelen/algerie-2030-infrastructures-opportunites).
 
-## Seven-step decision method
+## Beslissingsmethode in zeven stappen
 
-1. Write the objective and the budget in black and white.
-2. Shortlist 1 city + 2 sectors maximum.
-3. Collect 5 to 10 comparable files (new and second-hand).
-4. Eliminate every unverifiable developer.
-5. Have the land status and the contract audited.
-6. Visit at “real” hours (traffic, noise, neighbourhood).
-7. Decide with a safety margin, not under pressure.
+1. Schrijf de doelstelling en het budget zwart op wit.
+2. Shortlist 1 stad + maximaal 2 sectoren.
+3. Verzamel 5 tot 10 vergelijkbare bestanden (nieuw en tweedehands).
+4. Elimineer elke niet-verifieerbare ontwikkelaar.
+5. Laat de grondstatus en het contract controleren.
+6. Bezoek op “echte” uren (verkeer, lawaai, buurt).
+7. Beslis met een veiligheidsmarge, niet onder druk.
 
-This method works in Algiers, Oran and Constantine. It is more useful than an Instagram ranking of the “best cities to invest in”.
+Deze methode werkt in Algiers, Oran en Constantine. Het is nuttiger dan een Instagram-ranglijst van de ‘beste steden om in te investeren’.
 
-## Budget, fees and horizon: three variables too often forgotten
+## Budget, vergoedingen en horizon: drie variabelen die maar al te vaak worden vergeten
 
-Comparing cities without comparing the **total cost of entry** skews the diagnosis. To the advertised price you add fees, possible works, a vacancy period, and sometimes a gap between signature and real enjoyment. A “cheaper” property in Constantine can cost more than an Algiers property if works or resale time are poorly anticipated. Conversely, a high entry ticket in Algiers can be justified by superior relative liquidity — provided the file is clean.
+Het vergelijken van steden zonder de **totale toegangskosten** te vergelijken, vertekent de diagnose. Aan de geadverteerde prijs tel je erelonen, mogelijke werkzaamheden, een leegstandsperiode en soms een kloof tussen handtekening en echt genot op. Een “goedkoper” eigendom in Constantine kan meer kosten dan een eigendom in Algiers als er slecht wordt geanticipeerd op de werkzaamheden of de wederverkooptijd. Omgekeerd kan een hoge toegangsprijs in Algiers worden gerechtvaardigd door een superieure relatieve liquiditeit, op voorwaarde dat het dossier schoon is.
 
-The holding horizon also changes the reading. Over three years, liquidity and entry price dominate. Over fifteen years, urban quality, accessibility and the property’s ability to serve several uses (live, rent, transmit) weigh more. Algiers, Oran and Constantine do not rank the same way depending on whether you optimise the short or the long term.
+De houdhorizon verandert ook de meting. Gedurende drie jaar domineren de liquiditeit en de instapprijs. Over vijftien jaar wegen de stedelijke kwaliteit, de bereikbaarheid en de mogelijkheid van het vastgoed om meerdere doeleinden te dienen (wonen, huren, uitzenden) zwaarder. Algiers, Oran en Constantine scoren niet op dezelfde manier, afhankelijk van of je de korte of de lange termijn optimaliseert.
 
-Finally, operational capacity counts as much as capital. An investor present in Oran will manage a seasonal property better than a distant buyer without a local relay. A diaspora member with frequent trips via Algiers will value a pied-à-terre in the capital differently. The “best city” is often the one you can actually administer.
+Ten slotte telt operationele capaciteit evenveel als kapitaal. Een investeerder die in Oran aanwezig is, zal een seizoenseigendom beter beheren dan een koper op afstand zonder lokaal relais. Een diasporalid dat regelmatig via Algiers reist, zal een pied-à-terre in de hoofdstad anders waarderen. De ‘beste stad’ is vaak de stad die je daadwerkelijk kunt besturen.
 
-## Liquidity is not a slogan: how to stress-test it
+## Liquiditeit is geen slogan: hoe kun je het aan een stresstest onderwerpen?
 
-Buyers often treat liquidity as a city attribute: “Algiers is liquid, Constantine is not.” Reality is more granular. Liquidity depends on typology, price band, title clarity, building condition and the depth of buyers who can actually close. A clean, mid-size family flat in a demanded Algiers commune may move faster than a poorly titled luxury shell. A well-documented Constantine property with a local buyer pool can outperform an overpriced coastal unit in Oran that only “works” in August.
+Kopers beschouwen liquiditeit vaak als een kenmerk van de stad: “Algiers is liquide, Constantine niet.” De werkelijkheid is gedetailleerder. De liquiditeit is afhankelijk van de typologie, de prijsklasse, de duidelijkheid van de titel, de staat van het gebouw en de diepte van de kopers die daadwerkelijk kunnen sluiten. Een schone, middelgrote gezinsflat in een veelgevraagde gemeente in Algiers kan sneller verhuizen dan een luxe schelp met een slechte titel. Een goed gedocumenteerd vastgoed in Constantine met een lokale koperspool kan beter presteren dan een veel te dure kusteenheid in Oran die alleen in augustus ‘werkt’.
 
-Before you choose a city, write three scenarios for exit: sell to a local family, sell to diaspora capital, or hold and rent. If only one scenario looks plausible, your thesis is fragile. If all three require miracles of pricing or marketing, you are buying a narrative, not a market position. Cross-check this reading with the broader market overview in [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026) and the investment section at [/nl/investeren](/nl/investeren).
+Voordat je een stad kiest, schrijf je drie scenario’s voor exit: verkopen aan een lokale familie, verkopen aan diasporakapitaal, of vasthouden en verhuren. Als slechts één scenario plausibel lijkt, is uw stelling kwetsbaar. Als alle drie wonderen op het gebied van prijsstelling of marketing vereisen, koop je een verhaal en geen marktpositie. Vergelijk deze lezing met het bredere marktoverzicht in [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026) en het beleggingsgedeelte op [/nl/investeren](/nl/investeren).
 
-## FAQ
+## Veelgestelde vragen
 
-### Which city offers the best yield?
-No reliable, universal ranking exists without homogeneous data, typology by typology. Yield depends on entry price, charges, vacancy and management. Be wary of percentages announced without a method.
+## Welke stad biedt de beste opbrengst?
+Er bestaat geen betrouwbare, universele rangschikking zonder homogene gegevens, typologie voor typologie. Het rendement is afhankelijk van de instapprijs, lasten, leegstand en beheer. Wees op uw hoede voor percentages die zonder methode worden aangekondigd.
 
-### Can you diversify between two cities?
-Yes, for certain portfolios. Geographic diversification only makes sense if each file is solid. Two fragile files do not make a strategy.
+## Kun je diversifiëren tussen twee steden?
+Ja, voor bepaalde portefeuilles. Geografische diversificatie heeft alleen zin als elk bestand solide is. Twee kwetsbare bestanden vormen geen strategie.
 
-### Is off-plan sale riskier outside Algiers?
-The main risk is not the city; it is the quality of the developer and the contract (Law 11-04, Decree 13-431). A bad file in Algiers is more dangerous than a good file in Constantine. See also [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers) for the capital’s commercial pressure.
+## Is verkoop op plan riskanter buiten Algiers?
+Het grootste risico is niet de stad; het is de kwaliteit van de ontwikkelaar en het contract (wet 11-04, decreet 13-431). Een slecht dossier in Algiers is gevaarlijker dan een goed dossier in Constantine. Zie ook [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers) voor de commerciële druk van de hoofdstad.
 
-### Should you prioritise the coast in Oran?
-Only if price, title and management justify it. The coast attracts; it does not absolve documentary defects.
+## Moet u prioriteit geven aan de kust in Oran?
+Alleen als prijs, titel en management dit rechtvaardigen. De kust trekt; het ontheft geen documentaire gebreken.
 
-### Is Constantine “less safe” legally?
-No. National law is the same. What varies is market depth and sometimes the level of available information. Diligence remains mandatory.
+## Is Constantine juridisch “minder veilig”?
+Nee. De nationale wetgeving is hetzelfde. Wat varieert is de marktdiepte en soms het niveau van de beschikbare informatie. Zorgvuldigheid blijft verplicht.
 
-### What role does the diaspora play in these three cities?
-Important in Algiers (hub), significant in Oran (coast + family ties), more variable in Constantine depending on networks. The ONAT 2024 figures (3.548 million visitors including ~1.093 million diaspora) give a national context, not an automatic allocation by city.
+## Welke rol speelt de diaspora in deze drie steden?
+Belangrijk in Algiers (hub), significant in Oran (kust + familiebanden), variabeler in Constantine, afhankelijk van netwerken. De ONAT 2024-cijfers (3,548 miljoen bezoekers inclusief ~1,093 miljoen diaspora) geven een nationale context, niet een automatische toewijzing per stad.
 
-## Sources
+## Bronnen
 
-- National Statistics Office (ONS): [https://www.ons.dz](https://www.ons.dz)
-- Algerian National Tourism Office (ONAT): [https://www.onat.dz](https://www.onat.dz)
-- Official Journal — Law No. 11-04: [https://www.joradp.dz](https://www.joradp.dz)
-- Ministry of Housing: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
-- Viva Algérie — [Why invest in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger)
-- Viva Algérie — [Tourism and coastal cities](/nl/artikelen/tourisme-villes-cotieres-algerie)
-- Viva Algérie — [Real estate 2026](/nl/artikelen/immobilier-algerie-2026)
-- Viva Algérie — [Cities](/nl/steden), [guides](/nl/gidsen), [real estate](/nl/vastgoed)
+- Nationaal Bureau voor de Statistiek (ONS): [https://www.ons.dz](https://www.ons.dz)
+- Algerijns Nationaal Bureau voor Toerisme (ONAT): [https://www.onat.dz](https://www.onat.dz)
+- Publicatieblad — Wet nr. 11-04: [https://www.joradp.dz](https://www.joradp.dz)
+- Ministerie van Volkshuisvesting: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
+- Viva Algérie — [Waarom investeren in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger)
+- Viva Algérie — [Toerisme en kuststeden](/nl/artikelen/tourisme-villes-cotieres-algerie)
+- Viva Algérie — [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026)
+- Viva Algérie — [Steden](/nl/steden), [gidsen](/nl/gidsen), [vastgoed](/nl/vastgoed)
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

@@ -1,13 +1,8 @@
 ---
-/**
- * Localized homepage — pass locale via props from en/es/nl index pages.
- */
 import PageLayout from '../layouts/PageLayout.astro';
 import ArticleCard from './ArticleCard.astro';
-import SafeBlock from './SafeBlock.astro';
 import Icon from './Icon.astro';
-import { t } from '../i18n/ui';
-import { ALGERIA_FIGURES, CITIES, CATEGORY_PATHS, SITE, type Locale } from '../lib/site';
+import { ALGERIA_FIGURES, SITE, type Locale } from '../lib/site';
 import { absoluteUrl, getCategoryPath } from '../lib/paths';
 import { homeHreflang } from '../lib/hreflang';
 import { getArticles, getFeaturedArticles } from '../lib/content';
@@ -23,29 +18,53 @@ const featured = await getFeaturedArticles(locale, 1);
 const latest = (await getArticles(locale)).slice(0, 6);
 const featuredArticle = featured[0];
 
-const metaTitle =
-  title ??
-  ({
-    fr: SITE.defaultTitle,
-    en: 'Viva Algérie — Real Estate, Tourism and Investment in Algeria',
-    es: 'Viva Algérie — Inmobiliario, turismo e inversión en Argelia',
-    nl: 'Viva Algérie — Vastgoed, toerisme en investeren in Algerije',
-  }[locale]);
-
-const metaDescription =
-  description ??
-  ({
-    fr: SITE.defaultDescription,
-    en: 'Viva Algérie decodes real estate, tourism, cities and investment opportunities in Algeria.',
-    es: 'Viva Algérie descifra el inmobiliario, el turismo, las ciudades y las oportunidades de inversión en Argelia.',
-    nl: 'Viva Algérie analyseert vastgoed, toerisme, steden en investeringskansen in Algerije.',
-  }[locale]);
+const metaTitle = title ?? SITE.defaultTitle;
+const metaDescription = description ?? SITE.defaultDescription;
 
 const pillars = [
-  { key: 'immobilier' as const, icon: 'building' as const },
-  { key: 'tourisme' as const, icon: 'map' as const },
-  { key: 'investissement' as const, icon: 'trend' as const },
-  { key: 'villes' as const, icon: 'home' as const },
+  {
+    href: '/sahara-occidental',
+    label: 'Sahara occidental',
+    text: 'Histoire, ONU, Front Polisario, positions algérienne et marocaine.',
+    icon: 'map' as const,
+  },
+  {
+    href: '/algerie-maroc',
+    label: 'Algérie–Maroc',
+    text: 'Frontière fermée, rivalité régionale, diplomatie et opinion publique.',
+    icon: 'shield' as const,
+  },
+  {
+    href: '/actualite',
+    label: 'Actualité',
+    text: 'Les faits politiques, économiques et sociaux qui structurent le pays.',
+    icon: 'doc' as const,
+  },
+  {
+    href: '/tourisme',
+    label: 'Tourisme',
+    text: 'Littoral, Sahara, villes, patrimoine et potentiel de développement.',
+    icon: 'map' as const,
+  },
+  {
+    href: '/economie',
+    label: 'Économie',
+    text: 'Hydrocarbures, diversification, emploi, industrie et souveraineté.',
+    icon: 'chart' as const,
+  },
+  {
+    href: '/culture',
+    label: 'Culture',
+    text: 'Mémoire nationale, identité, diaspora, langues et création algérienne.',
+    icon: 'home' as const,
+  },
+];
+
+const essentials = [
+  { href: '/sahara-occidental', label: 'Comprendre le Sahara occidental' },
+  { href: '/algerie-maroc', label: 'Origines de la rivalité Algérie–Maroc' },
+  { href: '/algerie-vs-maroc', label: 'Algérie vs Maroc : comparaison structurée' },
+  { href: '/frontiere-algerie-maroc', label: 'Pourquoi la frontière reste fermée' },
 ];
 ---
 
@@ -53,43 +72,48 @@ const pillars = [
   title={metaTitle}
   description={metaDescription}
   locale={locale}
-  canonical={absoluteUrl(locale === 'fr' ? '/' : `/${locale}`)}
+  canonical={absoluteUrl('/')}
   image={featuredArticle?.data.image ?? '/images/og-default.webp'}
   hreflang={homeHreflang()}
 >
   <section class="relative overflow-hidden border-b border-border bg-bg-secondary">
-    <div
-      class="pointer-events-none absolute inset-0 opacity-40"
-      style="background:
-        radial-gradient(ellipse 80% 50% at 10% -10%, #EAF5EF 0%, transparent 55%),
-        radial-gradient(ellipse 60% 40% at 90% 10%, #FDECEF 0%, transparent 50%),
-        linear-gradient(180deg, #F7F8F6 0%, #FFFFFF 100%);"
-      aria-hidden="true"
-    />
-    <div class="container-editorial relative grid min-h-[78vh] items-center gap-12 py-20 lg:grid-cols-[1.15fr_0.85fr] lg:py-28">
+    <div class="container-editorial grid min-h-[76vh] items-center gap-10 py-16 lg:grid-cols-[1.05fr_0.95fr] lg:py-24">
       <div>
-        <p class="eyebrow animate-fade-up mb-5">Viva Algérie</p>
-        <h1 class="animate-fade-up delay-1 mb-6 max-w-3xl font-serif text-4xl leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl">
-          {t(locale, 'home.heroTitle')}
+        <p class="eyebrow animate-fade-up mb-5">Média éditorial algérien</p>
+        <h1 class="animate-fade-up delay-1 mb-6 max-w-4xl font-serif text-4xl leading-[1.08] sm:text-5xl lg:text-6xl">
+          Viva Algérie — Comprendre l’Algérie, son actualité et ses grands enjeux
         </h1>
-        <p class="animate-fade-up delay-2 mb-10 max-w-xl text-lg text-muted sm:text-xl">
-          {t(locale, 'home.heroSubtitle')}
+        <p class="animate-fade-up delay-2 mb-9 max-w-2xl text-lg text-muted sm:text-xl">
+          Actualité, Sahara occidental, relations Algérie–Maroc, tourisme, économie, culture et analyses.
         </p>
         <div class="animate-fade-up delay-3 flex flex-wrap gap-3">
-          <a href={getCategoryPath(locale, 'analyses')} class="btn-primary">{t(locale, 'cta.readAnalyses')}</a>
-          <a href={getCategoryPath(locale, 'villes')} class="btn-secondary">{t(locale, 'cta.exploreCities')}</a>
+          <a href="/sahara-occidental" class="btn-primary">Lire le dossier Sahara occidental</a>
+          <a href="/algerie-maroc" class="btn-secondary">Comprendre Algérie–Maroc</a>
         </div>
       </div>
-      <div class="animate-fade-in delay-2 relative">
-        <div class="glass overflow-hidden rounded-[1.75rem] shadow-[var(--shadow-soft)]">
-          <img
-            src="/images/articles/hero-alger-front-de-mer.webp"
-            alt="Algiers seafront"
-            class="aspect-[4/5] w-full object-cover sm:aspect-[5/6]"
-            width={900}
-            height={1080}
-            fetchpriority="high"
-          />
+
+      <div class="animate-fade-in delay-2 overflow-hidden rounded-[1.5rem] border border-border bg-bg shadow-[var(--shadow-soft)]">
+        <img
+          src="/images/articles/hero-alger-front-de-mer.webp"
+          alt="Front de mer d’Alger et baie de la capitale algérienne"
+          class="aspect-[4/3] w-full object-cover lg:aspect-[5/4]"
+          width={1100}
+          height={880}
+          fetchpriority="high"
+        />
+        <div class="grid gap-4 border-t border-border p-5 sm:grid-cols-3">
+          <div>
+            <p class="text-xs uppercase tracking-[0.16em] text-green">Angle</p>
+            <p class="mt-1 font-serif text-lg">Faits sourcés</p>
+          </div>
+          <div>
+            <p class="text-xs uppercase tracking-[0.16em] text-green">Ligne</p>
+            <p class="mt-1 font-serif text-lg">Perspective algérienne</p>
+          </div>
+          <div>
+            <p class="text-xs uppercase tracking-[0.16em] text-green">Méthode</p>
+            <p class="mt-1 font-serif text-lg">Nuance et contexte</p>
+          </div>
         </div>
       </div>
     </div>
@@ -99,21 +123,28 @@ const pillars = [
     featuredArticle && (
       <section class="section-pad">
         <div class="container-editorial">
-          <div class="mb-8">
-            <p class="eyebrow mb-2">{t(locale, 'home.featured')}</p>
-            <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.featured')}</h2>
+          <div class="mb-8 flex items-end justify-between gap-4">
+            <div>
+              <p class="eyebrow mb-2">Analyse à la une</p>
+              <h2 class="text-3xl sm:text-4xl">Analyse phare</h2>
+            </div>
+            <a href="/analyses" class="hidden text-sm font-medium text-green sm:inline-flex">
+              Toutes les analyses →
+            </a>
           </div>
-          <ArticleCard
-            title={featuredArticle.data.title}
-            description={featuredArticle.data.description}
-            slug={featuredArticle.data.slug}
-            category={featuredArticle.data.category}
-            lang={locale}
-            pubDate={featuredArticle.data.pubDate}
-            image={featuredArticle.data.image}
-            imageAlt={featuredArticle.data.imageAlt}
-            featured
-          />
+          <div class="grid gap-6">
+            <ArticleCard
+              title={featuredArticle.data.title}
+              description={featuredArticle.data.description}
+              slug={featuredArticle.data.slug}
+              category={featuredArticle.data.category}
+              lang={locale}
+              pubDate={featuredArticle.data.pubDate}
+              image={featuredArticle.data.image}
+              imageAlt={featuredArticle.data.imageAlt}
+              featured
+            />
+          </div>
         </div>
       </section>
     )
@@ -122,8 +153,8 @@ const pillars = [
   <section class="section-pad bg-bg-secondary">
     <div class="container-editorial">
       <div class="mb-8">
-        <p class="eyebrow mb-2">{t(locale, 'home.latest')}</p>
-        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.latest')}</h2>
+        <p class="eyebrow mb-2">Derniers articles</p>
+        <h2 class="text-3xl sm:text-4xl">Actualité et nouveaux dossiers</h2>
       </div>
       <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {
@@ -146,22 +177,25 @@ const pillars = [
 
   <section class="section-pad">
     <div class="container-editorial">
-      <div class="mb-10 max-w-2xl">
-        <p class="eyebrow mb-2">{t(locale, 'home.pillars')}</p>
-        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.pillars')}</h2>
+      <div class="mb-10 max-w-3xl">
+        <p class="eyebrow mb-2">Piliers éditoriaux</p>
+        <h2 class="mb-3 text-3xl sm:text-4xl">Les grands thèmes de Viva Algérie</h2>
+        <p class="text-muted">
+          Une ligne pro-algérienne peut être forte sans devenir caricaturale : chaque dossier distingue les faits établis, les positions diplomatiques et les zones de désaccord.
+        </p>
       </div>
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {
           pillars.map((p) => (
             <a
-              href={CATEGORY_PATHS[locale][p.key]}
+              href={p.href}
               class="group rounded-[var(--radius-card)] border border-border bg-bg p-6 transition hover:border-green hover:shadow-[var(--shadow-hover)]"
             >
               <span class="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-green-soft text-green">
                 <Icon name={p.icon} size={20} />
               </span>
-              <h3 class="mb-2 text-xl">{t(locale, `pillar.${p.key}`)}</h3>
-              <p class="text-sm leading-relaxed text-muted">{t(locale, `pillar.${p.key}Desc`)}</p>
+              <h3 class="mb-2 text-xl">{p.label}</h3>
+              <p class="text-sm leading-relaxed text-muted">{p.text}</p>
             </a>
           ))
         }
@@ -170,13 +204,15 @@ const pillars = [
   </section>
 
   <section class="section-pad bg-bg-secondary">
-    <div class="container-editorial">
-      <div class="mb-10">
-        <p class="eyebrow mb-2">{t(locale, 'home.figures')}</p>
-        <h2 class="mb-2 text-3xl sm:text-4xl">{t(locale, 'home.figures')}</h2>
-        <p class="text-sm text-muted">{t(locale, 'home.figuresNote')}</p>
+    <div class="container-editorial grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+      <div>
+        <p class="eyebrow mb-2">Algérie en focus</p>
+        <h2 class="mb-4 text-3xl sm:text-4xl">Un pays à lire par ses faits, sa mémoire et sa position régionale</h2>
+        <p class="text-muted">
+          L’Algérie combine profondeur historique, ressources énergétiques, jeunesse démographique, poids diplomatique africain et méditerranéen, et une culture politique marquée par l’indépendance. Ces repères structurent nos analyses.
+        </p>
       </div>
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="grid gap-4 sm:grid-cols-2">
         {
           ALGERIA_FIGURES.map((fig) => (
             <div class="rounded-[var(--radius-card)] border border-border bg-bg p-6">
@@ -191,25 +227,35 @@ const pillars = [
   </section>
 
   <section class="section-pad">
-    <div class="container-editorial">
-      <div class="mb-10">
-        <p class="eyebrow mb-2">{t(locale, 'home.cities')}</p>
-        <h2 class="text-3xl sm:text-4xl">{t(locale, 'home.cities')}</h2>
+    <div class="container-editorial grid gap-8 lg:grid-cols-[0.85fr_1.15fr]">
+      <div>
+        <p class="eyebrow mb-2">Lectures essentielles</p>
+        <h2 class="text-3xl sm:text-4xl">Les dossiers à lire en priorité</h2>
       </div>
-      <div class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <div class="grid gap-3 sm:grid-cols-2">
         {
-          CITIES.map((city) => (
+          essentials.map((item) => (
             <a
-              href={`${getCategoryPath(locale, 'villes')}#${city.slug}`}
-              class="rounded-2xl border border-border bg-bg-secondary px-4 py-5 text-center transition hover:border-green hover:bg-green-soft"
+              href={item.href}
+              class="rounded-2xl border border-border bg-bg-secondary px-5 py-4 font-medium hover:border-green hover:bg-green-soft"
             >
-              <span class="font-serif text-lg">{city.name[locale]}</span>
+              {item.label} →
             </a>
           ))
         }
+        <a
+          href={getCategoryPath(locale, 'immobilier')}
+          class="rounded-2xl border border-border bg-bg-secondary px-5 py-4 font-medium hover:border-green hover:bg-green-soft"
+        >
+          Immobilier et investissement →
+        </a>
+        <a
+          href={getCategoryPath(locale, 'investissement')}
+          class="rounded-2xl border border-border bg-bg-secondary px-5 py-4 font-medium hover:border-green hover:bg-green-soft"
+        >
+          Opportunités économiques →
+        </a>
       </div>
     </div>
   </section>
-
-  <SafeBlock locale={locale} />
 </PageLayout>

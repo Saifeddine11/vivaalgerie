@@ -1,6 +1,6 @@
 ---
-title: "Juridisch kader voor vastgoed in Algerije: wat een koper moet begrijpen"
-description: "Pedagogische gids over notaris, livret foncier, wet 11-04 en off-plan — geen juridisch advies."
+title: "Het juridische raamwerk van Algerije op het gebied van onroerend goed: wat een koper moet begrijpen voordat hij tot aankoop overgaat"
+description: "Eigendomsrecht in Algerije: notaris, eigendomsakte, livret foncier, wet 11-04, verkoop op plan en essentiële controles voordat u koopt."
 slug: "cadre-juridique-immobilier-algerie"
 category: "guides"
 lang: "nl"
@@ -8,172 +8,169 @@ pubDate: 2026-04-02
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/cadre-juridique-immobilier-algerie.webp"
-imageAlt: "Notarial documents and a property purchase file in Algeria"
+imageAlt: "Notariële documenten en een aankoopdossier van onroerend goed in Algerije"
 featured: false
 draft: false
-tags: ["Algeria property law", "notary", "livret foncier", "title deed", "law 11-04", "guides"]
 translationKey: "cadre-juridique-immobilier-algerie"
+tags: ["Algerije eigendomsrecht", "notaris", "livret foncier", "eigendomsakte", "wet 11-04", "gidsen"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+Het begrijpen van de **Algerijnse eigendomswet** voordat u iets koopt, is geen luxe voor een advocaat. Het is de minimale voorwaarde om een ​​intentie om te zetten in een beheersbare verwerving. Prijs, foto's en locatie nemen vaak de hele mentale ruimte van de koper in beslag; toch wordt de degelijkheid van een onroerend goed ook bepaald – en soms eerst bepaald – in de **eigendomsakte** (*acte de propriété*), het *livret foncier* (landtitelboekje), de rol van de **notaris** en, bij ontwikkelingsprojecten, de naleving van wet nr. 11-04 en uitvoeringsdecreet nr. 13-431.
 
+Dit artikel biedt een pedagogische lezing van het juridische raamwerk van Algerije op het gebied van onroerend goed vanuit het standpunt van de koper. Het vervangt geen persoonlijk advies.
 
-Understanding **Algeria’s property law** before you buy is not a lawyer’s luxury. It is the minimum condition for turning an intention into a controllable acquisition. Price, photos and location often occupy the buyer’s entire mental space; yet the solidity of a property is also decided — and sometimes decided first — in the **title deed** (*acte de propriété*), the **livret foncier** (land title booklet), the role of the **notary**, and, in development projects, compliance with Law No. 11-04 and Executive Decree No. 13-431.
+> Dit artikel is een redactionele en pedagogische analyse. Het betreft geen juridisch, fiscaal, financieel of notarieel advies. Het is raadzaam vóór elke overname een notaris of een gekwalificeerde professional te raadplegen.
 
-This article offers a pedagogical reading of Algeria’s real-estate legal framework from the buyer’s point of view. It does not replace personalised advice.
+## Waarom het wettelijke kader ertoe doet voordat je iets koopt
 
-> This article is an editorial and pedagogical analysis. It does not constitute legal, tax, financial or notarial advice. Before any acquisition, it is recommended to consult a notary or a qualified professional.
+## Prijs lost een kwetsbare titel niet op
 
-## Why the legal framework matters before you buy
+Een “goede prijs” voor een onroerend goed waarvan de juridische situatie onduidelijk is, is geen koopje: het is een overdracht van risico. In Algerije, net als elders, draagt ​​de uiteindelijke koper vaak de gevolgen van een slecht voorbereid dossier: onopgeloste onverdeelde eigendom (*indivisie*), ontbrekende documenten, inconsistentie tussen beroep en titel, of een ontwikkeling die buiten het juiste kader op de markt wordt gebracht.
 
-### Price does not fix a fragile title
+## Informatie-asymmetrie is structureel
 
-A “good price” on a property whose legal situation is obscure is not a bargain: it is a transfer of risk. In Algeria as elsewhere, the final buyer often carries the consequences of a poorly prepared file — unresolved undivided ownership (*indivision*), missing documents, inconsistency between occupation and title, or a development marketed outside the proper framework.
+De verkoper of ontwikkelaar kent het bestand al maanden; de koper ontdekt het in een paar afspraken. Het goederenrecht en de notariële praktijk zijn er juist om die asymmetrie te verkleinen. Als u ze negeert, betekent dit dat u accepteert blind te onderhandelen.
 
-### Information asymmetry is structural
+## Twee families van transacties, twee risico-intensiteiten
 
-The seller or developer has known the file for months; the buyer discovers it in a few appointments. Property law and notarial practice exist precisely to reduce that asymmetry. Ignoring them means accepting to negotiate blind.
+- **Aankoop van een bestaand onroerend goed**: centrale rol van de titel, van **conservation foncière** (landbehoud/kadaster) en van de overdrachtscapaciteit van de verkoper.
+- **Aankoop in ontwikkeling / off-plan**: centrale rol van de **agrément** (goedkeuring) van de ontwikkelaar, van standaardcontracten, van de **FGCMPI** indien van toepassing, en van het uitvoeringsschema.
 
-### Two families of transactions, two intensities of risk
+In beide gevallen blijft de notaris een spil. Zie ook [risico's van een aankoop van onroerend goed](/nl/vastgoedrisicos-algerije) en [documenten te verzamelen](/nl/documenten-vastgoedkoop-algerije).
 
-- **Purchase of an existing property**: centrality of the title, of **conservation foncière** (land conservation / land registry), and of the seller’s capacity to transfer.
-- **Purchase in a development / off-plan**: centrality of the developer’s **agrément** (approval), of standard contracts, of the **FGCMPI** where applicable, and of the execution schedule.
+## De rol van de notaris in Algerije
 
-In both cases, the notary remains a pivot. See also [risks of a property purchase](/nl/vastgoedrisicos-algerije) and [documents to gather](/nl/documenten-vastgoedkoop-algerije).
+## Het veiligstellen van de akte en het inlezen van het dossier
 
-## The role of the notary in Algeria
+De **notaris** is geen simpele einde-processtempel. Ze komen tussenbeide bij het formaliseren van de transactie, het controleren van de samenhang van het document en het vaststellen van de akte volgens de toepasselijke regels. Voor de koper verkleint het ‘te laat zien van de notaris’ – na zware stortingen en emotionele betrokkenheid – hun manoeuvreerruimte.
 
-### Securing the deed and reading the file
+## Wat de notaris niet is
 
-The **notary** is not a simple end-of-process stamp. They intervene in formalising the transaction, checking document coherence, and establishing the deed under applicable rules. For the buyer, “seeing the notary” too late — after heavy deposits and emotional commitment — shrinks their room for manoeuvre.
+De notaris garandeert niet dat de prijs “de juiste marktprijs” is, noch dat de woning vrij is van verborgen technische gebreken, noch dat uw persoonlijke belastingopstelling optimaal is. Ze vervangen ook geen eigen projectcertificering zoals [S.A.F.E](/nl/safe-vastgoedcertificering).
 
-### What the notary is not
+## Goede praktijken voor kopers
 
-The notary does not guarantee that the price is “the right market price”, nor that the property is free of hidden technical defects, nor that your personal tax setup is optimal. They also do not replace a proprietary project certification such as [S.A.F.E](/nl/safe-vastgoedcertificering).
+- Neem contact op met de notaris zodra een woning of project serieus wordt.
+- Documenten verzenden zonder commerciële filtering.
+- Stel schriftelijke vragen over onduidelijke punten.
+- Weiger te tekenen onder druk van ‘vandaag of nooit’ zonder een goede meting.
 
-### Buyer good practices
+## Documenten om te verifiëren
 
-- Contact the notary as soon as a property or project becomes serious.
-- Transmit documents without commercial filtering.
-- Ask written questions on unclear points.
-- Refuse to sign under “today or never” pressure without a proper reading.
+De exacte lijst is afhankelijk van de aard van het onroerend goed en de transactie. Hier is de conceptuele kern die elke koper moet kennen.
 
-## Documents to verify
+## Eigendomsakte en livret foncier
 
-The exact list depends on the nature of the property and the transaction. Here is the conceptual core every buyer should know.
+De **eigendomsakte** (*acte de propriété*) belichaamt de overdracht of de titel, afhankelijk van de situatie. De *livret foncier*, een emblematisch document van het landsysteem van Algerije, is een centraal referentiepunt voor het vaststellen van de situatie van het onroerend goed met **conservation foncière**. De verstandige koper neemt geen genoegen met een wazige fotokopie: samen met de notaris zorgen zij voor de werkelijke omvang van de gepresenteerde documenten en de samenhang ervan met het bezochte onroerend goed.
 
-### Title deed and livret foncier
+## Identiteit en hoedanigheid van de partijen
 
-The **title deed** (*acte de propriété*) materialises the transfer or the title depending on the situation. The **livret foncier**, an emblematic document of Algeria’s land system, is a central reference for establishing the property’s situation with **conservation foncière**. The wise buyer does not settle for a blurry photocopy: with the notary, they ensure the real scope of the documents presented and their coherence with the property visited.
+Identiteitsdocumenten, volmachten, onverdeelde eigendomssituaties, vertegenwoordiging van minderjarigen of afwezigen: allemaal punten die een transactie blokkeren – of verzwakken – als ze te laat worden ontdekt.
 
-### Identity and capacity of the parties
+## Situatie van het pand
 
-Identity documents, powers of attorney, undivided-ownership situations, representation of minors or absentees: all points that block — or weaken — a transaction if discovered too late.
+Afhankelijk van het geval: oorsprong van het eigendom, mogelijke lasten, naleving van de planning, bezetting, en voor een mede-eigendom of collectief gebouw, inzicht in de gemeenschappelijke delen en gebruiksregels.
 
-### Situation of the property
+## In vastgoedontwikkeling
 
-Depending on the case: origin of ownership, possible charges, summary planning compliance, occupation, and for a co-owned property or collective building, understanding of common parts and rules of use.
+- bewijs van de **agrément** van de ontwikkelaar;
+- **reservering**- of **vente sur plans**-contracten (verkoop op plan) die voldoen aan het decreet 13-431-framework;
+- betalingsschema;
+- elementen met betrekking tot de **FGCMPI** wanneer het mechanisme van toepassing is;
+- objectbeschrijving en planbijlagen.
 
-### In real-estate development
+Praktische details: [hoe een ontwikkelaar te controleren](/nl/vastgoedontwikkelaar-controleren-algerije) en [off-plan kopen - controles](/nl/artikelen/acheter-sur-plan-algerie-verifications).
 
-- proof of the developer’s **agrément**;
-- **reservation** or **vente sur plans** (off-plan sale) contracts compliant with the Decree 13-431 framework;
-- payment schedule;
-- elements relating to the **FGCMPI** when the mechanism applies;
-- property description and plan annexes.
+## Off-plan aankoop: waarom controles nog belangrijker zijn
 
-Practical details: [how to check a developer](/nl/vastgoedontwikkelaar-controleren-algerije) and [buying off-plan — checks](/nl/artikelen/acheter-sur-plan-algerie-verifications).
+## U koopt toekomstige uitvoering
 
-## Off-plan purchase: why checks matter even more
+In **vente sur plans** bestaat het object nog niet volledig als opgeleverde woning. Het contract, de ontwikkelaar en de grond van het programma dragen daarom een ​​zwaardere vertrouwenslast. **Wet nr. 11-04 van 17 februari 2011** stelt de regels vast voor vastgoedontwikkelingsactiviteiten; het ontslaat niemand van het lezen van het contract.
 
-### You are buying future execution
+## decreet 13-431 als contractueel kompas
 
-In **vente sur plans**, the object does not yet fully exist as a completed home. The contract, the developer and the programme’s land therefore carry a heavier burden of trust. **Law No. 11-04 of 17 February 2011** sets the rules governing real-estate development activity; it does not exempt anyone from reading the contract.
+**Uitvoerend besluit nr. 13-431 van 18 december 2013** betreffende modelverkoop- en reserveringscontracten op plan heeft tot doel kritische documenten te standaardiseren. Die standaardisatie beschermt de koper alleen als hij mondelinge amendementen en betalingen buiten het raamwerk weigert.
 
-### Decree 13-431 as a contractual compass
+## FGCMPI: begrijpen zonder te mythologiseren
 
-**Executive Decree No. 13-431 of 18 December 2013** on model off-plan sale and reservation contracts aims to standardise critical documents. That standardisation protects the buyer only if they refuse oral amendments and off-framework payments.
+Het **Fonds de garantie et de voorzichtigheid mutuelle de la promotion immobilière (FGCMPI)** – het wederzijdse garantiefonds voor vastgoedontwikkeling – maakt deel uit van de beschermingsarchitectuur die verband houdt met ontwikkeling. Vraag hoe het zich verhoudt tot *uw* contract. Een vage vermelding in een brochure is niet hetzelfde als begrepen dekking.
 
-### FGCMPI: understand without mythologising
+Voor de volledige reis: [off-plan kopen in Algerije](/nl/off-plan-kopen-algerije) en, voor Algiers, [off-plan kopen in Algiers](/nl/off-plan-kopen-algiers).
 
-The **Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI)** — the mutual guarantee fund for real-estate development — sits within the protection architecture linked to development. Ask how it articulates with *your* contract. A vague mention in a brochure is not the same as understood coverage.
+## De rol van S.A.F.E bij voorselectie
 
-For the full journey: [buying off-plan in Algeria](/nl/off-plan-kopen-algerije) and, for Algiers, [buying off-plan in Algiers](/nl/off-plan-kopen-algiers).
+Nog vóór de zware notariële fase verdwalen veel kopers in een overschot aan aanbiedingen. **S.A.F.E — Secure Approved For Estate** is een bedrijfseigen (niet-statelijke) certificering die de projectanalyse rond vier pijlers structureert: projectbeveiliging, investeringsanalyse, uitvoeringsbetrouwbaarheid en kopersondersteuning.
 
-## The role of S.A.F.E in pre-selection
+Het pedagogische nut ervan binnen het wettelijke kader is indirect maar reëel: het dwingt kopers om vroeg de vragen te stellen die de wet later zal stellen: wie is de ontwikkelaar, is het bestand leesbaar, zijn betalingen traceerbaar, is de levering geloofwaardig?
 
-Even before the heavy notarial phase, many buyers get lost in a surplus of offers. **S.A.F.E — Secure Approved For Estate** is a proprietary (non-state) certification that structures project analysis around four pillars: project security, investment analysis, execution reliability, and buyer support.
+Veronderstelde limieten (herlezen op [S.A.F.E-pagina](/nl/safe-vastgoedcertificering)):
 
-Its pedagogical usefulness within the legal framework is indirect but real: it pushes buyers to ask early the questions the law will ask later — who is the developer, is the file readable, are payments traceable, is delivery credible?
+- S.A.F.E belooft geen risicovrij project;
+- S.A.F.E vervangt niet de notaris;
+- S.A.F.E is geen wettelijke, technische of financiële garantie.
 
-Assumed limits (to be re-read on the [S.A.F.E page](/nl/safe-vastgoedcertificering)):
+## Fouten die je moet vermijden
 
-- S.A.F.E does not promise a risk-free project;
-- S.A.F.E does not replace the notary;
-- S.A.F.E is not a legal, technical or financial guarantee.
+1. **Eerst tekenen, later verifiëren.** Draai de volgorde om.
+2. **Verwar brochure en contract.** Alleen het contract (en de bijlagen ervan) is bindend.
+3. **Verwaarloos de livret foncier / conservation foncière** omdat de woning “goed bezocht wordt”.
+4. **Betaal bedragen aan een tussenpersoon** buiten het geplande circuit.
+5. **Geloof dat ontwikkelaar agrément voldoende is**: het is noodzakelijk, niet voldoende.
+6. **Negeer leveringstermijnen** en hun contractuele gevolgen.
+7. **Onderschat de garantie décennale** (tien jaar structurele garantie) **en acceptatie**: nuttig na levering, ze herstellen een slechte initiële keuze niet ([oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije)).
+8. **Meng Algerijnse wetgeving en buitenlandse kaders**: elk land heeft zijn instellingen; hier is de referentie Algerijns (wet 11-04, notaris, livret foncier, etc.).
+9. **Vergeet uw profiel**: een juridisch schone opstelling kan nog steeds ongeschikt zijn voor uw gebruik of cashflow.
+10. **Overzie klassieke fouten** vermeld in [kopen: fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie).
 
-## Mistakes to avoid
+## Hoe u wetgeving, begroting en kalender kunt verbinden
 
-1. **Sign first, verify later.** Reverse the order.
-2. **Confuse brochure and contract.** Only the contract (and its annexes) binds properly.
-3. **Neglect the livret foncier / conservation foncière** because the property “visits well”.
-4. **Pay sums to an intermediary** outside the planned circuit.
-5. **Believe developer agrément is enough**: it is necessary, not sufficient.
-6. **Ignore delivery deadlines** and their contractual consequences.
-7. **Underestimate the garantie décennale** (ten-year structural guarantee) **and acceptance**: useful after delivery, they do not repair a bad initial choice ([new housing delivery](/nl/oplevering-nieuwe-woning-algerije)).
-8. **Mix Algerian law and foreign frameworks**: each country has its institutions; here the reference is Algerian (Law 11-04, notary, livret foncier, etc.).
-9. **Forget your profile**: a legally clean setup can still be unsuitable for your use or cash flow.
-10. **Overlook classic mistakes** listed in [buying: mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie).
+Een goed begrepen juridisch kader verandert ook de manier waarop u budgetteert. Alleen plannen voor de weergegeven prijs betekent het negeren van de kosten, de tijd om het dossier samen te stellen, mogelijke wijzigingen en – in ontwikkeling – het immobiliseren van fondsen tijdens de bouw. Bouw een buffer van tijd en geld in. Vergelijk in Algiers deze voorzichtigheid met de [vastgoedprijzen](/nl/vastgoedprijzen-algiers)-context; buiten de hoofdstad, waarbij de lokale liquiditeit wordt besproken in onze [steden](/nl/steden)-lezingen.
 
-## How to connect law, budget and calendar
+De wettelijke kalender is niet de marketingkalender. Een schoon dossier kan meer dagen in beslag nemen dan een impulsieve “coup de cœur”; dat is over het algemeen goed nieuws. De gehaaste koper tekent sneller… en leest minder. De methodische koper aanvaardt dat **het eigendomsrecht van Algerije** een ritme oplegt: documenten, notaris, herlezingen en dan verbintenissen.
 
-A well-understood legal framework also changes how you budget. Planning only for the displayed price means ignoring fees, time to assemble the file, possible amendments, and — in development — immobilisation of funds during construction. Build in a cushion of time and cash. In Algiers, cross this prudence with the [property prices](/nl/vastgoedprijzen-algiers) context; outside the capital, with the local liquidity discussed in our [cities](/nl/steden) readings.
+Kopen onder druk – ‘teken vandaag of verlies de deal’ – is een van de duurste gewoonten op de markt. Kunstmatige urgentie gedijt daar waar de documentatie zwak is. Een serieuze tegenpartij kan doorgaans wachten op een notariële lezing; een ondoorzichtige tegenhanger kan dat vaak niet. Die ene observatie filtert al veel risicovolle bestanden voordat ze geschillen worden.
 
-The legal calendar is not the marketing calendar. A clean file may take more days than an impulsive “coup de cœur”; that is generally good news. The hurried buyer signs faster… and reads less. The methodical buyer accepts that **Algeria’s property law** imposes a rhythm: documents, notary, re-readings, then commitment.
+Behandel in de praktijk de juridische volgorde als onderdeel van de aanschafkosten. De tijd die wordt besteed aan het verduidelijken van de livret foncier-, conservation foncière-status, partijcapaciteit en contractuele bijlagen is geen ‘verloren’ tijd: het is risicoreductie waar u anders later voor zou betalen in de vorm van advocatenhonoraria, vastgelopen overdrachten of onbruikbare activa. Dezelfde logica is van toepassing op afwijkende planningen: een leesbare betalingskalender die is afgestemd op bouwmijlpalen is waardevoller dan een korting die wordt verkregen door te vroeg te betalen in een circuit zonder papieren.
 
-Buying under pressure — “sign today or lose the deal” — is one of the most expensive habits in the market. Artificial urgency thrives where documentation is weak. A serious counterpart can usually wait for a notarial reading; an opaque counterpart often cannot. That single observation already filters many risky files before they become disputes.
+## Belangrijkste afhaalrestaurants
 
-In practice, treat the legal sequence as part of the purchase cost. Time spent clarifying the livret foncier, conservation foncière status, party capacity and contractual annexes is not “lost” time: it is risk reduction you would otherwise pay for later in lawyers’ fees, stalled transfers or unusable assets. The same logic applies to off-plan schedules: a readable payment calendar aligned with construction milestones is more valuable than a discount obtained by paying too early into an undocumented circuit.
+Het Algerije **wettelijke kader voor onroerend goed** biedt de koper krachtige instrumenten – **notaris**, **eigendomsakte**, *livret foncier*, conservation foncière, wet 11-04, decreet 13-431, FGCMPI — op voorwaarde dat deze vóór de toezegging worden gemobiliseerd. De wet elimineert risico's niet; het maakt het beheersbaar. Geef bij tweedehandsaankopen prioriteit aan de stevigheid van de titel. Geef bij nieuwbouw prioriteit aan de ontwikkelaar, het contract en de uitvoering. Weiger in alle gevallen kunstmatige urgentie.
 
-## Key takeaways
+Om verder te gaan: [Gidsen](/nl/gidsen) categorie, analyse van [nieuwe huisvesting](/nl/artikelen/logement-neuf-algerie-opportunite-risque), [S.A.F.E](/nl/safe-vastgoedcertificering) methode, [diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier) traject.
 
-Algeria’s **real-estate legal framework** gives the buyer powerful tools — **notary**, **title deed**, **livret foncier**, conservation foncière, Law 11-04, Decree 13-431, FGCMPI — provided they are mobilised before commitment. The law does not eliminate risk; it makes it manageable. In second-hand purchases, prioritise title solidity. In new builds, prioritise developer, contract and execution. In all cases, refuse artificial urgency.
+## Veelgestelde vragen
 
-To go further: [Guides](/nl/gidsen) category, analysis of [new housing](/nl/artikelen/logement-neuf-algerie-opportunite-risque), [S.A.F.E](/nl/safe-vastgoedcertificering) method, [diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier) journey.
+## Wat is de livret foncier?
 
-## FAQ
+Het is een centraal document van het landsysteem van Algerije, gekoppeld aan publiciteit en aan de situatie van het onroerend goed bij conservation foncière. De presentatie en omvang ervan moet bij een notaris worden beoordeeld in het kader van uw dossier.
 
-### What is the livret foncier?
+## Is de eigendomsakte op zichzelf voldoende?
 
-It is a central document of Algeria’s land system, linked to publicity and to the property’s situation with conservation foncière. Its presentation and scope must be assessed with a notary in the context of your file.
+De akte is essentieel, maar de koper kijkt naar het hele dossier: identiteit van partijen, samenhang van het onroerend goed, eventuele lasten en bijbehorende formaliteiten. De notaris begeleidt op volledigheid.
 
-### Is the title deed enough on its own?
+## Beschermt wet 11-04 automatisch elke koper die op plan is?
 
-The deed is essential, but the buyer looks at the whole file: identity of the parties, coherence of the property, possible charges, and associated formalities. The notary guides on completeness.
+Het kadert de vastgoedontwikkeling en stelt verplichtingen. Effectieve bescherming hangt ook af van de naleving van contracten, het gedrag van de ontwikkelaar en de stappen van de koper zelf. Het is geen automatische verzekering.
 
-### Does Law 11-04 automatically protect every off-plan buyer?
+## Is de notaris verplicht bij aankoop van onroerend goed?
 
-It frames real-estate development and sets obligations. Effective protection also depends on contract compliance, the developer’s conduct, and the buyer’s own steps. It is not automatic insurance.
+In de praktijk van eigendomsoverdrachten is het beroep op de notaris structureel. Volg voor uw specifieke operatie de aanwijzingen van een gekwalificeerde professional; improviseer geen privé-‘regeling’ op een terrein.
 
-### Is the notary mandatory for a property purchase?
+## Is S.A.F.E een officiële certificering van de Algerijnse staat?
 
-In the practice of property transfers, recourse to the notary is structural. For your specific operation, follow the indications of a qualified professional; do not improvise a private “arrangement” on a property.
+Nee. Het is een eigen certificering voor de preselectie en analyse van projecten. Het vervangt niet de overheidsinstanties of de notaris.
 
-### Is S.A.F.E an official certification of the Algerian State?
+## Wat als een verkoper weigert via een notaris te gaan?
 
-No. It is a proprietary certification for project pre-selection and analysis. It does not substitute for public authorities or the notary.
+Beschouw het als een stopsignaal. Zonder een duidelijk notarieel traject wordt het juridische risico moeilijk te aanvaarden voor een voorzichtige koper.
 
-### What if a seller refuses to go through a notary?
+## Bronnen
 
-Treat it as a stop signal. Without a clear notarial path, legal risk becomes hard to accept for a prudent buyer.
+- Wet nr. 11-04 van 17 februari 2011 tot vaststelling van de regels voor vastgoedontwikkelingsactiviteiten (Publicatieblad).
+- Uitvoeringsdecreet nr. 13-431 van 18 december 2013 betreffende modelverkoop- en reserveringscontracten op plan.
+- Institutioneel kader van conservation foncière en documentatie met betrekking tot de livret foncier.
+- FGCMPI — Garantie- en waarschuwingsfonds voor immobilisatie van de promotie.
+- Algerijns notariaat – rol van de notaris bij eigendomsoverdrachten (pedagogische oriëntatie; individueel advies vereist).
+- Viva Algérie — [aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije), [off-plan kopen](/nl/off-plan-kopen-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering), [een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-## Sources
-
-- Law No. 11-04 of 17 February 2011 setting the rules governing real-estate development activity (Official Journal).
-- Executive Decree No. 13-431 of 18 December 2013 on model off-plan sale and reservation contracts.
-- Institutional framework of conservation foncière and documentation relating to the livret foncier.
-- FGCMPI — Fonds de garantie et de caution mutuelle de la promotion immobilière.
-- Algerian notarial practice — role of the notary in property transfers (pedagogical orientation; individual consultation required).
-- Viva Algérie — [purchase documents](/nl/documenten-vastgoedkoop-algerije), [buying off-plan](/nl/off-plan-kopen-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering), [checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije).
-
-*This article is an editorial and pedagogical analysis. It does not constitute legal, tax, financial or notarial advice.*
+*Dit artikel is een redactionele en pedagogische analyse. Het vormt geen juridisch, fiscaal, financieel of notarieel advies.*

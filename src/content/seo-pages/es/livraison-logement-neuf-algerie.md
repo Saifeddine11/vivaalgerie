@@ -1,279 +1,276 @@
 ---
-title: "Entrega de una vivienda nueva en Argelia: checklist | Viva Algérie"
-h1: "Entrega de una vivienda nueva en Argelia: checklist antes de la entrega de llaves"
-description: "Checklist de entrega de vivienda nueva: reservas, retrasos y documentos."
+title: "Entrega de viviendas nuevas en Argelia: lista de control de claves | Viva Algérie"
+h1: "Entrega de viviendas nuevas en Argelia: lista de control antes de la entrega de llaves"
+description: "Entrega de vivienda nueva en Argelia: lista de control antes de la entrega de llaves, informe de toma de posesión, reservas, conformidad, saldo y título."
 slug: "livraison-logement-neuf-algerie"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/entrega-vivienda-nueva-argelia"
 translationKey: "livraison-logement-neuf-algerie"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+El día de la **entrega de llaves** a menudo se vive como un final. En realidad, se trata de una fase jurídica y técnica decisiva. En Argelia, para una vivienda procedente de una promoción o de una *vente sur plans* (venta sobre plano), se debe hacer constar con rigor la entrega: conformidad con los compromisos, reservas escritas, equilibrio de precios e inicio del recorrido del título.
 
+Esta lista de verificación le ayuda a preparar la aceptación sin improvisación.
 
-The day of **key handover** is often lived as an ending. In reality, it is a decisive legal and technical phase. In Algeria, for a home from a development or a *vente sur plans* (off-plan sale), delivery must be recorded with rigour: conformity with commitments, written reservations, price balance, and start of the title journey.
+> **Descargo de responsabilidad.** Esta página es un análisis editorial y educativo. No constituye asesoramiento legal, fiscal, financiero o notarial. Haga la entrega acompañado de su notario y, si es necesario, de un profesional técnico.
 
-This checklist helps you prepare acceptance without improvisation.
+## ¿Qué significa realmente “entrega”?
 
-> **Disclaimer.** Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial. Have delivery accompanied by your notary and, if needed, a technical professional.
+Entregar no es sólo entregar un llavero. Es dejar constancia de que la vivienda está terminada según el contrato, que usted toma posesión y que se realizan los seguimientos (saldo, reservas, eventuales garantías, título).
 
-## What “delivery” really means
+En el marco de ***vente sur plans*** (Ley N° **11-04**), el contrato auténtico se completa mediante un ***procès-verbal*** (informe) contradictorio, en la notaría, en el que se hace constar la toma de posesión y la entrega del edificio terminado de acuerdo con los compromisos. El Decreto **13-431** vincula notablemente el **saldo** (alrededor del 5% en el esquema regulatorio) a este momento de toma de posesión.
 
-To deliver is not only to hand over a keyring. It is to record that the home is completed according to the contract, that you take possession, and that the follow-ups (balance, reservations, any warranties, title) are engaged.
+En otras palabras: no trate la entrega como una formalidad de marketing.
 
-Within the ***vente sur plans*** framework (Law No. **11-04**), the authentic contract is completed by a contradictory ***procès-verbal*** (report), at the notarial office, recording taking possession and delivery of the completed building in accordance with commitments. Decree **13-431** notably links the **balance** (around 5% in the regulatory scheme) to this moment of taking possession.
+Recordatorios útiles: [Comprar sobre plano en Argelia](/es/comprar-sobre-plano-argelia), [Documentos de compra](/es/documentos-compra-inmobiliaria-argelia).
 
-In other words: do not treat delivery as a marketing formality.
+## Antes del día D: preparar el expediente
 
-Useful reminders: [Buying off-plan in Algeria](/es/comprar-sobre-plano-argelia), [Purchase documents](/es/documentos-compra-inmobiliaria-argelia).
+## 1. Vuelve a leer el contrato y la descripción.
 
-## Before D-day: prepare the file
+- zona y tipología;
+- acabados (pisos, carpintería, sanitarios, cocina si está previsto);
+- anexos (estacionamiento, bodega, terraza);
+- plazo contractual y sanciones;
+- modalidades de aceptación y reserva.
 
-### 1. Re-read the contract and the description
+## 2. Reúna los documentos del proyecto
 
-- area and typology;
-- finishes (flooring, joinery, sanitary ware, kitchen if provided);
-- annexes (parking, cellar, terrace);
-- contractual deadline and penalties;
-- acceptance and reservation modalities.
+- permisos / documentos de conformidad según la etapa;
+- EDD/identificación de lote;
+- cualquier pasajero;
+- historial de pagos y pruebas de progreso.
 
-### 2. Gather project documents
+## 3. Planifique una visita previa a la aceptación
 
-- permit / conformity documents according to the stage;
-- EDD / lot identification;
-- any riders;
-- payment history and progress proofs.
+Si es posible, visite antes de firmar el informe. Anotar defectos de luz natural, pruebas de agua, electricidad, cierres, ventilación, impermeabilización aparente, acabados de piezas comunes.
 
-### 3. Plan a pre-acceptance visit
+## 4. Aclarar el papel del notario
 
-If possible, visit before signing the report. Note defects in daylight, test water, electricity, closures, ventilation, apparent waterproofing, finishing of common parts.
+El informe de toma de posesión se elabora con la oficina. Llega con tu lista de reservas, no sólo con emoción.
 
-### 4. Clarify the notary’s role
+## Lista de control el día de la entrega de llaves
 
-The taking-possession report is prepared with the office. Arrive with your list of reservations, not with emotion alone.
+## A. Identificación de la propiedad
 
-## Checklist on key-handover day
+- [ ] Edificio, piso, número de lote conforme al contrato / EDD
+- [ ] Anexos (aparcamiento, bodega) identificados y accesibles
+- [ ] Áreas y distribución coherentes con los planos.
 
-### A. Property identification
+## B. Terminación y habitabilidad aparente
 
-- [ ] Building, floor, lot number compliant with contract / EDD
-- [ ] Annexes (parking, cellar) identified and accessible
-- [ ] Areas and layout coherent with plans
+- [ ] Obras terminadas en el hogar (sin sitio abierto crítico)
+- [ ] Piezas comunes utilizables (acceso, iluminación, ascensor si está previsto)
+- [ ] Conexiones anunciadas (agua, electricidad, etc.) operativas o claramente planificadas
 
-### B. Completion and apparent habitability
+## C. Calidad y defectos visibles
 
-- [ ] Works finished in the home (no critical open site)
-- [ ] Common parts usable (access, lighting, lift if provided)
-- [ ] Announced connections (water, electricity, etc.) operational or clearly planned
+- [ ] Grietas, entrada de agua, humedad.
+- [ ] Carpintería, juntas, impermeabilización de balcones/tejados accesibles
+- [ ] Pavimentos, fontanería, electricidad, enchufes, tableros.
+- [ ] Ventilación, drenaje, ruido anormal del equipo.
+- [ ] Acabados “apresurados” que no cumplen con la descripción
 
-### C. Quality and visible defects
+## D. Medidas y huecos
 
-- [ ] Cracks, water ingress, humidity
-- [ ] Joinery, seals, balcony / accessible roof waterproofing
-- [ ] Flooring, plumbing, electricity, sockets, boards
-- [ ] Ventilation, drainage, abnormal equipment noise
-- [ ] “Rushed” finishes non-compliant with the description
+- [ ] Espacios vacíos de área o diseño anotados por escrito
+- [] Equipo faltante listado
 
-### D. Measurements and gaps
+## E. Documentos entregados
 
-- [ ] Area or layout gaps noted in writing
-- [ ] Missing equipment listed
+- [ ] Llaves / tarjetas de acceso / mandos a distancia
+- [ ] Avisos sobre el equipo, si se proporcionan.
+- [ ] Planos/dosier útil
+- [] Testificaciones disponibles en esta etapa
 
-### E. Documents handed over
+## F. Escritura y pago
 
-- [ ] Keys / badges / remotes
-- [ ] Equipment notices if provided
-- [ ] Plans / useful dossier
-- [ ] Attestations available at this stage
+- [ ] Informe de toma de posesión elaborado/firmado en debida forma
+- [ ] Se adjuntan reservas por escrito
+- [ ] Saldo pagado únicamente según contrato y después de registro
+- [ ] Recibos y trazabilidad
 
-### F. Deed and payment
+No se conforme con “acomodarse” si persisten reservas importantes de incompletitud: hable primero con el notario.
 
-- [ ] Taking-possession report prepared / signed in due form
-- [ ] Written reservations annexed
-- [ ] Balance paid only according to contract and after recording
-- [ ] Receipts and traceability
+## Redacción de reservas útiles
 
-Do not settle “to accommodate” if major incompleteness reservations remain: speak to the notary first.
+Una reserva vaga (“revisar”) protege mal. Una reserva útil indica:
 
-## Drafting useful reservations
+- el lugar preciso (habitación, fachada, equipamiento);
+- el defecto observado;
+- si es posible, adjuntar una fotografía fechada;
+- la solicitud (reparación, sustitución, justificación).
 
-A vague reservation (“to review”) protects poorly. A useful reservation indicates:
+Priorizar la impermeabilización, la seguridad, la incompletitud y la no conformidad con la descripción. Los detalles estéticos también cuentan, pero clasifícalos.
 
-- the precise place (room, façade, equipment);
-- the observed defect;
-- if possible a dated photo attached;
-- the request (remedy, replacement, justification).
+## Retraso en la entrega: ¿qué mirar?
 
-Prioritise waterproofing, safety, incompleteness and non-conformity with the description. Cosmetic details also count, but rank them.
+Si se excede la fecha contractual:
 
-## Delivery delay: what to look at?
+- calcular el retraso en el contrato;
+- observe el mecanismo de **penalización** proporcionado (decreto 13-431 enmarca un esquema de penalización por entrega tardía);
+- documentar sus intercambios;
+- evitar acuerdos orales no formalizados.
 
-If the contractual date is exceeded:
+El retraso no borra el requisito de calidad cuando finalmente llega la entrega.
 
-- calculate the delay against the contract;
-- look at the **penalty** mechanism provided (Decree 13-431 frames a late-delivery penalty scheme);
-- document your exchanges;
-- avoid unformalised oral arrangements.
+## Después de las llaves: el trabajo continúa
 
-Delay does not erase the quality requirement when delivery finally arrives.
+## Seguimiento de remedios
 
-## After the keys: the work continues
+Requerir un calendario para el levantamiento de reservas. Seguimiento por escrito. Guarde las pruebas.
 
-### Follow-up of remedies
+## Título y *livret*
 
-Require a calendar for lifting reservations. Follow up in writing. Keep proofs.
+Dependiendo del programa, el individuo **livret foncier** puede seguir la división del título. Aclarar con el notario: dónde se encuentra el expediente, qué escrituras quedan, qué plazos realistas. Ver [Documentos de compra](/es/documentos-compra-inmobiliaria-argelia).
 
-### Title and *livret*
+## Copropiedad y cargas
 
-Depending on the programme, the individual ***livret foncier*** may follow title division. Clarify with the notary: where the file stands, which deeds remain, which realistic deadlines. See [Purchase documents](/es/documentos-compra-inmobiliaria-argelia).
+Nada más entrar comienza la vida colectiva: cargas, mantenimiento, organización síndica o equivalente según el proyecto. Pide transparencia sobre el funcionamiento anunciado.
 
-### Co-ownership and charges
+## Garantías
 
-As soon as you move in, collective life begins: charges, maintenance, syndic or equivalent organisation depending on the project. Ask for transparency on the announced functioning.
+Infórmese sobre las garantías legales aplicables (incluida la lógica de garantía relacionada con la construcción/promotor según el marco, incluido *garantie décennale* cuando corresponda). Informar rápidamente de trastornos graves. La pasividad a menudo debilita la posición práctica del comprador.
 
-### Warranties
+## Casos especiales
 
-Inform yourself on applicable legal warranties (including construction / developer-related warranty logic under the framework, including *garantie décennale* where applicable). Report serious disorders quickly. Passivity often weakens the buyer’s practical position.
+## Diáspora
 
-## Special cases
+Si no puede estar presente, agente + notario + informe fotográfico/vídeo fechado + negativa de firma ciega. Ver [Diáspora](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-### Diaspora
+## Compra en Argel
 
-If you cannot be present, agent + notary + dated photo/video report + refusal of blind signature. See [Diaspora](/es/articulos/diaspora-algerienne-acheter-immobilier).
+Densidad, aparcamiento, molestias en los alrededores: compruebe también el entorno inmediato el día de la entrega. Consulte [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel), [Precios de propiedades en Argel](/es/precios-inmobiliarios-argel).
 
-### Purchase in Algiers
+## Desarrollo: revalidar al actor
 
-Density, parking, neighbouring-site nuisances: also check the immediate environment on delivery day. See [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel), [Property prices in Algiers](/es/precios-inmobiliarios-argel).
+Incluso al final del viaje, mantenga los documentos *agrément* y la coherencia del vendedor. La alerta de Justicia 2025 recuerda que cierto marketing fuera de *agrément* es ilegal. Ver [Cómo verificar un promotor](/es/como-verificar-promotor-inmobiliario-argelia).
 
-### Development: revalidate the actor
+## Errores frecuentes el día D
 
-Even at the end of the journey, keep *agrément* documents and seller coherence. The Justice 2025 alert recalls that certain marketing outside *agrément* is illegal. See [Checking a developer](/es/como-verificar-promotor-inmobiliario-argelia).
+1. Firmar un informe “sin reservas” bajo presión.
+2. Pagar el saldo ante un récord real.
+3. Confiar en promesas orales de reparación.
+4. Ignorar las partes comunes.
+5. Olvidar aparcamiento/bodega.
+6. Dejar sin copias de documentos firmados.
 
-## Frequent mistakes on D-day
+Complemento: [Errores al comprar](/es/articulos/erreurs-acheter-immobilier-algerie), [Riesgos](/es/riesgos-compra-inmobiliaria-argelia), [Vivienda nueva](/es/articulos/logement-neuf-algerie-opportunite-risque).
 
-1. Signing a report “without reservation” under pressure.
-2. Paying the balance before a real record.
-3. Relying on oral promises of remedy.
-4. Ignoring common parts.
-5. Forgetting parking / cellar.
-6. Leaving without copies of signed documents.
+## S.A.F.E y entrega
 
-Complement: [Mistakes when buying](/es/articulos/erreurs-acheter-immobilier-algerie), [Risks](/es/riesgos-compra-inmobiliaria-argelia), [New housing](/es/articulos/logement-neuf-algerie-opportunite-risque).
+Un proyecto analizado **S.A.F.E** (rejilla propietaria Viva Algérie) no está “garantizado libre de defectos”. La aceptación sigue siendo un acto personal, notarial y técnico. S.A.F.E no reemplaza ni el informe ni las reservas.
 
-## S.A.F.E and delivery
+Más información: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
-A project analysed **S.A.F.E** (proprietary Viva Algérie grid) is not “guaranteed defect-free”. Acceptance remains a personal, notarial and technical act. S.A.F.E replaces neither the report nor the reservations.
+## Lista de verificación exprés para imprimir
 
-Learn more: [S.A.F.E certification](/es/certificacion-inmobiliaria-safe).
+1. Vuelva a leer el contrato + descripción el día anterior.
+2. Prepare una linterna, una cinta métrica, una libreta y un teléfono cargado.
+3. Visita de día, luego revisa los puntos de iluminación.
+4. Enumere las reservas habitación por habitación con fotografías.
+5. Consultar lote + anexos (estacionamiento, bodega).
+6. No liquidar ante un marco notarial claro.
+7. Firmar el informe con anexos de reservas.
+8. Reúna copias fechadas de todo.
+9. Abrir un seguimiento escrito de los remedios.
+10. Aclare el título/calendario *livret*.
 
-## Express checklist to print
+Esta lista no reemplaza al notario; Previene el olvido bajo la emoción.
 
-1. Re-read contract + description the day before.
-2. Prepare torch, tape measure, notebook, charged phone.
-3. Visit by day, then review lighting points.
-4. List reservations room by room with photos.
-5. Check lot + annexes (parking, cellar).
-6. Do not settle before a clear notarial framework.
-7. Sign the report with reservation annexes.
-8. Collect dated copies of everything.
-9. Open a written follow-up of remedies.
-10. Clarify the title / *livret* calendar.
+## Conclusiones clave
 
-This list does not replace the notary; it prevents forgetting under emotion.
+**La entrega de vivienda nueva en Argelia** se prepara como un examen: contrato, visita, reservas escritas, informe, saldo controlado, seguimiento del título y subsanaciones. Las llaves abren la puerta; no cierran el archivo.
 
-## Key takeaways
+Para el marco ascendente: [Comprar sobre plano](/es/comprar-sobre-plano-argelia), [Marco legal](/es/articulos/cadre-juridique-immobilier-algerie).
 
-**New housing delivery in Algeria** is prepared like an exam: contract, visit, written reservations, report, controlled balance, then title follow-up and remedies. Keys open the door; they do not close the file.
 
-For the upstream framework: [Buying off-plan](/es/comprar-sobre-plano-argelia), [Legal framework](/es/articulos/cadre-juridique-immobilier-algerie).
+## Visita de aceptación: método habitación por habitación
 
+## Entradas y circulaciones
 
-## Acceptance visit: room-by-room method
+Iluminación, pavimentos, puertas, enchufes, cualquier detección de incendio según proyecto, accesibilidad anunciada o no.
 
-### Entrance and circulations
+## Salón/cocina
 
-Lighting, flooring, doors, sockets, any fire detection depending on the project, announced accessibility or not.
+Nivelación del suelo, juntas, drenaje, puntos de agua, ventilación, cualquier campana extractora, estado de las paredes.
 
-### Living room / kitchen
+## Dormitorios
 
-Floor levelness, seals, drainage, water points, ventilation, any cooker hood, wall condition.
+Aislamiento percibido, enchufes, persianas/carpintería, ruido de fachada.
 
-### Bedrooms
+## Cuartos húmedos
 
-Perceived insulation, sockets, shutters/joinery, façade noise.
+Impermeabilización aparente, taludes de drenaje, ventilación, sanitarios, sellados.
 
-### Wet rooms
+## Exteriores privados
 
-Apparent waterproofing, drainage slopes, ventilation, sanitary fixtures, seals.
+Barandillas, impermeabilización de balcones/terrazas, drenaje de aguas pluviales, pavimentos.
 
-### Private exteriors
+## Partes comunes el día D
 
-Guardrails, balcony/terrace waterproofing, rainwater drainage, flooring.
+Recibidor, buzones, cuarto de basura, cuarto para bicicletas/cochecitos si está previsto, aparcamiento, iluminación de circulación, ascensor (certificados/puesta en servicio).
 
-### Common parts on D-day
+Fotografía cada reserva. Una foto fechada vale más que un recuerdo.
 
-Hall, letterboxes, bin room, bike/pushchair room if provided, parking, circulation lighting, lift (certificates / commissioning).
+## Distinguir reservas menores/mayores
 
-Photograph each reservation. A dated shot is worth more than a memory.
+**Menores**: defectos estéticos localizados, remedios sencillos sin impedir la habitación.
 
-## Distinguishing minor / major reservations
+**Grave**: estado incompleto, entrada de agua, instalaciones peligrosas, gran disconformidad con la descripción, falta de anexos, imposibilidad de uso normal.
 
-**Minor**: localised cosmetic defects, simple remedies without preventing habitation.
+Esta distinción guía su discusión con el notario sobre la toma de posesión y el saldo. No es un dogma jurídico fijo: ayuda a priorizar.
 
-**Major**: incompleteness, water ingress, dangerous installations, heavy non-conformity with the description, missing annexes, impossibility of normal use.
+## Registro contradictorio: actitud recomendada
 
-This distinction guides your discussion with the notary on taking possession and the balance. It is not a fixed legal dogma: it helps prioritise.
+Sea objetivo. Evite la escalada emocional en el sitio. Nota, fotografía, anexo. Si surge un desacuerdo sobre la existencia de un defecto, solicite que se **mencione** incluso durante la discusión. El silencio crea zonas grises.
 
-## Contradictory record: recommended attitude
+## Primera semana después de mudarse
 
-Stay factual. Avoid emotional escalation on site. Note, photograph, annex. If disagreement arises on the existence of a defect, ask that it be **mentioned** even in discussion. Silence creates grey zones.
+- volver a probar el agua caliente, la presión y los interruptores;
+- observar las huellas de humedad después de las primeras lluvias, si la estación lo permite;
+- observar los ruidos y defectos del equipo que aparecen durante el uso;
+- enviar complemento de reserva si el contrato/práctica lo permite, con asesoramiento notarial.
 
-## First week after moving in
+La entrega no es un instante mágico en el que todo se congela: es el comienzo de un período de evidencia.
 
-- retest hot water, pressure, breakers;
-- observe humidity traces after the first rain if the season allows;
-- note equipment noises and defects appearing in use;
-- send a reservation complement if the contract / practice allows, with notarial advice.
+## Relación con el promotor después de las claves
 
-Delivery is not a magic instant where everything freezes: it is the start of an evidence period.
+Requerir un contacto designado para soluciones. Centralizar solicitudes. Evite múltiples canales informales que diluyan la responsabilidad. Si se retrasan los plazos para subsanar la situación, formalícela. Los compradores organizados generalmente obtienen mejores resultados que los compradores dispersos.
 
-## Relationship with the developer after keys
+## Enlace con futura reventa
 
-Require a named contact for remedies. Centralise requests. Avoid multiple informal channels that dilute responsibility. If remedy deadlines slip, formalise. Organised buyers generally obtain better results than dispersed buyers.
+Una casa nueva mal aceptada es más difícil de revender: defectos visibles, cargos imprevistos, expediente de título incompleto. Invertir dos días en una lista de control seria protege el valor patrimonial tanto como la comodidad inmediata. Consulte [Precios de propiedades en Argel](/es/precios-inmobiliarios-argel) para conocer la lógica de lectura del mercado (sin cifras inventadas). Más en nuestros hubs [guías](/es/guias) y [inmobiliario](/es/inmobiliario).
 
-## Link with future resale
+## Preguntas frecuentes
 
-A poorly accepted new home is harder to resell: visible defects, unforeseen charges, incomplete title file. Investing two days in a serious checklist protects patrimonial value as much as immediate comfort. See [Property prices in Algiers](/es/precios-inmobiliarios-argel) for market-reading logic (without invented figures). More in our [guides](/es/guias) and [real estate](/es/inmobiliario) hubs.
+## ¿Debo firmar el informe si persisten defectos?
 
-## FAQ
+A menudo puede firmar adjuntando **reservas** precisas. En caso de faltas importantes, consulte al notario inmediatamente antes de aceptar una toma de posesión “limpia”.
 
-### Must I sign the report if defects remain?
+## ¿Cuándo pagar el saldo del precio?
 
-You can often sign while annexing precise **reservations**. For major incompleteness, consult the notary immediately before accepting a “clean” taking of possession.
+En el esquema *vente sur plans* el saldo está vinculado a la toma de posesión. No lo desvincules de un registro real y de formularios notariales.
 
-### When to pay the price balance?
+## ¿Qué hacer en caso de retraso en la entrega?
 
-In the *vente sur plans* scheme, the balance is linked to taking possession. Do not detach it from a real record and notarial forms.
+Documentar, releer cláusulas y sanciones, pasar por notario, evitar acuerdos puramente orales.
 
-### What to do in case of delivery delay?
+## ¿Se entrega el *livret foncier* con las llaves?
 
-Document, re-read clauses and penalties, go through the notary, avoid purely oral arrangements.
+No siempre de inmediato. Aclarar el calendario de división/emisión con el notario.
 
-### Is the *livret foncier* handed over with the keys?
+## ¿Puedo estar representado el día de la entrega?
 
-Not always immediately. Clarify the division / issuance calendar with the notary.
+Sí, con un mandato claro y un método de registro (fotos, lista de reservas). La representación no autoriza la imprudencia.
 
-### Can I be represented on delivery day?
+## ¿S.A.F.E garantiza la calidad en el momento de la entrega?
 
-Yes, with a clear mandate and a recording method (photos, reservation list). Representation does not authorise imprudence.
+No. Ayuda aguas arriba. La calidad se registra en el momento de la aceptación.
 
-### Does S.A.F.E assure quality at delivery?
-
-No. It helps upstream. Quality is recorded at acceptance.
-
-## Sources
+## Fuentes
 
 - Law No. 11-04 of 17 February 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
-- Executive Decree No. 13-431 (payments, penalties, models) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- Notarial practice of taking-possession reports (*vente sur plans*)
+- Decreto Ejecutivo N° 13-431 (pagos, sanciones, modelos) — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
+- Práctica notarial de actas de toma de posesión (*vente sur plans*)
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

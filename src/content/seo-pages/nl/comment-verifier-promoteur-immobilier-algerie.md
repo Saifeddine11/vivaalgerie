@@ -1,225 +1,222 @@
 ---
-title: "Hoe controleert u een vastgoedontwikkelaar in Algerije | Viva Algérie"
-h1: "Hoe controleert u een vastgoedontwikkelaar in Algerije vóór aankoop"
-description: "Controle van ontwikkelaars: agrément, handelsregister, nationaal tableau, FGCMPI."
+title: "Hoe een vastgoedontwikkelaar in Algerije te controleren | Viva Algérie"
+h1: "Hoe u een vastgoedontwikkelaar in Algerije kunt controleren voordat u koopt"
+description: "Controleer een vastgoedontwikkelaar in Algerije: wilaya agrément, handelsregister, nationale tabel, FGCMPI, notitie Justitie 2025 en koperchecklist."
 slug: "comment-verifier-promoteur-immobilier-algerie"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/vastgoedontwikkelaar-controleren-algerije"
 translationKey: "comment-verifier-promoteur-immobilier-algerie"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
+Voordat u een bebouwing koopt, is de vraag niet “is de staat mooi?” maar **“heeft mijn gesprekspartner het recht om te oefenen en wordt het project regelmatig op de markt gebracht?”**. In Algerije is het beroep van vastgoedontwikkelaar ingekaderd. Het controleren van de *agrément*, het handelsregister, de nationale tabel en de samenhang van de dossiers is geen luxe: het is de eerste verdedigingslinie van de koper.
 
+> **Disclaimer.** Deze pagina is een redactionele en educatieve analyse. Het betreft geen juridisch, fiscaal, financieel of notarieel advies. Laat elk dossier valideren door een notaris.
 
-Before buying in a development, the question is not “is the standing beautiful?” but **“does my interlocutor have the right to practise and is the project regularly marketed?”**. In Algeria, the profession of real-estate developer is framed. Checking the *agrément*, commercial register, national table and file coherence is not a luxury: it is the buyer’s first line of defence.
+## Waarom het controleren van de ontwikkelaar doorslaggevend is
 
-> **Disclaimer.** Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies. Have every file validated by a notary.
+Wet nr. **11-04** van 17 februari 2011 stelt de regels vast voor vastgoedontwikkelingsactiviteiten. De geest van de tekst is duidelijk: je brengt collectieve woningen niet op de markt “zoals een particulier een huis verkoopt”. De *agrément*, registratie en inschrijving op de **nationale tabel van vastgoedontwikkelaars** structureren het beroep.
 
-## Why checking the developer is decisive
+In **2025** stuurde het directoraat Burgerzaken en Zeehonden van de Staat (Ministerie van Justitie) een nota naar de Nationale Kamer van Notarissen over praktijken van **illegale uitoefening**: constructie van gebouwen onder de schijn van gezinsgebouwen, en vervolgens de verkoop van appartementen en panden zonder een *agrément*-certificaat. Notarissen worden opgeroepen tot verhoogde waakzaamheid en het opvragen van de voorgeschreven documenten.
 
-Law No. **11-04** of 17 February 2011 sets the rules for real-estate development activity. The spirit of the text is clear: you do not market collective housing “like a private individual selling a house”. The *agrément*, registration and inscription on the **national table of real-estate developers** structure the profession.
+Voor de koper is de les eenvoudig: als de notaris waakzaam moet zijn, moet jij dat ook doen.
 
-In **2025**, the Civil Affairs and Seals Directorate of the State (Ministry of Justice) sent a note to the National Chamber of Notaries on practices of **illegal exercise**: construction of buildings under the appearance of family buildings, then marketing of apartments and premises without an *agrément* certificate. Notaries are called to heightened vigilance and to require the prescribed documents.
+Gerelateerde pagina's: [Aankooprisico's](/nl/vastgoedrisicos-algerije), [Off-plan kopen](/nl/off-plan-kopen-algerije), [Documenten om te controleren](/nl/documenten-vastgoedkoop-algerije).
 
-For the buyer, the lesson is simple: if the notary must be vigilant, **so must you**.
+## De drie documentaire pijlers die nodig zijn
 
-Related pages: [Purchase risks](/nl/vastgoedrisicos-algerije), [Buying off-plan](/nl/off-plan-kopen-algerije), [Documents to check](/nl/documenten-vastgoedkoop-algerije).
+## 1. De vastgoedontwikkelaar *agrément* (wilaya)
 
-## The three documentary pillars to require
+De ***agrément*** (goedkeuring) is de professionele sleutel. Vraag naar:
 
-### 1. The real-estate developer *agrément* (wilaya)
+- een leesbare kopie van het *agrément* certificaat;
+- de wilaya van uitgifte;
+- duur/geldigheid en samenhang met de lopende activiteit;
+- de exacte naam van de erkende rechtspersoon of natuurlijke persoon.
 
-The ***agrément*** (approval) is the professional key. Ask for:
+Controleer of de naam op *agrément* overeenkomt met die op het contract, de facturen en de marketing. Een gat in de bedrijfsnaam is een waarschuwingssignaal.
 
-- a readable copy of the *agrément* certificate;
-- the wilaya of issue;
-- duration / validity and coherence with the activity under way;
-- the exact name of the approved legal or natural person.
+## 2. Inschrijving in het handelsregister
 
-Check that the name on the *agrément* matches that on the contract, invoices and marketing. A company-name gap is a warning signal.
+Commerciële activiteiten moeten worden uitgevoerd door middel van een samenhangende registratie (handelsregister). Vraag naar:
 
-### 2. Registration in the commercial register
+- kenteken;
+- bedrijfsdoel verenigbaar met vastgoedontwikkeling;
+- maatschappelijke zetel en identiteit van de bestuurders.
 
-Commercial activity must be carried by a coherent registration (commercial register). Ask for:
+Een gesprekspartner ‘zonder structuur’ die deposito’s int buiten een identificeerbaar bedrijf is een groot risico.
 
-- registration number;
-- corporate purpose compatible with real-estate development;
-- registered office and identity of directors.
+## 3. Inschrijving op de nationale tafel van vastgoedontwikkelaars
 
-An interlocutor “without structure” who collects deposits outside an identifiable company is a major risk.
+Inschrijving op de **nationale tafel** completeert het beroepserkenningsprogramma. Vereist een bewijs van inschrijving en de samenhang ervan met de *agrément* en het register. Implementatieteksten (met name het decreet over *agrément*-voorwaarden en het bijhouden van beschrijvende verklaringen, vaak aangehaald in de berichtgeving over de nota van 2025) structureren deze vereisten aan de notariële kant.
 
-### 3. Inscription on the national table of real-estate developers
+**In de praktijk**: leg deze drie documenten **vóór** elke belangrijke overdracht voor aan de notaris.
 
-Inscription on the **national table** completes the professional-recognition scheme. Require proof of inscription and its coherence with the *agrément* and the register. Implementing texts (notably the decree on *agrément* conditions and keeping of descriptive statements, often cited in coverage of the 2025 note) structure these requirements on the notary side.
+## De FGCMPI: vierde coherentiecontrole
 
-**In practice**: present these three documents to the notary **before** any significant transfer.
+Het **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — wederzijds garantiefonds voor vastgoedontwikkeling) maakt deel uit van de wet 11-04-regeling. Voor een aankoop op plan vraagt ​​u om ondersteunende documenten die verband houden met het **project** (niet alleen een logo op een brochure).
 
-## The FGCMPI: fourth coherence check
+De FGCMPI verandert een slecht bestand niet in een goed bestand, maar de afwezigheid van enige traceerbaarheid in dit schema, terwijl het project zichzelf presenteert als een klassieke ontwikkeling, zou vragen moeten oproepen.
 
-The **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — mutual guarantee fund for real-estate development) sits within the Law 11-04 scheme. For an off-plan purchase, ask for supporting documents linked to the **project** (not only a logo on a brochure).
+Referentie: [fgcmpi.org.dz](https://fgcmpi.org.dz).
 
-The FGCMPI does not turn a bad file into a good one, but the absence of any traceability in this scheme, while the project presents itself as classic development, should raise questions.
+## Wat de Justitie 2025-waarschuwing in de praktijk zegt
 
-Reference: [fgcmpi.org.dz](https://fgcmpi.org.dz).
+Volgens berichtgeving in de pers over de nota die naar notarissen is gestuurd (augustus 2025):
 
-## What the Justice 2025 alert says in practice
+- sommige personen bouwen woongebouwen onder de dekking van gezinsgebouwen;
+- zij brengen vervolgens appartementen/panden als ontwikkeling op de markt;
+- zij handelen **zonder *agrément***, in strijd met artikel 4 van de vastgoedontwikkelingswet;
+- notarissen moeten stoppen met het opstellen van bepaalde akten in deze configuraties en **vereisen** *agrément*, handelsregister en nationale tabelinschrijving, naast de gebruikelijke documenten (inclusief de EDD indien relevant).
 
-According to press coverage of the note sent to notaries (August 2025):
+Voor de koper betekent dit:
 
-- some persons build residential buildings under the cover of family buildings;
-- they then market apartments / premises as a development;
-- they act **without *agrément***, in contradiction with Article 4 of the real-estate development law;
-- notaries must stop drawing certain deeds in these configurations and **require** *agrément*, commercial register and national-table inscription, in addition to usual documents (including the EDD when relevant).
+- pas op voor het discours “het is familie, maar we verkopen veel”;
+- een duidelijke kwalificatie van de operatie vereisen;
+- weiger circuits die de notaris vermijden.
 
-For the buyer, that means:
+## 10-stapsverificatiemethode
 
-- beware the discourse “it’s family, but we sell lots”;
-- require a clear qualification of the operation;
-- refuse circuits that avoid the notary.
+1. **Identificeer** de exacte bedrijfsnaam van de ontwikkelaar.
+2. **Vraag** *agrément*, handelsregister, nationale tabel.
+3. **Controleer** de namen op alle marketing- en contractuele documenten.
+4. **Vraag** landrechten en de bouwvergunning van het programma.
+5. **Vraag** FGCMPI / projectondersteunende documenten.
+6. **Bezoek** een locatie of een eerdere levering.
+7. **Zoek** naar signalen van geschillen (zonder alleen op geruchten te vertrouwen).
+8. **Weiger** elke onvindbare contante betaling.
+9. **Ga** naar de notaris met het volledige dossier.
+10. **Reserveren** alleen na validatie van het raamwerk (*vente sur plans* indien van toepassing).
 
-## 10-step verification method
+Voor Algiers: [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers). Voor het contract: [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije).
 
-1. **Identify** the exact company name of the developer.
-2. **Ask for** *agrément*, commercial register, national table.
-3. **Cross-check** names on all marketing and contractual documents.
-4. **Ask for** land rights and the programme building permit.
-5. **Ask for** FGCMPI / project supporting documents.
-6. **Visit** a site or a prior delivery.
-7. **Look for** dispute signals (without relying on rumours alone).
-8. **Refuse** any untraceable cash payment.
-9. **Go** to the notary with the complete file.
-10. **Reserve** only after validation of the framework (*vente sur plans* if applicable).
+## Frequente waarschuwingssignalen
 
-For Algiers: [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers). For the contract: [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije).
+- Druk: “laatste eenheid, betaling vandaag”.
+- Onvermogen om de *agrément* “voorlopig” te tonen.
+- Marketing via opeenvolgende particulieren voor dezelfde dichte nieuwbouw.
+- Kloof tussen weergegeven ontwikkelaar en ondertekenaar van het contract.
+- Afwezigheid van vergunning of ontwijkende antwoorden op het land.
+- Deposito's buiten het notariaat.
+- Niet-bestaande technische beschrijving.
 
-## Frequent warning signals
+Deze signalen staan ​​niet automatisch gelijk aan fraude, maar rechtvaardigen een **stop** tot opheldering.
 
-- Pressure: “last unit, payment today”.
-- Inability to show the *agrément* “for now”.
-- Marketing via successive private individuals for the same dense new building.
-- Gap between displayed developer and contract signatory.
-- Absence of permit or evasive answers on land.
-- Deposits outside the notarial office.
-- Non-existent technical description.
+## Controleer ook het project, niet alleen het bedrijf
 
-These signals do not automatically equal fraud, but they justify a **stop** until clarification.
+Een goedgekeurde ontwikkelaar kan een slecht voorbereid project uitvoeren. Compleet met:
 
-## Also check the project, not only the company
+- planning en vergunning;
+- EDD / divisielogica;
+- conform schema (decreet 13-431);
+- deadline en boetes;
+- waargenomen uitvoeringskwaliteit.
 
-An approved developer can carry a poorly prepared project. Complete with:
+Zie: [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije), [Oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije), [Risico's](/nl/vastgoedrisicos-algerije).
 
-- planning and permit;
-- EDD / division logic;
-- compliant schedule (Decree 13-431);
-- deadline and penalties;
-- observed execution quality.
+## Speciaal geval: diaspora en agenten
 
-See: [Purchase documents](/nl/documenten-vastgoedkoop-algerije), [New housing delivery](/nl/oplevering-nieuwe-woning-algerije), [Risks](/nl/vastgoedrisicos-algerije).
+Als u in het buitenland koopt, zijn kopieën en broncontroles vereist. Een nuttige agent presenteert documenten; een gevaarlijke agent versnelt betalingen. Kadreer het mandaat en de notaris.
 
-## Special case: diaspora and agents
+Gids: [Diaspora: kopen in het buitenland](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-If you buy from abroad, require copies and source checks. A useful agent presents documents; a dangerous agent accelerates payments. Frame the mandate and the notary.
+## S.A.F.E: een aanvullend raster, geen vervanging
 
-Guide: [Diaspora: buying from abroad](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+**S.A.F.E** analyseert projecten op basis van vertrouwenscriteria (S/A/F/E) en beoordelings-, gecertificeerde, prime- en vertrouwelijke niveaus. Het is een **eigen** Viva Algérie-certificering, **geen** staatsvalidatie. Het vervangt noch *agrément*, noch de notaris.
 
-## S.A.F.E: a complementary grid, not a substitute
+Meer informatie: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
 
-**S.A.F.E** analyses projects against trust criteria (S/A/F/E) and Review / Certified / Prime / Confidential levels. It is a **proprietary** Viva Algérie certification, **not** State validation. It replaces neither *agrément* nor the notary.
+## Belangrijkste afhaalrestaurants
 
-Learn more: [S.A.F.E certification](/nl/safe-vastgoedcertificering).
+**Het controleren van een vastgoedontwikkelaar in Algerije** begint met drie bewijzen (wilaya *agrément*, handelsregister, nationale tabel), gaat verder met FGCMPI/projectcoherentie en eindigt bij de notaris. De alertheid Justitie 2025 bevestigt dat marketing buiten het kader geen administratief detail is: het is een centraal risico voor de koper.
 
-## Key takeaways
+Aanvullingen: [Juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie), [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Nieuwe behuizing](/nl/artikelen/logement-neuf-algerie-opportunite-risque).
 
-**Checking a real-estate developer in Algeria** starts with three proofs (wilaya *agrément*, commercial register, national table), continues with FGCMPI/project coherence, and concludes at the notary. The Justice 2025 alert confirms that marketing outside the framework is not an administrative detail: it is a central risk for the buyer.
 
-Complements: [Legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie), [Mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie), [New housing](/nl/artikelen/logement-neuf-algerie-opportunite-risque).
+## Informatie controleren zonder een onderzoeker te worden
 
+Je hoeft geen politieagent te worden. Je hebt een **routine** nodig:
 
-## How to cross-check information without becoming an investigator
+1. Vraag de drie documenten op (*agrément*, register, tabel).
+2. Laat ze voorlezen door de notaris.
+3. Bezoek indien mogelijk een afgeleverde referentie.
+4. Vraag het projectbestand op (grond, vergunning, standaardcontract, FGCMPI).
+5. Weiger alles wat oraal blijft.
 
-You do not need to become a police officer. You need a **routine**:
+Als een stap blokkeert zonder een geloofwaardige verklaring, biedt de markt andere gesprekspartners. Kunstmatige schaarste (“morgen zal er niets meer zijn”) is een verkoopinstrument, geen bewijs van kwaliteit.
 
-1. Ask for the three documents (*agrément*, register, table).
-2. Have them read by the notary.
-3. Visit a delivered reference if possible.
-4. Require the project file (land, permit, standard contract, FGCMPI).
-5. Refuse everything that remains oral.
+## Schriftelijke vragen om vóór een vergadering te sturen
 
-If a step blocks without a credible explanation, the market offers other interlocutors. Artificial scarcity (“tomorrow there will be none left”) is a sales tool, not proof of quality.
+Bereid één bericht voor:
 
-## Written questions to send before a meeting
+- exacte bedrijfsnaam en bestuurders;
+- *agrément* nummer en datum / wilaya;
+- referenties uit het handelsregister en nationale tabellen;
+- programmaadres en vergunningreferenties;
+- projectstatus FGCMPI;
+- contractuele leveringstermijn;
+- lijst met inbegrepen afwerkingen;
+- modaliteiten van plaatsbezoek.
 
-Prepare a single message:
+Een georganiseerde ontwikkelaar antwoordt. Een verkoper die alleen is getraind in emotionele ontwijkingen. De toon van het antwoord telt bijna evenveel als de inhoud ervan.
 
-- exact company name and directors;
-- *agrément* number and date / wilaya;
-- commercial-register and national-table references;
-- programme address and permit references;
-- project FGCMPI status;
-- contractual delivery deadline;
-- list of included finishes;
-- site-visit modalities.
+## *Agrément*: frequente interpretatiefouten
 
-An organised developer answers. A salesperson trained only for emotional closing dodges. The tone of the answer counts almost as much as its content.
+- “Wij hebben een vergunning, dus wij zijn ontwikkelaar”: nee, dat is niet gelijkwaardig.
+- “Wij verkopen via een particulier om het eenvoudiger te maken”: kan onregelmatige marketing maskeren.
+- “De *agrément* arriveert volgende week”: financier het wachten niet.
+- “De notaris regelt het, hoeft niet te zien”: u moet het zien, dan bevestigt de notaris.
 
-## *Agrément*: frequent interpretation mistakes
+De nota van Justitie uit 2025 herinnerde er precies aan dat de kwalificatie van de operatie kan voortvloeien uit de commerciële realiteit (verkoop van kavels) en niet uit het discours (“het is familie”).
 
-- “We have a permit, so we are a developer”: no, it is not equivalent.
-- “We sell via a private individual to simplify”: may mask irregular marketing.
-- “The *agrément* arrives next week”: do not fund the wait.
-- “The notary handles it, no need to see”: you must see, then the notary confirms.
+## Na een positieve check: blijf kritisch op het project
 
-The Justice 2025 note precisely recalled that the qualification of the operation can follow from commercial reality (sale of lots) and not from discourse (“it’s family”).
+Zelfs een regelmatig geautoriseerde ontwikkelaar kan een middelmatig programma voorstellen: onrealistische kalender, vage afwerkingen, buitensporige dichtheid, onderschatting van nutsnetwerken. Acteurverificatie is een **toegangsfilter**, geen schoonheidscertificaat voor het product. Volg daarna de technische en contractuele analyse en daarna alleen nog een reservering.
 
-## After a positive check: stay critical of the project
+Zie ook [Off-plan kopen](/nl/off-plan-kopen-algerije) en [Levering](/nl/oplevering-nieuwe-woning-algerije). Meer in onze [gidsen](/nl/gidsen)- en [vastgoed](/nl/vastgoed)-hubs.
 
-Even a regularly authorised developer can propose a mediocre programme: unrealistic calendar, vague finishes, excessive density, underestimation of utilities networks. Actor verification is an **entry filter**, not a beauty certificate for the product. Follow with technical and contractual analysis, then only reservation.
+## Mentale ‘go/no-go’-tabel
 
-See also [Buying off-plan](/nl/off-plan-kopen-algerije) and [Delivery](/nl/oplevering-nieuwe-woning-algerije). More in our [guides](/nl/gidsen) and [real estate](/nl/vastgoed) hubs.
-
-## Mental “go / no-go” table
-
-| Signal | Orientation |
+| Signaal | Oriëntatie |
 | --- | --- |
-| Coherent *agrément* documents + notary at ease | Go toward project analysis |
-| Absent / incoherent documents | No-go |
-| Payment outside notary required | No-go |
-| Invisible site + high deposits | No-go until proof |
-| Visitable delivery history | Positive signal to cross-check |
-| Extreme 24h pressure | Voluntary brake |
+| Samenhangende *agrément* documenten + notaris op zijn gemak | Ga richting projectanalyse |
+| Afwezige / onsamenhangende documenten | Niet-gaan |
+| Betaling buiten notaris vereist | Niet-gaan |
+| Onzichtbare site + hoge stortingen | No-go tot bewijs |
+| Bezoekbare bezorggeschiedenis | Positief signaal voor kruiscontrole |
+| Extreme 24-uursdruk | Vrijwillige rem |
 
-This table is not legal; it is a personal-discipline tool.
+Deze tabel is niet legaal; het is een instrument voor persoonlijke discipline.
 
-## FAQ
+## Veelgestelde vragen
 
-### What documents to ask a developer before buying?
+## Welke documenten moet u aan een ontwikkelaar vragen voordat u een aankoop doet?
 
-At minimum: *agrément* certificate, commercial-register registration, inscription on the national table of developers, plus the project file (land, permit, contract, guarantee supporting documents).
+Minimaal: *agrément* certificaat, inschrijving in het handelsregister, inschrijving op de nationale tabel van ontwikkelaars, plus het projectdossier (grond, vergunning, contract, garantie ondersteunende documenten).
 
-### Where is developer *agrément* issued?
+## Waar is ontwikkelaar *agrément* uitgegeven?
 
-The *agrément* sits within the wilaya scheme / procedures provided by implementing texts. Ask for the official document and have it checked by your notary.
+De *agrément* maakt deel uit van het wilaya-schema/de procedures die worden geboden door implementatieteksten. Vraag het officiële document op en laat het controleren door uw notaris.
 
-### What if I am offered a “family” building cut into apartments?
+## Wat moet ik doen als ik een “familie”-gebouw aangeboden krijg dat in appartementen is opgedeeld?
 
-Extreme caution. That is precisely the type of scheme targeted by the 2025 alert when it masks development without *agrément*. Go through a notary before any payment.
+Uiterste voorzichtigheid. Dat is precies het soort plan waarop de waarschuwing van 2025 zich richt, wanneer het ontwikkeling maskeert zonder *agrément*. Ga vóór elke betaling via een notaris.
 
-### Does the FGCMPI alone prove that a developer is reliable?
+## Bewijst de FGCMPI alleen al dat een ontwikkelaar betrouwbaar is?
 
-No. It is an element of scheme coherence. It complements *agrément* and the project file; it does not replace them.
+Nee. Het is een onderdeel van de coherentie van het schema. Het is een aanvulling op *agrément* en het projectbestand; het vervangt ze niet.
 
-### Can the notary refuse to deed a development sale?
+## Kan de notaris weigeren een ontwikkelingsverkoop te doen?
 
-Yes, in cases where the legal framework is not respected. That is protection for the buyer, not an obstacle.
+Ja, in gevallen waarin het wettelijke kader niet wordt gerespecteerd. Dat is bescherming voor de koper, geen belemmering.
 
-### Does S.A.F.E replace *agrément* verification?
+## Vervangt S.A.F.E *agrément* verificatie?
 
-No. S.A.F.E is proprietary and complementary. *Agrément* and legal registrations remain essential.
+Nee. S.A.F.E is bedrijfseigen en complementair. *Agrément* en wettelijke registraties blijven essentieel.
 
-## Sources
+## Bronnen
 
-- Law No. 11-04 of 17 February 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
-- FGCMPI — official site [fgcmpi.org.dz](https://fgcmpi.org.dz)
-- August 2025 Ministry of Justice note to notaries (illegal real-estate development) — TSA, Algérie Eco, ObservAlgérie, etc.
-- Executive Decree No. 13-431 (off-plan sale contracts and payments) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
+-wet nr. 11-04 van 17 februari 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
+- FGCMPI — officiële site [fgcmpi.org.dz](https://fgcmpi.org.dz)
+- Nota van het Ministerie van Justitie van augustus 2025 aan notarissen (illegale vastgoedontwikkeling) – TSA, Algérie Eco, ObservAlgérie, etc.
+- Uitvoeringsdecreet nr. 13-431 (verkoopcontracten en betalingen buiten plan) — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
 - [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)

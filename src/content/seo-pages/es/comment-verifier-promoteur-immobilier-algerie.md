@@ -1,225 +1,222 @@
 ---
-title: "Cómo verificar un promotor inmobiliario en Argelia | Viva Algérie"
-h1: "Cómo verificar un promotor inmobiliario en Argelia antes de comprar"
-description: "Verificar un promotor: agrément, registro de comercio, tableau national, FGCMPI."
+title: "Cómo comprobar un promotor inmobiliario en Argelia | Viva Algérie"
+h1: "Cómo comprobar un promotor inmobiliario en Argelia antes de comprar"
+description: "Consulte un promotor inmobiliario en Argelia: wilaya agrément, registro mercantil, tabla nacional, FGCMPI, nota de Justicia 2025 y lista de verificación de compradores."
 slug: "comment-verifier-promoteur-immobilier-algerie"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/como-verificar-promotor-inmobiliario-argelia"
 translationKey: "comment-verifier-promoteur-immobilier-algerie"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+Antes de comprar una promoción, la pregunta no es “¿es hermosa la situación?” pero **“¿mi interlocutor tiene derecho a ejercer y el proyecto se comercializa periódicamente?”**. En Argelia se encuadra la profesión de promotor inmobiliario. Comprobar la coherencia del *agrément*, el registro mercantil, la tabla nacional y el expediente no es un lujo: es la primera línea de defensa del comprador.
 
+> **Descargo de responsabilidad.** Esta página es un análisis editorial y educativo. No constituye asesoramiento legal, fiscal, financiero o notarial. Haga que cada expediente sea validado por un notario.
 
-Before buying in a development, the question is not “is the standing beautiful?” but **“does my interlocutor have the right to practise and is the project regularly marketed?”**. In Algeria, the profession of real-estate developer is framed. Checking the *agrément*, commercial register, national table and file coherence is not a luxury: it is the buyer’s first line of defence.
+## Por qué es decisivo comprobar el promotor
 
-> **Disclaimer.** Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial. Have every file validated by a notary.
+La Ley N° **11-04** de 17 de febrero de 2011 establece las normas para la actividad de promoción inmobiliaria. El espíritu del texto es claro: no se comercializa vivienda colectiva “como un particular que vende una casa”. El *agrément*, el registro e inscripción en la **tabla nacional de promotores inmobiliarios** estructuran la profesión.
 
-## Why checking the developer is decisive
+En **2025**, la Dirección de Asuntos Civiles y Sellos del Estado (Ministerio de Justicia) envió nota a la Cámara Nacional del Notariado sobre prácticas de **ejercicio ilegal**: construcción de edificios bajo apariencia de edificios familiares, luego comercialización de departamentos y locales sin certificado *agrément*. Los notarios están llamados a extremar la vigilancia y exigir los documentos prescritos.
 
-Law No. **11-04** of 17 February 2011 sets the rules for real-estate development activity. The spirit of the text is clear: you do not market collective housing “like a private individual selling a house”. The *agrément*, registration and inscription on the **national table of real-estate developers** structure the profession.
+Para el comprador, la lección es sencilla: si el notario debe estar atento, **tú también**.
 
-In **2025**, the Civil Affairs and Seals Directorate of the State (Ministry of Justice) sent a note to the National Chamber of Notaries on practices of **illegal exercise**: construction of buildings under the appearance of family buildings, then marketing of apartments and premises without an *agrément* certificate. Notaries are called to heightened vigilance and to require the prescribed documents.
+Páginas relacionadas: [Riesgos de compra](/es/riesgos-compra-inmobiliaria-argelia), [Comprar sobre plano](/es/comprar-sobre-plano-argelia), [Documentos para comprobar](/es/documentos-compra-inmobiliaria-argelia).
 
-For the buyer, the lesson is simple: if the notary must be vigilant, **so must you**.
+## Los tres pilares documentales a exigir
 
-Related pages: [Purchase risks](/es/riesgos-compra-inmobiliaria-argelia), [Buying off-plan](/es/comprar-sobre-plano-argelia), [Documents to check](/es/documentos-compra-inmobiliaria-argelia).
+## 1. El promotor inmobiliario *agrément* (wilaya)
 
-## The three documentary pillars to require
+La ***agrément*** (homologación) es la clave profesional. Pedir:
 
-### 1. The real-estate developer *agrément* (wilaya)
+- una copia legible del certificado *agrément*;
+- el wilaya de emisión;
+- duración/vigencia y coherencia con la actividad en curso;
+- el nombre exacto de la persona física o jurídica aprobada.
 
-The ***agrément*** (approval) is the professional key. Ask for:
+Verifique que el nombre en el *agrément* coincida con el del contrato, las facturas y el marketing. Una brecha en el nombre de la empresa es una señal de advertencia.
 
-- a readable copy of the *agrément* certificate;
-- the wilaya of issue;
-- duration / validity and coherence with the activity under way;
-- the exact name of the approved legal or natural person.
+## 2. Inscripción en el registro mercantil
 
-Check that the name on the *agrément* matches that on the contract, invoices and marketing. A company-name gap is a warning signal.
+La actividad comercial debe realizarse mediante un registro coherente (registro mercantil). Pedir:
 
-### 2. Registration in the commercial register
+- número de registro;
+- objeto social compatible con el desarrollo inmobiliario;
+- domicilio social e identidad de los administradores.
 
-Commercial activity must be carried by a coherent registration (commercial register). Ask for:
+Un interlocutor “sin estructura” que recauda depósitos fuera de una empresa identificable es un riesgo importante.
 
-- registration number;
-- corporate purpose compatible with real-estate development;
-- registered office and identity of directors.
+## 3. Inscripción en la tabla nacional de promotores inmobiliarios
 
-An interlocutor “without structure” who collects deposits outside an identifiable company is a major risk.
+La inscripción en el **cuadro nacional** completa el esquema de reconocimiento profesional. Exigir constancia de inscripción y su coherencia con el *agrément* y el registro. Los textos de aplicación (en particular el decreto sobre las condiciones *agrément* y la conservación de declaraciones descriptivas, citado a menudo en la cobertura de la nota de 2025) estructuran estos requisitos por parte del notario.
 
-### 3. Inscription on the national table of real-estate developers
+**En la práctica**: presentar estos tres documentos al notario **antes** de cualquier transferencia significativa.
 
-Inscription on the **national table** completes the professional-recognition scheme. Require proof of inscription and its coherence with the *agrément* and the register. Implementing texts (notably the decree on *agrément* conditions and keeping of descriptive statements, often cited in coverage of the 2025 note) structure these requirements on the notary side.
+## El FGCMPI: cuarto control de coherencia
 
-**In practice**: present these three documents to the notary **before** any significant transfer.
+El **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — fondo de garantía mutua para el desarrollo inmobiliario) se encuentra dentro del esquema ley 11-04. Para una compra sobre plano, solicite los documentos de respaldo vinculados al **proyecto** (no solo un logotipo en un folleto).
 
-## The FGCMPI: fourth coherence check
+El FGCMPI no convierte un archivo malo en uno bueno, pero la ausencia de trazabilidad en este esquema, aunque el proyecto se presenta como un desarrollo clásico, debería plantear dudas.
 
-The **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — mutual guarantee fund for real-estate development) sits within the Law 11-04 scheme. For an off-plan purchase, ask for supporting documents linked to the **project** (not only a logo on a brochure).
+Referencia: [fgcmpi.org.dz](https://fgcmpi.org.dz).
 
-The FGCMPI does not turn a bad file into a good one, but the absence of any traceability in this scheme, while the project presents itself as classic development, should raise questions.
+## Lo que dice en la práctica la alerta Justicia 2025
 
-Reference: [fgcmpi.org.dz](https://fgcmpi.org.dz).
+Según cobertura periodística de la nota enviada a los notarios (agosto 2025):
 
-## What the Justice 2025 alert says in practice
+- algunas personas construyen edificios residenciales al amparo de edificios familiares;
+- luego comercializan apartamentos/locales como promoción;
+- actúan **sin *agrément***, en contradicción con el artículo 4 de la ley de desarrollo inmobiliario;
+- Los notarios deben dejar de redactar determinadas escrituras en estas configuraciones y **exigir** *agrément*, registro mercantil e inscripción en tabla nacional, además de los documentos habituales (incluido el EDD cuando corresponda).
 
-According to press coverage of the note sent to notaries (August 2025):
+Para el comprador, eso significa:
 
-- some persons build residential buildings under the cover of family buildings;
-- they then market apartments / premises as a development;
-- they act **without *agrément***, in contradiction with Article 4 of the real-estate development law;
-- notaries must stop drawing certain deeds in these configurations and **require** *agrément*, commercial register and national-table inscription, in addition to usual documents (including the EDD when relevant).
+- cuidado con el discurso “es familiar, pero vendemos mucho”;
+- exigir una calificación clara de la operación;
+- rechazar los circuitos que eviten al notario.
 
-For the buyer, that means:
+## Método de verificación de 10 pasos
 
-- beware the discourse “it’s family, but we sell lots”;
-- require a clear qualification of the operation;
-- refuse circuits that avoid the notary.
+1. **Identifique** el nombre exacto de la empresa del promotor.
+2. **Preguntar por** *agrément*, registro mercantil, cuadro nacional.
+3. **Compruebe** los nombres en todos los documentos contractuales y de marketing.
+4. **Solicite** derechos de terreno y el permiso de construcción del programa.
+5. **Solicite** FGCMPI / documentos de respaldo del proyecto.
+6. **Visita** un sitio o una entrega previa.
+7. **Busque** señales de disputa (sin depender únicamente de rumores).
+8. **Rechace** cualquier pago en efectivo no rastreable.
+9. **Acudir** al notario con el expediente completo.
+10. **Reservar** solo después de la validación del marco (*vente sur plans* si corresponde).
 
-## 10-step verification method
+Para Argel: [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel). Para el contrato: [Comprar sobre plano en Argelia](/es/comprar-sobre-plano-argelia).
 
-1. **Identify** the exact company name of the developer.
-2. **Ask for** *agrément*, commercial register, national table.
-3. **Cross-check** names on all marketing and contractual documents.
-4. **Ask for** land rights and the programme building permit.
-5. **Ask for** FGCMPI / project supporting documents.
-6. **Visit** a site or a prior delivery.
-7. **Look for** dispute signals (without relying on rumours alone).
-8. **Refuse** any untraceable cash payment.
-9. **Go** to the notary with the complete file.
-10. **Reserve** only after validation of the framework (*vente sur plans* if applicable).
+## Señales de advertencia frecuentes
 
-For Algiers: [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel). For the contract: [Buying off-plan in Algeria](/es/comprar-sobre-plano-argelia).
+- Presión: “última unidad, pago hoy”.
+- Imposibilidad de mostrar el *agrément* “por ahora”.
+- Comercialización a través de sucesivos particulares para un mismo edificio nuevo y denso.
+- Brecha entre el promotor mostrado y el firmante del contrato.
+- Ausencia de permiso o respuestas evasivas en tierra.
+- Depósitos fuera de notaría.
+- Descripción técnica inexistente.
 
-## Frequent warning signals
+Estas señales no equivalen automáticamente a fraude, pero justifican una **parada** hasta que se aclare.
 
-- Pressure: “last unit, payment today”.
-- Inability to show the *agrément* “for now”.
-- Marketing via successive private individuals for the same dense new building.
-- Gap between displayed developer and contract signatory.
-- Absence of permit or evasive answers on land.
-- Deposits outside the notarial office.
-- Non-existent technical description.
+## Consulta también el proyecto, no solo la empresa.
 
-These signals do not automatically equal fraud, but they justify a **stop** until clarification.
+Un promotor aprobado puede llevar a cabo un proyecto mal preparado. Completa con:
 
-## Also check the project, not only the company
+- planificación y permiso;
+- EDD / lógica de división;
+- calendario conforme (decreto 13-431);
+- plazo y sanciones;
+- calidad de ejecución observada.
 
-An approved developer can carry a poorly prepared project. Complete with:
+Ver: [Documentos de compra](/es/documentos-compra-inmobiliaria-argelia), [Entrega de vivienda nueva](/es/entrega-vivienda-nueva-argelia), [Riesgos](/es/riesgos-compra-inmobiliaria-argelia).
 
-- planning and permit;
-- EDD / division logic;
-- compliant schedule (Decree 13-431);
-- deadline and penalties;
-- observed execution quality.
+## Caso especial: diáspora y agentes
 
-See: [Purchase documents](/es/documentos-compra-inmobiliaria-argelia), [New housing delivery](/es/entrega-vivienda-nueva-argelia), [Risks](/es/riesgos-compra-inmobiliaria-argelia).
+Si compra en el extranjero, solicite copias y verificaciones de origen. Un agente útil presenta documentos; un agente peligroso acelera los pagos. Enmarcar el mandato y el notario.
 
-## Special case: diaspora and agents
+Guía: [Diáspora: comprar en el extranjero](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-If you buy from abroad, require copies and source checks. A useful agent presents documents; a dangerous agent accelerates payments. Frame the mandate and the notary.
+## S.A.F.E: una rejilla complementaria, no sustitutiva
 
-Guide: [Diaspora: buying from abroad](/es/articulos/diaspora-algerienne-acheter-immobilier).
+**S.A.F.E** analiza proyectos según criterios de confianza (S/A/F/E) y niveles de Revisión/Certificado/Prime/Confidencial. Es una certificación **propietaria** Viva Algérie, **no** validación estatal. No sustituye ni a *agrément* ni al notario.
 
-## S.A.F.E: a complementary grid, not a substitute
+Más información: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
-**S.A.F.E** analyses projects against trust criteria (S/A/F/E) and Review / Certified / Prime / Confidential levels. It is a **proprietary** Viva Algérie certification, **not** State validation. It replaces neither *agrément* nor the notary.
+## Conclusiones clave
 
-Learn more: [S.A.F.E certification](/es/certificacion-inmobiliaria-safe).
+**La verificación de un promotor inmobiliario en Argelia** comienza con tres pruebas (wilaya *agrément*, registro mercantil, tabla nacional), continúa con FGCMPI/coherencia del proyecto y concluye en el notario. La alerta Justicia 2025 confirma que la comercialización fuera del marco no es un detalle administrativo: es un riesgo central para el comprador.
 
-## Key takeaways
+Complementos: [Marco legal](/es/articulos/cadre-juridique-immobilier-algerie), [Errores a evitar](/es/articulos/erreurs-acheter-immobilier-algerie), [Vivienda nueva](/es/articulos/logement-neuf-algerie-opportunite-risque).
 
-**Checking a real-estate developer in Algeria** starts with three proofs (wilaya *agrément*, commercial register, national table), continues with FGCMPI/project coherence, and concludes at the notary. The Justice 2025 alert confirms that marketing outside the framework is not an administrative detail: it is a central risk for the buyer.
 
-Complements: [Legal framework](/es/articulos/cadre-juridique-immobilier-algerie), [Mistakes to avoid](/es/articulos/erreurs-acheter-immobilier-algerie), [New housing](/es/articulos/logement-neuf-algerie-opportunite-risque).
+## Cómo cotejar información sin convertirte en investigador
 
+No es necesario convertirse en oficial de policía. Necesitas una **rutina**:
 
-## How to cross-check information without becoming an investigator
+1. Solicitar los tres documentos (*agrément*, registro, tabla).
+2. Hacer que los lea el notario.
+3. Visita una referencia entregada si es posible.
+4. Requerir el expediente del proyecto (terreno, permiso, contrato tipo, FGCMPI).
+5. Rechazar todo lo que quede oral.
 
-You do not need to become a police officer. You need a **routine**:
+Si un paso se bloquea sin una explicación creíble, el mercado ofrece otros interlocutores. La escasez artificial (“mañana no quedará nada”) es una herramienta de ventas, no una prueba de calidad.
 
-1. Ask for the three documents (*agrément*, register, table).
-2. Have them read by the notary.
-3. Visit a delivered reference if possible.
-4. Require the project file (land, permit, standard contract, FGCMPI).
-5. Refuse everything that remains oral.
+## Preguntas escritas para enviar antes de una reunión
 
-If a step blocks without a credible explanation, the market offers other interlocutors. Artificial scarcity (“tomorrow there will be none left”) is a sales tool, not proof of quality.
+Prepare un solo mensaje:
 
-## Written questions to send before a meeting
+- nombre exacto de la empresa y directores;
+- *agrément* número y fecha / wilaya;
+- referencias al registro comercial y al cuadro nacional;
+- dirección del programa y referencias de permisos;
+- estado del proyecto FGCMPI;
+- plazo de entrega contractual;
+- lista de acabados incluidos;
+- modalidades de visita al sitio.
 
-Prepare a single message:
+Responde un promotor organizado. Un vendedor capacitado sólo para esquivar cierres emocionales. El tono de la respuesta cuenta casi tanto como su contenido.
 
-- exact company name and directors;
-- *agrément* number and date / wilaya;
-- commercial-register and national-table references;
-- programme address and permit references;
-- project FGCMPI status;
-- contractual delivery deadline;
-- list of included finishes;
-- site-visit modalities.
+## *Agrément*: errores frecuentes de interpretación
 
-An organised developer answers. A salesperson trained only for emotional closing dodges. The tone of the answer counts almost as much as its content.
+- “Tenemos permiso, entonces somos promotores”: no, no es equivalente.
+- “Vendemos a través de un particular para simplificar”: puede enmascarar una comercialización irregular.
+- “El *agrément* llega la próxima semana”: no financiar la espera.
+- “Lo maneja el notario, no hace falta ver”: hay que ver, luego el notario confirma.
 
-## *Agrément*: frequent interpretation mistakes
+La nota de Justicia 2025 recordó precisamente que la calificación de la operación puede derivarse de la realidad comercial (venta de lotes) y no del discurso (“es familia”).
 
-- “We have a permit, so we are a developer”: no, it is not equivalent.
-- “We sell via a private individual to simplify”: may mask irregular marketing.
-- “The *agrément* arrives next week”: do not fund the wait.
-- “The notary handles it, no need to see”: you must see, then the notary confirms.
+## Después de una verificación positiva: sea crítico con el proyecto
 
-The Justice 2025 note precisely recalled that the qualification of the operation can follow from commercial reality (sale of lots) and not from discourse (“it’s family”).
+Incluso un promotor autorizado regularmente puede proponer un programa mediocre: calendario poco realista, acabados vagos, densidad excesiva, subestimación de las redes de servicios públicos. La verificación del actor es un **filtro de entrada**, no un certificado de belleza para el producto. Seguir con análisis técnico y contractual, luego sólo reserva.
 
-## After a positive check: stay critical of the project
+Consulte también [Comprar sobre plano](/es/comprar-sobre-plano-argelia) y [Entrega](/es/entrega-vivienda-nueva-argelia). Más en nuestros concentradores [guías](/es/guias) y [inmobiliario](/es/inmobiliario).
 
-Even a regularly authorised developer can propose a mediocre programme: unrealistic calendar, vague finishes, excessive density, underestimation of utilities networks. Actor verification is an **entry filter**, not a beauty certificate for the product. Follow with technical and contractual analysis, then only reservation.
+## Tabla mental de “ir/no ir”
 
-See also [Buying off-plan](/es/comprar-sobre-plano-argelia) and [Delivery](/es/entrega-vivienda-nueva-argelia). More in our [guides](/es/guias) and [real estate](/es/inmobiliario) hubs.
-
-## Mental “go / no-go” table
-
-| Signal | Orientation |
+| Señal | Orientación |
 | --- | --- |
-| Coherent *agrément* documents + notary at ease | Go toward project analysis |
-| Absent / incoherent documents | No-go |
-| Payment outside notary required | No-go |
-| Invisible site + high deposits | No-go until proof |
-| Visitable delivery history | Positive signal to cross-check |
-| Extreme 24h pressure | Voluntary brake |
+| Documentos coherentes *agrément* + notario a gusto | Ir hacia el análisis de proyectos |
+| Documentos ausentes/incoherentes | No ir |
+| Se requiere pago fuera de notario | No ir |
+| Sitio invisible + depósitos altos | No ir hasta la prueba |
+| Historial de entregas visitable | Señal positiva para verificar |
+| Presión extrema las 24 horas | Freno voluntario |
 
-This table is not legal; it is a personal-discipline tool.
+Esta mesa no es legal; es una herramienta de disciplina personal.
 
-## FAQ
+## Preguntas frecuentes
 
-### What documents to ask a developer before buying?
+## ¿Qué documentos pedirle a un promotor antes de comprar?
 
-At minimum: *agrément* certificate, commercial-register registration, inscription on the national table of developers, plus the project file (land, permit, contract, guarantee supporting documents).
+Como mínimo: certificado *agrément*, inscripción en registro mercantil, inscripción en la tabla nacional de promotores, más el expediente del proyecto (terreno, permiso, contrato, justificantes de garantía).
 
-### Where is developer *agrément* issued?
+## ¿Dónde se emite el promotor *agrément*?
 
-The *agrément* sits within the wilaya scheme / procedures provided by implementing texts. Ask for the official document and have it checked by your notary.
+El *agrément* se encuentra dentro del esquema/procedimientos wilaya proporcionados por los textos de implementación. Solicite el documento oficial y haga que lo revise su notario.
 
-### What if I am offered a “family” building cut into apartments?
+## ¿Qué pasa si me ofrecen un edificio “familiar” dividido en apartamentos?
 
-Extreme caution. That is precisely the type of scheme targeted by the 2025 alert when it masks development without *agrément*. Go through a notary before any payment.
+Extrema precaución. Ese es precisamente el tipo de esquema al que se dirige la alerta de 2025 cuando enmascara el desarrollo sin *agrément*. Pasar por notario antes de cualquier pago.
 
-### Does the FGCMPI alone prove that a developer is reliable?
+## ¿El FGCMPI por sí solo demuestra que un promotor es confiable?
 
-No. It is an element of scheme coherence. It complements *agrément* and the project file; it does not replace them.
+No. Es un elemento de coherencia del esquema. Complementa *agrément* y el archivo del proyecto; no los reemplaza.
 
-### Can the notary refuse to deed a development sale?
+## ¿Puede el notario negarse a escriturar una venta de promoción?
 
-Yes, in cases where the legal framework is not respected. That is protection for the buyer, not an obstacle.
+Sí, en los casos en que no se respete el marco legal. Esto es una protección para el comprador, no un obstáculo.
 
-### Does S.A.F.E replace *agrément* verification?
+## ¿S.A.F.E reemplaza la verificación *agrément*?
 
-No. S.A.F.E is proprietary and complementary. *Agrément* and legal registrations remain essential.
+No. S.A.F.E es propietario y complementario. El *Agrément* y los registros legales siguen siendo esenciales.
 
-## Sources
+## Fuentes
 
 - Law No. 11-04 of 17 February 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
-- FGCMPI — official site [fgcmpi.org.dz](https://fgcmpi.org.dz)
-- August 2025 Ministry of Justice note to notaries (illegal real-estate development) — TSA, Algérie Eco, ObservAlgérie, etc.
-- Executive Decree No. 13-431 (off-plan sale contracts and payments) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
+- FGCMPI — sitio oficial [fgcmpi.org.dz](https://fgcmpi.org.dz)
+- Nota del Ministerio de Justicia a los notarios de agosto de 2025 (promoción inmobiliaria ilegal) — TSA, Algérie Eco, ObservAlgérie, etc.
+- Decreto Ejecutivo N° 13-431 (contratos y pagos de venta sobre plano) — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

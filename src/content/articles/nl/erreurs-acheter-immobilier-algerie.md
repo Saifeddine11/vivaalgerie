@@ -1,6 +1,6 @@
 ---
-title: "Een woning kopen in Algerije: fouten om te vermijden"
-description: "Praktische gids over veelgemaakte fouten bij aankoop: documenten, ontwikkelaar, betalingen en oplevering."
+title: "Vastgoed kopen in Algerije: fouten die u moet vermijden"
+description: "Titel, ontwikkelaar, off-plan verkoop, onverdeeld eigendom, notaris: de duurste fouten bij het kopen van onroerend goed in Algerije, en hoe u deze kunt vermijden."
 slug: "erreurs-acheter-immobilier-algerie"
 category: "guides"
 lang: "nl"
@@ -8,177 +8,174 @@ pubDate: 2026-02-28
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/erreurs-acheter-immobilier-algerie.webp"
-imageAlt: "Notarial file and apartment keys on a work table"
+imageAlt: "Notarieel dossier en appartementsleutels op een werktafel"
 featured: false
 draft: false
-tags: ["guide", "purchase", "mistakes", "notary", "developer", "livret foncier"]
 translationKey: "erreurs-acheter-immobilier-algerie"
+tags: ["gids", "aankoop", "fouten", "notaris", "ontwikkelaar", "livret foncier"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+Het kopen van een woning in Algerije kan een uitstekend levens- of vermogensproject zijn. Het kan ook een langdurig, kostbaar en emotioneel uitputtend geschil worden – niet omdat de markt ‘onmogelijk’ is, maar omdat bepaalde fouten zich herhalen. Het goede nieuws: de meeste zijn te vermijden met de juiste methode, tijd en de juiste volgorde van professionele interventie.
 
+Deze redactionele gids geeft een overzicht van de meest voorkomende fouten die onder bewoners en de diaspora zijn waargenomen. Het is gebaseerd op het raamwerk voor vastgoedontwikkeling: **wet nr. 11-04 van 17 februari 2011**, ontwikkelaar **agrément** (wilaya), **tableau national des promoteurs** (nationaal register van ontwikkelaars), **FGCMPI**, *livret foncier*, **conservation foncière**, **notaris**, **vente sur plans** (wet 11-04 en **Uitvoerend besluit nr. 13-431**), **garantie décennale** — en over de demografische en toeristische context die soms de kunstmatige drang om te kopen voedt.
 
-Buying a property in Algeria can be an excellent life or wealth project. It can also become a long, costly and emotionally draining dispute — not because the market is “impossible”, but because certain mistakes repeat. The good news: most are avoidable with method, time, and the right order of professional intervention.
-
-This editorial guide reviews the most frequent mistakes observed among residents and the diaspora. It draws on the real-estate development framework — **Law No. 11-04 of 17 February 2011**, developer **agrément** (wilaya), **tableau national des promoteurs** (national register of developers), **FGCMPI**, **livret foncier**, **conservation foncière**, **notary**, **vente sur plans** (Law 11-04 and **Executive Decree No. 13-431**), **garantie décennale** — and on the demographic and tourism context that sometimes feeds artificial urgency to buy.
-
-Context reminder (without turning it into a sales argument): the ONS places the population around **46.7 million** inhabitants in January 2024 and nearly **47 million** by mid-2025; ONAT recorded **3,548,000** visitors in 2024, including about **1.093 million** from the diaspora. These flows exist. They do not require you to sign tomorrow.
+Contextherinnering (zonder er een verkoopargument van te maken): de ONS plaatst de bevolking rond **46,7 miljoen** inwoners in januari 2024 en bijna **47 miljoen** medio 2025; ONAT registreerde in 2024 **3.548.000** bezoekers, waaronder ongeveer **1,093 miljoen** uit de diaspora. Deze stromen bestaan. Ze vereisen niet dat u morgen tekent.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## Mistake No. 1: start with the coup de cœur, end with the title
+## Fout nr. 1: begin met de staatsgreep, eindig met de titel
 
-The visit seduces. The light is beautiful, so is the balcony, the seller is in a hurry. Price is discussed before the **livret foncier** and **conservation foncière** have been mapped. Yet in Algerian real estate, the healthy sequence is the reverse: **file first, emotion second**.
+Het bezoek verleidt. Het licht is prachtig, net als het balkon, de verkoper heeft haast. De prijs wordt besproken voordat *livret foncier* en **conservation foncière** in kaart zijn gebracht. Maar in Algerijns onroerend goed is de gezonde volgorde precies omgekeerd: ** eerst het dossier, daarna de emotie **.
 
-Typical consequences:
+Typische gevolgen:
 
-- deposit paid on a legally ambiguous property;
-- late discovery of undivided ownership (*indivision*);
-- inconsistent surfaces or boundaries;
-- inability to finalise with the **notary** within hoped-for deadlines.
+- waarborgsom betaald op een juridisch dubbelzinnige woning;
+- late ontdekking van onverdeelde eigendom (*indivisie*);
+- inconsistente oppervlakken of grenzen;
+- onvermogen om binnen de gehoopte deadlines een overeenkomst met de **notaris** af te ronden.
 
-Correction: require title elements before any advanced negotiation. Have them read. Do not confuse “we know the family” with “the law is clear”.
+Correctie: titelelementen vereisen vóór elke geavanceerde onderhandeling. Laat ze lezen. Verwar ‘wij kennen de familie’ niet met ‘de wet is duidelijk’.
 
-See [Documents for a property purchase in Algeria](/nl/documenten-vastgoedkoop-algerije) and [Risks of a property purchase](/nl/vastgoedrisicos-algerije).
+Zie [Documenten voor de aankoop van onroerend goed in Algerije](/nl/documenten-vastgoedkoop-algerije) en [Risico's van een aankoop van onroerend goed](/nl/vastgoedrisicos-algerije).
 
-## Mistake No. 2: treat the developer as a detail
+## Fout nr. 2: behandel de ontwikkelaar als een detail
 
-In new builds, the developer is not a logo on a brochure. They are the counterpart to your risk. Failing to verify the **agrément** issued at wilaya level, or traceability via mechanisms linked to the **tableau national des promoteurs**, or project coherence, is a founding mistake.
+Bij nieuwbouw is de ontwikkelaar geen logo op een brochure. Zij zijn de tegenhanger van uw risico. Het niet verifiëren van de **agrément** uitgegeven op wilaya-niveau, of de traceerbaarheid via mechanismen die zijn gekoppeld aan de **tableau national des promoteurs**, of de samenhang van het project, is een fundamentele fout.
 
-Frequent warning signals:
+Frequente waarschuwingssignalen:
 
-- inability to produce the agrément clearly;
-- pressure to pay outside a documented circuit;
-- vagueness on the land status;
-- deadline promises without a readable contractual mechanism;
-- absence of precise answers on the **FGCMPI** and guarantees.
+- onvermogen om de agrément duidelijk te produceren;
+- druk om buiten een gedocumenteerd circuit te betalen;
+- onduidelijkheid over de grondstatus;
+- deadlinebeloften zonder leesbaar contractueel mechanisme;
+- gebrek aan precieze antwoorden op de **FGCMPI** en garanties.
 
-Correction: apply a verification grid before showroom seduction. Dedicated guide: [How to check a real-estate developer in Algeria](/nl/vastgoedontwikkelaar-controleren-algerije). On certification and security steps: [S.A.F.E real-estate certification](/nl/safe-vastgoedcertificering).
+Correctie: pas een verificatierooster toe vóór showroomverleiding. Speciale gids: [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije). Over certificering en beveiligingsstappen: [S.A.F.E vastgoedcertificering](/nl/safe-vastgoedcertificering).
 
-## Mistake No. 3: believe “off-plan” means “fewer formalities”
+## Fout nr. 3: geloof dat ‘off-plan’ ‘minder formaliteiten’ betekent
 
-**Vente sur plans** is framed by **Law No. 11-04** and **Executive Decree No. 13-431**. It is not a zone of improvised private bargaining. The mistake is accepting an oral schedule, a plan that changes without amendment, or an early payment without a clear contractual counterpart.
+**Vente sur plans** wordt omlijst door **Wet nr. 11-04** en **Uitvoerend besluit nr. 13-431**. Het is geen zone van geïmproviseerde particuliere onderhandelingen. De fout is het accepteren van een mondeling schema, een plan dat zonder wijzigingen verandert, of een vervroegde betaling zonder een duidelijke contractuele tegenhanger.
 
-Correction:
+Correctie:
 
-- read the contract line by line;
-- clarify deadlines, penalties, modifications, delivery modalities;
-- involve the **notary** early;
-- document every payment;
-- anticipate the **garantie décennale** and reception conditions.
+- lees het contract regel voor regel;
+- verduidelijk de deadlines, boetes, wijzigingen en leveringsmodaliteiten;
+- vroegtijdig de **notaris** betrekken;
+- documenteer elke betaling;
+- anticipeer op **garantie décennale** en ontvangstomstandigheden.
 
-For operational detail: [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije).
+Voor operationele details: [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije).
 
-## Mistake No. 4: underestimate undivided ownership and successions
+## Fout nr. 4: onderschat onverdeelde eigendom en opvolging
 
-Many “interesting” properties are family properties. Without mapping rights holders, without clear agreement, without capacity to sign validly, the buyer is exposed to post-signature blockages or challenges.
+Veel “interessante” eigendommen zijn familie-eigendommen. Zonder houders van rechten in kaart te brengen, zonder duidelijke overeenkomst, zonder de mogelijkheid om geldig te ondertekenen, wordt de koper blootgesteld aan blokkades of uitdagingen na de ondertekening.
 
-Correction: ask for the succession history, identify all decision-makers, refuse “we’ll sort it out later”. Later is often too late — or too expensive.
+Correctie: vraag naar de opvolgingsgeschiedenis, identificeer alle beslissers, weiger “we regelen het later wel”. Later is vaak te laat – of te duur.
 
-## Mistake No. 5: call the notary at the end “to sign”
+## Fout nr. 5: bel de notaris aan het einde “om te tekenen”
 
-The **notary** is not an end-of-process stamp. They are a security actor. Calling them too late turns a legal professional into a firefighter.
+De **notaris** is geen einde-processtempel. Ze zijn een veiligheidsactor. Als u ze te laat belt, verandert een juridische professional in een brandweerman.
 
-Correction: contact them as soon as a file becomes serious. Bring title, plans, contracts, exchanges. Listen to blocking points before you attach yourself to the property.
+Correctie: neem contact met hen op zodra een dossier ernstig wordt. Breng titel, plannen, contracten, uitwisselingen mee. Luister naar blokkeerpunten voordat u zich aan het terrein hecht.
 
-## Mistake No. 6: pay badly (opaque cash, off-contract circuits, excessive deposits)
+## Fout nr. 6: slecht betalen (ondoorzichtig contant geld, buitencontractuele circuits, buitensporige stortingen)
 
-Poorly traced payments are a classic source of disputes. Paying “to reserve” without a framework, or settling disproportionate sums before security, weakens your position.
+Slecht getraceerde betalingen zijn een klassieke bron van geschillen. Betalen om te reserveren zonder kader, of buitenproportionele bedragen afrekenen vóór de zekerheid, verzwakt uw positie.
 
-Correction: align payments and contract; keep proof; refuse artificial urgency. A serious seller or developer can explain the circuit. An inexplicable circuit is a signal.
+Correctie: betalingen en contracten op één lijn brengen; bewijs bewaren; kunstmatige urgentie weigeren. Een serieuze verkoper of ontwikkelaar kan het circuit uitleggen. Een onverklaarbaar circuit is een signaal.
 
-## Mistake No. 7: ignore technical condition for the sake of price
+## Fout nr. 7: negeer de technische staat omwille van de prijs
 
-A “good price” on a property that needs heavy renovation, compliance work, or that suffers from structural damp (frequent near the coast) is a good price only on paper.
+Een “goede prijs” voor een onroerend goed dat een zware renovatie of nalevingswerkzaamheden nodig heeft of dat last heeft van structureel vocht (vaak in de buurt van de kust) is alleen op papier een goede prijs.
 
-Correction: visit at different times of day; have it inspected; budget works with margin; compare total entry cost, not only the displayed price.
+Correctie: bezoek op verschillende tijdstippen; laten inspecteren; budget werkt met marge; vergelijk de totale instapkosten, niet alleen de weergegeven prijs.
 
-On the coast and seasonality: [Tourism and coastal cities](/nl/toerisme).
+Aan de kust en seizoensinvloeden: [Toerisme en kuststeden](/nl/toerisme).
 
-## Mistake No. 8: copy an investment model from another country
+## Fout nr. 8: kopieer een investeringsmodel uit een ander land
 
-Importing foreign reflexes without adapting them to Algerian law and practices leads to false certainties. Algeria has its texts, institutions, timelines and actors. Reading them is non-negotiable.
+Het importeren van buitenlandse reflexen zonder deze aan te passen aan de Algerijnse wetgeving en praktijken leidt tot valse zekerheden. Algerije heeft zijn teksten, instellingen, tijdlijnen en acteurs. Het lezen ervan is niet onderhandelbaar.
 
-Correction: learn the local vocabulary (Law 11-04, livret foncier, conservation, agrément, FGCMPI). Read [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026).
+Correctie: leer de lokale woordenschat (wet 11-04, livret foncier, behoud, agrément, FGCMPI). Lees [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026).
 
-## Mistake No. 9: choose the city by fashion, not by profile
+## Fout nr. 9: kies de stad op basis van mode, niet op basis van profiel
 
-“You must buy in Algiers” or “Oran is about to explode” are not theses. Without a profile (use, budget, horizon, management capacity), geography becomes a bet.
+‘Je moet Algiers kopen’ of ‘Oran staat op ontploffen’ zijn geen stellingen. Zonder profiel (gebruik, budget, horizon, managementcapaciteit) wordt geografie een gok.
 
-Correction: start from your profile, then compare. See [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir), [Why invest in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger), [Property prices in Algiers](/nl/vastgoedprijzen-algiers), and for the long horizon [Algeria 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites).
+Correctie: begin vanuit je profiel en vergelijk dan. Zie [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir), [Waarom investeren in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger), [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers), en voor de lange horizon [Algerije 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites).
 
-## Mistake No. 10: overestimate tourist rental yield
+## Fout nr. 10: overschat de opbrengst van toeristische verhuur
 
-The 3.548 million visitors of 2024 (ONAT), including ~1.093 million from the diaspora, feed the imagination of “always rented”. Reality includes vacancy, charges, management, wear, and sometimes a more constrained use framework than imagined.
+De 3,548 miljoen bezoekers van 2024 (ONAT), waaronder ~1,093 miljoen uit de diaspora, voeden de verbeelding van ‘altijd verhuurd’. De werkelijkheid omvat leegstand, lasten, beheer, slijtage en soms een beperkter gebruikskader dan gedacht.
 
-Correction: model low / medium / high scenarios; subtract charges; test your capacity to manage at a distance; do not buy only an August season.
+Correctie: model laag/midden/hoog scenario’s; kosten aftrekken; test uw vermogen om op afstand te beheren; koop niet alleen een seizoen van augustus.
 
-## Mistake No. 11: neglect the garantie décennale and reception
+## Fout nr. 11: verwaarloos de garantie décennale en de ontvangst
 
-In new builds, delivery is not a selfie in front of the building. It is a legal and technical moment. Ignoring reservations, reception and the scope of the **garantie décennale** exposes you to disillusion.
+Bij nieuwbouw is de bezorging geen selfie voor het gebouw. Het is een juridisch en technisch moment. Het negeren van reserveringen, ontvangst en de reikwijdte van de **garantie décennale** stelt u bloot aan desillusie.
 
-Correction: prepare delivery as a stage in its own right; document reservations; understand what the guarantee covers — and does not cover.
+Correctie: de bevalling voorbereiden als een fase op zich; documentreserveringen; begrijpen wat de garantie wel en niet dekt.
 
-## Mistake No. 12: proceed without a financial safety margin
+## Fout nr. 12: doorgaan zonder financiële veiligheidsmarge
 
-Fees, works, delays, vacancy, temporary double rent: contingencies exist. Buying “at the absolute maximum” turns every delay into a crisis.
+Erelonen, werken, vertragingen, leegstand, tijdelijke dubbele huur: er zijn onvoorziene omstandigheden. Door ‘op het absolute maximum’ te kopen, verandert elk uitstel in een crisis.
 
-Correction: keep a reserve. If the file only works if everything is perfect, the file is too tight.
+Correctie: houd een reserve aan. Als het bestand alleen werkt als alles perfect is, is het bestand te strak.
 
-## Anti-mistake checklist (to keep)
+## Controlelijst tegen fouten (om te bewaren)
 
-1. Title / livret foncier / conservation: OK?
-2. Developer approved and verifiable (if new)?
-3. Readable contract (especially vente sur plans)?
-4. Notary involved early?
-5. Payments traced?
-6. Technical condition budgeted?
-7. Undivided ownership resolved?
-8. Use and management realistic?
-9. Price coherent vs comparables?
-10. Financial reserve available?
+1. Titel / livret foncier / conservering: OK?
+2. Ontwikkelaar goedgekeurd en verifieerbaar (indien nieuw)?
+3. Leesbaar contract (vooral vente sur plans)?
+4. Notaris vroegtijdig betrokken?
+5. Betalingen getraceerd?
+6. Technische staat begroot?
+7. Onverdeelde eigendom opgelost?
+8. Gebruik en beheer realistisch?
+9. Prijscoherent versus vergelijkbaar?
+10. Financiële reserve beschikbaar?
 
-If two answers are “no” or “I don’t know”, slow down.
+Als twee antwoorden ‘nee’ of ‘ik weet het niet’ zijn, vertraag dan.
 
-## Mistake No. 13: confuse speed and efficiency
+## Fout nr. 13: verwar snelheid en efficiëntie
 
-In a market where demography and tourist flows sustain an impression of scarcity, speed becomes a sales argument: “if you don’t decide today, someone else will take the property”. Sometimes that is true. Often it is pressure technique. The mistake is not acting fast; it is acting fast **without** completing essential controls.
+In een markt waar demografie en toeristenstromen een indruk van schaarste in stand houden, wordt snelheid een verkoopargument: “als jij vandaag niet beslist, neemt iemand anders het pand over”. Soms is dat waar. Vaak is het druktechniek. De fout is dat je niet snel handelt; het handelt snel **zonder** essentiële controles uit te voeren.
 
-An efficient transaction can be rapid *after* verification: approved developer, coherent title, contract read, notary seized, total budget clarified. A rushed transaction reverses the order and turns each day gained into months of potential dispute. In 2026, the advantage does not belong to whoever signs first, but to whoever signs **right**.
+Een efficiënte transactie kan snel plaatsvinden *na* verificatie: goedgekeurde ontwikkelaar, coherente titel, contract gelezen, notaris in beslag genomen, totaal budget opgehelderd. Een overhaaste transactie draait de volgorde om en verandert elke gewonnen dag in maanden van potentieel geschil. In 2026 komt het voordeel niet toe aan degene die het eerst tekent, maar aan degene die **goed** tekent.
 
-For readers still building their market culture: [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026) and [Algeria 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites) provide context; this guide provides the guardrails.
+Voor lezers die nog bezig zijn met het opbouwen van hun marktcultuur: [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026) en [Algerije 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites) bieden context; deze gids biedt de vangrails.
 
-Beyond these thirteen mistakes, one transversal habit protects buyers more than any single tip: write things down. Oral promises about deadlines, works, or “we’ll add a parking space later” evaporate. Written annexes, dated exchanges, and a notary in the loop early turn ambiguous optimism into a file you can still defend if something goes wrong. That discipline costs little compared with litigation — and it applies equally to second-hand family sales and to promotional off-plan marketing in Algiers or elsewhere.
+Naast deze dertien fouten beschermt één transversale gewoonte kopers meer dan welke tip dan ook: schrijf dingen op. Mondelinge beloftes over deadlines, werkzaamheden of ‘we komen er later wel een parkeerplaats bij’ vervliegen. Schriftelijke bijlagen, gedateerde uitwisselingen en een notaris die vroegtijdig op de hoogte is, maken van dubbelzinnig optimisme een dossier dat je nog steeds kunt verdedigen als er iets misgaat. Deze discipline kost weinig vergeleken met rechtszaken – en is evenzeer van toepassing op tweedehands familieverkopen als op promotionele off-plan marketing in Algiers of elders.
 
-## FAQ
+## Veelgestelde vragen
 
-### What is the costliest mistake?
-Often: paying before having a clear legal file, or signing with an unverified developer. The cost is not only financial; it is temporal and emotional.
+## Wat is de duurste fout?
+Vaak: betalen voordat je een duidelijk juridisch dossier hebt, of tekenen bij een niet-geverifieerde ontwikkelaar. De kosten zijn niet alleen financieel; het is tijdelijk en emotioneel.
 
-### Can you buy without a notary?
-Securing a property transfer typically goes through the notary. Bypassing that logic to “go faster” is precisely the type of mistake this guide denounces.
+## Kun je kopen zonder notaris?
+Het veiligstellen van een eigendomsoverdracht verloopt doorgaans via de notaris. Het omzeilen van die logica om “sneller te gaan” is precies het soort fout dat deze gids aan de kaak stelt.
 
-### How to check a developer quickly?
-Agrément (wilaya), elements linked to the national register, project coherence, history, FGCMPI where applicable. Details: our developer guide.
+## Hoe kan ik snel een ontwikkelaar controleren?
+Agrément (wilaya), elementen gekoppeld aan het rijksregister, projectcoherentie, geschiedenis, FGCMPI indien van toepassing. Details: onze ontwikkelaarsgids.
 
-### Is older stock safer than new?
-Not automatically. Older stock raises questions of title, condition and undivided ownership; new builds raise questions of developer and contract. Both require method.
+## Is oudere voorraad veiliger dan nieuwe?
+Niet automatisch. Oudere aandelen roepen vragen op over titel, staat en onverdeeld eigendom; nieuwbouw roept vragen op over de ontwikkelaar en het contract. Beide vereisen een methode.
 
-### What if the seller refuses to show the livret foncier?
-Do not force fate. Without a central document, no advanced negotiation.
+## Wat moet ik doen als de verkoper weigert de livret foncier te tonen?
+Forceer het lot niet. Zonder centraal document geen geavanceerde onderhandeling.
 
-### Is a beautiful announced yield enough?
-No. Require assumptions, charges, vacancy, and evidence. Be wary of percentages without method.
+## Is een mooie aangekondigde opbrengst voldoende?
+Nee. Vereist aannames, kosten, leegstand en bewijsmateriaal. Wees op uw hoede met percentages zonder methode.
 
-## Sources
+## Bronnen
 
-- Official Journal — Law No. 11-04 of 17 February 2011: [https://www.joradp.dz](https://www.joradp.dz)
-- Ministry of Housing, Urban Planning and the City: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
-- National Statistics Office (ONS): [https://www.ons.dz](https://www.ons.dz)
-- Algerian National Tourism Office (ONAT): [https://www.onat.dz](https://www.onat.dz)
-- Viva Algérie — [Purchase documents](/nl/documenten-vastgoedkoop-algerije)
-- Viva Algérie — [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije)
-- Viva Algérie — [Buying off-plan](/nl/off-plan-kopen-algerije)
-- Viva Algérie — [Purchase risks](/nl/vastgoedrisicos-algerije)
+- Publicatieblad — wet nr. 11-04 van 17 februari 2011: [https://www.joradp.dz](https://www.joradp.dz)
+- Ministerie van Volkshuisvesting, Stedenbouw en Stad: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
+- Nationaal Bureau voor de Statistiek (ONS): [https://www.ons.dz](https://www.ons.dz)
+- Algerijns Nationaal Bureau voor Toerisme (ONAT): [https://www.onat.dz](https://www.onat.dz)
+- Viva Algérie — [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije)
+- Viva Algérie — [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije)
+- Viva Algérie — [Off-plan kopen](/nl/off-plan-kopen-algerije)
+- Viva Algérie — [Aankooprisico's](/nl/vastgoedrisicos-algerije)
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

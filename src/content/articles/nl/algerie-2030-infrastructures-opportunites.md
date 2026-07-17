@@ -1,6 +1,6 @@
 ---
 title: "Algerije 2030: infrastructuur, toerisme en nieuwe kansen"
-description: "Strategische lezing van infrastructuur, toerisme en stedelijke kansen richting 2030."
+description: "Op weg naar 2030: infrastructuur, toerisme en onroerend goed in Algerije lezen met realisme – demografie, juridisch kader en voorwaardelijke kansen."
 slug: "algerie-2030-infrastructures-opportunites"
 category: "analyses"
 lang: "nl"
@@ -8,171 +8,168 @@ pubDate: 2026-02-20
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/algerie-2030-infrastructures-opportunites.webp"
-imageAlt: "Infrastructure worksite and urban horizon in Algeria"
+imageAlt: "Infrastructuurwerkplek en stedelijke horizon in Algerije"
 featured: false
 draft: false
-tags: ["Algeria 2030", "infrastructure", "tourism", "investment", "analysis", "real estate"]
 translationKey: "algerie-2030-infrastructures-opportunites"
+tags: ["Algerije 2030", "infrastructuur", "toerisme", "investering", "analyse", "vastgoed"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+“Algerije 2030” is geen aandelenkoers. Het is een leeshorizon: die van een demografisch dynamisch land, bezig met infrastructuurwerken, gretig om zijn toerisme te structureren en geconfronteerd met een blijvende vraag naar vastgoed. Voor een Viva Algérie-lezer – inwoner, diaspora, voorzichtige investeerder – is de uitdaging om **structurele trends** te onderscheiden van **promotieverhalen**.
 
-
-“Algeria 2030” is not a stock ticker. It is a reading horizon: that of a demographically dynamic country, engaged in infrastructure works, eager to structure its tourism, and facing lasting property demand. For a Viva Algérie reader — resident, diaspora, cautious investor — the challenge is to distinguish **structural trends** from **promotional narratives**.
-
-Demographic facts set the tempo. The ONS placed the population at about **46.7 million** inhabitants in January 2024, with a level close to **47 million** by mid-2025. On tourism, ONAT counted **3,548,000 visitors** in 2024, of whom about **1.093 million** came from the diaspora. These figures do not “prove” an automatic property capital gain by 2030. They explain why mobility, accommodation, cities and the coast will remain central topics.
+Demografische feiten bepalen het tempo. De ONS schatte de bevolking in januari 2024 op ongeveer **46,7 miljoen** inwoners, met een niveau van bijna **47 miljoen** medio 2025. Op het gebied van toerisme telde ONAT in 2024 **3.548.000 bezoekers**, waarvan ongeveer **1,093 miljoen** afkomstig was uit de diaspora. Deze cijfers ‘bewijzen’ niet automatisch een vastgoedwinst in 2030. Ze verklaren waarom mobiliteit, huisvesting, steden en de kust centrale thema’s zullen blijven.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## Three pillars of a 2030 reading
+## Drie pijlers van een lezing voor 2030
 
-### 1. Infrastructure: reduce friction
-Roads, urban transport, airports, ports, digital networks, energy: a delivered infrastructure changes the map of travel times and, sometimes, the map of property values. An announced infrastructure only changes storytelling. Between the two, the investor must demand proof of delivery and commissioning.
+## 1. Infrastructuur: wrijving verminderen
+Wegen, stadsvervoer, luchthavens, havens, digitale netwerken, energie: een geleverde infrastructuur verandert de kaart van reistijden en soms de kaart van vastgoedwaarden. Een aangekondigde infrastructuur verandert alleen maar het vertellen van verhalen. Tussen deze twee moet de investeerder een bewijs van levering en inbedrijfstelling eisen.
 
-### 2. Tourism: move upmarket without paying for words
-Increase reception capacity, diversify products (coastal, cultural, Saharan, business), improve the visitor experience: as many objectives which, if they materialise, support certain property segments (accommodation, services, managed residences). Tourism in 2024 provides a base; 2030 will depend on execution quality.
+## 2. Toerisme: ga naar de duurdere markt zonder voor woorden te betalen
+De ontvangstcapaciteit vergroten, de producten diversifiëren (kust, cultureel, Sahara, zakelijk), de bezoekerservaring verbeteren: evenveel doelstellingen die, als ze werkelijkheid worden, bepaalde vastgoedsegmenten ondersteunen (accommodatie, diensten, beheerde woningen). Het toerisme in 2024 biedt een basis; 2030 zal afhangen van de kwaliteit van de uitvoering.
 
-### 3. Real estate: secure before projecting
-Whatever the scale of national worksites, a property remains a file. **Law No. 11-04 of 17 February 2011**, developer **agrément**, the **national register of developers**, the **FGCMPI**, the **livret foncier**, **conservation foncière**, the **notary**, **vente sur plans** (Law 11-04 and **Executive Decree No. 13-431**) and the **garantie décennale** remain the language of prudence.
+## 3. Vastgoed: beveiligen vóór projecteren
+Hoe groot de nationale werkplekken ook zijn, een pand blijft een dossier. **wet nr. 11-04 van 17 februari 2011**, ontwikkelaar **agrément**, het **nationaal register van ontwikkelaars**, de **FGCMPI**, de *livret foncier*, **conservation foncière**, de **notaris**, **vente sur plans** (wet 11-04 en **Uitvoerend besluit nr. 13-431**) en de **garantie décennale** blijven de taal van voorzichtigheid.
 
-## Infrastructure and the geography of value
+## Infrastructuur en de geografie van waarde
 
-Historically, the best-connected metropolises capture a disproportionate share of demand. Algiers is the clearest illustration. Oran and Constantine follow their own regional logics. By 2030, any significant improvement in mobility can:
+Historisch gezien vangen de best verbonden metropolen een onevenredig groot deel van de vraag op. Algiers is het duidelijkste voorbeeld. Oran en Constantine volgen hun eigen regionale logica. Tegen 2030 kan elke significante verbetering van de mobiliteit:
 
-- bring peri-urban communes closer to the employment market;
-- strengthen industrial or logistics corridors;
-- ease access to tourist zones;
-- change the “price / travel time” calculation for households.
+- voorstedelijke gemeenten dichter bij de arbeidsmarkt brengen;
+- versterking van industriële of logistieke corridors;
+- de toegang tot toeristische zones vergemakkelijken;
+- wijziging van de berekening “prijs/reistijd” voor huishoudens.
 
-That does not mean every plot along a future axis becomes an opportunity. Windfall effects also attract poorly documented speculation. The right question is not “is there a project?” but “is the project financed, scheduled, and already visible on the ground?”.
+Dat betekent niet dat elk plot langs een toekomstige as een kans wordt. Meevallers lokken ook slecht gedocumenteerde speculatie uit. De juiste vraag is niet “is er een project?” maar “is het project gefinancierd, gepland en al zichtbaar op het terrein?”.
 
-For urban arbitrages: [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir), [Why invest in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger), [Property prices in Algiers](/nl/vastgoedprijzen-algiers).
+Voor stedelijke arbitrages: [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir), [Waarom investeren in Algiers](/nl/artikelen/pourquoi-investir-immobilier-alger), [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers).
 
-## Tourism 2024 → 2030: trajectory, not promise
+## Toerisme 2024 → 2030: traject, geen belofte
 
-3.548 million visitors in 2024 constitute a reference point. The diaspora share (~1.093 million) recalls that a major fraction of flows already knows the country, its families and its circuits. Toward 2030, tourism-linked opportunities will depend on:
+3,548 miljoen bezoekers in 2024 vormen een referentiepunt. Het aandeel van de diaspora (~1,093 miljoen) herinnert zich dat een groot deel van de stromen het land, zijn families en zijn circuits al kent. Tegen 2030 zullen de aan toerisme gekoppelde mogelijkheden afhangen van:
 
-- the **quality** of hotel and para-hotel supply;
-- the **reliability** of transport and services;
-- **seasonality** better managed (avoid all-August dependence);
-- the **capacity** to convert stays into repeatable experiences;
-- the **compliance** of accommodation and residences offered for rental.
+- de **kwaliteit** van het hotel- en parahotelaanbod;
+- de **betrouwbaarheid** van transport en diensten;
+- **seizoensgebondenheid** beter beheerd (vermijd afhankelijkheid in augustus);
+- het **vermogen** om verblijven om te zetten in herhaalbare ervaringen;
+- de **conformiteit** van accommodaties en woningen die voor verhuur worden aangeboden.
 
-On the coast, the effect is already perceptible in investment conversations. It must be treated with method: see [The effect of tourism on coastal cities](/nl/artikelen/tourisme-villes-cotieres-algerie).
+Aan de kust is het effect al merkbaar in investeringsgesprekken. Het moet worden behandeld met de methode: zie [Het effect van toerisme op kuststeden](/nl/artikelen/tourisme-villes-cotieres-algerie).
 
-## Where conditional property opportunities may emerge
+## Waar voorwaardelijke eigendomskansen kunnen ontstaan
 
-Without drawing a list of “miracle spots”, several families of opportunities deserve editorial follow-up through 2030:
+Zonder een lijst van ‘wonderplekken’ op te stellen, verdienen verschillende kansenfamilies tot 2030 een redactioneel vervolg:
 
-### A. Metropolises and first ring
-Structural demand, services, relative liquidity. Entry ticket sometimes high; severe selection.
+## A. Metropolen en eerste ring
+Structurele vraag, diensten, relatieve liquiditeit. Toegangsbewijs soms hoog; strenge selectie.
 
-### B. Mobility nodes
-Sectors whose accessibility genuinely improves (not virtually). Value often follows time saved, with a lag.
+## B. Mobiliteitsknooppunten
+Sectoren waarvan de bereikbaarheid daadwerkelijk verbetert (niet virtueel). Waarde volgt vaak met vertraging de bespaarde tijd.
 
-### C. Structured coast
-Where tourism + service + urban planning compliance meet. Watch humidity, seasonality and opportunistic developers.
+## C. Gestructureerde kust
+Waar toerisme + service + stedenbouwkundige naleving elkaar ontmoeten. Let op vochtigheid, seizoensinvloeden en opportunistische ontwikkelaars.
 
-### D. Products linked to hospitality
-Managed residences, properties adapted to short or medium stays — subject to the applicable legal and tax framework.
+## D. Producten gelinkt aan gastvrijheid
+Beheerde woningen, eigendommen aangepast aan korte of middellange verblijven — onderworpen aan het toepasselijke wettelijke en fiscale kader.
 
-### E. Urban requalification
-Brownfields, old centres, blocks to renovate: real potential, high complexity (titles, undivided ownership, standards).
+## E. Stedelijke herkwalificatie
+Brownfields, oude centra, te renoveren blokken: reëel potentieel, hoge complexiteit (titels, onverdeeld eigendom, normen).
 
-In all cases, the documentary filter comes first. Guides: [Check a developer](/nl/vastgoedontwikkelaar-controleren-algerije), [Buy off-plan](/nl/off-plan-kopen-algerije), [Purchase documents](/nl/documenten-vastgoedkoop-algerije), [Risks](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering), [Mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Real estate 2026](/nl/artikelen/immobilier-algerie-2026).
+In alle gevallen komt het documentairefilter op de eerste plaats. Gidsen: [Controleer een ontwikkelaar](/nl/vastgoedontwikkelaar-controleren-algerije), [Koop off-plan](/nl/off-plan-kopen-algerije), [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije), [Risico's](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering), [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026).
 
-## The 2030 risk: believe too early, pay too much
+## Het risico voor 2030: te vroeg geloven, te veel betalen
 
-Long horizons encourage two excesses:
+Een lange horizon moedigt twee excessen aan:
 
-1. **Buying the brochure**: prices inflated in the name of an undelivered future.
-2. **Ignoring the present**: neglecting a solid file today to wait for a hypothetical “revolution”.
+1. **De brochure kopen**: prijzen zijn opgeblazen in naam van een niet-geleverde toekomst.
+2. **Het heden negeren**: vandaag een solide dossier verwaarlozen in afwachting van een hypothetische “revolutie”.
 
-A healthier strategy is to:
+Een gezondere strategie is om:
 
-- prioritise what already has utility in 2026;
-- treat 2030 as an **optional upside**, not as the core of the model;
-- demand safety margins on entry price;
-- diversify theses (use, rental, transmission) rather than single bets.
+- prioriteit geven aan wat al nut heeft in 2026;
+- behandel 2030 als een **optioneel voordeel**, niet als de kern van het model;
+- veiligheidsmarges op de invoerprijs eisen;
+- diversifieer scripties (gebruik, verhuur, transmissie) in plaats van afzonderlijke weddenschappen.
 
-## Governance, trust and real-estate development
+## Bestuur, vertrouwen en vastgoedontwikkeling
 
-At national scale, trust in the property sector also depends on the ability to enforce development rules. Agrément at wilaya level, publicity around authorised developers, the role of the FGCMPI, notarial practice and the solidity of conservation foncière are *institutional* infrastructures. As important, in the long run, as certain physical infrastructures.
+Op nationale schaal hangt het vertrouwen in de vastgoedsector ook af van het vermogen om ontwikkelingsregels af te dwingen. Agrément op wilaya-niveau, publiciteit rond geautoriseerde ontwikkelaars, de rol van de FGCMPI, het notariaat en de degelijkheid van conservation foncière zijn *institutionele* infrastructuren. Op de lange termijn net zo belangrijk als bepaalde fysieke infrastructuren.
 
-A country that improves the readability of its titles and the accountability of its developers attracts longer savings — including diasporic ones. A country where the informal shortcut remains tempting attracts impatient money… and disputes.
+Een land dat de leesbaarheid van zijn titels en de verantwoordelijkheid van zijn ontwikkelaars verbetert, trekt langere spaargelden aan, ook in de diaspora. Een land waar de informele sluiproute verleidelijk blijft, trekt ongeduldig geld aan... en geschillen.
 
-## Editorial scenarios (non-predictive)
+## Redactionele scenario's (niet-voorspellend)
 
-### Consolidation scenario
-Infrastructure delivered in stages, tourism in measured growth, more selective property market, premium to compliant files.
+## Consolidatiescenario
+Infrastructuur wordt in fasen opgeleverd, toerisme in gemeten groei, selectievere vastgoedmarkt, premie voor conforme bestanden.
 
-### Tourism acceleration scenario
-Clear improvement in supply and accessibility; tension on certain well-located coastal and urban segments; increased risk of local overvaluation.
+## Scenario voor versnelling van het toerisme
+Duidelijke verbetering van aanbod en bereikbaarheid; spanning op bepaalde goed gelegen kust- en stedelijke segmenten; verhoogd risico op lokale overwaardering.
 
-### Friction scenario
-Worksite delays, regional heterogeneity, persistent distrust of some programmes; titled and liquid properties remain sought after, the rest stagnates.
+## Wrijvingsscenario
+Vertragingen op de werkplek, regionale heterogeniteit, aanhoudend wantrouwen jegens sommige programma's; titel- en vloeibare eigenschappen blijven gewild, de rest stagneert.
 
-These scenarios are not quantified forecasts. They are frameworks to stress-test a purchase thesis.
+Deze scenario's zijn geen gekwantificeerde voorspellingen. Het zijn raamwerken om een ​​aankoopthesis aan een stresstest te onderwerpen.
 
-## How a private individual can “read” 2030 without getting lost
+## Hoe een particulier 2030 kan ‘lezen’ zonder te verdwalen
 
-1. Follow **commissionings** rather than ceremonies.
-2. Link each infrastructure project to a concrete **travel time**.
-3. Cross tourism (ONAT) with local reality (occupancy, asking prices, stocks).
-4. Keep a single **legal checklist** for the whole territory.
-5. Document assumptions and revise them every year.
-6. Accept **not to deploy** all capital on a single 2030 story.
+1. Volg **opdrachten** in plaats van ceremonies.
+2. Koppel elk infrastructuurproject aan een concrete **reistijd**.
+3. Kruistoerisme (ONAT) met de lokale realiteit (bezetting, vraagprijzen, voorraden).
+4. Houd één enkele **juridische checklist** bij voor het hele grondgebied.
+5. Documenteer aannames en herzie deze elk jaar.
+6. Accepteer **niet om al het kapitaal in te zetten** voor één enkel 2030-verhaal.
 
-## Diaspora, long savings and the demand for proof
+## Diaspora, lang sparen en de vraag naar bewijs
 
-The diaspora holds a particular place in the 2024–2030 trajectory. The roughly 1.093 million diaspora visitors recorded in 2024 are not only travellers: a share of them are potential wealth decision-makers, who compare the simplicity of an Algerian file with other international options. To convince them durably, the country does not need more ambitious storytelling; it needs **repeatable proof**: readable titles, approved developers, deadlines kept, accessible notaries, effective conservation foncière.
+De diaspora neemt een bijzondere plaats in in het traject 2024-2030. De ongeveer 1,093 miljoen diasporabezoekers die in 2024 werden geregistreerd, zijn niet alleen reizigers: een deel van hen zijn potentiële besluitvormers op het gebied van rijkdom, die de eenvoud van een Algerijns dossier vergelijken met andere internationale opties. Om hen duurzaam te overtuigen heeft het land geen ambitieuzere verhalen nodig; het heeft **herhaalbaar bewijs** nodig: leesbare titels, goedgekeurde ontwikkelaars, deadlines gehaald, toegankelijke notarissen, effectieve conservation foncière.
 
-By the 2030 horizon, the real opportunity for the property ecosystem is therefore not only quantitative (more visitors, more roads). It is qualitative: turn a purchase intention into a secured transaction, then into serene ownership. Specialised media, legal professionals and compliant developers have a convergent role: reduce information asymmetry.
+Tegen de horizon van 2030 zijn de echte kansen voor het vastgoedecosysteem daarom niet alleen kwantitatief (meer bezoekers, meer wegen). Het is kwalitatief: zet een aankoopintentie om in een beveiligde transactie en vervolgens in sereen eigendom. Gespecialiseerde media, juridische professionals en conforme ontwikkelaars hebben een convergente rol: het verminderen van informatie-asymmetrie.
 
-## What Viva Algérie retains for 2026–2030
+## Wat Viva Algérie behoudt voor 2026–2030
 
-- Demography remains a foundation (ONS: ~46.7 M in January 2024, ~47 M by mid-2025).
-- Tourism provides a context (ONAT 2024: 3.548 M visitors), not a yield guarantee.
-- Infrastructure creates value when it is **delivered**, not when it is only announced.
-- The real-estate development framework (Law 11-04, agrément, Decree 13-431, FGCMPI, livret foncier, notary, garantie décennale) remains filter number one.
-- Algiers, Oran, Constantine and the coast offer distinct theses; none absolves poor diligence.
+- Demografie blijft een basis (ONS: ~46,7 miljoen in januari 2024, ~47 miljoen medio 2025).
+- Toerisme biedt een context (ONAT 2024: 3.548 miljoen bezoekers), geen rendementsgarantie.
+- Infrastructuur creëert waarde wanneer deze wordt **geleverd**, niet wanneer deze alleen wordt aangekondigd.
+- Het raamwerk voor vastgoedontwikkeling (wet 11-04, agrément, decreet 13-431, FGCMPI, livret foncier, notaris, garantie décennale) blijft filter nummer één.
+- Algiers, Oran, Constantine en de kust bieden verschillende stellingen; geen enkele verlost slechte toewijding.
 
-In editorial summary: 2030 is a useful horizon for thinking about mobility and hospitality; 2026 remains the year when you verify a file. Explore also [/nl/analyses](/nl/analyses), [/nl/investeren](/nl/investeren) and [/nl/vastgoed](/nl/vastgoed).
+In redactionele samenvatting: 2030 is een nuttige horizon voor het denken over mobiliteit en gastvrijheid; 2026 blijft het jaar waarin u een dossier verifieert. Ontdek ook [/nl/analyse](/nl/analyses), [/nl/investeren](/nl/investeren) en [/nl/onroerend goed](/nl/vastgoed).
 
-## From announcement to asset: a practical filter for 2026 buyers
+## Van aankondiging tot asset: een praktisch filter voor 2026-kopers
 
-When a seller or developer invokes “Algeria 2030”, ask four concrete questions. First: what infrastructure is already in service within a realistic radius of the property? Second: what travel-time gain can you measure today, not in a rendering? Third: does the file stand without the 2030 story — title, agrément, contract, price? Fourth: if the national timeline slips by five years, does your use thesis still hold?
+Wanneer een verkoper of ontwikkelaar zich beroept op ‘Algerije 2030’, stel dan vier concrete vragen. Ten eerste: welke infrastructuur is al in gebruik binnen een realistische straal van het pand? Ten tweede: welke reistijdwinst kun je vandaag meten, niet in een weergave? Ten derde: staat het dossier zonder het verhaal van 2030 – titel, agrément, contract, prijs? Ten vierde: als de nationale tijdlijn met vijf jaar verschuift, geldt uw gebruiksthesis dan nog steeds?
 
-Buyers who answer those questions honestly tend to pay less for narrative and more for utility. That is the spirit of our broader 2026 reading in [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026) and of the coastal follow-up in [Tipaza, Béjaïa, Oran: zones to watch](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre). The horizon matters; the deed matters more.
+Kopers die deze vragen eerlijk beantwoorden, zijn geneigd minder te betalen voor een verhaal en meer voor nut. Dat is de geest van onze bredere lezing voor 2026 in [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026) en van de follow-up over de kustgebieden in [Tipaza, Béjaïa, Oran: zones om in de gaten te houden](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre). De horizon is belangrijk; de daad doet er meer toe.
 
-## FAQ
+## Veelgestelde vragen
 
-### Is Algeria 2030 a property investment plan?
-No. It is an analysis horizon. Any purchase decision must rest on a precise file, a price, a title and a use, not on a temporal slogan.
+## Is Algerije 2030 een vastgoedinvesteringsplan?
+Nee. Het is een analysehorizon. Elke aankoopbeslissing moet berusten op een nauwkeurig bestand, een prijs, een titel en een gebruik, en niet op een tijdelijke slogan.
 
-### Do tourism figures guarantee a price rise?
-No. They support certain potential segments. Prices depend on local supply, property quality and market psychology.
+## Garanderen de toeristische cijfers een prijsstijging?
+Nee. Ze ondersteunen bepaalde potentiële segmenten. Prijzen zijn afhankelijk van het lokale aanbod, de kwaliteit van onroerend goed en de marktpsychologie.
 
-### Should you wait until 2030 to buy?
-Waiting can cost as much as buying too early. If a property is useful, compliant and reasonably priced today, the 2030 horizon may be only a bonus.
+## Moet je wachten tot 2030 om te kopen?
+Wachten kan evenveel kosten als te vroeg kopen. Als een onroerend goed vandaag de dag nuttig, conform en redelijk geprijsd is, kan de horizon van 2030 slechts een bonus zijn.
 
-### What link between infrastructure and developers?
-New axes attract new programmes. That is exactly when to apply Law 11-04, agrément, Decree 13-431 and land controls. See also [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers) and [new housing delivery](/nl/oplevering-nieuwe-woning-algerije).
+## Welke link tussen infrastructuur en ontwikkelaars?
+Nieuwe assen trekken nieuwe programma’s aan. Dat is precies het moment waarop wet 11-04, agrément, decreet 13-431 en landcontroles moeten worden toegepast. Zie ook [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers) en [oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije).
 
-### Will the diaspora play a greater role?
-It already plays a visible role in 2024 flows (~1.093 M). Its property impact will depend on documentary trust and ease of use of assets.
+## Zal de diaspora een grotere rol spelen?
+Het speelt al een zichtbare rol in de stromen van 2024 (~1,093 M). De impact op vastgoed zal afhangen van documentair vertrouwen en gebruiksgemak van activa.
 
-### Where to find official information?
-ONS, ONAT, JORADP, supervising ministries (Housing, Tourism, Public Works depending on the topic). Always cross several sources.
+## Waar vind ik officiële informatie?
+ONS, ONAT, JORADP, toezicht houden op ministeries (Volkshuisvesting, Toerisme, Openbare Werken, afhankelijk van het onderwerp). Kruis altijd meerdere bronnen aan.
 
-## Sources
+## Bronnen
 
-- National Statistics Office (ONS): [https://www.ons.dz](https://www.ons.dz)
-- Algerian National Tourism Office (ONAT): [https://www.onat.dz](https://www.onat.dz)
-- Official Journal of the People’s Democratic Republic of Algeria: [https://www.joradp.dz](https://www.joradp.dz)
-- Ministry of Housing, Urban Planning and the City: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
-- Ministry of Tourism and Handicrafts: [https://www.mta.gov.dz](https://www.mta.gov.dz)
-- Viva Algérie — [Tourism and coastal cities](/nl/artikelen/tourisme-villes-cotieres-algerie)
-- Viva Algérie — [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026)
+- Nationaal Bureau voor de Statistiek (ONS): [https://www.ons.dz](https://www.ons.dz)
+- Algerijns Nationaal Bureau voor Toerisme (ONAT): [https://www.onat.dz](https://www.onat.dz)
+- Publicatieblad van de Democratische Volksrepubliek Algerije: [https://www.joradp.dz](https://www.joradp.dz)
+- Ministerie van Volkshuisvesting, Stedenbouw en Stad: [https://www.mhuv.gov.dz](https://www.mhuv.gov.dz)
+- Ministerie van Toerisme en Ambachten: [https://www.mta.gov.dz](https://www.mta.gov.dz)
+- Viva Algérie — [Toerisme en kuststeden](/nl/artikelen/tourisme-villes-cotieres-algerie)
+- Viva Algérie — [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026)
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

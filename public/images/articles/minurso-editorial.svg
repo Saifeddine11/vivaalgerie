@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800" role="img" aria-labelledby="title desc">
+  <title id="title">MINURSO</title>
+  <desc id="desc">Le processus onusien expliqué</desc>
+  <rect width="1400" height="800" fill="#f7f8f6"/>
+  <rect x="0" y="0" width="1400" height="800" fill="url(#grid)" opacity="0.55"/>
+  <defs>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#d9dfd7" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <circle cx="1085" cy="160" r="92" fill="#006233" opacity="0.12"/>
+  <circle cx="1160" cy="230" r="42" fill="#d21034" opacity="0.18"/>
+  <path d="M160 600 C300 480 340 560 500 450 S770 315 930 405 1110 495 1240 345" fill="none" stroke="#006233" stroke-width="12" stroke-linecap="round" opacity="0.82"/>
+  <g transform="translate(910 420)" fill="none" stroke="#0a0a0a" stroke-width="10" opacity=".72"><circle cx="160" cy="120" r="118"/><path d="M42 120h236M160 2c-44 52-66 91-66 118s22 66 66 118M160 2c44 52 66 91 66 118s-22 66-66 118" stroke="#006233"/><path d="M80 45c50 28 110 28 160 0M80 195c50-28 110-28 160 0"/></g>
+  <rect x="96" y="96" width="560" height="232" rx="26" fill="#ffffff" stroke="rgba(0,0,0,.08)"/>
+  <text x="132" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#0a0a0a">MINURSO</text>
+  <text x="132" y="230" font-family="Arial, sans-serif" font-size="24" fill="#5f6660">Le processus onusien expliqué</text>
+  <rect x="132" y="272" width="170" height="8" rx="4" fill="#006233"/>
+  <rect x="314" y="272" width="70" height="8" rx="4" fill="#d21034"/>
+</svg>

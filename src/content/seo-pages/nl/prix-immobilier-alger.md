@@ -1,233 +1,230 @@
 ---
-title: "Vastgoedprijzen in Algiers: de markt begrijpen | Viva Algérie"
-h1: "Vastgoedprijzen in Algiers: de markt begrijpen vóór aankoop"
-description: "Hoe u de markt van Algiers leest zonder verzonnen m²-prijzen."
+title: "Vastgoedprijzen in Algiers: begrijp de markt voordat u koopt | Viva Algérie"
+h1: "Vastgoedprijzen in Algiers: begrijp de markt voordat u koopt"
+description: "Vastgoedprijzen in Algiers: hoe de markt te lezen per segment (Hydra, Bab Ezzouar…), waardefactoren en methode zonder verzonnen cijfers."
 slug: "prix-immobilier-alger"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/vastgoedprijzen-algiers"
 translationKey: "prix-immobilier-alger"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
+Zoeken naar ‘de’ prijs per vierkante meter in Algiers is de meest voorkomende reflex – en een van de meest misleidende. De Algerijnse hoofdstad heeft geen interne markt: er zijn micromarkten onderverdeeld per buurt, status, eigendomsconditie, eigendomskwaliteit, uitzicht, parkeergelegenheid en liquiditeit. Op deze pagina wordt uitgelegd **hoe u** de vastgoedprijsmarkt in Algiers kunt lezen voordat u een aankoop doet, **zonder offertes te verzinnen**.
 
+Voor een prijsbeslissing doet u een beroep op een **professionele taxatie** en gecontroleerde vergelijkingen bij de notaris/bevoegde deskundigen. Online vermeldingen zijn geen officiële offerte.
 
-Searching for “the” price per square metre in Algiers is the most frequent reflex — and one of the most misleading. The Algerian capital does not have a single market: it overlays micro-markets by neighbourhood, standing, property condition, title quality, view, parking and liquidity. This page explains **how to read** the Algiers property-price market before buying, **without inventing quotations**.
+> **Disclaimer.** Deze pagina is een redactionele analyse. Het vormt geen financieel of juridisch advies of een geprijsde vastgoedexpertise. Hier wordt geen prijs per m² vermeld.
 
-For a priced decision, call on a **professional valuation** and verified comparables near the notary / competent experts. Online listings are not an official quote.
+## Waarom er geen enkele “Algiers-prijs” is
 
-> **Disclaimer.** This page is an editorial analysis. It does not constitute financial or legal advice or a priced real-estate expertise. No price per m² is asserted here.
+Algiers concentreert historische centra, geconsolideerde woonwijken, werkgelegenheidscentra, verdichtingszones en periferieën in transitie. Het vergelijken van een tweedehands appartement in Hydra, een nieuwbouw in Bab Ezzouar en een villa in Dély Ibrahim onder één gemiddelde levert een illusie op.
 
-## Why there is not a single “Algiers price”
+Drie structurele redenen:
 
-Algiers concentrates historic centres, consolidated residential neighbourhoods, employment hubs, densifying zones and peripheries in transition. Comparing a second-hand apartment in Hydra, a new build in Bab Ezzouar and a villa in Dély Ibrahim under a single average produces an illusion.
+1. **Stedelijke heterogeniteit**: reliëf, vervoersverbindingen, diensten, dichtheid.
+2. **Juridische heterogeniteit**: titelkwaliteit, kosten, conformiteit.
+3. **Productheterogeniteit**: gerenoveerd/te renoveren tweedehands, nieuwbouw opgeleverd, off-plan.
 
-Three structural reasons:
+Voordat u over de prijs spreekt, classificeert u het onroerend goed in een **segment**. Zie ook [Aankooprisico's](/nl/vastgoedrisicos-algerije) en [Documenten](/nl/documenten-vastgoedkoop-algerije).
 
-1. **Urban heterogeneity**: relief, transport links, services, density.
-2. **Legal heterogeneity**: title quality, charges, conformity.
-3. **Product heterogeneity**: renovated / to-renovate second-hand, delivered new build, off-plan.
+## Nuttige segmenten voor het lezen van Algiers (zonder cijfers)
 
-Before talking price, classify the property in a **segment**. See also [Purchase risks](/nl/vastgoedrisicos-algerije) and [Documents](/nl/documenten-vastgoedkoop-algerije).
+## Gevestigde centra en woonwijken
 
-## Useful segments for reading Algiers (without figures)
+Sectoren als **Hydra**, **El Biar**, **Ben Aknoun**, delen van **Dély Ibrahim** of **Cheraga** (afhankelijk van straten en producten) worden vaak gezien als staande markten met relatieve schaarste. Dat zegt niets over een exacte prijs: het zegt dat je **binnen** het segment moet vergelijken (dezelfde typologie, dezelfde staat, dezelfde titelkwaliteit).
 
-### Established centres and residential neighbourhoods
+## Activiteits- en toegankelijkheidshubs
 
-Sectors such as **Hydra**, **El Biar**, **Ben Aknoun**, parts of **Dély Ibrahim** or **Cheraga** (depending on streets and products) are often perceived as standing markets with relative scarcity. That says nothing of an exact price: it says you must compare **within** the segment (same typology, same condition, same title quality).
+**Bab Ezzouar** (nabijheid van activiteiten / luchthaven afhankelijk van sectoren), bepaalde assen van **Bordj El Kiffan**, zones gekoppeld aan grote voorzieningen: de vraag is mogelijk meer gebonden aan mobiliteit en gebruik dan aan historisch ‘prestige’. Vervolgens wordt de prijs afgelezen met de dichtheid, het lawaai en de parkeerbeperkingen.
 
-### Activity and accessibility hubs
+## Randen en gemeenten van de regio Algiers
 
-**Bab Ezzouar** (proximity to activities / airport depending on sectors), certain axes of **Bordj El Kiffan**, zones linked to major facilities: demand may be more tied to mobility and use than to historic “prestige”. Price is then read with density, noise and parking constraints.
+Draria, Birkhadem, Ouled Fayet en andere gemeenten van het Algiers-ensemble bieden verschillende producten aan (oppervlakte, nieuwbouw, budgetten). Het risico is het vergelijken van een perifere m² met een hypercentrale m² alsof ze fungibel zijn.
 
-### Peripheries and communes of the Algiers area
+## Nieuw/off-plan versus tweedehands
 
-Draria, Birkhadem, Ouled Fayet, and other communes of the Algiers ensemble offer different products (surface, new build, budgets). The risk is comparing a peripheral m² to a hyper-central m² as if they were fungible.
+Nieuwbouw kan “duurder” of “goedkoper” lijken, afhankelijk van wat de aanbieding omvat (afwerkingen, parkeren, toekomstige kosten, vertraging, uitvoeringsrisico). Een off-plan prijs is alleen vergelijkbaar met een geleverde prijs na correctie voor **risico** en **tijd**. Zie [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers), [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije), [Oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije).
 
-### New / off-plan vs second-hand
+## Factoren die echt waarde creëren, variëren
 
-New build may seem “more expensive” or “cheaper” depending on what the listing includes (finishes, parking, future charges, delay, execution risk). An off-plan price is comparable to a delivered price only after adjusting for **risk** and **time**. See [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers), [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije), [New housing delivery](/nl/oplevering-nieuwe-woning-algerije).
+## 1. Microlocatie (niet alleen de buurtnaam)
 
-## Factors that really make value vary
+Straat, blootstelling, hinder, nabijheid van diensten, echte bereikbaarheid tijdens de spitsuren. Twee “Hydra”-eigendommen kunnen tot twee markten behoren.
 
-### 1. Micro-location (not only the neighbourhood name)
+## 2. Juridische kwaliteit
 
-Street, exposure, nuisances, proximity to services, real accessibility at peak hours. Two “Hydra” properties can belong to two markets.
+Duidelijke *livret* / grondpubliciteit, afwezigheid van problematische kosten, conformiteit: een “goedkoper” eigendom kan duurder zijn in risico. Zie [Documenten](/nl/documenten-vastgoedkoop-algerije).
 
-### 2. Legal quality
+## 3. Staat en technische kosten
 
-Clear *livret* / land publicity, absence of problematic charges, conformity: a “cheaper” property can be more expensive in risk. See [Documents](/nl/documenten-vastgoedkoop-algerije).
+Echte versus cosmetische renovatie, waterdicht maken, stapels, mede-eigendom. “Goedkope” tweedehands kan een onderschat fabrieksbudget opslorpen.
 
-### 3. Condition and technical charges
+## 4. Bijlagen
 
-Real vs cosmetic renovation, waterproofing, stacks, co-ownership. “Cheap” second-hand can absorb an underestimated works budget.
+Parkeren en kelder in Algiers zijn geen details: ze veranderen het gebruik en de liquiditeit.
 
-### 4. Annexes
+## 5. Vloer, daglicht, uitzicht, overlast
 
-Parking and cellar in Algiers are not details: they change use and liquidity.
+Klassieke factoren, vaak slecht gestandaardiseerd in vermeldingen.
 
-### 5. Floor, daylight, view, nuisance
+## 6. Liquiditeit en vertraging bij wederverkoop
 
-Classic factors, often poorly standardised in listings.
+Een aankoopprijs die wordt ‘gewonnen’ voor een moeilijk verkoopbaar onroerend goed is niet noodzakelijkerwijs een goede patrimoniale deal.
 
-### 6. Liquidity and resale delay
+## 7. Kopersprofiel
 
-A purchase price “won” on a hard-to-resell property is not necessarily a good patrimonial deal.
+Woonplaats, familie, diaspora, plaatsing: bereidheid om veranderingen te betalen. Zie [Waarom Algiers aantrekt](/nl/artikelen/pourquoi-investir-immobilier-alger), [Diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-### 7. Buyer profile
+## Hoe een marktlezing op te bouwen (methode)
 
-Residence, family, diaspora, placement: willingness to pay changes. See [Why Algiers attracts](/nl/artikelen/pourquoi-investir-immobilier-alger), [Diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+## Stap A — Definieer het vergelijkbare
 
-## How to build a market reading (method)
+Dezelfde gemeente/buurt, dezelfde typologie (F3/F4…), nabije oppervlakte, nabije staat, vergelijkbare titel, vergelijkbare bijgebouwen.
 
-### Step A — Define the comparable
+## Stap B — Verzamel verschillende bronnen
 
-Same commune / neighbourhood, same typology (F3/F4…), close surface, close condition, comparable title, comparable annexes.
+Advertenties (vragen), daadwerkelijk afgesloten transacties (moeilijker te verkrijgen), deskundig advies, notariële feedback. Pas op voor prijzen die lange tijd worden “weergegeven” zonder uitverkoop.
 
-### Step B — Gather several sources
+## Stap C — Pas kwalitatief aan
 
-Listings (asking), actually concluded transactions (harder to obtain), expert opinions, notarial feedback. Beware prices “displayed” for a long time without a sale.
+Werken, verdieping, uitzicht, parkeren, urgentie van de verkoper, juridisch risico. Zonder de aanpassing om te zetten in een vals nauwkeurig cijfer.
 
-### Step C — Adjust qualitatively
+## Stap D — Aparte vermelde prijs en onderhandelde prijs
 
-Works, floor, view, parking, seller urgency, legal risk. Without turning the adjustment into a false precise figure.
+De markt in Algiers kan onderhandelingsmarges omvatten die variëren afhankelijk van de liquiditeit en de bestandskwaliteit. Het ontbreken van onderhandelingen is geen bewijs van een ‘eerlijke prijs’.
 
-### Step D — Separate listed price and negotiated price
+## Stap E — Laat het op waarde schatten
 
-The Algiers market can include negotiation margins that vary by liquidity and file quality. Absence of negotiation is not proof of a “fair price”.
+Bij een grote inzet verkleint een **professionele waardering** (deskundige/erkende professional afhankelijk van context) de blinde vlek. Viva Algérie vervangt deze stap niet.
 
-### Step E — Have it valued
+## Off-plan: een prijs anders lezen
 
-For a major commitment, a **professional valuation** (expert / recognised professional depending on context) reduces the blind spot. Viva Algérie does not replace this step.
+Een off-plan prijs moet gelezen worden met:
 
-## Off-plan: reading a price differently
+- immobilisatie van planning en kapitaal;
+- vertragingsrisico;
+- prijsherzieningsrisico indien daarin voorzien in het contract;
+- mogelijke kloof tussen 3D en geleverd product;
+- ontwikkelaarskwaliteit (*agrément*, FGCMPI, geschiedenis).
 
-An off-plan price must be read with:
+Zie [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije) en [Risico's](/nl/vastgoedrisicos-algerije).
 
-- schedule and capital immobilisation;
-- delay risk;
-- price-revision risk if provided in the contract;
-- possible gap between 3D and delivered product;
-- developer quality (*agrément*, FGCMPI, history).
+decreet 13-431 herinnert aan de betalingsdiscipline die verband houdt met vooruitgang: een “lage prijs” die wordt verkregen ten koste van stortingen buiten het raamwerk is geen goede deal.
 
-See [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije) and [Risks](/nl/vastgoedrisicos-algerije).
+## Klassieke prijsgerelateerde vallen in Algiers
 
-Decree 13-431 recalls payment discipline linked to progress: a “low price” obtained at the cost of off-framework deposits is not a good deal.
+1. **Nationaal of stedelijk gemiddelde** toegepast op een specifieke straat.
+2. **Prijs per m²** berekend op een slecht gedefinieerd oppervlak (nuttig / bebouwd / bij benadering).
+3. **Bellijsten** niet beschikbaar.
+4. **Vergelijking nieuw/tweedehands** zonder het risico aan te passen.
+5. **Vergeten kosten** en werken.
+6. **Druk**: “morgen gaat het omhoog” zonder gegevens.
 
-## Classic price-related traps in Algiers
+Aanvullingen: [Fouten bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026), [Algiers / Oran / Constantine](/nl/artikelen/alger-oran-constantine-investir).
 
-1. **National or urban average** applied to a precise street.
-2. **Price per m²** calculated on a poorly defined surface (useful / built / approximate).
-3. **Call listings** not available.
-4. **New/second-hand comparison** without adjusting risk.
-5. **Forgetting fees** and works.
-6. **Pressure**: “tomorrow it goes up” without data.
+## Prijs en S.A.F.E
 
-Complements: [Mistakes when buying](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Real estate 2026](/nl/artikelen/immobilier-algerie-2026), [Algiers / Oran / Constantine](/nl/artikelen/alger-oran-constantine-investir).
+Het **S.A.F.E**-raster integreert een **investeringsanalyse** naast andere pijlers (veiligheid, uitvoeringsbetrouwbaarheid, ondersteuning). Het kan helpen beoordelen of een project coherent is – zonder een officieel citaat te publiceren en zonder een expertise te vervangen. S.A.F.E is **eigendom**, niet van de overheid.
 
-## Price and S.A.F.E
+Details: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
 
-The **S.A.F.E** grid integrates an **investment analysis** among other pillars (security, execution reliability, support). It can help judge whether a project is coherent — without publishing an official quote and without replacing an expertise. S.A.F.E is **proprietary**, not governmental.
+## Miniprotocol voordat een prijs wordt aangeboden
 
-Details: [S.A.F.E certification](/nl/safe-vastgoedcertificering).
+1. Classificeer het pand in een segment (buurt + typologie + staat + titel).
+2. Verzamel op zijn minst een aantal vergelijkbare items, niet één enkele vermelding.
+3. Kwalitatief aanpassen (parkeren, verdieping, werken, risico's).
+4. Controleer of het juridische dossier geen waarde aantast.
+5. Laat het cijfer uitdagen door een professional als het ticket hoog is.
+6. Aparte aanbiedingsprijs, persoonlijke minimumprijs en “emotieprijs”.
 
-## Mini-protocol before offering a price
+Als je in vijf feitelijke zinnen niet kunt uitleggen waarom je dat bedrag biedt, ben je niet klaar om te bieden.
 
-1. Classify the property in a segment (neighbourhood + typology + condition + title).
-2. Gather at least several close comparables, not a single listing.
-3. Adjust qualitatively (parking, floor, works, risks).
-4. Check that the legal file does not contaminate value.
-5. Have the figure challenged by a professional if the ticket is high.
-6. Separate offer price, personal reserve price and “emotion” price.
+## Belangrijkste afhaalrestaurants
 
-If you cannot explain why you offer that amount in five factual sentences, you are not ready to offer.
+Het begrijpen van **vastgoedprijzen in Algiers** betekent het verlaten van het magische gemiddelde en het hanteren van segmenten, factoren en vergelijkingen. Koop geen listingcijfer: koop een bestand (legaal + product + liquiditeit). Voor het definitieve cijfer doorloop je een professionele taxatie en de notaris.
 
-## Key takeaways
+Voor het aankooptraject: [Documenten](/nl/documenten-vastgoedkoop-algerije), [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers), [Juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie).
 
-Understanding **property prices in Algiers** means abandoning the magic average and adopting a reading by segments, factors and comparables. Do not buy a listing figure: buy a file (legal + product + liquidity). For the final figure, go through a professional valuation and the notary.
 
-For the purchase journey: [Documents](/nl/documenten-vastgoedkoop-algerije), [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers), [Legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie).
+## Een Algiers-lijst lezen zonder de eenheid te verwarren
 
+Advertenties lopen soms door elkaar:
 
-## Reading an Algiers listing without mistaking the unit
+- geschatte “commerciële” oppervlakte;
+- echt bruikbaar oppervlak;
+- al dan niet opnemen van bijlagen;
+- “vanaf” prijs off-plan;
+- onderhandelbare prijs niet weergegeven.
 
-Listings sometimes mix:
+Voordat u gaat vergelijken: normaliseer: waar hebben we het over? Zonder die normalisering wordt de ‘m²’ een slogan.
 
-- approximate “commercial” surface;
-- real useful surface;
-- inclusion or not of annexes;
-- “from” price off-plan;
-- negotiable price not displayed.
+## Voorbeelden van redeneringen (kwalitatief, niet geprijsd)
 
-Before any comparison, normalise: what are we talking about? Without that normalisation, the “m²” becomes a slogan.
+- Een centrale F3 zonder parkeerplaats kan bij dagelijks gebruik “minder” waard zijn dan een iets meer afgelegen F3 met beveiligde parkeerplaats, afhankelijk van uw echte leven.
+- Een nieuwbouw met een lange looptijd moet vergeleken worden met onmiddellijk bewoonbare tweedehands **na** integratie van de tijdskosten (huur, immobilisatie).
+- Een agressieve prijs voor een eigendom met een vage titel is geen koopje: het is vaak een overdracht van risico.
 
-## Examples of reasoning (qualitative, not priced)
+Deze voorbeelden geven geen cijfers; ze trainen het oordeel.
 
-- A central F3 without parking may be worth “less” in daily use than a slightly more outlying F3 with secure parking, depending on your real life.
-- A new build with a long delay must be compared to immediately habitable second-hand **after** integrating the cost of time (rent, immobilisation).
-- An aggressive price on a property with a fuzzy title is not a bargain: it is often a transfer of risk.
+## Rol van infrastructuur en perceptie
 
-These examples give no figures; they train judgement.
+Grote voorzieningen, vervoersverbindingen en stedelijke projecten beïnvloeden de **perceptie** van waarde. Pas echter op dat u vandaag niet betaalt voor een ‘aangekondigde’ infrastructuur alsof deze er al is. Integreer een voorzichtig scenario: vertraging, extra dichtheid, hinder op de locatie.
 
-## Role of infrastructure and perception
+Voor een bredere interpretatie van stedelijke trajecten: [Algerije 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites), [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026).
 
-Major facilities, transport links and urban projects influence the **perception** of value. Be careful, however, not to pay today for an “announced” infrastructure as if it were already there. Integrate a prudent scenario: delay, additional density, site nuisances.
+## Onderhandelen: mentaal kader
 
-For a broader reading of urban trajectories: [Algeria 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites), [Real estate 2026](/nl/artikelen/immobilier-algerie-2026).
+Onderhandelen in Algiers is geen spektakel. Het is een gesprek gebaseerd op:
 
-## Negotiation: mental framework
+- geobjectiveerde gebreken;
+- nauwe vergelijkingen;
+- beschikbaarheidsdeadlines;
+- stevigheid van het juridisch dossier.
 
-Negotiating in Algiers is not a spectacle. It is a conversation based on:
+Zonder argumenten wordt onderhandelen bluf. Met een bestand wordt het rationeel. En soms is de juiste zet niet om over de prijs te onderhandelen, maar om ontbrekende **werken/documenten/clausules** te eisen.
 
-- objectified defects;
-- close comparables;
-- availability deadlines;
-- solidity of the legal file.
+## Wanneer moet u een professionele taxatie inschakelen?
 
-Without arguments, negotiation becomes bluff. With a file, it becomes rational. And sometimes, the right move is not to negotiate the price, but to require missing **works / documents / clauses**.
+- hoge aankoopbon;
+- atypische woning (zeldzaam uitzicht, grote villa, gemengde gebouwen);
+- onenigheid binnen het gezin over de waarde;
+- arbitrage tussen twee nabijgelegen eigendommen;
+- patrimoniaal of overdrachtsproject.
 
-## When to call on a professional valuation
+Taxatie vervangt niet de notaris; het vormt een aanvulling op de economische lezing. Pas op voor gratis puur commerciële ‘schattingen’ gericht op het verkrijgen van een mandaat.
 
-- high purchase ticket;
-- atypical property (rare view, large villa, mixed premises);
-- family disagreement on value;
-- arbitration between two close properties;
-- patrimonial or transmission project.
+## Prijs, emotie en diaspora
 
-Valuation does not replace the notary; it complements the economic reading. Beware of free purely commercial “estimates” aimed at obtaining a mandate.
+De diaspora koopt soms onder dwang van korte duur. Die beperking verhoogt de psychologische prijs. Anticipeer op: dossiers die op afstand zijn voorbereid, mandaten, shortlist vóór de reis, weigering om te beslissen op de laatste dag op de luchthaven. Gecomprimeerde tijd is de bondgenoot van de gehaaste verkoper, niet die van jou. Ontdek meer in onze [gidsen](/nl/gidsen)- en [vastgoed](/nl/vastgoed)-hubs.
 
-## Price, emotion and diaspora
+## Veelgestelde vragen
 
-The diaspora sometimes buys under short-stay constraint. That constraint raises the psychological price. Anticipate: files prepared at a distance, mandates, shortlist before the trip, refusal to decide on the last day at the airport. Compressed time is the ally of the hurried seller, not yours. Explore more in our [guides](/nl/gidsen) and [real estate](/nl/vastgoed) hubs.
+## Wat is de prijs per m² vandaag in Algiers?
 
-## FAQ
+Er is hier geen enkele betrouwbare prijs gepubliceerd. Niveaus variëren sterk per buurt, product en titel. Vraag om een ​​taxatie en serieuze vergelijkingsmateriaal.
 
-### What is the price per m² in Algiers today?
+## Waarom lopen de vermeldingen zo uiteen?
 
-There is no single reliable price published here. Levels vary strongly by neighbourhood, product and title. Ask for a valuation and serious comparables.
+Slecht gedefinieerde oppervlakken, belprijzen, niet-vergelijkbare eigenschappen en kloof tussen weergave en echte transactie.
 
-### Why do listings diverge so much?
+## Hoe vergelijk je nieuw en tweedehands?
 
-Poorly defined surfaces, call prices, non-comparable properties, and gap between display and real transaction.
+Pas bij gelijke eigendomskwaliteit de staat, kosten, vertraging, uitvoeringsrisico en bijlagen aan. Een m² is niet automatisch gelijkwaardig.
 
-### How to compare new and second-hand?
+## Is de wijk Hydra altijd “duurder”?
 
-At equal title quality, adjust condition, charges, delay, execution risk and annexes. A m² is not automatically equivalent.
+Vaak gezien als een staand segment, maar elke straat en elk pand moet in zijn micromarkt worden vergeleken. Er wordt hier geen automatisch prijscijfer vermeld.
 
-### Is the Hydra neighbourhood always “more expensive”?
+## Betaalt de diaspora meer?
 
-Often perceived as a standing segment, but each street and each property must be compared in its micro-market. No automatic priced figure is asserted here.
+Het kan meer worden blootgesteld aan informatie-asymmetrie en haast. Methode (vergelijkingen, notaris, documenten) telt zwaarder dan het stereotype.
 
-### Does the diaspora pay more?
+## Geeft S.A.F.E een officiële prijs?
 
-It can be more exposed to information asymmetry and rush. Method (comparables, notary, documents) counts more than the stereotype.
+Nee. Het is een eigen analyseraster, geen openbare quote of vervangende expertise.
 
-### Does S.A.F.E give an official price?
+## Bronnen
 
-No. It is a proprietary analysis grid, not a public quote or a substitute expertise.
-
-## Sources
-
-- Qualitative observation of the Algiers market (urban segments) — Viva Algérie editorial analysis
-- Development / *vente sur plans* framework: Law 11-04, Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
-- *Conservation foncière* / title: [DGDN](https://www.dgdn.gov.dz)
+- Kwalitatieve observatie van de Algiers-markt (stedelijke segmenten) — Viva Algérie redactionele analyse
+- Ontwikkeling / *vente sur plans* raamwerk: wet 11-04, decreet 13-431 — [FGCMPI](https://fgcmpi.org.dz)
+- *Conservation foncière* / titel: [DGDN](https://www.dgdn.gov.dz)
 - [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)

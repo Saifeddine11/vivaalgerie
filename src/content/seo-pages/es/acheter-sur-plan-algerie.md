@@ -1,176 +1,173 @@
 ---
-title: "Comprar sobre plano en Argelia: riesgos, garantías y verificaciones | Viva Algérie"
-h1: "Comprar sobre plano en Argelia: riesgos, garantías y verificaciones esenciales"
-description: "Guía editorial para comprar sobre plano en Argelia: ley 11-04, promotor, FGCMPI, riesgos y checklist."
+title: "Comprar sobre plano en Argelia: riesgos, garantías y controles | Viva Algérie"
+h1: "Comprar sobre plano en Argelia: riesgos, garantías y controles esenciales"
+description: "Compra sobre plano en Argelia: marco ley 11-04, decreto 13-431, FGCMPI, promotor agrément, riesgos y lista de control antes de reservar."
 slug: "acheter-sur-plan-algerie"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/comprar-sobre-plano-argelia"
 translationKey: "acheter-sur-plan-algerie"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+Comprar una casa antes de la entrega atrae a muchos compradores en Argelia: precios a menudo más accesibles que los de segunda mano, elección del piso y de la orientación, y la perspectiva de una nueva propiedad. Sin embargo, **comprar sobre plano en Argelia** no es un paso trivial. El marco legal existe, al igual que las garantías, pero el riesgo sigue siendo real si se confunde una promesa comercial con un archivo genuinamente seguro.
 
+Esta página explica el marco ***vente sur plans*** (venta sobre plano) de Argelia, los principales riesgos, las garantías a exigir y el método de verificación antes de cualquier reserva. Se dirige tanto a los residentes como a la diáspora.
 
-Buying a home before delivery attracts many purchasers in Algeria: prices often more accessible than second-hand, choice of floor and orientation, and the prospect of a new property. Yet **buying off-plan in Algeria** is not a trivial step. The legal framework exists, so do guarantees, but the risk remains real if you confuse a commercial promise with a genuinely secured file.
+> **Descargo de responsabilidad.** Esta página es un análisis editorial y educativo. No constituye asesoramiento legal, fiscal, financiero o notarial. Antes de cualquier compra, consulte a un notario y, si es necesario, a un profesional cualificado.
 
-This page explains Algeria’s ***vente sur plans*** (off-plan sale) framework, the main risks, the guarantees to require and the verification method before any reservation. It addresses residents and the diaspora alike.
+## Venta sobre plano en Argelia: no confundir con otras estructuras
 
-> **Disclaimer.** Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial. Before any purchase, consult a notary and, if needed, a qualified professional.
+En el lenguaje cotidiano, algunos compradores hablan de “VEFA” para referirse a una compra antes de su finalización. En Argelia, el mecanismo pertinente es el ***vente sur plans***, enmarcado en el **Law No. 11-04 of 17 February 2011** que establece las normas que rigen la actividad de promoción inmobiliaria, y aclarado en particular por el **Executive Decree No. 13-431 of 18 December 2013** (modelos estándar de contratos de reserva y de venta sobre plano, calendario de pagos, penalizaciones por retraso en la entrega).
 
-## Off-plan sale in Algeria: do not confuse with other frameworks
+En otras palabras: el término francés “VEFA” puede circular en las conversaciones, pero **el marco aplicable es el argelino**. Los derechos, obligaciones, modelos de contrato y garantías no pueden deducirse de otro país. Cualquier análisis serio parte de ley 11-04, los textos de aplicación, el notario y las instituciones argelinas (*agrément*, tabla nacional, FGCMPI, *conservation foncière*).
 
-In everyday language, some buyers speak of “VEFA” to mean a purchase before completion. In Algeria, the relevant mechanism is ***vente sur plans***, framed by **Law No. 11-04 of 17 February 2011** setting the rules governing real-estate development activity, and clarified notably by **Executive Decree No. 13-431 of 18 December 2013** (standard models for reservation and off-plan sale contracts, payment schedule, late-delivery penalties).
+Para una lectura más amplia del marco legal, consulte también nuestro artículo [Marco jurídico inmobiliario en Argelia](/es/articulos/cadre-juridique-immobilier-algerie) y la guía [Documentos a comprobar antes de una compra.](/es/documentos-compra-inmobiliaria-argelia).
 
-In other words: the French term “VEFA” may circulate in conversation, but **the applicable framework is Algerian**. Rights, obligations, contract models and guarantees cannot be deduced from another country. Any serious analysis starts from Law 11-04, implementing texts, the notary and Algerian institutions (*agrément*, national table, FGCMPI, *conservation foncière*).
+## Qué permite (y requiere) ley 11-04
 
-For a broader reading of the legal framework, also see our article [Real-estate legal framework in Algeria](/es/articulos/cadre-juridique-immobilier-algerie) and the guide [Documents to check before a purchase](/es/documentos-compra-inmobiliaria-argelia).
+ley 11-04 organiza la actividad de **promotor inmobiliario** (*promoteur immobilier*) y enmarca la comercialización de propiedades. Entre los puntos esenciales para el comprador:
 
-## What Law 11-04 allows (and requires)
+- **Profesión regulada**: nadie podrá reclamar la condición de promotor o ejercer sin cumplir las condiciones legales (*agrément*, registro, inscripción en la tabla nacional de promotores, según textos aplicables).
+- ***Vente sur planes***: el contrato implica una cesión progresiva de derechos a medida que avanza la construcción, a cambio de un pago vinculado al avance de la obra (artículo 28 y siguientes, según el texto).
+- **Forma auténtica**: el contrato de compraventa sobre plano se redacta en forma auténtica y sujeto a trámites registrales y de publicidad.
+- **Fondo de garantía**: el **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — fondo de garantía mutua para el desarrollo inmobiliario) es un pilar institucional de protección de los suscriptores dentro del esquema previsto por la ley.
 
-Law 11-04 organises the activity of **real-estate developer** (*promoteur immobilier*) and frames the marketing of properties. Among the essential points for the buyer:
+Estos principios no reemplazan la lectura del archivo del proyecto. Ellos sentaron las **bases**: sin un promotor autorizado regularmente, sin un contrato conforme y sin garantías adjuntas al proyecto, el comprador se enfrenta a un riesgo estructural.
 
-- **Regulated profession**: no one may claim the status of developer or practise without meeting the legal conditions (*agrément*, registration, inscription on the national table of developers, according to applicable texts).
-- ***Vente sur plans***: the contract entails progressive transfer of rights as construction progresses, in return for payment linked to works progress (Article 28 et seq., according to the text).
-- **Authentic form**: the off-plan sale contract is drawn up in authentic form and subject to registration and publicity formalities.
-- **Guarantee fund**: the **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — mutual guarantee fund for real-estate development) is an institutional pillar of subscriber protection within the scheme provided by law.
+Para comprobar al interlocutor en la práctica, consulte [Cómo comprobar un promotor inmobiliario en Argelia](/es/como-verificar-promotor-inmobiliario-argelia).
 
-These principles do not replace reading the project file. They set the **foundation**: without a regularly authorised developer, without a compliant contract and without guarantees attached to the project, the buyer faces structural risk.
+## decreto 13-431: cronograma, modelos y disciplina de pago
 
-To check the interlocutor in practice, see [How to check a real-estate developer in Algeria](/es/como-verificar-promotor-inmobiliario-argelia).
+Executive decreto 13-431 aclara notablemente:
 
-## Decree 13-431: schedule, models and payment discipline
+- los **modelos estándar** para contratos de reserva y contratos de venta sobre plano;
+- **límites de pago** según el avance de las obras;
+- el marco para las **sanciones por retraso en la entrega** y modalidades relacionadas.
 
-Executive Decree 13-431 clarifies notably:
+Según este decreto, el pago del precio en un contrato de compraventa sobre plano se modula dentro de límites del tipo:
 
-- the **standard models** for reservation contracts and off-plan sale contracts;
-- **payment limits** according to works progress;
-- the framework for **late-delivery penalties** and related modalities.
+- **20%** a la firma;
+- **15%** al finalizar las fundaciones;
+- **35%** al finalizar las obras estructurales (incluidas impermeabilizaciones y tabiques exteriores e interiores);
+- **25%** al finalizar todas las operaciones (incluidas redes de servicios públicos y obras externas);
+- **5%** en el momento del informe de toma de posesión (*procès-verbal de prise de posesión*).
 
-Under this decree, payment of the price in an off-plan sale contract is modulated within limits of the type:
+Este esquema no es una “opción de marketing”. Es un **mecanismo de disciplina**: el comprador no debe adelantar sumas fuera de una lógica de progreso, y el promotor no debe exigir un calendario opaco. Cualquier propuesta de pago anticipado completo, transferencias fuera de contrato o “reserva de efectivo” imposible de rastrear debería generar una alerta.
 
-- **20%** at signature;
-- **15%** at completion of foundations;
-- **35%** at completion of structural works (including waterproofing, exterior and interior partitions);
-- **25%** at completion of all trades (including utilities networks and external works);
-- **5%** at the time of the taking-possession report (*procès-verbal de prise de possession*).
+ley 11-04 también establece que el contrato establezca si el precio es **revisable** o no y, en su caso, las modalidades de revisión. Las prácticas abusivas de revisión sin marco son un riesgo clásico: requieren transparencia escrita.
 
-This scheme is not a “marketing option”. It is a **discipline mechanism**: the buyer must not advance sums outside a progress logic, and the developer must not demand an opaque calendar. Any proposal of full early payment, off-contract transfers, or untraceable “cash reservation” should raise an alert.
+## El FGCMPI: ¿qué es para el comprador?
 
-Law 11-04 also provides that the contract states whether the price is **revisable** or not and, where applicable, the revision modalities. Abusive practices of unframed revision are a classic risk: require written transparency.
+El **FGCMPI** interviene en el esquema de garantía vinculado al desarrollo inmobiliario. Para el comprador, lo que está en juego en la práctica es doble:
 
-## The FGCMPI: what is it for the buyer?
+1. **Confirmar** que el proyecto/promotor realmente se encuentra dentro del esquema prescrito (certificación o documentos justificativos específicos del proyecto, según los procedimientos vigentes).
+2. **Entender** que la garantía no elimina todos los riesgos (retrasos, defectos, disputas de conformidad, marketing irregular).
 
-The **FGCMPI** intervenes in the guarantee scheme linked to real-estate development. For the buyer, the practical stake is twofold:
+Nunca trate el logotipo FGCMPI como “seguro total”. Solicite los **documentos del proyecto**, verifique su coherencia con el contrato notarial y vuelva a leer el expediente.
 
-1. **Confirm** that the project / developer genuinely sits within the prescribed scheme (attestation or project-specific supporting documents, according to procedures in force).
-2. **Understand** that the guarantee does not erase all risks (delays, defects, conformity disputes, irregular marketing).
+Sitio de referencia: [fgcmpi.org.dz](https://fgcmpi.org.dz).
 
-Never treat the FGCMPI logo as “total insurance”. Ask for the **project documents**, check their coherence with the notarial contract, and have the file re-read.
+## Principales riesgos de una compra sobre plano
 
-Reference site: [fgcmpi.org.dz](https://fgcmpi.org.dz).
+## 1. Promotor no aprobado o marketing ilegal
 
-## Major risks of an off-plan purchase
+Desde 2025, el Ministerio de Justicia recuerda a los notarios que deben permanecer atentos a las operaciones de **promoción inmobiliaria ilegal**: construcciones presentadas como edificios “familiares” que luego se comercializan como apartamentos, sin *agrément* ni registro regular. El comprador que paga depósitos fuera del circuito notarial y fuera del marco legal puede quedar sin protección real.
 
-### 1. Unapproved developer or illegal marketing
+Véase también: [Riesgos de la compra de una propiedad en Argelia](/es/riesgos-compra-inmobiliaria-argelia).
 
-Since 2025, the Ministry of Justice has reminded notaries to remain vigilant toward **illegal real-estate development** operations: constructions presented as “family” buildings then marketed as apartments, without *agrément* or regular registration. The buyer who pays deposits outside the notarial circuit and outside the legal framework may end up with no real protection.
+## 2. Retrasos en la entrega
 
-See also: [Risks of a property purchase in Algeria](/es/riesgos-compra-inmobiliaria-argelia).
+El retraso es el riesgo más frecuente. El decreto prevé un marco sancionador, pero la realidad depende del contrato, de la solidez financiera del promotor, del avance real y de la capacidad de registrar formalmente las etapas. Sin seguimiento (fotos fechadas, informes de progreso, visitas supervisadas al sitio), el comprador paga a ciegas.
 
-### 2. Delivery delays
+## 3. Brecha entre el marketing y el producto entregado
 
-Delay is the most frequent risk. The decree provides a penalty framework, but reality depends on the contract, the developer’s financial solidity, real progress and the ability to have stages formally recorded. Without follow-up (dated photos, progress reports, supervised site visits), the buyer pays blind.
+Planes de marketing, “perspectivas 3D”, zonas ambiguas, acabados no especificados, partes comunes subestimadas: todo son fuentes de conflicto en el momento de la entrega de llaves. Requieren una **descripción técnica** clara, planos dimensionados y una definición precisa de acabados.
 
-### 3. Gap between marketing and the delivered product
+## 4. Título, terreno y planificación
 
-Marketing plans, “3D perspectives”, ambiguous areas, unspecified finishes, underestimated common parts: all are sources of conflict at key handover. Require a clear **technical description**, dimensioned plans, and a precise definition of finishes.
+Un proyecto puede comercializarse mientras los derechos sobre la tierra, el permiso de construcción o la conformidad con la planificación del promotor sean frágiles. Sin controles territoriales y administrativos, el riesgo recae en la **viabilidad legal** del programa.
 
-### 4. Title, land and planning
+## 5. Pagos fuera del marco
 
-A project may be marketed while the developer’s land rights, building permit or planning conformity are fragile. Without land and administrative checks, the risk bears on the programme’s **legal feasibility**.
+Cheques de cortesía, efectivo injustificado, depósitos por WhatsApp, un “lugar reservado” sin contrato: estas prácticas multiplican el riesgo de pérdida total. En Argelia, la seguridad pasa por el **notario**, los modelos prescritos y la trazabilidad.
 
-### 5. Off-framework payments
+## Lista de verificación antes de reservar
 
-Courtesy cheques, unjustified cash, WhatsApp deposits, a “reserved place” without a contract: these practices multiply the risk of outright loss. In Algeria, security passes through the **notary**, the prescribed models and traceability.
+Antes de cualquier reserva seria:
 
-## Checklist before reserving
+1. **Identidad del promotor**: *agrément* (wilaya), registro mercantil, inscripción en la tabla nacional de promotores.
+2. **Derechos sobre la tierra** y coherencia del título/derechos sobre la tierra.
+3. **Permiso de construcción** (y documentos de planificación pertinentes).
+4. **FGCMPI atestación/documentos soporte** vinculados al proyecto, según esquema aplicable.
+5. **Contrato tipo** (reserva luego *vente sur plans*) y lectura notarial.
+6. **Calendario de pagos** alineado con el avance (decreto 13-431).
+7. **Descripción técnica**, planos, áreas, acabados, partes comunes.
+8. **Plazo de entrega**, penalizaciones, modalidades de aceptación.
+9. **Revisión de precios**: sí/no, fórmula, tope.
+10. **Visita de referencia**: sitio, entregas anteriores, reputación documentada.
 
-Before any serious reservation:
+Para Argel específicamente: [Comprar sobre plano en Argel](/es/comprar-sobre-plano-argel). Para la fase de entrega: [Entrega de viviendas nuevas en Argelia](/es/entrega-vivienda-nueva-argelia).
 
-1. **Developer identity**: *agrément* (wilaya), commercial register, inscription on the national table of developers.
-2. **Land rights** and coherence of title / land rights.
-3. **Building permit** (and relevant planning documents).
-4. **FGCMPI attestation / supporting documents** linked to the project, according to the applicable scheme.
-5. **Standard-form contract** (reservation then *vente sur plans*) and notarial reading.
-6. **Payment schedule** aligned with progress (Decree 13-431).
-7. **Technical description**, plans, areas, finishes, common parts.
-8. **Delivery deadline**, penalties, acceptance modalities.
-9. **Price revision**: yes/no, formula, cap.
-10. **Reference visit**: site, prior deliveries, documented reputation.
+Una lectura complementaria útil: [Comprar sobre plano: puntos a consultar antes de reservar](/es/articulos/acheter-sur-plan-algerie-verifications).
 
-For Algiers specifically: [Buying off-plan in Algiers](/es/comprar-sobre-plano-argel). For the delivery phase: [New housing delivery in Algeria](/es/entrega-vivienda-nueva-argelia).
+## El papel del notario (y por qué no es “opcional”)
 
-A useful complementary reading: [Buying off-plan: points to check before reserving](/es/articulos/acheter-sur-plan-algerie-verifications).
+En *vente sur plans*, el notario no es un mero sello. Formalizan el contrato auténtico, guían los trámites y ayudan a asegurar el viaje. Desde la alerta de Justicia de 2025 se ha reforzado la vigilancia notarial sobre *agrément* y la naturaleza real de la operación.
 
-## The notary’s role (and why it is not “optional”)
+El comprador debe llegar a la notaría **con un expediente**, no sólo con un folleto. Preparar preguntas y documentos; negarse a firmar bajo la presión de “hoy o nunca”.
 
-In *vente sur plans*, the notary is not a mere stamp. They formalise the authentic contract, guide formalities, and help secure the journey. Since the Justice alert of 2025, notarial vigilance on *agrément* and the real nature of the operation has been reinforced.
+## Cómo S.A.F.E complementa (sin sustituir) la ley
 
-The buyer must arrive at the notary **with a file**, not only with a brochure. Prepare questions and documents; refuse to sign under “today or never” pressure.
+La cuadrícula **S.A.F.E** (Secure Approved For Estate) de Viva Algérie analiza proyectos según criterios de confianza (seguridad, análisis de inversiones, confiabilidad de ejecución, soporte al comprador). Es **propietario**: no es una certificación gubernamental, y no reemplaza ni a la notaria, ni a la *conservation foncière*, ni a la FGCMPI.
 
-## How S.A.F.E complements (without replacing) the law
+Descubre el esquema: [S.A.F.E certificación inmobiliaria](/es/certificacion-inmobiliaria-safe).
 
-The **S.A.F.E** grid (Secure Approved For Estate) from Viva Algérie analyses projects against trust criteria (security, investment analysis, execution reliability, buyer support). It is **proprietary**: it is not a government certification, and it replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
+## Método práctico para la diáspora.
 
-Discover the scheme: [S.A.F.E real-estate certification](/es/certificacion-inmobiliaria-safe).
+Comprar en el extranjero aumenta el riesgo de asimetría de información. Buenas prácticas:
 
-## Practical method for the diaspora
+- encargar un notario y, si es necesario, un representante de confianza con poderes claros;
+- exigir copias certificadas y verificaciones de fuentes (wilaya, *conservation foncière*, FGCMPI);
+- rechazar pagos fuera del circuito;
+- documentar cada paso (contratos, recibos, intercambios).
 
-Buying from abroad increases information-asymmetry risk. Good practices:
+Ver: [Diáspora argelina: comprar en el extranjero](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-- mandate a notary and, if needed, a trusted representative with clear powers;
-- require certified copies and source checks (wilaya, *conservation foncière*, FGCMPI);
-- refuse off-circuit payments;
-- document every step (contracts, receipts, exchanges).
+## Conclusiones clave
 
-See: [Algerian diaspora: buying from abroad](/es/articulos/diaspora-algerienne-acheter-immobilier).
+**Comprar sobre plano en Argelia** puede ser racional, siempre que se trate la operación como un expediente legal y técnico, no como una oportunidad para “aprovechar” bajo la emoción. El marco existe (ley 11-04, decreto 13-431, FGCMPI, notario). Los riesgos también existen (ilegalidad, retrasos, no conformidades, pagos fuera del marco). La protección comienza con la **verificación**, no con la confianza verbal.
 
-## Key takeaways
+Para ir más lejos en el mercado y errores frecuentes: [El sector inmobiliario en Argelia en 2026](/es/articulos/immobilier-algerie-2026), [Errores a evitar al comprar](/es/articulos/erreurs-acheter-immobilier-algerie), [Precios de propiedades en Argel](/es/precios-inmobiliarios-argel). Explore también nuestras secciones [guías](/es/guias) y [bienes raíces](/es/inmobiliario).
 
-**Buying off-plan in Algeria** can be rational, provided you treat the operation as a legal and technical file, not as an opportunity to “seize” under emotion. The framework exists (Law 11-04, Decree 13-431, FGCMPI, notary). The risks exist too (illegality, delay, non-conformity, off-framework payments). Protection begins with **verification**, not with verbal trust.
+## Preguntas frecuentes
 
-To go further on the market and frequent mistakes: [Real estate in Algeria in 2026](/es/articulos/immobilier-algerie-2026), [Mistakes to avoid when buying](/es/articulos/erreurs-acheter-immobilier-algerie), [Property prices in Algiers](/es/precios-inmobiliarios-argel). Browse also our [guides](/es/guias) and [real estate](/es/inmobiliario) sections.
+## ¿Qué es *vente sur plans* en Argelia?
 
-## FAQ
+Es el mecanismo enmarcado en ley 11-04 (y aclarado por decreto 13-431) que permite la adquisición de un inmueble en construcción o en construcción, con transferencia progresiva de derechos y pago vinculado al progreso, mediante contrato auténtico.
 
-### What is *vente sur plans* in Algeria?
+## ¿Se puede hablar de VEFA en Argelia?
 
-It is the mechanism framed by Law 11-04 (and clarified by Decree 13-431) allowing acquisition of a property to be built or under construction, with progressive transfer of rights and payment linked to progress, via an authentic contract.
+El término “VEFA” a veces circula en el lenguaje cotidiano, pero el marco aplicable en Argelia es ***vente sur plans*** bajo ley 11-04. No transfiera automáticamente las normas de otro país al expediente argelino.
 
-### Can one speak of VEFA in Algeria?
+## ¿Para qué sirve el FGCMPI?
 
-The term “VEFA” sometimes circulates in everyday language, but the applicable framework in Algeria is ***vente sur plans*** under Law 11-04. Do not automatically transfer another country’s rules onto the Algerian file.
+El FGCMPI es el fondo de garantía mutua para el desarrollo inmobiliario. Se encuentra dentro del esquema de protección al abonado previsto por el marco legal. Solicite documentos de respaldo específicos del proyecto y pídales que los vuelvan a leer.
 
-### What is the FGCMPI for?
+## ¿Qué calendario de pagos se proporciona?
 
-The FGCMPI is the mutual guarantee fund for real-estate development. It sits within the subscriber-protection scheme provided by the legal framework. Ask for project-specific supporting documents and have them re-read.
+decreto 13-431 modula el pago en función del progreso (en particular, 20%, 15%, 35%, 25% y luego 5% en el momento de la toma de posesión). Comprueba que tu contrato respeta estos límites y rechaza las transferencias fuera de esa lógica.
 
-### What payment schedule is provided?
+## ¿Qué pasa si el promotor no tiene *agrément*?
 
-Decree 13-431 modulates payment according to progress (notably 20%, 15%, 35%, 25%, then 5% at taking possession). Check that your contract respects these limits and refuse transfers outside that logic.
+No reserve y no pague depósito. Practicar sin *agrément* es contrario al marco de desarrollo inmobiliario. Consulte a un notario y consulte nuestra guía sobre [comprobando el promotor](/es/como-verificar-promotor-inmobiliario-argelia).
 
-### What if the developer has no *agrément*?
+## ¿La certificación S.A.F.E reemplaza los controles legales?
 
-Do not reserve and do not pay a deposit. Practising without *agrément* is contrary to the real-estate development framework. Consult a notary and refer to our guide on [checking the developer](/es/como-verificar-promotor-inmobiliario-argelia).
+No. S.A.F.E es una cuadrícula de análisis propietaria. No sustituye ni al notario, ni al *agrément*, ni al FGCMPI, ni a los controles territoriales y técnicos.
 
-### Does S.A.F.E certification replace legal controls?
+## Fuentes
 
-No. S.A.F.E is a proprietary analysis grid. It replaces neither the notary, nor *agrément*, nor the FGCMPI, nor land and technical checks.
-
-## Sources
-
-- Law No. 11-04 of 17 February 2011 — [FGCMPI / text](https://fgcmpi.org.dz/Loi_N_11_04)
-- Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- Presentations and commentary on lkeria.com (Law 11-04, Decree 13-431)
-- 2025 alerts on illegal real-estate development (Algerian media relaying the Ministry of Justice note to notaries)
+- Law No. 11-04 of 17 February 2011 — [FGCMPI / texto](https://fgcmpi.org.dz/Loi_N_11_04)
+- Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
+- Presentaciones y comentarios sobre lkeria.com (ley 11-04, decreto 13-431)
+- Alertas para 2025 sobre la promoción inmobiliaria ilegal (los medios de comunicación argelinos transmiten la nota del Ministerio de Justicia a los notarios)
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

@@ -1,226 +1,223 @@
 ---
-title: "Comprar sobre plano en Argel: cómo analizar un proyecto | Viva Algérie"
+title: "Comprar sobre plano en Argel: analizar un proyecto antes de reservar | Viva Algérie"
 h1: "Comprar sobre plano en Argel: cómo analizar un proyecto antes de reservar"
-description: "Método para analizar un proyecto sobre plano en Argel antes de reservar."
+description: "Comprar sobre plano en Argel: método para analizar un proyecto, comprobar el promotor, el lugar, el contrato y evitar reservas apresuradas."
 slug: "acheter-sur-plan-alger"
 lang: "es"
 canonical: "https://vivaalgerie.com/es/comprar-sobre-plano-argel"
 translationKey: "acheter-sur-plan-alger"
 ---
 
-> **Nota editorial.** Versión en español de Viva Algérie. Se conservan los términos jurídicos argelinos.
+Argel concentra una gran parte de la oferta de obra nueva y de programas comercializados “sobre plano”. Para un comprador residente o alguien de la diáspora, la tentación es fuerte: un barrio en transición, una torre en construcción, un folleto pulido y un lugar “aún disponible”. Sin embargo, **comprar sobre plano en Argel** exige un método de análisis antes de cualquier reserva, incluso más que en un mercado de segunda mano donde la propiedad ya existe.
 
+Esta página ofrece una cuadrícula concreta: lea el proyecto, lea el promotor, lea el contrato, lea el sitio y luego sólo decida.
 
-Algiers concentrates a large share of new-build supply and programmes marketed “off-plan”. For a resident buyer or someone from the diaspora, the temptation is strong: a neighbourhood in transition, a tower under construction, a polished brochure, and a place “still available”. Yet **buying off-plan in Algiers** demands an analysis method before any reservation — even more so than in a second-hand market where the property already exists.
+> **Descargo de responsabilidad.** Esta página es un análisis editorial y educativo. No constituye asesoramiento legal, fiscal, financiero o notarial. Antes de cualquier compra en Argel, consulte a un notario y a profesionales competentes.
 
-This page offers a concrete grid: read the project, read the developer, read the contract, read the site, then only decide.
+## Por qué Argel requiere un análisis más detallado
 
-> **Disclaimer.** Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero o notarial. Before any purchase in Algiers, consult a notary and competent professionals.
+El mercado de Argel es heterogéneo. Hydra, El Biar, Ben Aknoun, Bab Ezzouar, Bordj El Kiffan, Dély Ibrahim, Cheraga, Draria, Birkhadem o los centros periféricos no tienen la misma dinámica de demanda, accesibilidad, servicios y liquidez. El mismo “precio atractivo sobre plano” puede ocultar realidades muy diferentes: conexiones de transporte, densidad, calidad de construcción, cronograma real y solidez legal del programa.
 
-## Why Algiers requires a finer analysis
+Antes de comparar apartamentos, compare **archivos**. El precio sólo tiene sentido una vez que se enmarcan el riesgo y la calidad. Para entender cómo leer el mercado sin inventar cifras: [Precios de propiedades en Argel](/es/precios-inmobiliarios-argel). Para el marco nacional: [Comprar sobre plano en Argelia](/es/comprar-sobre-plano-argelia).
 
-The Algiers market is heterogeneous. Hydra, El Biar, Ben Aknoun, Bab Ezzouar, Bordj El Kiffan, Dély Ibrahim, Cheraga, Draria, Birkhadem, or peripheral hubs do not carry the same demand dynamics, accessibility, services and liquidity. The same “attractive off-plan price” can mask very different realities: transport links, density, build quality, real timeline, and the programme’s legal solidity.
+## Paso 1: aclare su objetivo de compra
 
-Before comparing apartments, compare **files**. Price only makes sense once risk and quality are framed. To understand how to read the market without inventing figures: [Property prices in Algiers](/es/precios-inmobiliarios-argel). For the national framework: [Buying off-plan in Algeria](/es/comprar-sobre-plano-argelia).
+Antes de la visita al sala de exposición, escribe tres líneas:
 
-## Step 1 — Clarify your purchase objective
+- **Uso**: residencia principal, vivienda secundaria, colocación de alquiler familiar, ¿transmisión?
+- **Horizonte**: entrega esperada, capacidad para esperar un retraso, ¿necesidad de liquidez?
+- **Restricciones**: presupuesto total (precio + tasas + posible revisión), movilidad, escuela, trabajo, aparcamiento.
 
-Before the showroom visit, write three lines:
+Un proyecto puede ser “bueno” para un perfil y malo para otro. El error clásico en Argel es comprar un producto publicitario (vista, estatus anunciado) que no se ajusta a su uso real.
 
-- **Use**: primary residence, secondary home, family rental placement, transmission?
-- **Horizon**: expected delivery, capacity to wait out a delay, need for liquidity?
-- **Constraints**: total budget (price + fees + possible revision), mobility, school, work, parking.
+Complementos útiles: [Por qué Argel sigue atrayendo inversores](/es/articulos/pourquoi-investir-immobilier-alger), [Argel, Orán, Constantina: dónde invertir según su perfil](/es/articulos/alger-oran-constantine-investir).
 
-A project can be “good” for one profile and bad for another. The classic mistake in Algiers is buying a marketing product (view, announced standing) without fit with real use.
+## Paso 2: verifique el promotor antes del proyecto
 
-Useful complements: [Why Algiers still attracts investors](/es/articulos/pourquoi-investir-immobilier-alger), [Algiers, Oran, Constantine: where to invest for your profile](/es/articulos/alger-oran-constantine-investir).
+En Argel, como en el resto de Argelia, la primera barrera es legal:
 
-## Step 2 — Check the developer before the project
+- promotor inmobiliario ***agrément*** (wilaya);
+- **inscripción** en el registro mercantil;
+- **inscripción** en la tabla nacional de promotores inmobiliarios;
+- coherencia del nombre de la empresa en todos los documentos.
 
-In Algiers as elsewhere in Algeria, the first barrier is legal:
+La nota del Ministerio de Justicia (2025) recordaba a los notarios que permanecieran atentos a las operaciones encubiertas (edificios "familiares" comercializados como urbanización). Si el interlocutor no puede presentar los documentos, deténgase.
 
-- real-estate developer ***agrément*** (wilaya);
-- **registration** in the commercial register;
-- **inscription** on the national table of real-estate developers;
-- coherence of the company name across all documents.
+Guía dedicada: [Cómo comprobar un promotor inmobiliario en Argelia](/es/como-verificar-promotor-inmobiliario-argelia).
 
-The Ministry of Justice note (2025) reminded notaries to remain vigilant toward disguised operations (“family” buildings marketed as development). If the interlocutor cannot produce the documents, stop.
+Pregunte también por: historial de entregas en Argel o en otro lugar, disputas conocidas, posibilidad de mostrar un sitio en progreso **y** un programa ya entregado. Un promotor opaco respecto del pasado a menudo se muestra opaco respecto del futuro.
 
-Dedicated guide: [How to check a real-estate developer in Algeria](/es/como-verificar-promotor-inmobiliario-argelia).
+## Paso 3 — Leer el expediente de planificación y terreno
 
-Also ask for: delivery history in Algiers or elsewhere, known disputes, ability to show a site in progress **and** a programme already handed over. A developer opaque about the past often is about the future.
+Un proyecto serio en Argel debería poder documentar:
 
-## Step 3 — Read the planning and land file
+- **derechos sobre la tierra** (título, derechos, coherencia catastral);
+- el **permiso de construcción** y las autorizaciones pertinentes;
+- el ***état descriptif de division* (EDD)** — declaración descriptiva de división — o su borrador, cuando proceda;
+- la lógica de la futura **copropiedad** (partes privadas/comunes).
 
-A serious Algiers project should be able to document:
+Sin estos elementos, compras una narrativa. Con ellos se compra un expediente en el que el notario puede trabajar. Ver: [Documentos a comprobar antes de una compra.](/es/documentos-compra-inmobiliaria-argelia).
 
-- **land rights** (title, rights, cadastral coherence);
-- the **building permit** and relevant authorisations;
-- the ***état descriptif de division* (EDD)** — descriptive division statement — or its draft, when applicable;
-- the logic of future **co-ownership** (private / common parts).
+Cuidado con las formulaciones vagas (“en curso”, “próximamente”, “no te preocupes”) sin documentos fechados y verificables de las administraciones competentes.
 
-Without these elements, you buy a narrative. With them, you buy a file the notary can work on. See: [Documents to check before a purchase](/es/documentos-compra-inmobiliaria-argelia).
+## Paso 4: Requerir el marco *vente sur plans* (ley 11-04 / decreto 13-431)
 
-Beware vague formulations (“in progress”, “soon”, “no worry”) without dated, verifiable documents from the competent administrations.
+En Argelia, la compra antes de la finalización se incluye en ***vente sur plans*** (Law No. 11-04 of 17 February 2011), aclarado en particular por el **Decreto Ejecutivo nº 13-431**. El término “VEFA” puede aparecer en el lenguaje cotidiano, pero el contrato debe ajustarse al **marco argelino** (modelos estándar, cronograma, garantías).
 
-## Step 4 — Require the *vente sur plans* framework (Law 11-04 / Decree 13-431)
+Puntos para volver a leer:
 
-In Algeria, purchase before completion falls under ***vente sur plans*** (Law No. 11-04 of 17 February 2011), clarified notably by **Executive Decree No. 13-431**. The term “VEFA” may appear in everyday language, but the contract must align with the **Algerian framework** (standard models, schedule, guarantees).
+- contrato **reserva** y luego contrato ***vente sur plans***;
+- **calendario** vinculado al progreso (lógica del decreto: pagos progresivos, saldo al momento de la toma de posesión);
+- **revisión de precios**: mencionado o no, modalidades, tope;
+- **plazo de entrega** y penalizaciones;
+- **descripción** de acabados y áreas.
 
-Points to have re-read:
+Cualquier pago fuera de contrato, en efectivo injustificado, o “a candado” sin escritura, es una señal de alerta. Véase también [riesgos de compra de propiedad](/es/riesgos-compra-inmobiliaria-argelia).
 
-- **reservation** contract then ***vente sur plans*** contract;
-- **schedule** linked to progress (decree logic: progressive payments, balance at taking possession);
-- **price revision**: mentioned or not, modalities, cap;
-- **delivery deadline** and penalties;
-- **description** of finishes and areas.
+## Paso 5 — Verificar el capítulo de garantía (FGCMPI y coherencia del proyecto)
 
-Any payment off-contract, in unjustified cash, or “to lock” without a deed, is a warning signal. See also [property purchase risks](/es/riesgos-compra-inmobiliaria-argelia).
+Solicitar documentos de respaldo vinculados al **FGCMPI** del proyecto, según esquema aplicable, y verificar coherencia entre promotor, programa y contrato. El fondo se encuentra dentro del ámbito de la protección del suscriptor, pero no prescinde de una lectura crítica.
 
-## Step 5 — Check the guarantee strand (FGCMPI and project coherence)
+Referencia: [fgcmpi.org.dz](https://fgcmpi.org.dz).
 
-Ask for supporting documents linked to the **FGCMPI** for the project, according to the applicable scheme, and verify coherence between developer, programme and contract. The fund sits within subscriber protection, but does not dispense with critical reading.
+## Paso 6: Analizar el producto (no sólo el barrio)
 
-Reference: [fgcmpi.org.dz](https://fgcmpi.org.dz).
+En Argel, el barrio no guarda un mal producto. Controlar:
 
-## Step 6 — Analyse the product (not only the neighbourhood)
+- **planos acotados**, alturas útiles, luz natural real (no sólo render 3D);
+- distribución de la sala de estar/dormitorios/circulación**;
+- **aparcamientos**, sótanos, salas técnicas;
+- **aislamiento**, carpintería, impermeabilización (frecuentes puntos débiles);
+- zonas comunes: vestíbulos, ascensores, espacios verdes, gestión futura;
+- densidad de programas y molestias prolongadas en el lugar.
 
-In Algiers, the neighbourhood does not save a bad product. Check:
+Compare con entregas recientes del mismo promotor. Una visita de referencia vale más que una docena de historias de Instagram.
 
-- **dimensioned plans**, useful heights, real daylight (not only 3D render);
-- **living room / bedrooms / circulation** layout;
-- **parking**, cellars, technical rooms;
-- **insulation**, joinery, waterproofing (frequent weak points);
-- common parts: halls, lifts, green spaces, future management;
-- programme density and prolonged site nuisances.
+## Paso 7: lea el sitio como evidencia
 
-Compare with recent deliveries by the same developer. A reference visit is worth more than a dozen Instagram stories.
+Si el programa ya está en marcha:
 
-## Step 7 — Read the site as evidence
+- solicitar **estado de progreso** por lotes/edificios;
+- comparar el progreso anunciado con lo que ves;
+- negarse a pagar por una etapa no alcanzada;
+- documento (fotos fechadas, informes).
 
-If the programme is already under way:
+Si el programa no ha comenzado, el riesgo de calendario es mayor: exigir más solidez jurídica y financiera, e hitos contractuales claros.
 
-- ask for **progress status** by lots / buildings;
-- compare announced progress with what you see;
-- refuse to pay for a stage not reached;
-- document (dated photos, reports).
+Para la fase final: [Entrega de viviendas nuevas en Argelia](/es/entrega-vivienda-nueva-argelia).
 
-If the programme has not started, calendar risk is higher: demand more legal and financial solidity, and clear contractual milestones.
+## Paso 8: Prueba de resistencia del escenario de “retraso/brecha”
 
-For the final phase: [New housing delivery in Algeria](/es/entrega-vivienda-nueva-argelia).
+Antes de reservar pregúntate:
 
-## Step 8 — Stress-test the “delay / gap” scenario
+- ¿Qué pasa si la entrega se retrasa de 12 a 24 meses?
+- ¿Puedo llevar alquiler + cuotas?
+- ¿Qué dice el contrato sobre sanciones y rescisión?
+- ¿Quién registra el progreso y cómo?
 
-Before reserving, ask yourself:
+Una compra sobre plano en Argel no es una colocación “líquida”. Trátelo como un compromiso a mediano plazo.
 
-- What happens if delivery slips 12 to 24 months?
-- Can I carry rent + instalments?
-- What does the contract say on penalties and termination?
-- Who records progress and how?
+## Paso 9: integrar una lectura S.A.F.E complementaria
 
-An off-plan purchase in Algiers is not a “liquid” placement. Treat it as a medium-term commitment.
+La certificación **S.A.F.E** (Secure Approved For Estate) de Viva Algérie evalúa proyectos en cuatro pilares: seguridad, análisis de inversiones, confiabilidad de ejecución y soporte al comprador. Niveles: Revisión, Certificado, Prime, Confidencial.
 
-## Step 9 — Integrate a complementary S.A.F.E reading
+**Precaución**: S.A.F.E es una red **propietaria**, no una certificación estatal. No sustituye ni a notario, ni a *agrément*, ni a FGCMPI.
 
-The **S.A.F.E** certification (Secure Approved For Estate) from Viva Algérie evaluates projects on four pillars: security, investment analysis, execution reliability, buyer support. Levels: Review, Certified, Prime, Confidential.
+Más información: [S.A.F.E — certificación inmobiliaria](/es/certificacion-inmobiliaria-safe).
 
-**Caution**: S.A.F.E is a **proprietary** grid, not a State certification. It replaces neither notary, nor *agrément*, nor FGCMPI.
+## Detalles útiles para la diáspora en Argel
 
-Learn more: [S.A.F.E — real-estate certification](/es/certificacion-inmobiliaria-safe).
+Muchos compradores de la diáspora se dirigen a Argel por su familia, su proximidad al aeropuerto o su percepción de liquidez. Trampas específicas:
 
-## Useful specifics for the diaspora in Algiers
+- dependencia de un intermediario no controlado;
+- pago anticipado para “mantener la plaza”;
+- confusión entre la posición anunciada y el título real;
+- subestimación de las tasas y retrasos administrativos tras la entrega (*livret* individual, etc.).
 
-Many diaspora buyers target Algiers for family, airport proximity, or perceived liquidity. Specific traps:
+Buenas prácticas: notario nombrado desde el principio, poderes claros, control de fuentes, rechazo de efectivo opaco. Ver: [Diáspora argelina: comprar en el extranjero](/es/articulos/diaspora-algerienne-acheter-immobilier).
 
-- dependence on an uncontrolled intermediary;
-- early payment to “hold the place”;
-- confusion between announced standing and real title;
-- underestimation of fees and administrative delays after delivery (individual *livret*, etc.).
+## Errores frecuentes en Argel
 
-Good practices: notary named from the start, clear powers, source checks, refusal of opaque cash. See: [Algerian diaspora: buying from abroad](/es/articulos/diaspora-algerienne-acheter-immobilier).
+1. Reservar después de una única visita emotiva.
+2. Comparar únicamente el precio anunciado por m² (a menudo no homogéneo).
+3. Ignorar la calidad del promotor.
+4. Firmar un documento “provisional” no releído.
+5. Descuidar el estacionamiento y los cobros futuros.
+6. Olvidar la fase posterior a las llaves (aceptación, reservas, título).
 
-## Frequent mistakes in Algiers
+Complemento: [Errores a evitar al comprar](/es/articulos/erreurs-acheter-immobilier-algerie), [Vivienda nueva: oportunidad o tensión](/es/articulos/logement-neuf-algerie-opportunite-risque).
 
-1. Reserving after a single emotional visit.
-2. Comparing only the announced price per m² (often not homogeneous).
-3. Ignoring developer quality.
-4. Signing a “provisional” document not re-read.
-5. Neglecting parking and future charges.
-6. Forgetting the post-keys phase (acceptance, reservations, title).
+## Conclusiones clave
 
-Complement: [Mistakes to avoid when buying](/es/articulos/erreurs-acheter-immobilier-algerie), [New housing: opportunity or tension](/es/articulos/logement-neuf-algerie-opportunite-risque).
+**Comprar sobre plano en Argel** puede ser relevante si convierte el entusiasmo en un archivo: promotor verificado, planificación y terreno legibles, contrato que cumple con el *vente sur plans* argelino, garantías documentadas, producto y sitio auditados, escenario de retraso aceptado. La reserva no es el inicio de una reflexión: es la **conclusión** de un análisis.
 
-## Key takeaways
+Para el marco nacional detallado: [Comprar sobre plano en Argelia](/es/comprar-sobre-plano-argelia). Para el mercado: [El sector inmobiliario en Argelia en 2026](/es/articulos/immobilier-algerie-2026).
 
-**Buying off-plan in Algiers** can be relevant if you turn enthusiasm into a file: verified developer, readable planning and land, contract compliant with Algerian *vente sur plans*, documented guarantees, audited product and site, accepted delay scenario. Reservation is not the start of reflection: it is the **conclusion** of an analysis.
 
-For the detailed national framework: [Buying off-plan in Algeria](/es/comprar-sobre-plano-argelia). For the market: [Real estate in Algeria in 2026](/es/articulos/immobilier-algerie-2026).
+## Leer un folleto comercial en Argel sin dejarse llevar
 
+Los folletos de Argel juegan a menudo con tres palancas: la vista (bahía, jardín, horizonte), la situación (materiales anunciados, vestíbulo, conserjería) y la escasez (“últimas unidades”). Para mantener la cabeza fría:
 
-## Reading a commercial brochure in Algiers without being carried away
+- convertir cada promesa en un **requisito documental** (¿dónde está escrito en la descripción contractual?);
+- separar lo **ya construido** de lo **proyectado**;
+- solicitar detalles sobre **piezas comunes** y su futuro mantenimiento;
+- comprobar si el precio anunciado incluye parking, trastero, cocina, aire acondicionado, o si son opciones.
 
-Algiers brochures often play on three levers: the view (bay, garden, skyline), standing (announced materials, hall, concierge) and scarcity (“last units”). To keep a cool head:
+Un buen folleto informa. Se manipula un folleto que sustituye a la ficha técnica. En Argel, donde la competencia visual es fuerte, esta distinción protege tanto su presupuesto como su tranquilidad.
 
-- turn each promise into a **documentary requirement** (where is it written in the contractual description?);
-- separate what is **already built** from what is **projected**;
-- ask for detail on **common parts** and their future maintenance;
-- check whether the announced price includes parking, cellar, kitchen, air conditioning, or whether these are options.
+## Financiación, liquidez y calendario personal
 
-A good brochure informs. A brochure that replaces the technical file manipulates. In Algiers, where visual competition is strong, this distinction protects your budget as much as your peace of mind.
+Incluso sin introducir datos bancarios (que depende de su estado y de la institución), un comprador serio anticipa:
 
-## Financing, liquidity and personal calendar
+- el **calendario de desembolsos** vinculado al progreso;
+- una reserva para **retrasos** (alquiler ampliado, costes accesorios);
+- honorarios notariales e impuestos aplicables a la operación;
+- el impacto de una posible **revisión de precios** si el contrato así lo prevé.
 
-Even without entering bank detail (which depends on your status and the institution), a serious buyer anticipates:
+Comprar sobre plano en Argel no es sólo elegir un apartamento: es sincronizar el flujo de caja personal con el de una obra. Si esa sincronización es frágil, espere un proyecto más avanzado o una propiedad entregada.
 
-- the **disbursement calendar** linked to progress;
-- a reserve for **delay** (extended rent, ancillary costs);
-- notarial fees and taxes applicable to the operation;
-- the impact of a possible **price revision** if the contract provides for it.
+## Cuándo posponer una reserva (señales claras)
 
-Buying off-plan in Algiers is not only choosing an apartment: it is synchronising personal cash-flow with a construction site. If that synchronisation is fragile, wait for a more advanced project or a delivered property.
+Posponer sin culpa si:
 
-## When to postpone a reservation (clear signals)
+- el *agrément* no se produce;
+- el permiso está “en trámite” sin un calendario creíble;
+- se le solicita el pago fuera del notario;
+- el sitio anunciado no existe mientras se exigen sumas importantes;
+- las respuestas sobre áreas y acabados siguen siendo vagas.
 
-Postpone without guilt if:
+Aplazar no es perder una oportunidad: muchas veces es evitar una pérdida. El mercado de Argel ofrecerá otros programas; un archivo defectuoso puede ocuparte durante años. Vea también nuestros concentradores [guías](/es/guias) y [bienes raíces](/es/inmobiliario).
 
-- the *agrément* is not produced;
-- the permit is “in progress” without a credible calendar;
-- you are asked for payment outside the notary;
-- the announced site does not exist while significant sums are demanded;
-- answers on areas and finishes remain vague.
+## Preguntas frecuentes
 
-Postponing is not losing an opportunity: it is often avoiding a loss. The Algiers market will offer other programmes; a bad file can occupy you for years. See also our [guides](/es/guias) and [real estate](/es/inmobiliario) hubs.
+## ¿Cómo analizar un proyecto sobre plano en Argel antes de reservar?
 
-## FAQ
+Primero consultar el promotor (*agrément*, padrón, tabla nacional), luego el expediente de terreno y planificación, el contrato *vente sur plans*, los justificantes de garantía, la descripción técnica y el avance real del sitio. Reserva sólo después de esa lectura.
 
-### How to analyse an off-plan project in Algiers before reserving?
+## ¿Se necesita notario desde la reserva?
 
-First check the developer (*agrément*, register, national table), then the land and planning file, the *vente sur plans* contract, guarantee supporting documents, the technical description and real site progress. Reserve only after that reading.
+Sí, tan pronto como haya un compromiso financiero. El notario asegura el viaje auténtico. Evite depósitos fuera del circuito notarial.
 
-### Is a notary needed from reservation?
+## ¿El barrio es suficiente para validar una compra sobre plano en Argel?
 
-Yes, as soon as there is a financial commitment. The notary secures the authentic journey. Avoid deposits outside the notarial circuit.
+No. Un buen barrio no corrige a un promotor frágil, a un permiso dudoso o a un contrato desequilibrado. Analiza el expediente antes de la parada.
 
-### Is the neighbourhood enough to validate an off-plan purchase in Algiers?
+## ¿Qué comprobar en el calendario de pagos?
 
-No. A good neighbourhood does not correct a fragile developer, a doubtful permit or an unbalanced contract. Analyse the file before the standing.
+Que siga una lógica de progreso conforme al marco argelino (decreto 13-431) y que no pague por una etapa no alcanzada. Haga que se vuelva a leer el contrato.
 
-### What to check on the payment schedule?
+## ¿Puede la diáspora comprar sobre plano en Argel de forma remota?
 
-That it follows a progress logic compliant with the Algerian framework (Decree 13-431) and that you do not pay for a stage not reached. Have the contract re-read.
+Sí, pero con mandatos claros, notario identificado, documentos controlados en origen y negativa a pagos opacos. La asimetría de la información es mayor a distancia.
 
-### Can the diaspora buy off-plan in Algiers remotely?
+## ¿S.A.F.E reemplaza mi análisis personal?
 
-Yes, but with clear mandates, an identified notary, documents checked at source and refusal of opaque payments. Information asymmetry is higher at a distance.
+No. S.A.F.E ayuda a estructurar una preselección. Su decisión debe basarse en la ley, el notario y los documentos oficiales.
 
-### Does S.A.F.E replace my personal analysis?
+## Fuentes
 
-No. S.A.F.E helps structure a pre-selection. Your decision must remain grounded in law, the notary and official documents.
-
-## Sources
-
-- Law No. 11-04 of 17 February 2011 (real-estate development) — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
-- Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- 2025 Ministry of Justice note to notaries (illegal real-estate development) — Algerian press coverage
-- *Conservation foncière* / land documentation — DGDN references
+- Law No. 11-04 of 17 February 2011 (desarrollo inmobiliario) — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
+- Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
+- Nota del Ministerio de Justicia a los notarios de 2025 (promoción inmobiliaria ilegal) — Cobertura de la prensa argelina
+- *Conservación foncière* / documentación territorial — Referencias DGDN
 - [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)

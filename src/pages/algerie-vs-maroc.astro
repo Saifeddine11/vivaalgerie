@@ -1,0 +1,73 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath } from '../lib/paths';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+const canonical = absoluteUrl('/algerie-vs-maroc');
+---
+
+<PageLayout
+  title="Algérie vs Maroc — économie, diplomatie, tourisme et influence"
+  description="Algérie vs Maroc : comparaison structurée de l’économie, de la diplomatie, du tourisme, des ressources, de la souveraineté et de l’influence au Maghreb."
+  locale={locale}
+  canonical={canonical}
+>
+  <article>
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-14 sm:py-20">
+        <Breadcrumbs items={[{ label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) }, { label: 'Algérie vs Maroc', href: canonical }]} />
+        <p class="eyebrow mb-3">Comparaison Maghreb</p>
+        <h1 class="mb-5 text-4xl sm:text-5xl">Algérie vs Maroc : économie, diplomatie, tourisme et influence au Maghreb</h1>
+        <p class="max-w-2xl text-lg text-muted">
+          Comparer l’Algérie et le Maroc exige de dépasser les classements faciles : les deux pays ont des modèles, des forces et des vulnérabilités différents.
+        </p>
+      </div>
+    </header>
+
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial">
+        <p>
+          L’Algérie dispose d’atouts structurels puissants : ressources énergétiques, profondeur territoriale, histoire révolutionnaire, armée influente, position africaine et méditerranéenne, capital humain et culture politique de souveraineté. Le Maroc a de son côté développé une diplomatie économique active, une image touristique internationale forte, des chaînes industrielles exportatrices et une capacité de projection commerciale en Afrique.
+        </p>
+        <h2>Économie : ressources contre intégration exportatrice</h2>
+        <p>
+          L’économie algérienne reste fortement liée aux hydrocarbures, mais cette réalité donne aussi à Alger un levier stratégique que peu de pays africains possèdent. Le gaz naturel, les infrastructures énergétiques et les recettes d’exportation permettent de financer l’État, de préserver une marge de souveraineté et de peser dans la sécurité énergétique européenne. Le défi est connu : diversifier davantage, améliorer la productivité et créer plus d’emplois qualifiés hors hydrocarbures.
+        </p>
+        <p>
+          Le Maroc a moins de ressources énergétiques, mais a misé sur l’automobile, les phosphates, les services, les zones industrielles, les ports et le tourisme. Cette orientation renforce son intégration aux chaînes de valeur, mais l’expose à d’autres dépendances : demande européenne, investissement étranger, vulnérabilité hydrique et besoin d’importer l’énergie.
+        </p>
+        <h2>Diplomatie et souveraineté</h2>
+        <p>
+          La force algérienne réside dans une doctrine de souveraineté lisible : non-alignement relatif, attachement à l’autodétermination, soutien historique aux causes anticoloniales et volonté de ne pas externaliser ses choix stratégiques. Cette posture plaît particulièrement à une opinion publique algérienne attachée à l’indépendance nationale.
+        </p>
+        <p>
+          Le Maroc a construit un réseau d’alliances diplomatiques très actif autour de la reconnaissance de son plan d’autonomie pour le Sahara occidental et de ses partenariats économiques. La rivalité entre les deux pays se joue donc aussi dans les capitales étrangères, les organisations africaines et les rapports avec les puissances occidentales.
+        </p>
+        <h2>Tourisme et image</h2>
+        <p>
+          Le Maroc possède une avance claire dans le tourisme international : infrastructures, promotion, hôtellerie et lisibilité de l’offre. L’Algérie, elle, détient un potentiel spectaculaire et encore sous-exploité : littoral, Sahara, villes historiques, montagnes, patrimoine romain, identité musicale et hospitalité. Pour les lecteurs algériens, l’enjeu n’est pas de nier l’avance marocaine, mais de voir que l’Algérie peut construire un modèle plus sélectif, plus patrimonial et moins dépendant du tourisme de masse.
+        </p>
+        <h2>Influence régionale</h2>
+        <p>
+          Le match Algérie–Maroc n’a pas de vainqueur unique. L’Algérie pèse par l’énergie, la sécurité, la profondeur stratégique et la mémoire révolutionnaire. Le Maroc pèse par les réseaux économiques, le tourisme et une diplomatie d’accords. La vraie question pour le Maghreb est moins de savoir qui “gagne” que de mesurer le coût d’une rivalité prolongée : frontière fermée, commerce régional faible, défiance militaire et opportunités perdues pour les jeunesses des deux pays.
+        </p>
+        <h2>À lire aussi</h2>
+        <ul>
+          <li><a href="/algerie-maroc">Algérie–Maroc : comprendre les origines d’une rivalité historique</a></li>
+          <li><a href="/frontiere-algerie-maroc">Frontière Algérie–Maroc fermée : pourquoi le blocage dure depuis 1994</a></li>
+          <li><a href="/articles/algerie-maroc-potentiel-touristique">Algérie ou Maroc : qui a le plus grand potentiel touristique ?</a></li>
+          <li><a href="/articles/algerie-energie-souverainete-gaz">Algérie, énergie et souveraineté : pourquoi le gaz reste un levier stratégique</a></li>
+        </ul>
+        <h2>Sources</h2>
+        <ul>
+          <li>Banque mondiale — données pays Algérie et Maroc : <a href="https://data.worldbank.org">data.worldbank.org</a></li>
+          <li>World Bank Algeria Economic Update 2025 : <a href="https://www.worldbank.org/en/country/algeria">worldbank.org</a></li>
+          <li>U.S. Energy Information Administration — Algeria energy profile : <a href="https://www.eia.gov/international/overview/country/dza">eia.gov</a></li>
+          <li>Ministère algérien du Tourisme — bilan sectoriel 2024 : <a href="https://www.mta.gov.dz">mta.gov.dz</a></li>
+        </ul>
+      </div>
+    </div>
+  </article>
+</PageLayout>

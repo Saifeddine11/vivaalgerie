@@ -1,176 +1,173 @@
 ---
-title: "Off-plan kopen in Algerije: risico’s, garanties en controles | Viva Algérie"
-h1: "Off-plan kopen in Algerije: essentiële risico’s, garanties en controles"
-description: "Redactionele gids voor off-plan aankoop in Algerije: wet 11-04, ontwikkelaar, FGCMPI en checklist."
+title: "Off-plan kopen in Algerije: risico's, garanties en controles | Viva Algérie"
+h1: "Off-plan kopen in Algerije: essentiële risico's, garanties en controles"
+description: "Off-plan kopen in Algerije: wet 11-04-framework, decreet 13-431, FGCMPI, ontwikkelaar agrément, risico's en checklist voordat u reserveert."
 slug: "acheter-sur-plan-algerie"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/off-plan-kopen-algerije"
 translationKey: "acheter-sur-plan-algerie"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
+Een huis kopen vóór oplevering trekt veel kopers in Algerije: prijzen die vaak toegankelijker zijn dan tweedehands, vloerkeuze en oriëntatie, en het vooruitzicht op een nieuw pand. Toch is **off-plan kopen in Algerije** geen triviale stap. Het wettelijke kader bestaat, evenals garanties, maar het risico blijft reëel als je een commerciële belofte verwart met een echt beveiligd dossier.
 
+Op deze pagina worden het ***vente sur plans*** (off-plan verkoop) raamwerk van Algerije uitgelegd, de belangrijkste risico's, de te eisen garanties en de verificatiemethode vóór elke reservering. Het richt zich zowel tot inwoners als tot de diaspora.
 
-Buying a home before delivery attracts many purchasers in Algeria: prices often more accessible than second-hand, choice of floor and orientation, and the prospect of a new property. Yet **buying off-plan in Algeria** is not a trivial step. The legal framework exists, so do guarantees, but the risk remains real if you confuse a commercial promise with a genuinely secured file.
+> **Disclaimer.** Deze pagina is een redactionele en educatieve analyse. Het betreft geen juridisch, fiscaal, financieel of notarieel advies. Raadpleeg vóór elke aankoop een notaris en, indien nodig, een gekwalificeerde professional.
 
-This page explains Algeria’s ***vente sur plans*** (off-plan sale) framework, the main risks, the guarantees to require and the verification method before any reservation. It addresses residents and the diaspora alike.
+## Verkoop op plan in Algerije: niet verwarren met andere raamwerken
 
-> **Disclaimer.** Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies. Before any purchase, consult a notary and, if needed, a qualified professional.
+In het dagelijks taalgebruik spreken sommige kopers van “VEFA” in de betekenis van een aankoop vóór voltooiing. In Algerije is het relevante mechanisme ***vente sur plans***, ingekaderd door **wet nr. 11-04 van 17 februari 2011**, waarin de regels voor vastgoedontwikkelingsactiviteiten zijn vastgelegd, en met name verduidelijkt door **uitvoerend decreet nr. 13-431 van 18 december 2013** (standaardmodellen voor reserverings- en off-plan verkoopcontracten, betalingsschema, boetes voor te late levering).
 
-## Off-plan sale in Algeria: do not confuse with other frameworks
+Met andere woorden: de Franse term “VEFA” kan in gesprekken circuleren, maar **het toepasselijke kader is Algerijns**. Rechten, plichten, contractmodellen en garanties zijn niet af te leiden uit een ander land. Elke serieuze analyse begint bij wet 11-04, uitvoeringsteksten, de notaris en Algerijnse instellingen (*agrément*, nationale tabel, FGCMPI, *conservation foncière*).
 
-In everyday language, some buyers speak of “VEFA” to mean a purchase before completion. In Algeria, the relevant mechanism is ***vente sur plans***, framed by **Law No. 11-04 of 17 February 2011** setting the rules governing real-estate development activity, and clarified notably by **Executive Decree No. 13-431 of 18 December 2013** (standard models for reservation and off-plan sale contracts, payment schedule, late-delivery penalties).
+Voor een bredere lezing van het juridisch kader, zie ook ons ​​artikel [Juridisch kader voor onroerend goed in Algerije](/nl/artikelen/cadre-juridique-immobilier-algerie) en de gids [Documenten die u moet controleren vóór een aankoop](/nl/documenten-vastgoedkoop-algerije).
 
-In other words: the French term “VEFA” may circulate in conversation, but **the applicable framework is Algerian**. Rights, obligations, contract models and guarantees cannot be deduced from another country. Any serious analysis starts from Law 11-04, implementing texts, the notary and Algerian institutions (*agrément*, national table, FGCMPI, *conservation foncière*).
+## Wat wet 11-04 toestaat (en vereist)
 
-For a broader reading of the legal framework, also see our article [Real-estate legal framework in Algeria](/nl/artikelen/cadre-juridique-immobilier-algerie) and the guide [Documents to check before a purchase](/nl/documenten-vastgoedkoop-algerije).
+wet 11-04 organiseert de activiteit van **vastgoedontwikkelaar** (*promoteur immobilier*) en kadert de marketing van eigendommen in. Een van de essentiële punten voor de koper:
 
-## What Law 11-04 allows (and requires)
+- **Gereglementeerd beroep**: niemand mag de status van ontwikkelaar of praktijk claimen zonder aan de wettelijke voorwaarden te voldoen (*agrément*, registratie, inschrijving op de nationale tabel van ontwikkelaars, volgens toepasselijke teksten).
+- ***Vente sur plans***: het contract houdt een geleidelijke overdracht van rechten in naarmate de bouw vordert, in ruil voor een betaling die gekoppeld is aan de voortgang van de werken (artikel 28 en volgende, volgens de tekst).
+- **Authentieke vorm**: het off-plan verkoopcontract wordt opgesteld in authentieke vorm en onderworpen aan registratie- en publiciteitsformaliteiten.
+- **Garantiefonds**: het **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — wederzijds garantiefonds voor vastgoedontwikkeling) is een institutionele pijler van abonneebescherming binnen het door de wet voorziene stelsel.
 
-Law 11-04 organises the activity of **real-estate developer** (*promoteur immobilier*) and frames the marketing of properties. Among the essential points for the buyer:
+Deze principes vervangen het lezen van het projectdossier niet. Zij legden de **basis**: zonder een regelmatig erkende ontwikkelaar, zonder een conform contract en zonder garanties verbonden aan het project, loopt de koper een structureel risico.
 
-- **Regulated profession**: no one may claim the status of developer or practise without meeting the legal conditions (*agrément*, registration, inscription on the national table of developers, according to applicable texts).
-- ***Vente sur plans***: the contract entails progressive transfer of rights as construction progresses, in return for payment linked to works progress (Article 28 et seq., according to the text).
-- **Authentic form**: the off-plan sale contract is drawn up in authentic form and subject to registration and publicity formalities.
-- **Guarantee fund**: the **FGCMPI** (Fonds de garantie et de caution mutuelle de la promotion immobilière — mutual guarantee fund for real-estate development) is an institutional pillar of subscriber protection within the scheme provided by law.
+Om de gesprekspartner in de praktijk te controleren, zie [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-These principles do not replace reading the project file. They set the **foundation**: without a regularly authorised developer, without a compliant contract and without guarantees attached to the project, the buyer faces structural risk.
+## decreet 13-431: schema, modellen en betalingsdiscipline
 
-To check the interlocutor in practice, see [How to check a real-estate developer in Algeria](/nl/vastgoedontwikkelaar-controleren-algerije).
+uitvoerend decreet 13-431 verduidelijkt met name:
 
-## Decree 13-431: schedule, models and payment discipline
+- de **standaardmodellen** voor reserveringscontracten en off-plan verkoopcontracten;
+- **betalingslimieten** afhankelijk van de voortgang van de werken;
+- het kader voor **boetes bij te late levering** en de daarmee samenhangende modaliteiten.
 
-Executive Decree 13-431 clarifies notably:
+Krachtens dit besluit wordt de betaling van de prijs in een verkoopcontract op plan gemoduleerd binnen de grenzen van het type:
 
-- the **standard models** for reservation contracts and off-plan sale contracts;
-- **payment limits** according to works progress;
-- the framework for **late-delivery penalties** and related modalities.
+- **20%** bij ondertekening;
+- **15%** bij voltooiing van de fundering;
+- **35%** bij voltooiing van de ruwbouwwerken (inclusief waterdichting, buiten- en binnenwanden);
+- **25%** bij voltooiing van alle werkzaamheden (inclusief nutsnetwerken en externe werkzaamheden);
+- **5%** op het moment van het rapport van bezitsovername (*procès-verbal de price de own*).
 
-Under this decree, payment of the price in an off-plan sale contract is modulated within limits of the type:
+Deze regeling is geen “marketingoptie”. Het is een **disciplinemechanisme**: de koper mag geen bedragen voorschieten buiten een voortgangslogica om, en de ontwikkelaar mag geen ondoorzichtige kalender eisen. Elk voorstel van volledige vervroegde betaling, overdrachten buiten het contract of niet-traceerbare ‘contante reservering’ zou een waarschuwing moeten veroorzaken.
 
-- **20%** at signature;
-- **15%** at completion of foundations;
-- **35%** at completion of structural works (including waterproofing, exterior and interior partitions);
-- **25%** at completion of all trades (including utilities networks and external works);
-- **5%** at the time of the taking-possession report (*procès-verbal de prise de possession*).
+wet 11-04 bepaalt ook dat het contract vermeldt of de prijs al dan niet **herzienbaar** is en, indien van toepassing, de herzieningsmodaliteiten. Misbruik van niet-ingekaderde herzieningen is een klassiek risico: er is schriftelijke transparantie nodig.
 
-This scheme is not a “marketing option”. It is a **discipline mechanism**: the buyer must not advance sums outside a progress logic, and the developer must not demand an opaque calendar. Any proposal of full early payment, off-contract transfers, or untraceable “cash reservation” should raise an alert.
+## De FGCMPI: wat is het voor de koper?
 
-Law 11-04 also provides that the contract states whether the price is **revisable** or not and, where applicable, the revision modalities. Abusive practices of unframed revision are a classic risk: require written transparency.
+De **FGCMPI** komt tussen in het garantiestelsel gekoppeld aan de vastgoedontwikkeling. Voor de koper is de praktische inzet tweeledig:
 
-## The FGCMPI: what is it for the buyer?
+1. **Bevestig** dat het project/de ontwikkelaar daadwerkelijk binnen het voorgeschreven schema valt (attest of projectspecifieke ondersteunende documenten, volgens de geldende procedures).
+2. **Begrijp** dat de garantie niet alle risico's uitsluit (vertragingen, defecten, conformiteitsgeschillen, onregelmatige marketing).
 
-The **FGCMPI** intervenes in the guarantee scheme linked to real-estate development. For the buyer, the practical stake is twofold:
+Beschouw het FGCMPI-logo nooit als een “totale verzekering”. Vraag de **projectdocumenten** op, controleer de samenhang met het notariële contract en laat het dossier opnieuw lezen.
 
-1. **Confirm** that the project / developer genuinely sits within the prescribed scheme (attestation or project-specific supporting documents, according to procedures in force).
-2. **Understand** that the guarantee does not erase all risks (delays, defects, conformity disputes, irregular marketing).
+Referentiesite: [fgcmpi.org.dz](https://fgcmpi.org.dz).
 
-Never treat the FGCMPI logo as “total insurance”. Ask for the **project documents**, check their coherence with the notarial contract, and have the file re-read.
+## Grote risico's van een off-plan aankoop
 
-Reference site: [fgcmpi.org.dz](https://fgcmpi.org.dz).
+## 1. Niet-goedgekeurde ontwikkelaar of illegale marketing
 
-## Major risks of an off-plan purchase
+Sinds 2025 heeft het ministerie van Justitie notarissen eraan herinnerd waakzaam te blijven ten aanzien van **illegale vastgoedontwikkeling**-operaties: constructies die worden gepresenteerd als ‘familiegebouwen’ en vervolgens op de markt worden gebracht als appartementen, zonder *agrément* of reguliere registratie. De koper die buiten het notariële circuit en buiten het wettelijke kader deposito's betaalt, heeft mogelijk geen echte bescherming.
 
-### 1. Unapproved developer or illegal marketing
+Zie ook: [Risico's van een aankoop van onroerend goed in Algerije](/nl/vastgoedrisicos-algerije).
 
-Since 2025, the Ministry of Justice has reminded notaries to remain vigilant toward **illegal real-estate development** operations: constructions presented as “family” buildings then marketed as apartments, without *agrément* or regular registration. The buyer who pays deposits outside the notarial circuit and outside the legal framework may end up with no real protection.
+## 2. Vertragingen bij levering
 
-See also: [Risks of a property purchase in Algeria](/nl/vastgoedrisicos-algerije).
+Vertraging is het meest voorkomende risico. Het besluit voorziet in een strafkader, maar de werkelijkheid hangt af van het contract, de financiële soliditeit van de ontwikkelaar, de reële voortgang en de mogelijkheid om fasen formeel vast te leggen. Zonder opvolging (gedateerde foto's, voortgangsrapportages, begeleide locatiebezoeken) betaalt de koper blind.
 
-### 2. Delivery delays
+## 3. Kloof tussen marketing en het geleverde product
 
-Delay is the most frequent risk. The decree provides a penalty framework, but reality depends on the contract, the developer’s financial solidity, real progress and the ability to have stages formally recorded. Without follow-up (dated photos, progress reports, supervised site visits), the buyer pays blind.
+Marketingplannen, ‘3D-perspectieven’, dubbelzinnige gebieden, ongespecificeerde afwerkingen, onderschatte gemeenschappelijke delen: het zijn allemaal bronnen van conflicten bij de sleuteloverdracht. Vereist een duidelijke **technische beschrijving**, maatplannen en een nauwkeurige definitie van afwerkingen.
 
-### 3. Gap between marketing and the delivered product
+## 4. Titel, land en planning
 
-Marketing plans, “3D perspectives”, ambiguous areas, unspecified finishes, underestimated common parts: all are sources of conflict at key handover. Require a clear **technical description**, dimensioned plans, and a precise definition of finishes.
+Een project kan op de markt worden gebracht terwijl de landrechten, de bouwvergunning of de planningsconformiteit van de ontwikkelaar kwetsbaar zijn. Zonder land- en administratieve controles heeft het risico invloed op de **juridische haalbaarheid** van het programma.
 
-### 4. Title, land and planning
+## 5. Betalingen buiten het raamwerk
 
-A project may be marketed while the developer’s land rights, building permit or planning conformity are fragile. Without land and administrative checks, the risk bears on the programme’s **legal feasibility**.
+Belevingscheques, onterecht contant geld, WhatsApp-stortingen, een ‘gereserveerde plaats’ zonder contract: deze praktijken vergroten het risico op regelrecht verlies. In Algerije loopt de beveiliging via de **notaris**, de voorgeschreven modellen en traceerbaarheid.
 
-### 5. Off-framework payments
+## Controlelijst voordat u reserveert
 
-Courtesy cheques, unjustified cash, WhatsApp deposits, a “reserved place” without a contract: these practices multiply the risk of outright loss. In Algeria, security passes through the **notary**, the prescribed models and traceability.
+Vóór elke serieuze reservering:
 
-## Checklist before reserving
+1. **Ontwikkelaarsidentiteit**: *agrément* (wilaya), handelsregister, inschrijving op de nationale tabel van ontwikkelaars.
+2. **Landrechten** en samenhang van titel/landrechten.
+3. **Bouwvergunning** (en relevante planningsdocumenten).
+4. **FGCMPI attest / ondersteunende documenten** gekoppeld aan het project, volgens het toepasselijke schema.
+5. **Standaardcontract** (reserveren dan *vente sur plans*) en notariële lezing.
+6. **Betalingsschema** afgestemd op de voortgang (decreet 13-431).
+7. **Technische beschrijving**, plannen, ruimtes, afwerkingen, gemeenschappelijke delen.
+8. **Leveringstermijn**, boetes, acceptatiemodaliteiten.
+9. **Prijsherziening**: ja/nee, formule, cap.
+10. **Referentiebezoek**: locatie, eerdere leveringen, gedocumenteerde reputatie.
 
-Before any serious reservation:
+Specifiek voor Algiers: [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers). Voor de opleveringsfase: [Levering van nieuwe woningen in Algerije](/nl/oplevering-nieuwe-woning-algerije).
 
-1. **Developer identity**: *agrément* (wilaya), commercial register, inscription on the national table of developers.
-2. **Land rights** and coherence of title / land rights.
-3. **Building permit** (and relevant planning documents).
-4. **FGCMPI attestation / supporting documents** linked to the project, according to the applicable scheme.
-5. **Standard-form contract** (reservation then *vente sur plans*) and notarial reading.
-6. **Payment schedule** aligned with progress (Decree 13-431).
-7. **Technical description**, plans, areas, finishes, common parts.
-8. **Delivery deadline**, penalties, acceptance modalities.
-9. **Price revision**: yes/no, formula, cap.
-10. **Reference visit**: site, prior deliveries, documented reputation.
+Een nuttige aanvullende lectuur: [Off-plan kopen: punten die u moet controleren voordat u reserveert](/nl/artikelen/acheter-sur-plan-algerie-verifications).
 
-For Algiers specifically: [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers). For the delivery phase: [New housing delivery in Algeria](/nl/oplevering-nieuwe-woning-algerije).
+## De rol van de notaris (en waarom deze niet “optioneel” is)
 
-A useful complementary reading: [Buying off-plan: points to check before reserving](/nl/artikelen/acheter-sur-plan-algerie-verifications).
+In *vente sur plans* is de notaris niet zomaar een stempel. Ze formaliseren het authentieke contract, begeleiden de formaliteiten en helpen de reis veilig te stellen. Sinds het Justitiealarm van 2025 is de notariële waakzaamheid over *agrément* en de werkelijke aard van de operatie versterkt.
 
-## The notary’s role (and why it is not “optional”)
+De koper moet **met een dossier** bij de notaris aankomen, niet alleen met een brochure. Vragen en documenten voorbereiden; weigeren te tekenen onder druk van ‘vandaag of nooit’.
 
-In *vente sur plans*, the notary is not a mere stamp. They formalise the authentic contract, guide formalities, and help secure the journey. Since the Justice alert of 2025, notarial vigilance on *agrément* and the real nature of the operation has been reinforced.
+## Hoe S.A.F.E de wet aanvult (zonder te vervangen).
 
-The buyer must arrive at the notary **with a file**, not only with a brochure. Prepare questions and documents; refuse to sign under “today or never” pressure.
+Het **S.A.F.E**-raster (Secure Approved For Estate) van Viva Algérie analyseert projecten op basis van vertrouwenscriteria (veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning). Het is **eigendom**: het is geen overheidscertificering en vervangt noch de notaris, noch *conservation foncière*, noch de FGCMPI.
 
-## How S.A.F.E complements (without replacing) the law
+Ontdek het schema: [S.A.F.E vastgoedcertificering](/nl/safe-vastgoedcertificering).
 
-The **S.A.F.E** grid (Secure Approved For Estate) from Viva Algérie analyses projects against trust criteria (security, investment analysis, execution reliability, buyer support). It is **proprietary**: it is not a government certification, and it replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
+## Praktische methode voor de diaspora
 
-Discover the scheme: [S.A.F.E real-estate certification](/nl/safe-vastgoedcertificering).
+Kopen in het buitenland vergroot het risico op informatie-asymmetrie. Goede praktijken:
 
-## Practical method for the diaspora
+- volmacht geven aan een notaris en, indien nodig, aan een vertrouwenspersoon met duidelijke bevoegdheden;
+- gewaarmerkte kopieën en broncontroles vereisen (wilaya, *conservation foncière*, FGCMPI);
+- betalingen buiten het circuit weigeren;
+- documenteer elke stap (contracten, ontvangstbewijzen, uitwisselingen).
 
-Buying from abroad increases information-asymmetry risk. Good practices:
+Zie: [Algerijnse diaspora: kopen uit het buitenland](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-- mandate a notary and, if needed, a trusted representative with clear powers;
-- require certified copies and source checks (wilaya, *conservation foncière*, FGCMPI);
-- refuse off-circuit payments;
-- document every step (contracts, receipts, exchanges).
+## Belangrijkste afhaalrestaurants
 
-See: [Algerian diaspora: buying from abroad](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+**Off-plan kopen in Algerije** kan rationeel zijn, op voorwaarde dat u de operatie beschouwt als een juridisch en technisch dossier, en niet als een kans om onder emoties te ‘grijpen’. Het raamwerk bestaat (wet 11-04, decreet 13-431, FGCMPI, notaris). De risico's bestaan ​​ook (illegaliteit, vertraging, non-conformiteit, betalingen buiten het raamwerk). Bescherming begint met **verificatie**, niet met verbaal vertrouwen.
 
-## Key takeaways
+Om verder te gaan op de markt en veel voorkomende fouten: [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026), [Fouten die u moet vermijden bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers). Blader ook door onze secties [gidsen](/nl/gidsen) en [vastgoed](/nl/vastgoed).
 
-**Buying off-plan in Algeria** can be rational, provided you treat the operation as a legal and technical file, not as an opportunity to “seize” under emotion. The framework exists (Law 11-04, Decree 13-431, FGCMPI, notary). The risks exist too (illegality, delay, non-conformity, off-framework payments). Protection begins with **verification**, not with verbal trust.
+## Veelgestelde vragen
 
-To go further on the market and frequent mistakes: [Real estate in Algeria in 2026](/nl/artikelen/immobilier-algerie-2026), [Mistakes to avoid when buying](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Property prices in Algiers](/nl/vastgoedprijzen-algiers). Browse also our [guides](/nl/gidsen) and [real estate](/nl/vastgoed) sections.
+## Wat is *vente sur plans* in Algerije?
 
-## FAQ
+Het is het mechanisme dat wordt omkaderd door wet 11-04 (en verduidelijkt door decreet 13-431) waardoor de verwerving van een onroerend goed in aanbouw of in aanbouw mogelijk wordt gemaakt, met progressieve overdracht van rechten en betaling gekoppeld aan de vooruitgang, via een authentiek contract.
 
-### What is *vente sur plans* in Algeria?
+## Kan men spreken van VEFA in Algerije?
 
-It is the mechanism framed by Law 11-04 (and clarified by Decree 13-431) allowing acquisition of a property to be built or under construction, with progressive transfer of rights and payment linked to progress, via an authentic contract.
+De term “VEFA” circuleert soms in het dagelijks taalgebruik, maar het toepasselijke raamwerk in Algerije is ***vente sur plans*** onder wet 11-04. Zet de regels van een ander land niet automatisch over naar het Algerijnse bestand.
 
-### Can one speak of VEFA in Algeria?
+## Waar is de FGCMPI voor?
 
-The term “VEFA” sometimes circulates in everyday language, but the applicable framework in Algeria is ***vente sur plans*** under Law 11-04. Do not automatically transfer another country’s rules onto the Algerian file.
+De FGCMPI is het onderlinge garantiefonds voor vastgoedontwikkeling. Het valt binnen het systeem voor abonneebescherming dat door het wettelijke kader wordt geboden. Vraag om projectspecifieke ondersteunende documenten en laat deze herlezen.
 
-### What is the FGCMPI for?
+## Welk betalingsschema wordt verstrekt?
 
-The FGCMPI is the mutual guarantee fund for real-estate development. It sits within the subscriber-protection scheme provided by the legal framework. Ask for project-specific supporting documents and have them re-read.
+decreet 13-431 moduleert de betaling afhankelijk van de voortgang (met name 20%, 15%, 35%, 25% en vervolgens 5% bij inbezitneming). Controleer of uw contract deze limieten respecteert en weiger overdrachten buiten deze logica.
 
-### What payment schedule is provided?
+## Wat moet ik doen als de ontwikkelaar geen *agrément* heeft?
 
-Decree 13-431 modulates payment according to progress (notably 20%, 15%, 35%, 25%, then 5% at taking possession). Check that your contract respects these limits and refuse transfers outside that logic.
+Reserveer niet en betaal geen aanbetaling. Oefenen zonder *agrément* is in strijd met het raamwerk voor vastgoedontwikkeling. Raadpleeg een notaris en raadpleeg onze gids op [het controleren van de ontwikkelaar](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-### What if the developer has no *agrément*?
+## Vervangt de S.A.F.E-certificering de wettelijke controles?
 
-Do not reserve and do not pay a deposit. Practising without *agrément* is contrary to the real-estate development framework. Consult a notary and refer to our guide on [checking the developer](/nl/vastgoedontwikkelaar-controleren-algerije).
+Nee. S.A.F.E is een eigen analyseraster. Het vervangt noch de notaris, noch *agrément*, noch de FGCMPI, noch land- en technische controles.
 
-### Does S.A.F.E certification replace legal controls?
+## Bronnen
 
-No. S.A.F.E is a proprietary analysis grid. It replaces neither the notary, nor *agrément*, nor the FGCMPI, nor land and technical checks.
-
-## Sources
-
-- Law No. 11-04 of 17 February 2011 — [FGCMPI / text](https://fgcmpi.org.dz/Loi_N_11_04)
-- Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- Presentations and commentary on lkeria.com (Law 11-04, Decree 13-431)
-- 2025 alerts on illegal real-estate development (Algerian media relaying the Ministry of Justice note to notaries)
+-wet nr. 11-04 van 17 februari 2011 — [FGCMPI / tekst](https://fgcmpi.org.dz/Loi_N_11_04)
+-uitvoerend decreet nr. 13-431 van 18 december 2013 — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
+- Presentaties en commentaar op lkeria.com (wet 11-04, decreet 13-431)
+- Waarschuwingen uit 2025 over illegale vastgoedontwikkeling (Algerijnse media geven de nota van het ministerie van Justitie door aan notarissen)
 - [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)

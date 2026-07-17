@@ -1,279 +1,276 @@
 ---
-title: "Oplevering van een nieuwe woning in Algerije: checklist | Viva Algérie"
-h1: "Oplevering van een nieuwe woning in Algerije: checklist vóór sleuteloverdracht"
-description: "Checklist voor oplevering: voorbehouden, vertragingen en documenten."
+title: "Oplevering van nieuwe woningen in Algerije: checklist voor sleutels | Viva Algérie"
+h1: "Oplevering nieuwbouwwoningen in Algerije: checklist vóór sleuteloverdracht"
+description: "Oplevering van nieuwe woningen in Algerije: checklist vóór sleuteloverdracht, rapport van inbezitneming, reserveringen, conformiteit, balans en eigendom."
 slug: "livraison-logement-neuf-algerie"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/oplevering-nieuwe-woning-algerije"
 translationKey: "livraison-logement-neuf-algerie"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
+De dag van de **sleuteloverdracht** wordt vaak als afsluiting beleefd. In werkelijkheid is het een beslissende juridische en technische fase. In Algerije moet de oplevering van een woning uit een nieuwbouwproject of een *vente sur plans* (verkoop op plan) nauwkeurig worden vastgelegd: conformiteit met de toezeggingen, schriftelijke reserveringen, prijsevenwicht en het begin van de eigendomsoverdracht.
 
+Deze checklist helpt je de acceptatie voor te bereiden zonder improvisatie.
 
-The day of **key handover** is often lived as an ending. In reality, it is a decisive legal and technical phase. In Algeria, for a home from a development or a *vente sur plans* (off-plan sale), delivery must be recorded with rigour: conformity with commitments, written reservations, price balance, and start of the title journey.
+> **Disclaimer.** Deze pagina is een redactionele en educatieve analyse. Het betreft geen juridisch, fiscaal, financieel of notarieel advies. Laat de levering begeleiden door uw notaris en indien nodig door een technische professional.
 
-This checklist helps you prepare acceptance without improvisation.
+## Wat ‘levering’ werkelijk betekent
 
-> **Disclaimer.** Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies. Have delivery accompanied by your notary and, if needed, a technical professional.
+Bezorgen is niet alleen het inleveren van een sleutelhanger. Hierbij wordt vastgelegd dat de woning volgens het contract wordt opgeleverd, dat u de woning in bezit neemt en dat de vervolgafspraken (saldo, reserveringen, eventuele garanties, eigendom) worden uitgevoerd.
 
-## What “delivery” really means
+Binnen het ***vente sur plans***-kader (wet nr. **11-04**) wordt het authentieke contract aangevuld met een tegenstrijdig ***procès-verbal*** (rapport) bij het notariaat, waarin de inbezitneming en oplevering van het voltooide gebouw wordt vastgelegd in overeenstemming met de verplichtingen. Decreet **13-431** koppelt met name het **saldo** (ongeveer 5% in het regelgevingsstelsel) aan dit moment van inbezitneming.
 
-To deliver is not only to hand over a keyring. It is to record that the home is completed according to the contract, that you take possession, and that the follow-ups (balance, reservations, any warranties, title) are engaged.
+Met andere woorden: beschouw de levering niet als een marketingformaliteit.
 
-Within the ***vente sur plans*** framework (Law No. **11-04**), the authentic contract is completed by a contradictory ***procès-verbal*** (report), at the notarial office, recording taking possession and delivery of the completed building in accordance with commitments. Decree **13-431** notably links the **balance** (around 5% in the regulatory scheme) to this moment of taking possession.
+Nuttige herinneringen: [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije), [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije).
 
-In other words: do not treat delivery as a marketing formality.
+## Vóór D-day: bereid het bestand voor
 
-Useful reminders: [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije), [Purchase documents](/nl/documenten-vastgoedkoop-algerije).
+## 1. Lees het contract en de beschrijving opnieuw
 
-## Before D-day: prepare the file
+- gebied en typologie;
+- afwerkingen (vloeren, schrijnwerk, sanitair, keuken indien aanwezig);
+- bijgebouwen (parkeerplaats, kelder, terras);
+- contractuele termijn en boetes;
+- acceptatie- en reserveringsmodaliteiten.
 
-### 1. Re-read the contract and the description
+## 2. Verzamel projectdocumenten
 
-- area and typology;
-- finishes (flooring, joinery, sanitary ware, kitchen if provided);
-- annexes (parking, cellar, terrace);
-- contractual deadline and penalties;
-- acceptance and reservation modalities.
+- vergunnings-/conformiteitsdocumenten volgens fase;
+- EDD/lotidentificatie;
+- eventuele ruiters;
+- betalingsgeschiedenis en voortgangsbewijzen.
 
-### 2. Gather project documents
+## 3. Plan een pre-acceptatiebezoek
 
-- permit / conformity documents according to the stage;
-- EDD / lot identification;
-- any riders;
-- payment history and progress proofs.
+Bezoek indien mogelijk voordat u het rapport ondertekent. Let op gebreken bij daglicht, proefwater, elektriciteit, afsluitingen, ventilatie, schijnbare waterdichtheid, afwerking gemeenschappelijke delen.
 
-### 3. Plan a pre-acceptance visit
+## 4. Verduidelijk de rol van de notaris
 
-If possible, visit before signing the report. Note defects in daylight, test water, electricity, closures, ventilation, apparent waterproofing, finishing of common parts.
+Samen met het kantoor wordt het beslagleggingsrapport opgesteld. Kom aan met uw lijst met reserveringen, niet alleen met emotie.
 
-### 4. Clarify the notary’s role
+## Checklist op de dag van de sleuteloverdracht
 
-The taking-possession report is prepared with the office. Arrive with your list of reservations, not with emotion alone.
+## A. Identificatie van eigendommen
 
-## Checklist on key-handover day
+- [ ] Gebouw, verdieping, perceelnummer conform contract / EDD
+- [ ] Bijgebouwen (parkeerplaats, kelder) geïdentificeerd en toegankelijk
+- [ ] Gebieden en indeling in overeenstemming met de plannen
 
-### A. Property identification
+## B. Voltooiing en schijnbare bewoonbaarheid
 
-- [ ] Building, floor, lot number compliant with contract / EDD
-- [ ] Annexes (parking, cellar) identified and accessible
-- [ ] Areas and layout coherent with plans
+- [ ] Werken voltooid in de woning (geen kritische open locatie)
+- [ ] Gemeenschappelijke delen bruikbaar (toegang, verlichting, lift indien aanwezig)
+- [ ] Aangekondigde aansluitingen (water, elektriciteit, enz.) operationeel of duidelijk gepland
 
-### B. Completion and apparent habitability
+## C. Kwaliteit en zichtbare gebreken
 
-- [ ] Works finished in the home (no critical open site)
-- [ ] Common parts usable (access, lighting, lift if provided)
-- [ ] Announced connections (water, electricity, etc.) operational or clearly planned
+- [ ] Scheuren, binnendringend water, vocht
+- [ ] Schrijnwerk, afdichtingen, balkon-/begaanbaar dak waterdicht maken
+- [ ] Vloeren, loodgieterswerk, elektriciteit, stopcontacten, planken
+- [ ] Ventilatie, afvoer, abnormaal geluid van apparatuur
+- [ ] “Gehaaste” afwerkingen voldoen niet aan de beschrijving
 
-### C. Quality and visible defects
+## D. Metingen en gaten
 
-- [ ] Cracks, water ingress, humidity
-- [ ] Joinery, seals, balcony / accessible roof waterproofing
-- [ ] Flooring, plumbing, electricity, sockets, boards
-- [ ] Ventilation, drainage, abnormal equipment noise
-- [ ] “Rushed” finishes non-compliant with the description
+- [ ] Gebieds- of lay-outhiaten schriftelijk vastgelegd
+- [ ] Ontbrekende apparatuur vermeld
 
-### D. Measurements and gaps
+## E. Documenten overgedragen
 
-- [ ] Area or layout gaps noted in writing
-- [ ] Missing equipment listed
+- [ ] Sleutels / badges / afstandsbedieningen
+- [ ] Apparatuurkennisgevingen, indien verstrekt
+- [ ] Plannen / nuttig dossier
+- [ ] Attesten beschikbaar in dit stadium
 
-### E. Documents handed over
+## F. Akte en betaling
 
-- [ ] Keys / badges / remotes
-- [ ] Equipment notices if provided
-- [ ] Plans / useful dossier
-- [ ] Attestations available at this stage
+- [ ] Verslag van inbezitneming opgesteld/ondertekend in de juiste vorm
+- [ ] Schriftelijk voorbehoud in bijlage
+- [ ] Saldo alleen betaald volgens contract en na opname
+- [ ] Ontvangsten en traceerbaarheid
 
-### F. Deed and payment
+Neem geen genoegen met ‘accommoderen’ als er grote onvolledigheidsvoorbehouden blijven bestaan: spreek eerst met de notaris.
 
-- [ ] Taking-possession report prepared / signed in due form
-- [ ] Written reservations annexed
-- [ ] Balance paid only according to contract and after recording
-- [ ] Receipts and traceability
+## Nuttige voorbehouden opstellen
 
-Do not settle “to accommodate” if major incompleteness reservations remain: speak to the notary first.
+Een vaag voorbehoud (“te herzien”) beschermt slecht. Een nuttig voorbehoud geeft aan:
 
-## Drafting useful reservations
+- de precieze plaats (ruimte, gevel, uitrusting);
+- het geconstateerde gebrek;
+- indien mogelijk een gedateerde foto bijgevoegd;
+- het verzoek (remedie, vervanging, rechtvaardiging).
 
-A vague reservation (“to review”) protects poorly. A useful reservation indicates:
+Geef prioriteit aan waterdichting, veiligheid, onvolledigheid en niet-conformiteit met de beschrijving. Cosmetische details tellen ook mee, maar rangschik ze.
 
-- the precise place (room, façade, equipment);
-- the observed defect;
-- if possible a dated photo attached;
-- the request (remedy, replacement, justification).
+## Leveringsvertraging: waar moet je op letten?
 
-Prioritise waterproofing, safety, incompleteness and non-conformity with the description. Cosmetic details also count, but rank them.
+Als de contractuele datum wordt overschreden:
 
-## Delivery delay: what to look at?
+- bereken de vertraging op basis van het contract;
+- kijk naar het aangeboden **strafmechanisme** (decreet 13-431 bevat een boeteregeling voor te late levering);
+- documenteer uw uitwisselingen;
+- vermijd ongeformaliseerde mondelinge afspraken.
 
-If the contractual date is exceeded:
+Vertraging doet de kwaliteitseis niet weg wanneer de levering eindelijk arriveert.
 
-- calculate the delay against the contract;
-- look at the **penalty** mechanism provided (Decree 13-431 frames a late-delivery penalty scheme);
-- document your exchanges;
-- avoid unformalised oral arrangements.
+## Na de sleutels: het werk gaat door
 
-Delay does not erase the quality requirement when delivery finally arrives.
+## Opvolging van remedies
 
-## After the keys: the work continues
+Een kalender vereisen voor het opheffen van reserveringen. Schriftelijk opvolgen. Bewaar bewijzen.
 
-### Follow-up of remedies
+## Titel en *livret*
 
-Require a calendar for lifting reservations. Follow up in writing. Keep proofs.
+Afhankelijk van het programma kan de individuele **livret foncier** de titelverdeling volgen. Maak bij de notaris duidelijk: waar het dossier staat, welke akten er nog liggen, welke realistische termijnen. Zie [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije).
 
-### Title and *livret*
+## Mede-eigendom en kosten
 
-Depending on the programme, the individual ***livret foncier*** may follow title division. Clarify with the notary: where the file stands, which deeds remain, which realistic deadlines. See [Purchase documents](/nl/documenten-vastgoedkoop-algerije).
+Zodra je er intrekt, begint het collectieve leven: lasten, onderhoud, syndicaat of gelijkwaardige organisatie afhankelijk van het project. Vraag om transparantie over de aangekondigde werking.
 
-### Co-ownership and charges
+## Garanties
 
-As soon as you move in, collective life begins: charges, maintenance, syndic or equivalent organisation depending on the project. Ask for transparency on the announced functioning.
+Informeer uzelf over toepasselijke wettelijke garanties (inclusief constructie-/ontwikkelaargerelateerde garantielogica onder het raamwerk, inclusief *garantie décennale* indien van toepassing). Meld ernstige aandoeningen snel. Passiviteit verzwakt vaak de praktische positie van de koper.
 
-### Warranties
+## Speciale gevallen
 
-Inform yourself on applicable legal warranties (including construction / developer-related warranty logic under the framework, including *garantie décennale* where applicable). Report serious disorders quickly. Passivity often weakens the buyer’s practical position.
+## Diaspora
 
-## Special cases
+Indien u niet aanwezig kunt zijn, gemachtigde + notaris + gedateerd foto-/videorapport + weigering blinde handtekening. Zie [Diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-### Diaspora
+## Aankoop in Algiers
 
-If you cannot be present, agent + notary + dated photo/video report + refusal of blind signature. See [Diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+Dichtheid, parkeren, overlast van de buren: controleer ook de directe omgeving op de bezorgdag. Zie [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers), [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers).
 
-### Purchase in Algiers
+## Ontwikkeling: valideer de acteur
 
-Density, parking, neighbouring-site nuisances: also check the immediate environment on delivery day. See [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers), [Property prices in Algiers](/nl/vastgoedprijzen-algiers).
+Bewaar zelfs aan het einde van de reis de *agrément*-documenten en de samenhang van de verkoper. De Justice 2025-waarschuwing herinnert eraan dat bepaalde marketing buiten *agrément* illegaal is. Zie [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-### Development: revalidate the actor
+## Veel voorkomende fouten op D-day
 
-Even at the end of the journey, keep *agrément* documents and seller coherence. The Justice 2025 alert recalls that certain marketing outside *agrément* is illegal. See [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije).
+1. Onder druk “zonder voorbehoud” een rapport ondertekenen.
+2. Het saldo betalen vóór een echt record.
+3. Vertrouwen op mondelinge beloften van herstel.
+4. Gemeenschappelijke delen negeren.
+5. Parkeren/kelder vergeten.
+6. Vertrekken zonder kopieën van ondertekende documenten.
 
-## Frequent mistakes on D-day
+Aanvulling: [Fouten bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Risico's](/nl/vastgoedrisicos-algerije), [Nieuwe behuizing](/nl/artikelen/logement-neuf-algerie-opportunite-risque).
 
-1. Signing a report “without reservation” under pressure.
-2. Paying the balance before a real record.
-3. Relying on oral promises of remedy.
-4. Ignoring common parts.
-5. Forgetting parking / cellar.
-6. Leaving without copies of signed documents.
+## S.A.F.E en levering
 
-Complement: [Mistakes when buying](/nl/artikelen/erreurs-acheter-immobilier-algerie), [Risks](/nl/vastgoedrisicos-algerije), [New housing](/nl/artikelen/logement-neuf-algerie-opportunite-risque).
+Een geanalyseerd project **S.A.F.E** (eigen Viva Algérie-raster) is niet “gegarandeerd vrij van gebreken”. Aanvaarding blijft een persoonlijke, notariële en technische handeling. S.A.F.E vervangt noch het rapport, noch de voorbehouden.
 
-## S.A.F.E and delivery
+Meer informatie: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
 
-A project analysed **S.A.F.E** (proprietary Viva Algérie grid) is not “guaranteed defect-free”. Acceptance remains a personal, notarial and technical act. S.A.F.E replaces neither the report nor the reservations.
+## Express-checklist om af te drukken
 
-Learn more: [S.A.F.E certification](/nl/safe-vastgoedcertificering).
+1. Contract + beschrijving de dag ervoor opnieuw lezen.
+2. Bereid de zaklamp, het meetlint, het notitieboekje en de opgeladen telefoon voor.
+3. Bezoek overdag en bekijk de verlichtingspunten.
+4. Lijst reserveringen kamer per kamer met foto's.
+5. Controleer kavel + bijgebouwen (parkeerplaats, kelder).
+6. Regel niet vóór een helder notarieel kader.
+7. Onderteken het rapport met reserveringsbijlagen.
+8. Verzamel gedateerde kopieën van alles.
+9. Open een schriftelijke follow-up van rechtsmiddelen.
+10. Verduidelijk de titel / *livret* kalender.
 
-## Express checklist to print
+Deze lijst vervangt de notaris niet; het voorkomt vergeten onder emotie.
 
-1. Re-read contract + description the day before.
-2. Prepare torch, tape measure, notebook, charged phone.
-3. Visit by day, then review lighting points.
-4. List reservations room by room with photos.
-5. Check lot + annexes (parking, cellar).
-6. Do not settle before a clear notarial framework.
-7. Sign the report with reservation annexes.
-8. Collect dated copies of everything.
-9. Open a written follow-up of remedies.
-10. Clarify the title / *livret* calendar.
+## Belangrijkste afhaalrestaurants
 
-This list does not replace the notary; it prevents forgetting under emotion.
+**De oplevering van nieuwe woningen in Algerije** wordt voorbereid als een examen: contract, bezoek, schriftelijke reservering, rapport, gecontroleerde balans, vervolgens titelopvolging en remedies. Sleutels openen de deur; ze sluiten het bestand niet.
 
-## Key takeaways
+Voor het upstream-framework: [Off-plan kopen](/nl/off-plan-kopen-algerije), [Juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie).
 
-**New housing delivery in Algeria** is prepared like an exam: contract, visit, written reservations, report, controlled balance, then title follow-up and remedies. Keys open the door; they do not close the file.
 
-For the upstream framework: [Buying off-plan](/nl/off-plan-kopen-algerije), [Legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie).
+## Acceptatiebezoek: kamer-voor-kamer-methode
 
+## Entree en circulatie
 
-## Acceptance visit: room-by-room method
+Verlichting, vloerbedekking, deuren, stopcontacten, eventuele branddetectie afhankelijk van het project, aangekondigde toegankelijkheid of niet.
 
-### Entrance and circulations
+## Woonkamer/keuken
 
-Lighting, flooring, doors, sockets, any fire detection depending on the project, announced accessibility or not.
+Vlakheid van de vloer, afdichtingen, afvoer, waterpunten, ventilatie, eventuele afzuigkap, staat van de muren.
 
-### Living room / kitchen
+## Slaapkamers
 
-Floor levelness, seals, drainage, water points, ventilation, any cooker hood, wall condition.
+Waargenomen isolatie, stopcontacten, rolluiken/schrijnwerk, gevelgeluid.
 
-### Bedrooms
+## Natte ruimtes
 
-Perceived insulation, sockets, shutters/joinery, façade noise.
+Schijnbare waterdichting, afwateringshellingen, ventilatie, sanitair, afdichtingen.
 
-### Wet rooms
+## Privébuitenkant
 
-Apparent waterproofing, drainage slopes, ventilation, sanitary fixtures, seals.
+Leuningen, balkon-/terrasafdichting, regenwaterafvoer, vloeren.
 
-### Private exteriors
+## Gemeenschappelijke delen op D-day
 
-Guardrails, balcony/terrace waterproofing, rainwater drainage, flooring.
+Hal, brievenbussen, vuilnisruimte, fietsen-/kinderwagenruimte indien aanwezig, parkeerplaats, circulatieverlichting, lift (attesten/inbedrijfstelling).
 
-### Common parts on D-day
+Maak van elke reservering een foto. Een gedateerde opname is meer waard dan een herinnering.
 
-Hall, letterboxes, bin room, bike/pushchair room if provided, parking, circulation lighting, lift (certificates / commissioning).
+## Onderscheid maken tussen kleine en grote voorbehouden
 
-Photograph each reservation. A dated shot is worth more than a memory.
+**Klein**: plaatselijke cosmetische gebreken, eenvoudige oplossingen zonder bewoning te voorkomen.
 
-## Distinguishing minor / major reservations
+**Grote**: onvolledigheid, binnendringen van water, gevaarlijke installaties, ernstige non-conformiteit met de beschrijving, ontbrekende bijlagen, onmogelijkheid van normaal gebruik.
 
-**Minor**: localised cosmetic defects, simple remedies without preventing habitation.
+Dit onderscheid is leidend voor uw gesprek met de notaris over de inbezitneming en de balans. Het is geen vaststaand juridisch dogma: het helpt bij het stellen van prioriteiten.
 
-**Major**: incompleteness, water ingress, dangerous installations, heavy non-conformity with the description, missing annexes, impossibility of normal use.
+## Tegenstrijdig record: aanbevolen houding
 
-This distinction guides your discussion with the notary on taking possession and the balance. It is not a fixed legal dogma: it helps prioritise.
+Blijf feitelijk. Voorkom emotionele escalatie ter plaatse. Notitie, foto, bijlage. Als er onenigheid ontstaat over het bestaan ​​van een defect, vraag dan of dit zelfs tijdens de discussie **vermeld** wordt. Stilte creëert grijze zones.
 
-## Contradictory record: recommended attitude
+## Eerste week na de verhuizing
 
-Stay factual. Avoid emotional escalation on site. Note, photograph, annex. If disagreement arises on the existence of a defect, ask that it be **mentioned** even in discussion. Silence creates grey zones.
+- test warm water, druk en onderbrekers opnieuw;
+- observeer vochtsporen na de eerste regen als het seizoen dit toelaat;
+- let op geluiden en defecten van apparatuur die optreden tijdens het gebruik;
+- een reserveringssupplement sturen als het contract/praktijk dit toelaat, met notarieel advies.
 
-## First week after moving in
+De levering is geen magisch moment waarop alles vastloopt: het is het begin van een bewijsperiode.
 
-- retest hot water, pressure, breakers;
-- observe humidity traces after the first rain if the season allows;
-- note equipment noises and defects appearing in use;
-- send a reservation complement if the contract / practice allows, with notarial advice.
+## Relatie met de ontwikkelaar na sleutels
 
-Delivery is not a magic instant where everything freezes: it is the start of an evidence period.
+Een contactpersoon met naam vereisen voor oplossingen. Centraliseer aanvragen. Vermijd meerdere informele kanalen die de verantwoordelijkheid verwateren. Als de deadlines voor herstel uitblijven, formaliseer dan. Georganiseerde kopers behalen over het algemeen betere resultaten dan verspreide kopers.
 
-## Relationship with the developer after keys
+## Link met toekomstige wederverkoop
 
-Require a named contact for remedies. Centralise requests. Avoid multiple informal channels that dilute responsibility. If remedy deadlines slip, formalise. Organised buyers generally obtain better results than dispersed buyers.
+Een slecht geaccepteerde nieuwe woning is moeilijker door te verkopen: zichtbare gebreken, onvoorziene kosten, onvolledig eigendomsdossier. Twee dagen investeren in een serieuze checklist beschermt zowel de patrimoniale waarde als het onmiddellijke comfort. Zie [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers) voor marktleeslogica (zonder verzonnen cijfers). Meer in onze [gidsen](/nl/gidsen)- en [vastgoed](/nl/vastgoed)-hubs.
 
-## Link with future resale
+## Veelgestelde vragen
 
-A poorly accepted new home is harder to resell: visible defects, unforeseen charges, incomplete title file. Investing two days in a serious checklist protects patrimonial value as much as immediate comfort. See [Property prices in Algiers](/nl/vastgoedprijzen-algiers) for market-reading logic (without invented figures). More in our [guides](/nl/gidsen) and [real estate](/nl/vastgoed) hubs.
+## Moet ik het rapport ondertekenen als er gebreken blijven bestaan?
 
-## FAQ
+U kunt vaak ondertekenen terwijl u nauwkeurige **voorbehouden** bijvoegt. Bij grote onvolledigheden dient u onmiddellijk de notaris te raadplegen voordat u een “schone” inbezitneming aanvaardt.
 
-### Must I sign the report if defects remain?
+## Wanneer moet ik het prijssaldo betalen?
 
-You can often sign while annexing precise **reservations**. For major incompleteness, consult the notary immediately before accepting a “clean” taking of possession.
+In het *vente sur plans*-schema is het saldo gekoppeld aan de inbezitneming. Maak het niet los van een echt document en notariële formulieren.
 
-### When to pay the price balance?
+## Wat te doen bij vertraging van de levering?
 
-In the *vente sur plans* scheme, the balance is linked to taking possession. Do not detach it from a real record and notarial forms.
+Documenteer, herlees clausules en boetes, ga via de notaris, vermijd louter mondelinge afspraken.
 
-### What to do in case of delivery delay?
+## Wordt de *livret foncier* met de sleutels overhandigd?
 
-Document, re-read clauses and penalties, go through the notary, avoid purely oral arrangements.
+Niet altijd meteen. Maak de splitsing/uitgiftekalender op bij de notaris.
 
-### Is the *livret foncier* handed over with the keys?
+## Kan ik vertegenwoordigd worden op de bezorgdag?
 
-Not always immediately. Clarify the division / issuance calendar with the notary.
+Ja, met een duidelijk mandaat en een opnamemethode (foto's, reserveringslijst). Vertegenwoordiging staat geen onvoorzichtigheid toe.
 
-### Can I be represented on delivery day?
+## Garandeert S.A.F.E kwaliteit bij levering?
 
-Yes, with a clear mandate and a recording method (photos, reservation list). Representation does not authorise imprudence.
+Nee. Het helpt stroomopwaarts. Bij acceptatie wordt de kwaliteit vastgelegd.
 
-### Does S.A.F.E assure quality at delivery?
+## Bronnen
 
-No. It helps upstream. Quality is recorded at acceptance.
-
-## Sources
-
-- Law No. 11-04 of 17 February 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
-- Executive Decree No. 13-431 (payments, penalties, models) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- Notarial practice of taking-possession reports (*vente sur plans*)
+-wet nr. 11-04 van 17 februari 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
+- Uitvoeringsdecreet nr. 13-431 (betalingen, boetes, modellen) — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
+- Notariële praktijk van beslagleggingsrapporten (*vente sur plans*)
 - [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)

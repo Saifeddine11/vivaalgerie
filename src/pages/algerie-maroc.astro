@@ -1,0 +1,95 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath } from '../lib/paths';
+import { getArticlesByCategory } from '../lib/content';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+const articles = await getArticlesByCategory('algerie-maroc', locale);
+const canonical = absoluteUrl('/algerie-maroc');
+const links = [
+  { href: '/articles/pourquoi-algerie-maroc-conflit', label: 'Pourquoi les deux pays sont en conflit' },
+  { href: '/articles/guerre-des-sables-1963', label: 'Guerre des Sables 1963' },
+  { href: '/frontiere-algerie-maroc', label: 'Frontière fermée depuis 1994' },
+  { href: '/algerie-vs-maroc', label: 'Algérie vs Maroc : comparaison structurée' },
+];
+---
+
+<PageLayout
+  title="Algérie–Maroc — origines d’une rivalité historique"
+  description="Comprendre les relations Algérie–Maroc : Guerre des Sables, frontière fermée, Sahara occidental, rupture diplomatique et compétition régionale."
+  locale={locale}
+  canonical={canonical}
+>
+  <article>
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-14 sm:py-20">
+        <Breadcrumbs items={[{ label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) }, { label: 'Algérie–Maroc', href: canonical }]} />
+        <p class="eyebrow mb-3">Dossier Maghreb</p>
+        <h1 class="mb-5 text-4xl sm:text-5xl">Algérie–Maroc : comprendre les origines d’une rivalité historique</h1>
+        <p class="max-w-2xl text-lg text-muted">
+          Les tensions entre Alger et Rabat s’expliquent par des couches successives : frontières héritées de la colonisation, Guerre des Sables, Sahara occidental, alliances, sécurité et concurrence d’influence au Maghreb.
+        </p>
+      </div>
+    </header>
+
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial">
+        <p>
+          L’Algérie et le Maroc partagent une histoire, une géographie, des familles, des langues et une profondeur culturelle maghrébine. C’est précisément pourquoi leur rivalité pèse autant sur la région. Depuis l’indépendance algérienne, les différends frontaliers, la Guerre des Sables de 1963, la fermeture de la frontière terrestre en 1994 et la question du Sahara occidental ont construit un climat de méfiance durable.
+        </p>
+        <p>
+          Du point de vue algérien, la souveraineté nationale et le refus des pressions extérieures sont des principes fondateurs. La mémoire de la colonisation donne une place centrale à la défense des frontières héritées de l’indépendance et au soutien aux causes d’autodétermination. Du point de vue marocain, la priorité est l’intégrité territoriale du royaume, notamment sur le dossier du Sahara occidental, et la consolidation d’une position diplomatique favorable à son plan d’autonomie.
+        </p>
+        <p>
+          La rupture diplomatique de 2021 a officialisé une crise déjà profonde. L’Algérie a invoqué une série d’actes hostiles ; le Maroc a rejeté ces accusations et continue d’appeler à une normalisation selon ses propres termes. Entre les deux, les sociétés restent liées, mais les États poursuivent des logiques stratégiques divergentes.
+        </p>
+        <p>
+          Ce dossier ne vise pas à essentialiser les peuples. Les Marocains ne sont pas les adversaires des Algériens. Le sujet concerne des choix d’États, des doctrines diplomatiques, des intérêts régionaux et des mémoires politiques. Comprendre cette rivalité exige donc de séparer les faits historiques, les récits nationaux et les émotions populaires.
+        </p>
+        <blockquote>
+          Cet article propose une analyse éditoriale fondée sur des sources publiques. Les sujets géopolitiques peuvent faire l’objet d’interprétations différentes selon les acteurs et les positions diplomatiques.
+        </blockquote>
+        <h2>Sources principales</h2>
+        <ul>
+          <li>Associated Press — rupture diplomatique de 2021 : <a href="https://apnews.com">apnews.com</a></li>
+          <li>Reuters — contexte Algérie–Maroc et frontière fermée : <a href="https://www.reuters.com">reuters.com</a></li>
+          <li>MINURSO — mandat et contexte du Sahara occidental : <a href="https://minurso.unmissions.org/en/mandate">minurso.unmissions.org</a></li>
+          <li>Initiative marocaine d’autonomie de 2007 : <a href="https://in.diplomatie.ma/index.php/en/moroccan-initiative-negotiating-autonomy-statute-sahara-region">diplomatie.ma</a></li>
+          <li>Ministère algérien des Affaires étrangères — position sur le Sahara occidental : <a href="https://www.mfa.gov.dz/fr/announcements/statement-of-the-ministry-of-foreign-affairs-usa-09042025">mfa.gov.dz</a></li>
+        </ul>
+        <h2>Articles du dossier</h2>
+      </div>
+    </div>
+
+    <section class="pb-16">
+      <div class="container-editorial">
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {
+            articles.map((article) => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                slug={article.data.slug}
+                category={article.data.category}
+                lang={locale}
+                pubDate={article.data.pubDate}
+                image={article.data.image}
+                imageAlt={article.data.imageAlt}
+              />
+            ))
+          }
+        </div>
+
+        <aside class="mt-12 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-6">
+          <h2 class="mb-4 text-2xl">Liens internes essentiels</h2>
+          <ul class="grid gap-3 sm:grid-cols-2">
+            {links.map((link) => <li><a class="text-green hover:underline" href={link.href}>{link.label} →</a></li>)}
+          </ul>
+        </aside>
+      </div>
+    </section>
+  </article>
+</PageLayout>

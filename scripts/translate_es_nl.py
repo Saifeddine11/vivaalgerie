@@ -313,7 +313,7 @@ def protect_terms(text: str) -> str:
     return out
 
 
-def unprotect_terms(text: str) -> str:
+def unprotect_terms(text: str, lang: str = "es") -> str:
     out = text
     for token, phrase in RESTORE.items():
         out = out.replace(token, phrase)
@@ -321,7 +321,8 @@ def unprotect_terms(text: str) -> str:
         out = re.sub(rf"QQ\s*{re.escape(n)}\s*QQ", phrase, out, flags=re.I)
     out = re.sub(r"QQ\s*PILLARF\s*QQ", "**F**", out, flags=re.I)
     out = out.replace("QQPILLARFQQ", "**F**")
-    out = out.replace("QQPILIARFNAMEQQ", "Pillar F")
+    pillar = "Pilar F" if lang == "es" else "Pijler F"
+    out = out.replace("QQPILIARFNAMEQQ", pillar)
     return out
 
 
@@ -332,13 +333,22 @@ def apply_post(text: str, lang: str) -> str:
     for pat, repl in GLOSSARY[lang]:
         out = re.sub(pat, repl, out)
     out = out.replace("Viva Argelia", "Viva Algérie").replace("Viva Algerije", "Viva Algérie")
+    # Fix missing newline before markdown headings after disclaimer blocks
+    out = re.sub(r"([^\n])(## )", r"\1\n\n\2", out)
+    if lang == "es":
+        out = out.replace("due diligence", "diligencia debida")
+        out = out.replace("Due diligence", "Diligencia debida")
+        out = re.sub(r"\bshowroom\b", "sala de exposición", out)
+        out = re.sub(r"(?i)\boff-plan\b", "sobre plano", out)
+    if lang == "nl":
+        out = re.sub(r"(?i)\bproprietary certification\b", "eigen certificering", out)
     return out
 
 
-def translate_chunk(text: str, target: str, retries: int = 6) -> str:
+def translate_chunk(text: str, target: str, retries: int = 6, source: str = "en") -> str:
     if not text.strip():
         return text
-    tr = GoogleTranslator(source="en", target=target)
+    tr = GoogleTranslator(source=source, target=target)
     for attempt in range(retries):
         try:
             r = tr.translate(text)
@@ -382,12 +392,12 @@ def translate_pipeline(text: str, lang: str) -> str:
     no_links, links = extract_links(text)
     protected = protect_terms(no_links)
     translated = translate_text(protected, target)
-    restored = unprotect_terms(translated)
+    restored = unprotect_terms(translated, lang)
     labels = []
     for label, _u in links:
         lab = protect_terms(label)
         tlab = translate_chunk(lab, target) if lab.strip() else label
-        tlab = apply_post(unprotect_terms(tlab), lang)
+        tlab = apply_post(unprotect_terms(tlab, lang), lang)
         labels.append(tlab)
         time.sleep(0.15)
     with_links = restore_links(restored, links, lang, labels)
@@ -424,9 +434,11 @@ def process_article(slug: str, lang: str, force: bool = False) -> Path | None:
     out = dump_frontmatter(new_fm, "article") + body_t
     if not out.endswith("\n"):
         out += "\n"
-    dest.write_text(out, encoding="utf-8")
+    tmp = dest.with_suffix(dest.suffix + ".tmp")
+    tmp.write_text(out, encoding="utf-8")
+    tmp.replace(dest)
     words = len(re.findall(r"\S+", body_t))
-    print(f"  -> {dest} ({words} words)")
+    print(f"  -> {dest} ({words} words)", flush=True)
     return dest
 
 
@@ -458,14 +470,16 @@ def process_seo(slug: str, lang: str, force: bool = False) -> Path | None:
     out = dump_frontmatter(new_fm, "seo") + body_t
     if not out.endswith("\n"):
         out += "\n"
-    dest.write_text(out, encoding="utf-8")
+    tmp = dest.with_suffix(dest.suffix + ".tmp")
+    tmp.write_text(out, encoding="utf-8")
+    tmp.replace(dest)
     words = len(re.findall(r"\S+", body_t))
-    print(f"  -> {dest} ({words} words)")
+    print(f"  -> {dest} ({words} words)", flush=True)
     return dest
 
 
 def main():
-    force = "--force" in sys.argv
+    force = "--force" in sys.argv or "--regen" in sys.argv
     args = [a for a in sys.argv[1:] if a not in ("--force",)]
     langs = [a for a in args if a in ("es", "nl")] or ["es", "nl"]
     only = [a for a in args if a not in ("es", "nl")]

@@ -1,6 +1,6 @@
 # Images — Viva Algérie
 
-All article and hero images are stored in `public/images/articles/` as WebP.
+Article and hero images are stored in `public/images/articles/` as WebP or self-created SVG editorial graphics.
 
 Sources: Wikimedia Commons (copyright-safe). Converted with Sharp.
 
@@ -19,12 +19,22 @@ Sources: Wikimedia Commons (copyright-safe). Converted with Sharp.
 | tipaza-bejaia-oran-zones-a-suivre | Béjaïa | Béjaïa.jpg | `tipaza-bejaia-oran-zones-a-suivre.webp` | Béjaïa et sa baie | Done |
 | diaspora-algerienne-acheter-immobilier | Algiers seafront | Alger-Belcourt-front-de-mer | `diaspora-algerienne-acheter-immobilier.webp` | Baie d’Alger | Done |
 | cadre-juridique-immobilier-algerie | Alger civic architecture | Grande_Poste_d'Alger.jpg | `cadre-juridique-immobilier-algerie.webp` | Édifice public à Alger | Done |
+| Sahara occidental cluster | Neutral editorial graphic | Self-created SVG, non-AI | `western-sahara-editorial.svg` | Graphique éditorial neutre sur le Sahara occidental | Done |
+| Algérie–Maroc cluster | Neutral editorial graphic | Self-created SVG, non-AI | `algeria-morocco-editorial.svg` | Graphique éditorial neutre sur les relations Algérie–Maroc | Done |
+| Algérie vs Maroc | Neutral editorial graphic | Self-created SVG, non-AI | `algeria-vs-morocco-editorial.svg` | Graphique éditorial neutre de comparaison Algérie–Maroc | Done |
+| MINURSO | Neutral UN-style editorial graphic | Self-created SVG, non-AI | `minurso-editorial.svg` | Graphique éditorial neutre inspiré du processus onusien | Done |
+| Guerre des Sables | Neutral historical editorial graphic | Self-created SVG, non-AI | `sand-war-editorial.svg` | Graphique éditorial neutre sur 1963 | Done |
+| Énergie et souveraineté | Neutral energy editorial graphic | Self-created SVG, non-AI | `energy-sovereignty.svg` | Graphique éditorial neutre sur l’énergie | Done |
+| Tourisme Algérie–Maroc | Neutral tourism editorial graphic | Self-created SVG, non-AI | `tourism-potential.svg` | Graphique éditorial neutre sur le tourisme | Done |
+| Indépendance et culture | Neutral cultural editorial graphic | Self-created SVG, non-AI | `independence-culture.svg` | Graphique éditorial neutre sur l’indépendance | Done |
+| Algérie et Palestine | Neutral autodetermination editorial graphic | Self-created SVG, non-AI | `algeria-palestine-editorial.svg` | Graphique éditorial neutre sur l’autodétermination | Done |
 
 ## Licensing notes
 
 - Wikimedia Commons files used under their respective free licenses (CC BY-SA / public domain as indicated on each file page).
 - No AI-generated images.
 - No Picsum / random placeholders.
+- New geopolitical visuals use self-created SVG graphics to avoid misleading documentary imagery on sensitive subjects.
 - Attribution retained in this documentation; display credit available on request for print reuse.
 
 ## Optional future additions

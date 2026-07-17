@@ -1,6 +1,6 @@
 ---
-title: "Nieuwbouw in Algerije: kans of markt onder spanning?"
-description: "Analyse van nieuwbouw: kansen, spanningen en voorwaarden voor een voorzichtige beslissing."
+title: "Nieuwe woningen in Algerije: kans of markt onder druk?"
+description: "Nieuwe woningen in Algerije trekken kopers en de diaspora aan, maar blijven gekenmerkt door spanningen in het aanbod, vertragingen en ontwikkelingsrisico's. Redactionele analyse."
 slug: "logement-neuf-algerie-opportunite-risque"
 category: "immobilier"
 lang: "nl"
@@ -8,166 +8,163 @@ pubDate: 2026-03-12
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/logement-neuf-algerie-opportunite-risque.webp"
-imageAlt: "New residential buildings in Algeria under a clear sky"
+imageAlt: "Nieuwe woongebouwen in Algerije onder een heldere hemel"
 featured: false
 draft: false
-tags: ["new housing", "real estate", "real-estate development", "Algiers", "investment", "market"]
 translationKey: "logement-neuf-algerie-opportunite-risque"
+tags: ["nieuwe huisvesting", "vastgoed", "vastgoedontwikkeling", "Algiers", "investering", "markt"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+Nieuwe woningen kristalliseren een bekende spanning op de Algerijnse markt. Aan de ene kant de reële vraag naar modern comfort, parkeren, liften en beter ontworpen gemeenschappelijke delen. Aan de andere kant: onregelmatig promotieaanbod, soms lange vertragingen en commerciële informatie die sneller beweegt dan juridische documentatie. Tussen deze twee polen zoekt de koper een eenvoudig antwoord: opportuniteit of markt onder druk?
 
-
-New housing crystallises a familiar tension in the Algerian market. On one side, real demand for modern comfort, parking, lifts and better-designed common parts. On the other, irregular promotional supply, sometimes long delays, and commercial information that moves faster than legal documentation. Between these two poles, the buyer seeks a simple answer: opportunity or market under pressure?
-
-The useful answer is not binary. New housing can be an opportunity for certain profiles, in certain cities, provided one accepts that the market remains structurally tight — on prices in sought-after zones, on delivery timelines, and on execution quality.
+Het bruikbare antwoord is niet binair. Nieuwe huisvesting kan een kans zijn voor bepaalde profielen in bepaalde steden, op voorwaarde dat men accepteert dat de markt structureel krap blijft – wat betreft prijzen in gewilde zones, wat betreft leveringstermijnen en wat betreft de kwaliteit van de uitvoering.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## What “new housing” means in Algeria
+## Wat ‘nieuwe huisvesting’ betekent in Algerije
 
-Under the “new” label several realities coexist:
+Onder het ‘nieuwe’ label bestaan ​​verschillende realiteiten naast elkaar:
 
-- private real-estate development framed by Law No. 11-04 of 17 February 2011;
-- programmes in **vente sur plans** (off-plan sale), with reservation or off-plan sale contracts (Executive Decree No. 13-431);
-- recently delivered homes still being marketed;
-- operations linked to public or semi-public schemes, distinct from purely commercial development.
+- particuliere vastgoedontwikkeling in het kader van wet nr. 11-04 van 17 februari 2011;
+- programma's in **vente sur plans** (verkoop buiten plan), met reserverings- of verkoopcontracten buiten plan (Uitvoerend besluit nr. 13-431);
+- recent opgeleverde woningen die nog in de markt staan;
+- activiteiten die verband houden met publieke of semi-publieke projecten en die losstaan ​​van de zuiver commerciële ontwikkeling.
 
-Confusing these categories leads to bad price and risk comparisons. An apartment delivered with a [livret foncier](/nl/documenten-vastgoedkoop-algerije) available does not have the same profile as a lot reserved on a slab barely poured.
+Het verwarren van deze categorieën leidt tot slechte prijs- en risicovergelijkingen. Een appartement opgeleverd met een beschikbare [livret foncier](/nl/documenten-vastgoedkoop-algerije) heeft niet hetzelfde profiel als een kavel gereserveerd op een nauwelijks gestorte plaat.
 
-## The real strengths of new housing
+## De echte sterke punten van nieuwe woningen
 
-### A product adapted to contemporary uses
+## Een product aangepast aan hedendaags gebruik
 
-Older stock, especially in dense centres, does not always meet current needs: parking, insulation, room layout, accessibility. New housing often offers a clearer answer to these expectations, which explains part of residential and family demand.
+De oudere voorraad, vooral in dichtbevolkte centra, voldoet niet altijd aan de huidige behoeften: parkeren, isolatie, kamerindeling, bereikbaarheid. Nieuwe woningen bieden vaak een duidelijker antwoord op deze verwachtingen, wat een deel van de vraag naar woningen en gezinnen verklaart.
 
-### Relative readability of the product
+## Relatieve leesbaarheid van het product
 
-In a good file, the buyer has plans, a description, a schedule and a developer counterpart. That readability does not always exist on the second-hand market, where documentary irregularities and succession situations sometimes complicate the transaction.
+In een goed dossier beschikt de koper over plannen, een beschrijving, een planning en een tegenhanger van de ontwikkelaar. Die leesbaarheid is er niet altijd op de tweedehandsmarkt, waar documentaire onregelmatigheden en opvolgingssituaties de transactie soms bemoeilijken.
 
-### A lever for the diaspora and organised first-time buyers
+## Een hefboom voor de diaspora en georganiseerde starters
 
-For part of the [Algerian diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier), new housing offers a more “frameable” journey at a distance — provided trust is not delegated blindly. For local households that plan far ahead, off-plan purchase can also spread the financial effort.
+Voor een deel van de [Algerijnse diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier) biedt nieuwe huisvesting een meer ‘frameable’ reis op afstand – op voorwaarde dat vertrouwen niet blindelings wordt gedelegeerd. Voor lokale huishoudens die ver vooruit plannen, kan off-plan aankoop ook de financiële inspanning spreiden.
 
-## Why the market remains under pressure
+## Waarom de markt onder druk blijft staan
 
-### Localised supply / demand imbalance
+## Gelokaliseerde onbalans tussen vraag en aanbod
 
-Tension is not uniform across the whole territory. It concentrates where employment, services, coastline or infrastructure create lasting pressure: Algiers and its periphery, certain Oran axes, attractive coastal poles. Elsewhere, new housing may exist without immediate resale liquidity.
+De spanning is niet overal hetzelfde. Het concentreert zich daar waar werkgelegenheid, diensten, kustlijn of infrastructuur een blijvende druk uitoefenen: Algiers en zijn periferie, bepaalde Oran-assen, aantrekkelijke kustpolen. Elders kunnen nieuwe woningen bestaan ​​zonder onmiddellijke wederverkoopliquiditeit.
 
-The National Statistics Office (ONS) documents the country’s demography and urban dynamics; it does not publish a single “index” of new-housing prices that one could cite as national truth. Any claim of generalised yield or rise without a source should be discarded.
+Het Nationaal Bureau voor de Statistiek (ONS) documenteert de demografie en stedelijke dynamiek van het land; het publiceert geen enkele “index” van de prijzen voor nieuwe huizen die men als nationale waarheid zou kunnen aanhalen. Elke claim van algemene opbrengst of stijging zonder bron moet terzijde worden geschoven.
 
-### Prices and purchasing capacity
+## Prijzen en inkoopcapaciteit
 
-In sought-after zones, new housing often displays prices that filter part of demand. Opportunity is then not “the market” itself, but the specific property whose price, location and calendar match a real budget. In Algiers, our page [Algiers property prices](/nl/vastgoedprijzen-algiers) helps contextualise without turning an estimate into a promise.
+In gewilde zones vertonen nieuwe woningen vaak prijzen die een deel van de vraag filteren. De kans is dan niet “de markt” zelf, maar het specifieke vastgoed waarvan de prijs, ligging en kalender overeenkomen met een reëel budget. In Algiers helpt onze pagina [Algiers vastgoedprijzen](/nl/vastgoedprijzen-algiers) te contextualiseren zonder een schatting in een belofte te veranderen.
 
-### Execution and information risks
+## Uitvoerings- en informatierisico's
 
-The weak point of promotional new housing remains execution: delays, finishing gaps, opaque communication, poorly secured payments. These risks are not theoretical; they sit at the heart of [off-plan purchase](/nl/off-plan-kopen-algerije) dossiers and [property purchase risks](/nl/vastgoedrisicos-algerije).
+Het zwakke punt van de promotie van nieuwe woningen blijft de uitvoering: vertragingen, hiaten in de afwerking, ondoorzichtige communicatie, slecht beveiligde betalingen. Deze risico's zijn niet theoretisch; ze vormen de kern van de [off-plan aankoop](/nl/off-plan-kopen-algerije)-dossiers en [risico's bij aankoop van onroerend goed](/nl/vastgoedrisicos-algerije).
 
-The presence of an approved developer, recourse to the notary, careful contract reading and, where applicable, positioning within the FGCMPI mechanism reduce information asymmetry. They do not eliminate it.
+De aanwezigheid van een erkende ontwikkelaar, een beroep op de notaris, zorgvuldige contractlezing en, waar van toepassing, positionering binnen het FGCMPI-mechanisme verminderen de informatie-asymmetrie. Ze elimineren het niet.
 
-## Opportunity: for whom, and under what conditions?
+## Kans: voor wie en onder welke voorwaarden?
 
-### Profiles for whom new housing can be relevant
+## Profielen voor wie nieuwbouw relevant kan zijn
 
-- **Planned main residence**: household able to wait for delivery without housing rupture.
-- **Replacement of unsuitable housing**: need for space, accessibility or parking.
-- **Prudent family wealth**: acquisition for a clear use (habitation, family lodging), without an aggressive yield scenario.
-- **Methodical buyer**: ready to verify agrément, land, contract and schedule before reserving.
+- **Gepland hoofdverblijf**: huishouden kan wachten op oplevering zonder woningbreuk.
+- **Vervanging van ongeschikte woningen**: behoefte aan ruimte, bereikbaarheid of parkeergelegenheid.
+- **Verstandig familievermogen**: aankoop voor een duidelijk gebruik (bewoning, gezinswoning), zonder agressief rendementsscenario.
+- **Methodische koper**: klaar om agrément, land, contract en planning te verifiëren voordat u reserveert.
 
-### Profiles for whom new housing is often a poor tool
+## Profielen voor wie nieuwe huisvesting vaak een slecht hulpmiddel is
 
-- Buyer who needs to move in within three months.
-- Investor projecting immediate rental cash-flow without local study.
-- Acquirer who chooses only on a model or commercial influence.
-- Person who cannot absorb a schedule slip.
+- Koper die binnen drie maanden moet verhuizen.
+- Investeerder die onmiddellijke huurcashflow verwacht zonder lokaal onderzoek.
+- Acquirer die alleen kiest op basis van een model of commerciële invloed.
+- Persoon die een roosterbriefje niet kan opnemen.
 
-## Read new housing as a market of projects, not as an index
+## Lees nieuwbouw als een markt van projecten, niet als een index
 
-New housing works project by project. Two programmes in the same neighbourhood can present very different risk levels depending on the developer, the land, site financing and payment governance.
+Nieuwbouwprojecten project voor project. Twee programma's in dezelfde buurt kunnen zeer verschillende risiconiveaus met zich meebrengen, afhankelijk van de ontwikkelaar, de grond, de locatiefinanciering en het betalingsbeheer.
 
-That is precisely the angle of [S.A.F.E — Secure Approved For Estate](/nl/safe-vastgoedcertificering): a proprietary pre-selection grid (security, analysis, reliability, support) that is not a state certification and replaces neither the notary nor technical controls. It serves to structure the question: does this project deserve my attention?
+Dat is precies de invalshoek van [S.A.F.E — Secure Approved For Estate](/nl/safe-vastgoedcertificering): een eigen preselectieraster (veiligheid, analyse, betrouwbaarheid, ondersteuning) dat geen staatscertificering is en noch de notariële noch de technische controles vervangt. Het dient om de vraag te structureren: verdient dit project mijn aandacht?
 
-For Algiers, cross this logic with [buying off-plan in Algiers](/nl/off-plan-kopen-algiers) and the detailed checks in our guide [points to verify before reserving](/nl/artikelen/acheter-sur-plan-algerie-verifications).
+Voor Algiers kruist u deze logica met [off-plan kopen in Algiers](/nl/off-plan-kopen-algiers) en de gedetailleerde controles in onze gids [punten om te verifiëren voordat u reserveert](/nl/artikelen/acheter-sur-plan-algerie-verifications).
 
-## New housing, tourism and territorial narrative: do not mix indicators
+## Nieuwe huisvesting, toerisme en territoriaal verhaal: meng indicatoren niet door elkaar
 
-Algerian tourism recorded, according to the National Tourism Office (ONAT), **3.548 million** visitors in 2024. This figure is useful for understanding the attractiveness of certain coastal and heritage cities. It does not, on its own, prove that a new programme will offer high rental occupancy or capital gain.
+Volgens het Nationaal Bureau voor Toerisme (ONAT) registreerde het Algerijnse toerisme in 2024 **3,548 miljoen** bezoekers. Dit cijfer is nuttig om de aantrekkelijkheid van bepaalde kust- en erfgoedsteden te begrijpen. Het bewijst op zichzelf niet dat een nieuw programma een hoge huurbezetting of kapitaalwinst zal opleveren.
 
-Likewise, infrastructure and planning outlooks — discussed in long-term analyses such as [Algeria 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites) — create context, not a guaranteed yield. World Bank or IMF reports, when cited, concern macroeconomic aggregates; they do not validate a price per square metre in a specific lot.
+Op dezelfde manier creëren de infrastructuur- en planningsvooruitzichten – besproken in langetermijnanalyses zoals [Algerije 2030](/nl/artikelen/algerie-2030-infrastructures-opportunites) – context, en geen gegarandeerd rendement. Rapporten van de Wereldbank of het IMF hebben, indien aangehaald, betrekking op macro-economische aggregaten; ze valideren geen prijs per vierkante meter in een specifiek perceel.
 
-## Zones to watch beyond central Algiers alone
+## Zones die alleen buiten het centrum van Algiers in de gaten moeten worden gehouden
 
-Outside the hypercentre, new housing also plays out on corridors and mid-sized coastal cities. Tipaza, Béjaïa and Oran illustrate distinct dynamics — coastline, tourism, employment, accessibility — analysed in [Tipaza, Béjaïa, Oran: zones to watch](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre).
+Buiten het hypercentrum speelt nieuwe woningbouw zich ook af op corridors en middelgrote kuststeden. Tipaza, Béjaïa en Oran illustreren verschillende dynamieken – kustlijn, toerisme, werkgelegenheid, bereikbaarheid – geanalyseerd in [Tipaza, Béjaïa, Oran: zones om in de gaten te houden](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre).
 
-The question is not “where is it cheapest?”, but “where does the price / use / liquidity pair remain coherent for my horizon?”.
+De vraag is niet “waar is het het goedkoopst?”, maar “waar blijft het paar prijs/gebruik/liquiditeit coherent voor mijn horizon?”.
 
-## Delivery quality: the real litmus test
+## Leveringskwaliteit: de echte lakmoesproef
 
-A market under pressure sometimes pushes to deliver fast… or to market too early. The wise buyer looks at:
+Een markt die onder druk staat, dwingt soms om snel te leveren... of om te vroeg op de markt te komen. De wijze koper kijkt naar:
 
-- the real progress rate (not only the announced one);
-- coherence between description and finishing samples;
-- organisation of [delivery](/nl/oplevering-nieuwe-woning-algerije) and lifting of reservations;
-- clarity of post-delivery documents to finalise ownership.
+- het werkelijke voortgangspercentage (niet alleen het aangekondigde);
+- samenhang tussen beschrijving en afwerkingsmonsters;
+- organisatie van [levering](/nl/oplevering-nieuwe-woning-algerije) en opheffen van reserveringen;
+- duidelijkheid van de documenten na levering om de eigendom af te ronden.
 
-The **garantie décennale** and the builder / developer responsibilities form part of the legal landscape after reception. They do not compensate for a bad programme choice.
+De **garantie décennale** en de verantwoordelijkheden van de bouwer/ontwikkelaar maken na ontvangst deel uit van het juridische landschap. Ze compenseren een slechte programmakeuze niet.
 
-## How to decide: a simple decision grid
+## Hoe te beslissen: een eenvoudig beslissingsraster
 
-1. **Use**: live, lodge, wealth — without a fantasy scenario.
-2. **Horizon**: can I wait for delivery?
-3. **Total budget**: price + fees + possible personalisation works + delay cushion.
-4. **Developer**: agrément, history, transparency ([verification method](/nl/vastgoedontwikkelaar-controleren-algerije)).
-5. **File**: land, compliant contracts (Law 11-04, Decree 13-431), FGCMPI if applicable.
-6. **Location**: services, accessibility, local liquidity.
-7. **Alternative**: would a delivered property or a documented second-hand home be more rational?
+1. **Gebruik**: wonen, logeren, rijkdom – zonder fantasiescenario.
+2. **Horizon**: kan ik wachten op levering?
+3. **Totaal budget**: prijs + erelonen + eventuele personalisatiewerkzaamheden + vertragingskussen.
+4. **Ontwikkelaar**: agrément, geschiedenis, transparantie ([verificatiemethode](/nl/vastgoedontwikkelaar-controleren-algerije)).
+5. **Bestand**: grond, conforme contracten (wet 11-04, decreet 13-431), FGCMPI indien van toepassing.
+6. **Locatie**: diensten, bereikbaarheid, lokale liquiditeit.
+7. **Alternatief**: zou een opgeleverde woning of een gedocumenteerde tweedehands woning rationeler zijn?
 
-If three or more answers are fuzzy, “new opportunity” becomes “new bet”.
+Als drie of meer antwoorden vaag zijn, wordt ‘nieuwe kans’ ‘nieuwe weddenschap’.
 
-## Key takeaways
+## Belangrijkste afhaalrestaurants
 
-New housing in Algeria is neither an abstract bubble nor a universal opportunity. It is a segment under localised pressure, where project quality weighs more than market narrative. Opportunity exists for the disciplined buyer, financed to wait, and able to read a development file. Pressure, for its part, penalises haste, information asymmetry and confusion between brochure and contract.
+Nieuwe huisvesting in Algerije is noch een abstracte zeepbel, noch een universele kans. Het is een segment dat onder lokale druk staat, waar de kwaliteit van projecten zwaarder weegt dan het marktverhaal. Er zijn kansen voor de gedisciplineerde koper, gefinancierd om te wachten en in staat om een ​​ontwikkelingsbestand te lezen. Druk op zijn beurt bestraft haast, informatie-asymmetrie en verwarring tussen brochure en contract.
 
-In practice, treat every new programme as a temporary company you are joining: who runs it, how cash enters and exits, what land underpins it, and what happens if a milestone slips. That mindset — closer to project due diligence than to window shopping — is the difference between a usable asset and a long dispute. Cross-check promotional claims against the notary’s reading, against conservation foncière where relevant, and against delivery histories of previous buildings by the same developer. When those cross-checks hold, new housing can be a rational tool; when they do not, the “opportunity” is mostly marketing.
+In de praktijk moet je elk nieuw programma behandelen als een tijdelijk bedrijf waar je lid van wordt: wie beheert het, hoe geld binnenkomt en vertrekt, welk land eraan ten grondslag ligt en wat er gebeurt als er een mijlpaal bereikt wordt. Die mentaliteit – dichter bij project due diligence dan bij window shopping – is het verschil tussen een bruikbaar bezit en een lang geschil. Controleer promotionele claims aan de hand van de lezing van de notaris, waar relevant aan de hand van conservation foncière, en aan de hand van de leveringsgeschiedenis van eerdere gebouwen door dezelfde ontwikkelaar. Als deze kruiscontroles stand houden, kunnen nieuwe woningen een rationeel instrument zijn; als ze dat niet doen, is de ‘kans’ vooral marketing.
 
-To deepen the legal and documentary framework, read the [real-estate legal framework in Algeria](/nl/artikelen/cadre-juridique-immobilier-algerie) and the [purchase documents](/nl/documenten-vastgoedkoop-algerije) page. For project pre-selection, explore [S.A.F.E](/nl/safe-vastgoedcertificering). Also see our [real estate](/nl/vastgoed) category for related market readings.
+Om het juridische en documentaire raamwerk te verdiepen, kunt u de [juridisch kader voor onroerend goed in Algerije](/nl/artikelen/cadre-juridique-immobilier-algerie) en de [aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije)-pagina lezen. Voor de voorselectie van projecten, verken [S.A.F.E](/nl/safe-vastgoedcertificering). Zie ook onze [vastgoed](/nl/vastgoed)-categorie voor gerelateerde marktmetingen.
 
-## FAQ
+## Veelgestelde vragen
 
-### Is new housing always more expensive than second-hand?
+## Zijn nieuwe woningen altijd duurder dan tweedehands?
 
-Not always, and not everywhere. In some segments, off-plan new may appear more accessible than a well-located delivered property; in others, the new premium is clear. Compare on equal footing: location, legal status, charges, and real date of enjoyment.
+Niet altijd, en niet overal. In sommige segmenten kan nieuwbouw op plan toegankelijker lijken dan een goed gelegen opgeleverd pand; in andere gevallen is de nieuwe premie duidelijk. Vergelijk op gelijke voet: locatie, juridische status, kosten en werkelijke datum van genot.
 
-### Can one speak of a “national” new-housing market?
+## Kan men spreken van een “nationale” nieuwbouwmarkt?
 
-With difficulty. Price and supply tensions are local. Algiers, Oran or a mid-sized inland city do not behave as a single market.
+Met moeite. Prijs- en aanbodspanningen zijn lokaal. Algiers, Oran of een middelgrote stad in het binnenland gedragen zich niet als één enkele markt.
 
-### Is off-plan purchase riskier than buying delivered?
+## Is een aankoop op plan riskanter dan een aankoop die wordt afgeleverd?
 
-In general, yes on execution and delay risk; not necessarily on documentary risk, if the development file is clean and the delivered property poorly titled. Each file is judged separately.
+Over het algemeen ja wat betreft uitvoerings- en vertragingsrisico; niet noodzakelijkerwijs op documentair risico, als het ontwikkelingsdossier schoon is en het geleverde eigendom een ​​slechte titel heeft. Elk dossier wordt afzonderlijk beoordeeld.
 
-### Do tourism figures justify buying coastal new housing?
+## Rechtvaardigen de cijfers uit het toerisme het kopen van nieuwe huizen aan de kust?
 
-They illuminate territorial attractiveness. They do not demonstrate the profitability of a specific programme. Treat ONAT as a context indicator, not as a property market study.
+Ze belichten de territoriale aantrekkelijkheid. Ze tonen niet de winstgevendheid van een specifiek programma aan. Beschouw ONAT als een contextindicator, niet als een onderzoek naar de vastgoedmarkt.
 
-### How to reduce risk without blocking every purchase?
+## Hoe kunt u het risico beperken zonder elke aankoop te blokkeren?
 
-Require agrément, a readable contract, a traceable schedule, notarial reading, and structured pre-selection. Refuse off-framework payments. Accept that a good project can wait an extra week of checks.
+Vereist agrément, een leesbaar contract, een traceerbaar schema, notariële lezing en gestructureerde voorselectie. Weiger betalingen buiten het raamwerk. Accepteer dat een goed project een week extra controle kan wachten.
 
-### Does S.A.F.E guarantee the success of a new-housing investment?
+## Garandeert S.A.F.E het succes van een investering in nieuwe woningen?
 
-No. S.A.F.E is a proprietary analysis and pre-selection method. It does not promise absence of risk and does not replace notary, technical expert or personalised financial advice.
+Nee. S.A.F.E is een gepatenteerde analyse- en voorselectiemethode. Het belooft geen afwezigheid van risico en vervangt geen notaris, technisch expert of persoonlijk financieel advies.
 
-## Sources
+## Bronnen
 
-- Law No. 11-04 of 17 February 2011 on real-estate development.
-- Executive Decree No. 13-431 of 18 December 2013 (reservation and off-plan sale contracts).
-- FGCMPI — guarantee framework linked to real-estate development.
-- National Statistics Office (ONS) — Algerian demography and official statistics (context, without inventing price indices).
-- National Tourism Office (ONAT) — 3.548 million visitors in 2024.
-- World Bank / IMF — macroeconomic reports (prudent use, not extrapolated to a specific property).
-- Viva Algérie — [real estate](/nl/vastgoed), [buying off-plan](/nl/off-plan-kopen-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
+- wet nr. 11-04 van 17 februari 2011 over vastgoedontwikkeling.
+- uitvoerend decreet nr. 13-431 van 18 december 2013 (reserverings- en off-plan verkoopcontracten).
+- FGCMPI — garantiekader gekoppeld aan vastgoedontwikkeling.
+- Nationaal Bureau voor de Statistiek (ONS) — Algerijnse demografie en officiële statistieken (context, zonder prijsindexcijfers te bedenken).
+- Nationaal Bureau voor Toerisme (ONAT) – 3,548 miljoen bezoekers in 2024.
+- Wereldbank/IMF – macro-economische rapporten (voorzichtig gebruik, niet geëxtrapoleerd naar een specifiek kenmerk).
+- Viva Algérie — [vastgoed](/nl/vastgoed), [off-plan kopen](/nl/off-plan-kopen-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

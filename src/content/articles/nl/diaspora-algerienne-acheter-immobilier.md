@@ -1,6 +1,6 @@
 ---
-title: "Algerijnse diaspora: vastgoed kopen vanuit het buitenland"
-description: "Praktische lezing voor diaspora-kopers: vertegenwoordiging, documenten, risico’s en methode."
+title: "Algerijnse diaspora: onroerend goed kopen in Algerije vanuit het buitenland"
+description: "Redactionele gids voor de Algerijnse diaspora: documenten, notaris, betalingen, off-plan aankoop en controles voor het verwerven van onroerend goed uit het buitenland."
 slug: "diaspora-algerienne-acheter-immobilier"
 category: "investissement"
 lang: "nl"
@@ -8,198 +8,195 @@ pubDate: 2026-03-25
 updatedDate: 2026-07-01
 author: "Redactie Viva Algérie"
 image: "/images/articles/diaspora-algerienne-acheter-immobilier.webp"
-imageAlt: "Urban view of Algiers from the sea, a heritage horizon for the diaspora"
+imageAlt: "Stedelijk zicht op Algiers vanaf de zee, een erfgoedhorizon voor de diaspora"
 featured: false
 draft: false
-tags: ["diaspora", "investment", "property purchase", "notary", "abroad", "Algiers"]
 translationKey: "diaspora-algerienne-acheter-immobilier"
+tags: ["diaspora", "investering", "aankoop van onroerend goed", "notaris", "in het buitenland", "Algiers"]
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen (loi 11-04, agrément, livret foncier, FGCMPI) blijven behouden.
+Het kopen van een woning in Algerije vanuit het buitenland is een veel voorkomend project in diasporatrajecten: gezinswoning, pied-à-terre, overgedragen rijkdom of voorbereiding op een gedeeltelijke terugkeer. Afstand verandert de aard van het risico. Het is niet alleen de prijs per vierkante meter die telt; het is het vermogen om te verifiëren, te delegeren zonder de controle op te geven, en om informatie te laten circuleren tussen notaris, verkoper of ontwikkelaar, en een beslisser gevestigd in Parijs, Montreal, Dubai of elders.
 
-
-Buying a property in Algeria from abroad is a frequent project in diaspora trajectories: family residence, pied-à-terre, transmitted wealth, or preparation for a partial return. Distance changes the nature of risk. It is not only the price per square metre that counts; it is the ability to verify, to delegate without abandoning control, and to circulate information between notary, seller or developer, and a decision-maker based in Paris, Montreal, Dubai or elsewhere.
-
-This article sets out a method. It promises neither yield, nor universal administrative ease, nor a single solution for every personal status.
+In dit artikel wordt een methode beschreven. Het belooft noch rendement, noch universeel administratief gemak, noch één enkele oplossing voor elke persoonlijke status.
 
 > Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.
 
-## What distance really changes
+## Welke afstand verandert er echt?
 
-### Information asymmetry
+## Informatie-asymmetrie
 
-On site, an improvised visit, a neighbour, a second opinion quickly correct a bad impression. At a distance, polished photos and insistent calls occupy the whole field. The diaspora must therefore overcompensate with procedure: written documents, geolocated video calls, clear mandates, and refusal of deposits “to reserve verbally”.
+Ter plaatse, een geïmproviseerd bezoek, een buurman, een second opinion corrigeren snel een slechte indruk. Op afstand bezetten gepolijste foto's en indringende oproepen het hele veld. De diaspora moet daarom overcompenseren met procedures: schriftelijke documenten, geolokaliseerde videogesprekken, duidelijke mandaten en weigering van aanbetalingen “om mondeling te reserveren”.
 
-### Multiplicity of interlocutors
+## Veelheid aan gesprekspartners
 
-Family, a friend “who knows the market”, an agency, a developer’s salesperson, an improvised broker… The longer the chain, the more the message distorts. Designate a short circuit: you → identified notary / professional → counterpart (seller or developer).
+Familie, een vriend ‘die de markt kent’, een bureau, een verkoper van een ontwikkelaar, een geïmproviseerde makelaar… Hoe langer de keten, hoe meer de boodschap vertekent. Wijs een kortsluiting aan: u → geïdentificeerde notaris/professional → wederpartij (verkoper of ontwikkelaar).
 
-### Horizon and use
+## Horizon en gebruik
 
-Many diaspora purchases fail conceptually before they fail legally: a property that is too large, too isolated, too theoretical as a “rental investment”, or incompatible with short stays. Clarify use before choosing a wilaya.
+Veel aankopen in de diaspora mislukken conceptueel voordat ze juridisch mislukken: een onroerend goed dat te groot is, te geïsoleerd, te theoretisch als ‘huurinvestering’, of onverenigbaar met een kort verblijf. Verduidelijk het gebruik voordat u een wilaya kiest.
 
-## Clarify the project before the property
+## Verduidelijk het project vóór het onroerend goed
 
-Write down four questions:
+Schrijf vier vragen op:
 
-1. **Main use**: live there during stays, house the family, hold wealth, prepare a return?
-2. **Horizon**: 2 years, 10 years, transmission?
-3. **Total budget**: price + fees + works + delay cushion (especially for new builds).
-4. **Follow-up capacity**: who visits the site, who receives the keys, who manages incidents?
+1. **Hoofdgebruik**: er wonen tijdens een verblijf, het gezin huisvesten, rijkdom aanhouden, een terugkeer voorbereiden?
+2. **Horizon**: 2 jaar, 10 jaar, transmissie?
+3. **Totaal budget**: prijs + erelonen + werken + vertragingskussen (vooral voor nieuwbouw).
+4. **Opvolgingscapaciteit**: wie bezoekt de werf, wie ontvangt de sleutels, wie beheert de incidenten?
 
-Without these answers, Algiers, Oran or Tipaza are only names on a map. To compare polarities, see [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir) and [Tipaza, Béjaïa, Oran](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre).
+Zonder deze antwoorden zijn Algiers, Oran of Tipaza slechts namen op een kaart. Zie [Algiers, Oran, Constantine](/nl/artikelen/alger-oran-constantine-investir) en [Tipaza, Béjaïa, Oran](/nl/artikelen/tipaza-bejaia-oran-zones-a-suivre) om de polariteiten te vergelijken.
 
-## Second-hand, delivered new, off-plan: three levels of distance
+## Tweedehands, nieuw geleverd, off-plan: drie afstandsniveaus
 
-### Documented second-hand
+## Gedocumenteerd tweedehands
 
-Advantage: visible property, potentially faster enjoyment. Risk: incomplete titles, undivided ownership, succession disputes, conditions invisible at a distance. Early on, require the list of [purchase documents](/nl/documenten-vastgoedkoop-algerije) and a notarial reading.
+Voordeel: zichtbare eigendom, mogelijk sneller genieten. Risico: onvolledige titels, onverdeeld eigendom, opvolgingsgeschillen, op afstand onzichtbare voorwaarden. Vereist in een vroeg stadium de lijst van [aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije) en een notariële lezing.
 
-### Already delivered new housing
+## Reeds nieuwe woningen opgeleverd
 
-Often an interesting compromise for the diaspora: modern product, construction risks largely behind, yet reception, reservations and documentary finalisation still need checking. See [new housing delivery](/nl/oplevering-nieuwe-woning-algerije).
+Vaak een interessant compromis voor de diaspora: modern product, bouw dreigt grotendeels achterop te raken, maar ontvangst, reserveringen en afronding van de documentaire moeten nog worden gecontroleerd. Zie [oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije).
 
-### Vente sur plans (off-plan sale)
+## Vente sur plans (off-plan verkoop)
 
-Financially accessible in some cases, but more demanding at a distance. Strictly apply the grid [buying off-plan: checks](/nl/artikelen/acheter-sur-plan-algerie-verifications) and the page [buying off-plan in Algeria](/nl/off-plan-kopen-algerije): developer **agrément**, contracts (Law 11-04, Decree 13-431), schedule, **FGCMPI** where applicable.
+In sommige gevallen financieel toegankelijk, maar op afstand veeleisender. Pas strikt het raster [off-plan kopen: controles](/nl/artikelen/acheter-sur-plan-algerie-verifications) en de pagina [off-plan kopen in Algerije](/nl/off-plan-kopen-algerije) toe: ontwikkelaar **agrément**, contracten (wet 11-04, decreet 13-431), planning, **FGCMPI** indien van toepassing.
 
-## The notary: an anchor point, not an option
+## De notaris: een ankerpunt, geen optie
 
-In [Algerian property law](/nl/artikelen/cadre-juridique-immobilier-algerie), the notary structures the security of the deed and guides on file completeness. For a buyer abroad, they are often the only professional able to bring the file back to reality.
+In [Algerijns eigendomsrecht](/nl/artikelen/cadre-juridique-immobilier-algerie) structureert de notaris de zekerheid van de akte en begeleidt hij de volledigheid van het dossier. Voor een koper in het buitenland zijn zij vaak de enige professional die het dossier weer tot werkelijkheid kan brengen.
 
-Good practices:
+Goede praktijken:
 
-- choose the notary early, before emotional commitment;
-- require that documents reach them directly;
-- do not sign heavy documents on a simple uncommented PDF;
-- clarify power of attorney / representation modalities if you cannot be present — according to your situation and applicable requirements, with personalised professional advice.
+- kies vroeg voor de notaris, vóór emotionele betrokkenheid;
+- eisen dat documenten hen rechtstreeks bereiken;
+- onderteken geen zware documenten op een eenvoudige pdf zonder commentaar;
+- verduidelijk de volmacht-/vertegenwoordigingsmodaliteiten als u niet aanwezig kunt zijn – afhankelijk van uw situatie en toepasselijke vereisten, met persoonlijk professioneel advies.
 
-The notary does not replace a technical inspection of the property, nor an analysis of your tax position in your country of residence.
+De notaris vervangt niet een technische inspectie van de woning, noch een analyse van uw fiscale positie in uw woonland.
 
-## Documents: the same requirement, different logistics
+## Documenten: dezelfde vereisten, andere logistiek
 
-Whether it is a **livret foncier**, a deed, identity documents, the property’s situation with **conservation foncière**, or the developer file, the rule is constant: **no significant payment without a readable file**.
+Of het nu gaat om een ​​*livret foncier*, een akte, identiteitsdocumenten, de situatie van het onroerend goed met **conservation foncière** of het ontwikkelaarsdossier, de regel is constant: **geen significante betaling zonder een leesbaar bestand**.
 
-At a distance, organise:
+Organiseer op afstand:
 
-- a shared cloud folder with dated versions;
-- a signed checklist (what is received / missing);
-- translation or explanation of technical terms if needed;
-- verification that plans and surfaces match the property visited on video.
+- een gedeelde cloudmap met gedateerde versies;
+- een ondertekende checklist (wat is ontvangen/ontbreekt);
+- vertaling of uitleg van technische termen indien nodig;
+- verificatie dat plattegronden en oppervlakken overeenkomen met het op video bezochte pand.
 
-Our page [property purchase documents in Algeria](/nl/documenten-vastgoedkoop-algerije) serves as a base; adapt it with your notary.
+Onze pagina [aankoopdocumenten van onroerend goed in Algerije](/nl/documenten-vastgoedkoop-algerije) dient als basis; Pas dit aan bij uw notaris.
 
-## Payments and traceability
+## Betalingen en traceerbaarheid
 
-The diaspora is a privileged target of opaque circuits: untraced cash, third-party accounts, “advances” to an intermediary. Require:
+De diaspora is een bevoorrecht doelwit van ondoorzichtige circuits: niet getraceerd geld, rekeningen van derden, ‘voorschotten’ aan een tussenpersoon. Vereisen:
 
-- a clear contractual framework before payment;
-- traceable transfers to the intended beneficiaries;
-- receipts and quittances;
-- alignment of amounts with the schedule (especially in development).
+- een duidelijk contractueel kader vóór betaling;
+- traceerbare overdrachten naar de beoogde begunstigden;
+- ontvangsten en opzeggingen;
+- afstemming van bedragen op de planning (vooral in ontwikkeling).
 
-Exchange, transfer and declaration rules may depend on your country of residence and on Algerian regulation applicable to your operation. That point belongs to personalised advice (bank, notary, authorised professional) — outside the scope of an editorial analysis.
+Regels voor ruilen, overdragen en declareren kunnen afhankelijk zijn van het land waar u woont en van de Algerijnse regelgeving die op uw activiteiten van toepassing is. Dat punt behoort tot persoonlijk advies (bank, notaris, bevoegde professional) – buiten het bereik van een redactionele analyse.
 
-## Delegate without relinquishing control
+## Delegeer zonder de controle uit handen te geven
 
-### Mandates and limits
+## Mandaten en limieten
 
-If a relative visits properties, define in writing: max budget, wilayas, typology, prohibitions (no deposit, no signature). A vague mandate creates family conflicts as much as wealth risks.
+Als een familielid eigendommen bezoekt, definieer dan schriftelijk: max. budget, wilayas, typologie, verboden (geen aanbetaling, geen handtekening). Een vaag mandaat creëert zowel familieconflicten als welvaartsrisico's.
 
-### Remote visits
+## Bezoeken op afstand
 
-Ask for:
+Vraag naar:
 
-- a live video visit (not only a montage);
-- a walk through the neighbourhood on foot;
-- photos of defects, not only flattering angles;
-- a second independent opinion if the amount is high.
+- een live videobezoek (niet alleen een montage);
+- een wandeling te voet door de wijk;
+- foto's van gebreken, niet alleen van flatterende hoeken;
+- een tweede onafhankelijke opinie als het bedrag hoog is.
 
-### Pre-selection of new projects
+## Voorselectie van nieuwe projecten
 
-To filter promotional noise, a grid such as [S.A.F.E](/nl/safe-vastgoedcertificering) (security, analysis, reliability, support) helps ask the right questions. Reminder: S.A.F.E is not an official State certification and does not replace the notary.
+Om reclamegeluid te filteren, helpt een raster als [S.A.F.E](/nl/safe-vastgoedcertificering) (beveiliging, analyse, betrouwbaarheid, ondersteuning) bij het stellen van de juiste vragen. Ter herinnering: S.A.F.E is geen officiële staatscertificering en vervangt de notaris niet.
 
-## Tax and residence: two countries, two logics
+## Belastingen en woonplaats: twee landen, twee logica's
 
-Owning a property in Algeria while residing abroad may create reporting obligations in the country of residence, and sometimes interactions between regimes. Do not improvise from forums. Consult a tax professional competent for your situation. Viva Algérie issues no tax advice.
+Het bezitten van onroerend goed in Algerije terwijl u in het buitenland woont, kan rapportageverplichtingen in het land van verblijf met zich meebrengen, en soms interacties tussen regimes. Improviseer niet op forums. Raadpleeg een belastingprofessional die bevoegd is voor uw situatie. Viva Algérie geeft geen belastingadvies.
 
-## Post-purchase management: the forgotten subject
+## Beheer na aankoop: het vergeten onderwerp
 
-Many diaspora files focus on signature and neglect the aftermath. Who pays the charges? Who intervenes in case of a leak, a claim or a neighbour dispute? Who keeps the keys and originals? Who follows a site through to [delivery](/nl/oplevering-nieuwe-woning-algerije)?
+Veel diasporadossiers concentreren zich op de handtekening en negeren de nasleep ervan. Wie betaalt de kosten? Wie komt tussenbeide bij een lekkage, schadeclaim of burengeschil? Wie bewaart de sleutels en originelen? Wie volgt een site tot en met [levering](/nl/oplevering-nieuwe-woning-algerije)?
 
-Without a management protocol, a property “for the family” quickly becomes a source of family friction. Put in writing, even simply: local contact, annual maintenance budget, occupation rules among relatives, and a calendar of your stays. Poorly managed wealth deteriorates as surely as a poorly titled file becomes complicated.
+Zonder beheerprotocol wordt een eigendom ‘voor het gezin’ al snel een bron van wrijving binnen het gezin. Op schrift gesteld, zelfs eenvoudig: lokaal contact, jaarlijks onderhoudsbudget, bezettingsregels onder familieleden en een kalender van uw verblijf. Slecht beheerd vermogen gaat net zo achteruit als een dossier met een slechte titel ingewikkeld wordt.
 
-Distance amplifies every ambiguity left unresolved at signing. A clear occupation calendar among siblings, a named local caretaker, and a shared folder for invoices and keys are not bureaucratic excesses: they are the practical tools that keep a family asset usable across borders. When those tools are missing, even a legally clean purchase can become a recurring conflict — and conflicts at a distance are harder and more expensive to resolve.
+Afstand versterkt elke dubbelzinnigheid die bij ondertekening onopgelost blijft. Een duidelijke bezettingskalender voor broers en zussen, een met naam genoemde lokale verzorger en een gedeelde map voor facturen en sleutels zijn geen bureaucratische excessen: het zijn de praktische hulpmiddelen die ervoor zorgen dat een familiebezit over de grenzen heen bruikbaar blijft. Wanneer deze hulpmiddelen ontbreken, kan zelfs een juridisch schone aankoop een terugkerend conflict worden – en conflicten op afstand zijn moeilijker en duurder om op te lossen.
 
-## Algiers attracts: yes, but it is not always the right first purchase
+## Algiers trekt aan: ja, maar het is niet altijd de juiste eerste aankoop
 
-Algiers remains magnetic for the diaspora — centrality, services, relative liquidity, symbolic prestige. Our reading [Why Algiers still attracts investors](/nl/artikelen/pourquoi-investir-immobilier-alger) explains that force. Even so, a first purchase may be more rational in a city of family anchorage (Oran, Constantine, Béjaïa, etc.) if the real use is there.
+Algiers blijft een aantrekkingskracht uitoefenen op de diaspora – centrale ligging, dienstverlening, relatieve liquiditeit, symbolisch prestige. Onze lezing [Waarom Algiers nog steeds investeerders aantrekt](/nl/artikelen/pourquoi-investir-immobilier-alger) legt die kracht uit. Toch kan een eerste aankoop rationeler zijn in een stad waar gezinnen verankerd zijn (Oran, Constantine, Béjaïa, enz.) als het echte nut er is.
 
-On Algiers new builds, cross [buying off-plan in Algiers](/nl/off-plan-kopen-algiers) with the [prices](/nl/vastgoedprijzen-algiers) context.
+Kruis bij de nieuwe builds van Algier [off-plan kopen in Algiers](/nl/off-plan-kopen-algiers) met de [prijzen](/nl/vastgoedprijzen-algiers)-context.
 
-## Typical diaspora mistakes
+## Typische diasporafouten
 
-- Entrusting a deposit to a non-contractual intermediary.
-- Buying on photos after a single sales call.
-- Choosing the largest property “for the family” without a maintenance budget.
-- Ignoring [risks](/nl/vastgoedrisicos-algerije) because “it’s for us”.
-- Signing a reservation contract without understanding schedule and deadlines.
-- Neglecting [developer](/nl/vastgoedontwikkelaar-controleren-algerije) verification.
-- Postponing the notary “to the end”.
+- Een deposito toevertrouwen aan een niet-contractuele tussenpersoon.
+- Kopen op foto's na een enkel verkoopgesprek.
+- Kiezen voor het grootste pand “voor het gezin” zonder onderhoudsbudget.
+- [risico's](/nl/vastgoedrisicos-algerije) negeren omdat “het voor ons is”.
+- Een reserveringscontract ondertekenen zonder het schema en de deadlines te begrijpen.
+- Het negeren van [ontwikkelaar](/nl/vastgoedontwikkelaar-controleren-algerije)-verificatie.
+- Het uitstellen van de notaris “tot het einde”.
 
-For a transversal list, see [mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie).
+Zie [fouten te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie) voor een transversale lijst.
 
-## An eight-step roadmap
+## Een routekaart in acht stappen
 
-1. Write use, budget, horizon.
-2. Choose 1–2 cities max linked to use.
-3. Contact a notary and set communication rules.
-4. Filter properties / projects (documents first).
-5. Visit (in person or strict video protocol).
-6. Have the contract / deed read before heavy payment.
-7. Pay in a traceable way under the agreed framework.
-8. Organise reception, keys, and post-purchase management.
+1. Schrijf gebruik, budget, horizon.
+2. Kies maximaal 1-2 steden die gekoppeld zijn aan gebruik.
+3. Neem contact op met een notaris en stel communicatieregels op.
+4. Filter eigenschappen / projecten (eerst documenten).
+5. Bezoek (persoonlijk of strikt videoprotocol).
+6. Laat het contract/de akte voorlezen voordat u tot grote betaling overgaat.
+7. Betaal traceerbaar binnen het afgesproken kader.
+8. Organiseren van ontvangst, sleutels en beheer na aankoop.
 
-## Key takeaways
+## Belangrijkste afhaalrestaurants
 
-The diaspora can buy intelligently in Algeria, provided distance is turned into method. The notary, documents (including livret foncier and conservation foncière when relevant), payment traceability and distrust of informal circuits are worth more than any “good deal” told over the phone. In new builds, the framework of Law 11-04 and Decree 13-431 is useful only if it is read and applied. In all cases, use precedes the map.
+De diaspora kan in Algerije intelligent kopen, op voorwaarde dat afstand wordt omgezet in methode. De notaris, documenten (waaronder livret foncier en conservation foncière indien relevant), de traceerbaarheid van betalingen en het wantrouwen in informele circuits zijn meer waard dan welke ‘goede deal’ dan ook die via de telefoon wordt verteld. In nieuwe builds is het raamwerk van wet 11-04 en decreet 13-431 alleen nuttig als het wordt gelezen en toegepast. In alle gevallen gaat het gebruik vooraf aan de kaart.
 
-To go further: [investment](/nl/investeren), [legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie), [S.A.F.E](/nl/safe-vastgoedcertificering).
+Om verder te gaan: [investering](/nl/investeren), [juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie), [S.A.F.E](/nl/safe-vastgoedcertificering).
 
-## FAQ
+## Veelgestelde vragen
 
-### Can I do everything 100% remotely?
+## Kan ik alles 100% op afstand doen?
 
-Sometimes, depending on the file and representation modalities. In practice, travel at key moments (signature, delivery) often remains rational. Your notary will specify what is workable in your case.
+Soms afhankelijk van het dossier en de vertegenwoordigingsmodaliteiten. In de praktijk blijft het reizen op sleutelmomenten (handtekening, bezorging) vaak rationeel. Uw notaris geeft aan wat in uw geval werkbaar is.
 
-### Can a family member reserve on my behalf?
+## Kan een familielid namens mij reserveren?
 
-Only within a clear framework (mandate, limits, no improvised payment). Family is not a substitute for the contract or the notary.
+Alleen binnen een duidelijk kader (mandaat, limieten, geen geïmproviseerde betaling). Familie is geen vervanging voor het contract of de notaris.
 
-### Is off-plan purchase discouraged for the diaspora?
+## Wordt off-plan aankoop ontmoedigd voor de diaspora?
 
-No, if it is documented and followed. Yes, if it rests on oral trust and opaque payments. Distance increases the need for formalism.
+Nee, als het gedocumenteerd en gevolgd wordt. Ja, als het berust op mondeling vertrouwen en ondoorzichtige betalingen. Afstand vergroot de behoefte aan formalisme.
 
-### What to check first on a developer?
+## Wat moet je als eerste controleren bij een ontwikkelaar?
 
-Agrément, legal identity, delivery history, coherence of land and contract, payment transparency. Details: [checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije).
+Overeenkomst, juridische identiteit, leveringsgeschiedenis, samenhang van land en contract, transparantie van betalingen. Details: [een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-### Do tourism figures help my choice?
+## Helpen toeristische cijfers mijn keuze?
 
-ONAT counted 3.548 million visitors in 2024: useful for coastal context, insufficient to decide a personal purchase.
+ONAT telde 3,548 miljoen bezoekers in 2024: nuttig voor kustcontext, onvoldoende om tot een persoonlijke aankoop te beslissen.
 
-### Does S.A.F.E replace my checks from abroad?
+## Vervangt S.A.F.E mijn controles uit het buitenland?
 
-No. It structures project pre-selection. Your notarial, documentary and financial checks remain indispensable.
+Nee. Het structureert de voorselectie van projecten. Uw notariële, documentaire en financiële controles blijven onmisbaar.
 
-## Sources
+## Bronnen
 
-- Law No. 11-04 of 17 February 2011 — real-estate development.
-- Executive Decree No. 13-431 of 18 December 2013 — model reservation and off-plan sale contracts.
-- Documentary framework: livret foncier, conservation foncière, role of the notary in Algeria.
-- FGCMPI — guarantee linked to real-estate development (when applicable).
-- National Tourism Office (ONAT) — 3.548 million visitors in 2024 (context).
-- National Statistics Office (ONS) — official demographic data.
-- Viva Algérie — [documents](/nl/documenten-vastgoedkoop-algerije), [risks](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
+- wet nr. 11-04 van 17 februari 2011 — vastgoedontwikkeling.
+- uitvoerend decreet nr. 13-431 van 18 december 2013 — modelreservering en verkoopcontracten op plan.
+- Documentair raamwerk: livret foncier, conservation foncière, rol van de notaris in Algerije.
+- FGCMPI — garantie gekoppeld aan vastgoedontwikkeling (indien van toepassing).
+- Nationaal Bureau voor Toerisme (ONAT) — 3,548 miljoen bezoekers in 2024 (context).
+- Nationaal Bureau voor de Statistiek (ONS) — officiële demografische gegevens.
+- Viva Algérie — [documenten](/nl/documenten-vastgoedkoop-algerije), [risico's](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

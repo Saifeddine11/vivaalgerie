@@ -1,0 +1,96 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { absoluteUrl, getHomePath } from '../lib/paths';
+import { getArticlesByCategory } from '../lib/content';
+import { t } from '../i18n/ui';
+
+const locale = 'fr' as const;
+const articles = await getArticlesByCategory('sahara-occidental', locale);
+const canonical = absoluteUrl('/sahara-occidental');
+const links = [
+  { href: '/articles/sahara-occidental-algerie-autodetermination', label: 'Pourquoi l’Algérie défend l’autodétermination' },
+  { href: '/articles/a-qui-appartient-sahara-occidental', label: 'À qui appartient le Sahara occidental ?' },
+  { href: '/articles/front-polisario-sahraouis-revendications', label: 'Front Polisario et revendications sahraouies' },
+  { href: '/articles/minurso-onu-sahara-occidental', label: 'MINURSO et présence de l’ONU' },
+  { href: '/articles/algerie-sahara-occidental-decolonisation', label: 'La lecture algérienne de la décolonisation' },
+];
+---
+
+<PageLayout
+  title="Sahara occidental — histoire, ONU, positions et enjeux"
+  description="Sahara occidental : comprendre l’histoire du conflit, le processus de l’ONU, les positions du Maroc, de l’Algérie et du Front Polisario."
+  locale={locale}
+  canonical={canonical}
+>
+  <article>
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-14 sm:py-20">
+        <Breadcrumbs items={[{ label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) }, { label: 'Sahara occidental', href: canonical }]} />
+        <p class="eyebrow mb-3">Dossier géopolitique</p>
+        <h1 class="mb-5 text-4xl sm:text-5xl">Sahara occidental : comprendre l’histoire, les positions et les enjeux</h1>
+        <p class="max-w-2xl text-lg text-muted">
+          Le Sahara occidental reste un dossier central du Maghreb : territoire non autonome pour l’ONU, revendication de souveraineté pour le Maroc, cause d’autodétermination pour le Front Polisario et question de décolonisation pour l’Algérie.
+        </p>
+      </div>
+    </header>
+
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial">
+        <p>
+          Le conflit du Sahara occidental ne peut pas être résumé par une formule unique. Il commence avec la fin de la présence espagnole, se prolonge dans une guerre entre le Maroc et le Front Polisario, puis entre dans un processus onusien ouvert depuis 1991. La MINURSO a été créée pour surveiller le cessez-le-feu et préparer un référendum dans lequel le peuple du territoire devait choisir entre l’indépendance et l’intégration au Maroc. Ce référendum n’a jamais eu lieu, et l’ONU continue de rechercher une solution politique négociée.
+        </p>
+        <p>
+          La position algérienne s’inscrit dans une tradition diplomatique centrée sur l’autodétermination des peuples colonisés. Alger présente le Sahara occidental comme une question de décolonisation inachevée et soutient que les Sahraouis doivent pouvoir exprimer librement leur choix. Cette lecture est forte dans l’opinion publique algérienne, parce qu’elle résonne avec la mémoire de la guerre de libération et avec l’idée de souveraineté nationale.
+        </p>
+        <p>
+          Le Maroc défend une lecture opposée : Rabat considère le Sahara occidental comme partie intégrante du royaume et propose depuis 2007 un plan d’autonomie sous souveraineté marocaine. Plusieurs capitales, dont les États-Unis et la France, ont renforcé leur soutien à ce plan. Mais au niveau des Nations unies, le dossier demeure traité comme une question à régler par un processus politique, avec des résolutions qui appellent une solution juste, durable, mutuellement acceptable et conforme au principe d’autodétermination.
+        </p>
+        <p>
+          Une lecture sérieuse doit donc distinguer les faits : le territoire figure toujours sur la liste onusienne des territoires non autonomes ; le Maroc contrôle la plus grande partie du territoire ; le Front Polisario revendique un État sahraoui indépendant ; l’Algérie soutient cette revendication au nom de l’autodétermination ; et la MINURSO reste déployée dans un contexte tendu depuis la rupture du cessez-le-feu en 2020.
+        </p>
+        <blockquote>
+          Cet article propose une analyse éditoriale fondée sur des sources publiques. Les sujets géopolitiques peuvent faire l’objet d’interprétations différentes selon les acteurs et les positions diplomatiques.
+        </blockquote>
+        <h2>Sources principales</h2>
+        <ul>
+          <li>Nations unies — Sahara occidental et décolonisation : <a href="https://www.un.org/dppa/decolonization/fr/nsgt/western-sahara">un.org</a></li>
+          <li>MINURSO — mandat et historique : <a href="https://minurso.unmissions.org/en/mandate">minurso.unmissions.org</a></li>
+          <li>Conseil de sécurité — résolution 2797 (2025) : <a href="https://digitallibrary.un.org/record/4093660">digitallibrary.un.org</a></li>
+          <li>Initiative marocaine d’autonomie transmise à l’ONU en 2007 : <a href="https://digitallibrary.un.org/record/607676">digitallibrary.un.org</a></li>
+          <li>Ministère algérien des Affaires étrangères — position sur l’autodétermination : <a href="https://www.mfa.gov.dz/fr/announcements/statement-of-the-ministry-of-foreign-affairs-usa-09042025">mfa.gov.dz</a></li>
+        </ul>
+        <h2>Articles du dossier</h2>
+      </div>
+    </div>
+
+    <section class="pb-16">
+      <div class="container-editorial">
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {
+            articles.map((article) => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                slug={article.data.slug}
+                category={article.data.category}
+                lang={locale}
+                pubDate={article.data.pubDate}
+                image={article.data.image}
+                imageAlt={article.data.imageAlt}
+              />
+            ))
+          }
+        </div>
+
+        <aside class="mt-12 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-6">
+          <h2 class="mb-4 text-2xl">Liens internes essentiels</h2>
+          <ul class="grid gap-3 sm:grid-cols-2">
+            {links.map((link) => <li><a class="text-green hover:underline" href={link.href}>{link.label} →</a></li>)}
+          </ul>
+        </aside>
+      </div>
+    </section>
+  </article>
+</PageLayout>

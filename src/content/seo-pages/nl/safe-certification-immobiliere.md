@@ -1,197 +1,194 @@
 ---
-title: "S.A.F.E — Secure Approved For Estate | Vastgoedcertificering in Algerije"
+title: "S.A.F.E — Secure Approved For Estate | Certificering van onroerend goed in Algerije"
 h1: "S.A.F.E — Secure Approved For Estate"
-description: "S.A.F.E analyseert vastgoedprojecten in Algerije: ontwikkelaar, dossier, betalingen, materialen, prijs, oplevering en begeleiding."
+description: "S.A.F.E — Secure Approved For Estate analyseert vastgoedprojecten in Algerije: S/A/F/E pijlers, Review, Certified, Prime en Confidential niveaus."
 slug: "safe-certification-immobiliere"
 lang: "nl"
 canonical: "https://vivaalgerie.com/nl/safe-vastgoedcertificering"
 translationKey: "safe-certification-immobiliere"
 ---
 
-> **Redactionele noot.** Nederlandse editie van Viva Algérie. Algerijnse juridische termen blijven behouden.
+**S.A.F.E — Secure Approved For Estate** is het eigen certificeringsrooster van Viva Algérie voor het analyseren van vastgoedprojecten op basis van vertrouwenscriteria: ontwikkelaar, dossier, betalingen, materialen, prijs, levering, transparantie en aansluiting bij het profiel van de koper.
 
+In een markt waar de informatie-asymmetrie sterk blijft – vooral voor nieuwbouw en *vente sur plans* (off-plan verkoop) – streeft S.A.F.E ernaar een **veeleisende voorselectie** te structureren. Het wist de Algerijnse wet, de notaris of de landcontroles niet uit.
 
-**S.A.F.E — Secure Approved For Estate** is Viva Algérie’s proprietary certification grid for analysing real-estate projects against trust criteria: developer, file, payments, materials, price, delivery, transparency and fit with the buyer’s profile.
+> **Belangrijke juridische disclaimer.** S.A.F.E is een **eigen certificering** van Viva Algérie. Het is **geen** overheidscertificering, een openbare *agrément* (goedkeuring) of een vervanging voor wettelijke controles. S.A.F.E **belooft niet** dat een project risicovrij is. S.A.F.E **vervangt niet** de wettelijke, notariële, technische of financiële controles die vóór elke aankoop vereist zijn. S.A.F.E is een voorselectie- en analyseraster.
 
-In a market where information asymmetry remains strong — especially for new build and *vente sur plans* (off-plan sale) — S.A.F.E aims to structure a **demanding pre-selection**. It does not erase Algerian law, the notary, or land checks.
-
-> **Important legal disclaimer.** S.A.F.E is a **proprietary certification** of Viva Algérie. It is **not** a government certification, a public *agrément* (approval), or a substitute for legal controls. S.A.F.E **does not promise** that a project is risk-free. S.A.F.E **does not replace** the legal, notarial, technical or financial checks required before any purchase. S.A.F.E is a pre-selection and analysis grid.
-
-## What does S.A.F.E mean?
+## Wat betekent S.A.F.E?
 
 **S.A.F.E** = **Secure Approved For Estate**.
 
-Four pillars structure the analysis:
+Vier pijlers structureren de analyse:
 
-| Letter | Pillar | Intent |
+| Letter | Pijler | Intentie |
 | --- | --- | --- |
-| **S** | Project security | File, actor, framework, traceability |
-| **A** | Investment analysis | Price / product / use / horizon coherence |
-| **F** | Execution reliability | Ability to deliver quality and timelines |
-| **E** | Buyer support | Transparency, information, journey |
+| **S** | Projectbeveiliging | Bestand, actor, raamwerk, traceerbaarheid |
+| **A** | Investeringsanalyse | Prijs / product / gebruik / horizon coherentie |
+| **F** | Uitvoeringsbetrouwbaarheid | Vermogen om kwaliteit en tijdlijnen te leveren |
+| **E** | Kopersondersteuning | Transparantie, informatie, reis |
 
-These pillars interact with the Algerian framework (Law **11-04**, Decree **13-431**, FGCMPI, *agrément*, *livret foncier*, notary) without replacing it.
+Deze pijlers staan ​​in wisselwerking met het Algerijnse raamwerk (Wet **11-04**, Decreet **13-431**, FGCMPI, *agrément*, *livret foncier*, notaris) zonder dit te vervangen.
 
-## Why a private grid makes sense in Algeria
+## Waarom een ​​particulier netwerk zinvol is in Algerije
 
-The Algerian buyer — resident or diaspora — faces:
+De Algerijnse koper – inwoner of diaspora – wordt geconfronteerd met:
 
-- programmes marketed too early;
-- interlocutors sometimes outside the *agrément* framework (a point reinforced by Justice vigilance in 2025);
-- gaps between marketing and the delivered product;
-- poorly disciplined payments;
-- difficulty comparing projects on stable criteria.
+- programma's die te vroeg op de markt worden gebracht;
+- gesprekspartners soms buiten het *agrément*-kader (een punt dat werd versterkt door de waakzaamheid van justitie in 2025);
+- hiaten tussen marketing en het geleverde product;
+- slecht gedisciplineerde betalingen;
+- moeite met het vergelijken van projecten op basis van stabiele criteria.
 
-S.A.F.E does not “save” a weak file. It helps you **refuse earlier** and **prioritise** projects that pass a documented filter.
+S.A.F.E “slaat” geen zwak bestand op. Het helpt u projecten **eerder te weigeren** en **prioriteit** te geven aan projecten die door een gedocumenteerd filter komen.
 
-For the upstream legal framework: [Buying off-plan](/nl/off-plan-kopen-algerije), [Checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije), [Documents](/nl/documenten-vastgoedkoop-algerije), [Risks](/nl/vastgoedrisicos-algerije).
+Voor het juridische kader stroomopwaarts: [Off-plan kopen](/nl/off-plan-kopen-algerije), [Een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [Documenten](/nl/documenten-vastgoedkoop-algerije), [Risico's](/nl/vastgoedrisicos-algerije).
 
-## Pillar S — Project security
+## Pijler S — Projectbeveiliging
 
-Typical questions:
+Typische vragen:
 
-- Does the developer hold an **agrément**, a **commercial register** entry, and registration on the **national table** of developers?
-- Are land rights and the **building permit** coherent?
-- Does the contract align with Algerian ***vente sur plans*** when applicable?
-- Is there **FGCMPI** / project traceability?
-- Do payments avoid opaque circuits?
+- Heeft de ontwikkelaar een **agrément**, een **handelsregister**-inschrijving en registratie op de **nationale lijst** van ontwikkelaars?
+- Zijn landrechten en de **bouwvergunning** coherent?
+- Komt het contract overeen met het Algerijnse ***vente sur plans***, indien van toepassing?
+- Is er **FGCMPI** / traceerbaarheid van projecten?
+- Vermijden betalingen ondoorzichtige circuits?
 
-A project weak on S is rarely “rescued” by a handsome 3D render.
+Een project dat zwak is op S wordt zelden “gered” door een knappe 3D-weergave.
 
-## Pillar A — Investment analysis
+## Pijler A — Investeringsanalyse
 
-Without publishing false prices, the analysis looks at:
+Zonder valse prijzen te publiceren, wordt in de analyse gekeken naar:
 
-- product / neighbourhood / use fit;
-- coherence of the displayed price with the segment (method, not a magic quote);
-- holding horizon and probable liquidity;
-- hidden costs (charges, parking, works, delay).
+- product/buurt/gebruiksfit;
+- samenhang van de weergegeven prijs met het segment (methode, geen magische quote);
+- houdhorizon en waarschijnlijke liquiditeit;
+- verborgen kosten (kosten, parkeren, werkzaamheden, vertraging).
 
-In Algiers, that means reading Hydra differently from Bab Ezzouar, and off-plan differently from a delivered unit. See [Property prices in Algiers](/nl/vastgoedprijzen-algiers), [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers).
+In Algiers betekent dit dat Hydra anders moet worden gelezen dan Bab Ezzouar, en anders moet worden gepland dan een geleverde eenheid. Zie [Vastgoedprijzen in Algiers](/nl/vastgoedprijzen-algiers), [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers).
 
-## Pillar F — Execution reliability
+## Pijler F — Betrouwbaarheid van de uitvoering
 
-- delivery history;
-- quality observed on references;
-- site organisation;
-- realism of the schedule;
-- management of reservations and after-sales.
+- leveringsgeschiedenis;
+- kwaliteit waargenomen op referenties;
+- werforganisatie;
+- realisme van de planning;
+- beheer van reserveringen en after-sales.
 
-Delivery is the moment of truth: [New housing delivery](/nl/oplevering-nieuwe-woning-algerije).
+Levering is het moment van de waarheid: [Oplevering nieuwe woning](/nl/oplevering-nieuwe-woning-algerije).
 
-## Pillar E — Buyer support
+## Pijler E — Ondersteuning van kopers
 
-- clarity of documents provided;
-- transparency on risks and delays;
-- quality of answers;
-- absence of abusive pressure;
-- readability of the notarial journey.
+- duidelijkheid van de verstrekte documenten;
+- transparantie over risico's en vertragingen;
+- kwaliteit van antwoorden;
+- afwezigheid van onrechtmatige druk;
+- leesbaarheid van het notariële traject.
 
-A project can be legally “presentable” and still poorly support the buyer: S.A.F.E treats this as a criterion, not a commercial detail.
+Een project kan juridisch “representatief” zijn en toch de koper slecht ondersteunen: S.A.F.E beschouwt dit als een criterium, niet als een commercieel detail.
 
-## The S.A.F.E levels
+## De S.A.F.E-niveaus
 
-### S.A.F.E Review
+## S.A.F.E Review
 
-Entry level: structured review of the file and available signals. Useful as a first filter, without claiming deep validation of every execution aspect.
+Instapniveau: gestructureerd overzicht van het dossier en beschikbare signalen. Handig als eerste filter, zonder een diepgaande validatie van elk uitvoeringsaspect te claimen.
 
-### S.A.F.E Certified
+## S.A.F.E Certified
 
-Standard certification level: fuller analysis across the four pillars, with a file judged robust enough for framed visibility — always under the legal reservations above.
+Standaardcertificeringsniveau: uitgebreidere analyse over de vier pijlers, waarbij een bestand robuust genoeg wordt geacht voor ingekaderde zichtbaarheid – altijd onder de bovenstaande wettelijke voorbehouden.
 
-### S.A.F.E Prime
+## S.A.F.E Prime
 
-Higher level: strengthened requirements on security, execution and transparency. Reserved for projects that demonstrate superior documentary and operational maturity.
+Hoger niveau: aangescherpte eisen op het gebied van beveiliging, uitvoering en transparantie. Gereserveerd voor projecten die blijk geven van superieure documentaire en operationele volwassenheid.
 
-### S.A.F.E Confidential
+## S.A.F.E Confidential
 
-A more restricted analysis / support level in public dissemination: sensitive files, limited access, or a deep-dive not intended for an open showcase. “Confidential” refers to the mode of handling / dissemination, not a promise of absolute secrecy or a guaranteed outcome.
+Een beperkter analyse-/ondersteuningsniveau bij publieke verspreiding: gevoelige bestanden, beperkte toegang of een deep-dive die niet bedoeld is voor een open showcase. ‘Vertrouwelijk’ verwijst naar de wijze van behandeling/verspreiding, en niet naar een belofte van absolute geheimhouding of een gegarandeerd resultaat.
 
-**Important**: a higher level means a more demanding analysis within the Viva Algérie grid — **not** all-risks insurance.
+**Belangrijk**: een hoger niveau betekent een veeleisendere analyse binnen het Viva Algérie-raster — **niet** all-risk verzekering.
 
-## What S.A.F.E is not
+## Wat S.A.F.E niet is
 
-- not a wilaya *agrément*;
-- not registration on the national table;
-- not a substitute for the FGCMPI;
-- not a judicial expertise;
-- not a yield promise;
-- not government validation.
+- geen wilaya *agrément*;
+- geen registratie op de nationale tafel;
+- geen vervanging voor de FGCMPI;
+- geen juridische expertise;
+- geen rendementsbelofte;
+- geen validatie door de overheid.
 
-Buyers should continue reading: [Legal framework](/nl/artikelen/cadre-juridique-immobilier-algerie), [Mistakes to avoid](/nl/artikelen/erreurs-acheter-immobilier-algerie).
+Kopers moeten verder lezen: [Juridisch kader](/nl/artikelen/cadre-juridique-immobilier-algerie), [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie).
 
-## How to use S.A.F.E in practice
+## Hoe S.A.F.E in de praktijk te gebruiken
 
-1. Identify a project of interest.
-2. Check the basic legal framework (developer, permit, contract).
-3. Consult the S.A.F.E level if one exists for that project.
-4. Read the published limits.
-5. Go to the **notary** with your questions.
-6. Do not pay outside a secured circuit.
+1. Identificeer een interessant project.
+2. Controleer het juridische basiskader (ontwikkelaar, vergunning, contract).
+3. Raadpleeg het niveau S.A.F.E als dat voor dat project bestaat.
+4. Lees de gepubliceerde limieten.
+5. Ga met uw vragen naar de **notaris**.
+6. Betaal niet buiten een beveiligd circuit.
 
-For the diaspora: [Buying from abroad](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
+Voor de diaspora: [Kopen vanuit het buitenland](/nl/artikelen/diaspora-algerienne-acheter-immobilier).
 
-## S.A.F.E and new build / off-plan
+## S.A.F.E en nieuwbouw / off-plan
 
-It is on new build that the grid adds the most educational value: payment schedule, progress, materials, delivery, transparency. It complements these pages:
+Het is bij nieuwbouw dat het grid de meeste educatieve waarde toevoegt: betalingsschema, voortgang, materialen, oplevering, transparantie. Het is een aanvulling op deze pagina's:
 
-- [Buying off-plan in Algeria](/nl/off-plan-kopen-algerije)
-- [Buying off-plan in Algiers](/nl/off-plan-kopen-algiers)
-- [New housing](/nl/artikelen/logement-neuf-algerie-opportunite-risque)
-- [Off-plan checks](/nl/artikelen/acheter-sur-plan-algerie-verifications)
+- [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije)
+- [Off-plan kopen in Algiers](/nl/off-plan-kopen-algiers)
+- [Nieuwe behuizing](/nl/artikelen/logement-neuf-algerie-opportunite-risque)
+- [Controles buiten het plan](/nl/artikelen/acheter-sur-plan-algerie-verifications)
 
-## Editorial governance
+## Redactioneel bestuur
 
-Viva Algérie publishes real-estate, tourism and investment analysis centred on Algeria. S.A.F.E fits that line: require sources, refuse invented figures, recall limits. An uncertified project is not automatically “fraudulent”; a certified project is not automatically “perfect”.
+Viva Algérie publiceert vastgoed-, toerisme- en investeringsanalyses gericht op Algerije. S.A.F.E past in die lijn: bronnen vereisen, verzonnen cijfers weigeren, grenzen terugroepen. Een niet-gecertificeerd project is niet automatisch “frauduleus”; een gecertificeerd project is niet automatisch “perfect”.
 
-## Illustrative S / A / F / E readings
+## Illustratieve S / A / F / E-metingen
 
-- **Weak S**: aggressive marketing without presentable *agrément* documents → stop.
-- **Fragile A**: price disconnected from the segment without product justification → caution.
-- **Doubtful F**: no site or delivered references to visit despite an ambitious schedule → execution risk.
-- **Insufficient E**: evasive answers, 24-hour pressure, documents “later” → poor buyer support.
+- **Zwakke S**: agressieve marketing zonder representatieve *agrément* documenten → stop.
+- **Fragiele A**: prijs losgekoppeld van het segment zonder productrechtvaardiging → voorzichtigheid.
+- **Twijfelachtige F**: geen site of geleverde referenties om te bezoeken ondanks een ambitieus schema → uitvoeringsrisico.
+- **Onvoldoende E**: ontwijkende antwoorden, 24-uurs druk, documenten “later” → slechte kopersondersteuning.
 
-These pedagogical examples do not score any real project; they show how to speak S.A.F.E language day to day.
+Deze pedagogische voorbeelden scoren geen echt project; ze laten zien hoe je de S.A.F.E-taal van dag tot dag spreekt.
 
-## How it connects with Viva Algérie guide pages
+## Hoe het aansluit op de Viva Algérie-gidspagina's
 
-S.A.F.E works best when read with the practical guides: [checking a developer](/nl/vastgoedontwikkelaar-controleren-algerije), [documents](/nl/documenten-vastgoedkoop-algerije), [risks](/nl/vastgoedrisicos-algerije), [delivery](/nl/oplevering-nieuwe-woning-algerije) and [prices in Algiers](/nl/vastgoedprijzen-algiers). Certification orients; the guides operationalise. Also see our [guides](/nl/gidsen) and [real estate](/nl/vastgoed) hubs.
+S.A.F.E werkt het beste als u de praktische handleidingen leest: [een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [documenten](/nl/documenten-vastgoedkoop-algerije), [risico's](/nl/vastgoedrisicos-algerije), [levering](/nl/oplevering-nieuwe-woning-algerije) en [prijzen in Algiers](/nl/vastgoedprijzen-algiers). Certificeringsoriëntaties; de gidsen worden operationeel. Zie ook onze [gidsen](/nl/gidsen) en [vastgoed](/nl/vastgoed) hubs.
 
-## Key takeaways
+## Belangrijkste afhaalrestaurants
 
-**S.A.F.E** is a shared language for talking about real-estate trust in Algeria: project Security, investment Analysis, execution reliability (Fiability), buyer support (Encadrement) — with Review, Certified, Prime and Confidential levels. Use it as a **compass**, never as a legal **umbrella**.
+**S.A.F.E** is een gedeelde taal om te praten over vertrouwen in onroerend goed in Algerije: projectbeveiliging, investeringsanalyse, uitvoeringsbetrouwbaarheid (Fiability), kopersondersteuning (Encadrement) - met de niveaus Review, Certified, Prime en Confidential. Gebruik het als een **kompas**, nooit als een legale **paraplu**.
 
-Next steps: the guide pages above, and the market reading [Real estate 2026](/nl/artikelen/immobilier-algerie-2026).
+Volgende stappen: de bovenstaande gidspagina's en de marktlezing [Onroerend goed 2026](/nl/artikelen/immobilier-algerie-2026).
 
-## FAQ
+## Veelgestelde vragen
 
-### Is S.A.F.E an official certification?
+## Is S.A.F.E een officiële certificering?
 
-No. S.A.F.E is a **proprietary** certification of Viva Algérie. It is not issued by the State and does not replace developer *agrément* or public controls.
+Nee. S.A.F.E is een **eigen** certificering van Viva Algérie. Het wordt niet uitgegeven door de staat en vervangt ontwikkelaar *agrément* of openbare controles niet.
 
-### What does S.A.F.E mean?
+## Wat betekent S.A.F.E?
 
-Secure Approved For Estate. The pillars are: project Security, investment Analysis, execution reliability, buyer support.
+Secure Approved For Estate. De pijlers zijn: projectveiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning.
 
-### Does S.A.F.E guarantee that a project is risk-free?
+## Garandeert S.A.F.E dat een project risicovrij is?
 
-No. No real-estate project is risk-free. S.A.F.E analyses and pre-selects; it does not guarantee the absence of delay, defects or disputes.
+Nee. Geen enkel vastgoedproject is risicovrij. S.A.F.E analyseert en voorselecteert; het garandeert niet de afwezigheid van vertraging, defecten of geschillen.
 
-### Why is S.A.F.E useful for a buyer?
+## Waarom is S.A.F.E nuttig voor een koper?
 
-Because it imposes a stable grid (actor, file, execution, transparency, investment coherence) and helps avoid purely emotional decisions.
+Omdat het een stabiel raster oplegt (acteur, dossier, uitvoering, transparantie, investeringscoherentie) en puur emotionele beslissingen helpt vermijden.
 
-### What is the difference between Review, Certified, Prime and Confidential?
+## Wat is het verschil tussen Review, Certified, Prime en Confidential?
 
-They are levels of requirement / depth (and, for Confidential, of dissemination mode). The higher the level in the grid, the more demanding the analysis — without becoming insurance.
+Het zijn niveaus van vereisten/diepgang (en, voor vertrouwelijk, van verspreidingsmodus). Hoe hoger het niveau in het raster, hoe veeleisender de analyse – zonder dat dit een verzekering wordt.
 
-### Can I buy without a notary if a project is S.A.F.E?
+## Kan ik zonder notaris kopen als een project S.A.F.E is?
 
-No. The notary and legal checks remain essential, whatever the S.A.F.E level.
+Nee. De notariële en juridische controles blijven essentieel, ongeacht het S.A.F.E-niveau.
 
-## Sources
+## Bronnen
 
-- Buyer legal reference framework: Law 11-04, Decree 13-431, FGCMPI — [fgcmpi.org.dz](https://fgcmpi.org.dz)
-- 2025 vigilance on illegal development — Justice note / Algerian press coverage
-- Land documentation — [DGDN](https://www.dgdn.gov.dz)
-- Viva Algérie editorial methodology — this page and related guides
+- Juridisch referentiekader voor de koper: wet 11-04, decreet 13-431, FGCMPI — [fgcmpi.org.dz](https://fgcmpi.org.dz)
+- Waakzaamheid in 2025 voor illegale ontwikkeling – Nota van Justitie / berichtgeving in de Algerijnse pers
+- Landdocumentatie — [DGDN](https://www.dgdn.gov.dz)
+- Viva Algérie redactionele methodologie – deze pagina en gerelateerde handleidingen
