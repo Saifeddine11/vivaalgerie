@@ -57,7 +57,7 @@ Guides utiles :
 - [Acheter sur plan en Algérie](/acheter-sur-plan-algerie)
 - [Documents pour un achat immobilier](/documents-achat-immobilier-algerie)
 - [Risques de l’achat immobilier](/risques-achat-immobilier-algerie)
-- [SAFE et certification immobilière](/safe-certification-immobiliere)
+- [S.A.F.E et méthode d’analyse immobilière](/safe-certification-immobiliere)
 
 ## Segments qui retiennent l’attention en 2026
 

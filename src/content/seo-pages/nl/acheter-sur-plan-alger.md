@@ -119,11 +119,11 @@ Een off-plan aankoop in Algiers is geen “vloeibare” plaatsing. Beschouw het 
 
 ## Stap 9 — Integreer een aanvullende S.A.F.E-meting
 
-De **S.A.F.E**-certificering (Secure Approved For Estate) van Viva Algérie evalueert projecten op vier pijlers: veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning. Niveaus: Review, Certified, Prime, Confidential.
+De **S.A.F.E**-methode (Security, Analysis, Fidelity & Expert Guidance) van Viva Algérie evalueert projecten op vier pijlers: veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning. Niveaus: Review, Certified, Prime, Confidential.
 
-**Let op**: S.A.F.E is een **eigen** netwerk, geen staatscertificering. Het vervangt noch de notaris, noch *agrément*, noch FGCMPI.
+**Let op**: S.A.F.E is een **eigen** methode, geen officiële staatscertificering. Het vervangt noch de notaris, noch *agrément*, noch FGCMPI.
 
-Meer informatie: [S.A.F.E — vastgoedcertificering](/nl/safe-vastgoedcertificering).
+Meer informatie: [S.A.F.E — vastgoedanalysemethode](/nl/safe-vastgoedcertificering).
 
 ## Nuttige details voor de diaspora in Algiers
 

@@ -60,8 +60,8 @@ export function extractFaqsFromMarkdown(content: string): {
   const faqs: { question: string; answer: string }[] = [];
   const faqSection = content.split(/##\s+FAQ/i)[1];
   if (!faqSection) return faqs;
-  const beforeSources = faqSection.split(/##\s+Sources/i)[0] ?? faqSection;
-  const blocks = beforeSources.split(/###\s+/).slice(1);
+  const faqOnly = faqSection.split(/\n##\s+/)[0] ?? faqSection;
+  const blocks = faqOnly.split(/###\s+/).slice(1);
   for (const block of blocks) {
     const lines = block.trim().split('\n');
     const question = lines[0]?.trim();

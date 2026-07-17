@@ -50,7 +50,7 @@ Signaux d’alerte fréquents :
 - promesses de délais sans mécanisme contractuel lisible ;
 - absence de réponses précises sur le **FGCMPI** et les garanties.
 
-Correction : appliquez une grille de vérification avant la séduction du showroom. Guide dédié : [Comment vérifier un promoteur immobilier en Algérie](/comment-verifier-promoteur-immobilier-algerie). Sur la certification et les démarches de sécurisation : [SAFE certification immobilière](/safe-certification-immobiliere).
+Correction : appliquez une grille de vérification avant la séduction du showroom. Guide dédié : [Comment vérifier un promoteur immobilier en Algérie](/comment-verifier-promoteur-immobilier-algerie). Sur la méthode d’analyse et les démarches de sécurisation : [méthode S.A.F.E](/safe-certification-immobiliere).
 
 ## Erreur n°3 : croire que « sur plan » veut dire « moins de formalités »
 

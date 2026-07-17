@@ -161,7 +161,7 @@ Complement: [Mistakes when buying](/en/articles/erreurs-acheter-immobilier-alger
 
 A project analysed **S.A.F.E** (proprietary Viva Algérie grid) is not “guaranteed defect-free”. Acceptance remains a personal, notarial and technical act. S.A.F.E replaces neither the report nor the reservations.
 
-Learn more: [S.A.F.E certification](/en/safe-real-estate-certification).
+Learn more: [S.A.F.E method](/en/safe-real-estate-certification).
 
 ## Express checklist to print
 

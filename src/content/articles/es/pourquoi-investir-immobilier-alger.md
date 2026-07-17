@@ -58,7 +58,7 @@ Guías útiles:
 - [Acheter sur plan en Algérie](/es/comprar-sobre-plano-argelia)
 - [Documents pour un achat immobilier](/es/documentos-compra-inmobiliaria-argelia)
 - [Risques de l’achat immobilier](/es/riesgos-compra-inmobiliaria-argelia)
-- [SAFE et certification immobilière](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E et méthode d’analyse immobilière](/es/certificacion-inmobiliaria-safe)
 
 ## Segmentos que recibirán atención en 2026
 

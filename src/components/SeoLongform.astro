@@ -91,17 +91,24 @@ const webPageLd = {
   inLanguage: locale,
 };
 
+const isSafePage = slug === 'safe-certification-immobiliere';
+const safeSocialTitle = 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance';
+const safeSocialDescription =
+  locale === 'fr'
+    ? 'Une méthode propriétaire pour mieux analyser la sécurité du projet, la cohérence de l’investissement, la fiabilité d’exécution et l’encadrement de l’acheteur.'
+    : page.data.description;
+
 const related =
   locale === 'fr'
     ? [
-        { href: getSafePath('fr'), label: 'Certification S.A.F.E' },
+        { href: getSafePath('fr'), label: 'Méthode S.A.F.E' },
         { href: '/acheter-sur-plan-algerie', label: 'Acheter sur plan en Algérie' },
         { href: '/documents-achat-immobilier-algerie', label: 'Documents d’achat' },
         { href: '/guides', label: 'Guides pratiques' },
       ]
     : locale === 'en'
       ? [
-          { href: getSafePath('en'), label: 'S.A.F.E certification' },
+          { href: getSafePath('en'), label: 'S.A.F.E method' },
           {
             href: getSeoPath('en', 'acheter-sur-plan-algerie'),
             label: 'Buying off-plan in Algeria',
@@ -114,7 +121,7 @@ const related =
         ]
       : locale === 'es'
         ? [
-            { href: getSafePath('es'), label: 'Certificación S.A.F.E' },
+            { href: getSafePath('es'), label: 'Metodología S.A.F.E' },
             {
               href: getSeoPath('es', 'acheter-sur-plan-algerie'),
               label: 'Comprar sobre plano',
@@ -126,7 +133,7 @@ const related =
             { href: '/es/guias', label: 'Guías prácticas' },
           ]
         : [
-            { href: getSafePath('nl'), label: 'S.A.F.E-certificering' },
+            { href: getSafePath('nl'), label: 'S.A.F.E-methode' },
             {
               href: getSeoPath('nl', 'acheter-sur-plan-algerie'),
               label: 'Off-plan kopen',
@@ -155,6 +162,10 @@ const furtherLabel =
   canonical={canonical}
   hreflang={hreflang}
   jsonLd={[webPageLd, breadcrumbLd, faqLd].filter(Boolean) as Record<string, unknown>[]}
+  ogTitle={isSafePage ? safeSocialTitle : undefined}
+  ogDescription={isSafePage ? safeSocialDescription : undefined}
+  twitterTitle={isSafePage ? safeSocialTitle : undefined}
+  twitterDescription={isSafePage ? safeSocialDescription : undefined}
 >
   <article>
     <header class="border-b border-border bg-bg-secondary">

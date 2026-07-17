@@ -119,11 +119,11 @@ Una compra sobre plano en Argel no es una colocación “líquida”. Trátelo c
 
 ## Paso 9: integrar una lectura S.A.F.E complementaria
 
-La certificación **S.A.F.E** (Secure Approved For Estate) de Viva Algérie evalúa proyectos en cuatro pilares: seguridad, análisis de inversiones, confiabilidad de ejecución y soporte al comprador. Niveles: Revisión, Certificado, Prime, Confidencial.
+La metodología **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie evalúa proyectos en cuatro pilares: seguridad, análisis de inversiones, confiabilidad de ejecución y soporte al comprador. Niveles: Revisión, Certificado, Prime, Confidencial.
 
-**Precaución**: S.A.F.E es una red **propietaria**, no una certificación estatal. No sustituye ni a notario, ni a *agrément*, ni a FGCMPI.
+**Precaución**: S.A.F.E es una metodología **propietaria**, no una certificación estatal. No sustituye ni a notario, ni a *agrément*, ni a FGCMPI.
 
-Más información: [S.A.F.E — certificación inmobiliaria](/es/certificacion-inmobiliaria-safe).
+Más información: [S.A.F.E — metodología de análisis inmobiliario](/es/certificacion-inmobiliaria-safe).
 
 ## Detalles útiles para la diáspora en Argel
 

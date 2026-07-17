@@ -161,7 +161,7 @@ Complément : [Erreurs à l’achat](/articles/erreurs-acheter-immobilier-algeri
 
 Un projet analysé **S.A.F.E** (grille propriétaire Viva Algérie) n’est pas « garanti sans défaut ». La réception reste un acte personnel, notarié et technique. S.A.F.E ne remplace pas le PV ni les réserves.
 
-En savoir plus : [Certification S.A.F.E](/safe-certification-immobiliere).
+En savoir plus : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
 ## Checklist express à imprimer
 

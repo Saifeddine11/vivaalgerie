@@ -59,7 +59,7 @@ Handige handleidingen:
 - [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije)
 - [Documenten voor een aankoop van onroerend goed](/nl/documenten-vastgoedkoop-algerije)
 - [Risico's bij aankoop van onroerend goed](/nl/vastgoedrisicos-algerije)
-- [S.A.F.E en vastgoedcertificering](/nl/safe-vastgoedcertificering)
+- [S.A.F.E en vastgoedanalysemethode](/nl/safe-vastgoedcertificering)
 
 ## Segmenten die aandacht krijgen in 2026
 

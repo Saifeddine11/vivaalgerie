@@ -99,9 +99,9 @@ Complements: [Mistakes to avoid](/en/articles/erreurs-acheter-immobilier-algerie
 
 ## The role of S.A.F.E in risk reduction
 
-**S.A.F.E** (Secure Approved For Estate) is a proprietary Viva Algérie grid for analysing projects (security, investment, execution, support). It **does not guarantee** the absence of risk and **is not** a government certification. It helps structure a pre-selection.
+**S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) is a proprietary Viva Algérie grid for analysing projects (security, investment, execution, support). It **does not guarantee** the absence of risk and **is not** a government validation. It helps structure a pre-selection.
 
-Details: [S.A.F.E certification](/en/safe-real-estate-certification).
+Details: [S.A.F.E method](/en/safe-real-estate-certification).
 
 ## Key takeaways
 

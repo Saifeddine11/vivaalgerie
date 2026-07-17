@@ -92,7 +92,7 @@ Viva Algérie guides:
 - [How to check a developer](/en/how-to-check-real-estate-developer-algeria)
 - [Property purchase documents](/en/real-estate-documents-algeria)
 - [Purchase risks](/en/real-estate-risks-algeria)
-- [S.A.F.E certification](/en/safe-real-estate-certification)
+- [S.A.F.E method](/en/safe-real-estate-certification)
 - [Mistakes to avoid](/en/articles/erreurs-acheter-immobilier-algerie)
 
 ## Indirect urban effects: beyond the beach

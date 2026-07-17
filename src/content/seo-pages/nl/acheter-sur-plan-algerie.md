@@ -117,9 +117,9 @@ De koper moet **met een dossier** bij de notaris aankomen, niet alleen met een b
 
 ## Hoe S.A.F.E de wet aanvult (zonder te vervangen).
 
-Het **S.A.F.E**-raster (Secure Approved For Estate) van Viva Algérie analyseert projecten op basis van vertrouwenscriteria (veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning). Het is **eigendom**: het is geen overheidscertificering en vervangt noch de notaris, noch *conservation foncière*, noch de FGCMPI.
+Het **S.A.F.E**-raster (Security, Analysis, Fidelity & Expert Guidance) van Viva Algérie analyseert projecten op basis van vertrouwenscriteria (veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning). Het is **eigendom**: het is geen overheidsvalidatie en vervangt noch de notaris, noch *conservation foncière*, noch de FGCMPI.
 
-Ontdek het schema: [S.A.F.E vastgoedcertificering](/nl/safe-vastgoedcertificering).
+Ontdek het schema: [S.A.F.E vastgoedanalysemethode](/nl/safe-vastgoedcertificering).
 
 ## Praktische methode voor de diaspora
 
@@ -160,7 +160,7 @@ decreet 13-431 moduleert de betaling afhankelijk van de voortgang (met name 20%,
 
 Reserveer niet en betaal geen aanbetaling. Oefenen zonder *agrément* is in strijd met het raamwerk voor vastgoedontwikkeling. Raadpleeg een notaris en raadpleeg onze gids op [het controleren van de ontwikkelaar](/nl/vastgoedontwikkelaar-controleren-algerije).
 
-## Vervangt de S.A.F.E-certificering de wettelijke controles?
+## Vervangt de S.A.F.E-methode de wettelijke controles?
 
 Nee. S.A.F.E is een eigen analyseraster. Het vervangt noch de notaris, noch *agrément*, noch de FGCMPI, noch land- en technische controles.
 

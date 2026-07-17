@@ -46,7 +46,7 @@ De **notaris** is geen simpele einde-processtempel. Ze komen tussenbeide bij het
 
 ## Wat de notaris niet is
 
-De notaris garandeert niet dat de prijs “de juiste marktprijs” is, noch dat de woning vrij is van verborgen technische gebreken, noch dat uw persoonlijke belastingopstelling optimaal is. Ze vervangen ook geen eigen projectcertificering zoals [S.A.F.E](/nl/safe-vastgoedcertificering).
+De notaris garandeert niet dat de prijs “de juiste marktprijs” is, noch dat de woning vrij is van verborgen technische gebreken, noch dat uw persoonlijke belastingopstelling optimaal is. Ze vervangen ook geen eigen projectmethode zoals [S.A.F.E](/nl/safe-vastgoedcertificering).
 
 ## Goede praktijken voor kopers
 
@@ -99,7 +99,7 @@ Voor de volledige reis: [off-plan kopen in Algerije](/nl/off-plan-kopen-algerije
 
 ## De rol van S.A.F.E bij voorselectie
 
-Nog vóór de zware notariële fase verdwalen veel kopers in een overschot aan aanbiedingen. **S.A.F.E — Secure Approved For Estate** is een bedrijfseigen (niet-statelijke) certificering die de projectanalyse rond vier pijlers structureert: projectbeveiliging, investeringsanalyse, uitvoeringsbetrouwbaarheid en kopersondersteuning.
+Nog vóór de zware notariële fase verdwalen veel kopers in een overschot aan aanbiedingen. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** is een bedrijfseigen (niet-statelijke) methode die de projectanalyse rond vier pijlers structureert: projectbeveiliging, investeringsanalyse, uitvoeringsbetrouwbaarheid en kopersondersteuning.
 
 Het pedagogische nut ervan binnen het wettelijke kader is indirect maar reëel: het dwingt kopers om vroeg de vragen te stellen die de wet later zal stellen: wie is de ontwikkelaar, is het bestand leesbaar, zijn betalingen traceerbaar, is de levering geloofwaardig?
 
@@ -158,7 +158,7 @@ In de praktijk van eigendomsoverdrachten is het beroep op de notaris structureel
 
 ## Is S.A.F.E een officiële certificering van de Algerijnse staat?
 
-Nee. Het is een eigen certificering voor de preselectie en analyse van projecten. Het vervangt niet de overheidsinstanties of de notaris.
+Nee. Het is een eigen methode voor de preselectie en analyse van projecten. Het vervangt niet de overheidsinstanties of de notaris.
 
 ## Wat als een verkoper weigert via een notaris te gaan?
 

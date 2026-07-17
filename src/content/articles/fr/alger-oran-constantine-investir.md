@@ -120,7 +120,7 @@ Guides transverses :
 - [Acheter sur plan en Algérie](/acheter-sur-plan-algerie)
 - [Documents d’achat](/documents-achat-immobilier-algerie)
 - [Risques de l’achat](/risques-achat-immobilier-algerie)
-- [SAFE certification](/safe-certification-immobiliere)
+- [Méthode S.A.F.E](/safe-certification-immobiliere)
 - [Erreurs à éviter](/articles/erreurs-acheter-immobilier-algerie)
 - [Immobilier en Algérie en 2026](/articles/immobilier-algerie-2026)
 

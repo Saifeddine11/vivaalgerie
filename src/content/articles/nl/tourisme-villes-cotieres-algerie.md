@@ -92,7 +92,7 @@ Viva Algérie-gidsen:
 - [Hoe een ontwikkelaar te controleren](/nl/vastgoedontwikkelaar-controleren-algerije)
 - [Aankoopdocumenten van onroerend goed](/nl/documenten-vastgoedkoop-algerije)
 - [Aankooprisico's](/nl/vastgoedrisicos-algerije)
-- [S.A.F.E-certificering](/nl/safe-vastgoedcertificering)
+- [S.A.F.E-methode](/nl/safe-vastgoedcertificering)
 - [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie)
 
 ## Indirecte stedelijke effecten: voorbij het strand

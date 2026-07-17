@@ -114,7 +114,7 @@ Ask for:
 
 ### Pre-selection of new projects
 
-To filter promotional noise, a grid such as [S.A.F.E](/en/safe-real-estate-certification) (security, analysis, reliability, support) helps ask the right questions. Reminder: S.A.F.E is not an official State certification and does not replace the notary.
+To filter promotional noise, a grid such as [S.A.F.E](/en/safe-real-estate-certification) (security, analysis, reliability, support) helps ask the right questions. Reminder: S.A.F.E is not an official state certification and does not replace the notary.
 
 ## Tax and residence: two countries, two logics
 

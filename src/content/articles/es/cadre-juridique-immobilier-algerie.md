@@ -47,7 +47,7 @@ El **notario** no es un simple sello de fin de curso. Interviene en la formaliza
 
 ## Lo que no es el notario
 
-El notario no garantiza que el precio sea “el precio correcto de mercado”, ni que el inmueble esté libre de vicios técnicos ocultos, ni que su régimen fiscal personal sea óptimo. Tampoco reemplaza una certificación de propietario de proyecto como [S.A.F.E](/es/certificacion-inmobiliaria-safe).
+El notario no garantiza que el precio sea “el precio correcto de mercado”, ni que el inmueble esté libre de vicios técnicos ocultos, ni que su régimen fiscal personal sea óptimo. Tampoco reemplaza una metodología propietaria de proyecto como [S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
 ## Mejores prácticas para el comprador
 
@@ -100,7 +100,7 @@ Para el recorrido completo: [acheter sur plan en Algérie](/es/comprar-sobre-pla
 
 ## El papel de S.A.F.E en la preselección
 
-Incluso antes de la difícil fase notarial, muchos compradores se pierden en una avalancha de ofertas. **S.A.F.E — Secure Approved For Estate** es una certificación propietaria (no estatal) que estructura el análisis de un proyecto según cuatro pilares: seguridad del proyecto, análisis de inversiones, confiabilidad de la ejecución y supervisión del comprador.
+Incluso antes de la difícil fase notarial, muchos compradores se pierden en una avalancha de ofertas. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** es una metodología propietaria (no estatal) que estructura el análisis de un proyecto según cuatro pilares: seguridad del proyecto, análisis de inversiones, confiabilidad de la ejecución y supervisión del comprador.
 
 Su utilidad educativa en el marco legal es indirecta pero real: nos alienta a plantearnos desde el principio las preguntas que la ley planteará más adelante: ¿quién es el promotor, es legible el expediente, son rastreables los pagos, es creíble la entrega?
 
@@ -155,7 +155,7 @@ En la práctica de transferencias de bienes inmuebles, se estructura la utilizac
 
 ## ¿Es S.A.F.E una certificación oficial del Estado argelino?
 
-No. Es una certificación propia para la preselección y análisis de proyectos. No sustituye a las autoridades públicas ni al notario.
+No. Es una metodología propia para la preselección y análisis de proyectos. No sustituye a las autoridades públicas ni al notario.
 
 ## ¿Qué hacer si un vendedor se niega a acudir al notario?
 

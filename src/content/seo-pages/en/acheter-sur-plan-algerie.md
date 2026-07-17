@@ -117,9 +117,9 @@ The buyer must arrive at the notary **with a file**, not only with a brochure. P
 
 ## How S.A.F.E complements (without replacing) the law
 
-The **S.A.F.E** grid (Secure Approved For Estate) from Viva Algérie analyses projects against trust criteria (security, investment analysis, execution reliability, buyer support). It is **proprietary**: it is not a government certification, and it replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
+The **S.A.F.E** grid (Security, Analysis, Fidelity & Expert Guidance) from Viva Algérie analyses projects against trust criteria (security, investment analysis, execution reliability, buyer support). It is **proprietary**: it is not a government validation, and it replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
 
-Discover the scheme: [S.A.F.E real-estate certification](/en/safe-real-estate-certification).
+Discover the scheme: [S.A.F.E real-estate analysis method](/en/safe-real-estate-certification).
 
 ## Practical method for the diaspora
 
@@ -160,7 +160,7 @@ Decree 13-431 modulates payment according to progress (notably 20%, 15%, 35%, 25
 
 Do not reserve and do not pay a deposit. Practising without *agrément* is contrary to the real-estate development framework. Consult a notary and refer to our guide on [checking the developer](/en/how-to-check-real-estate-developer-algeria).
 
-### Does S.A.F.E certification replace legal controls?
+### Does S.A.F.E method replace legal controls?
 
 No. S.A.F.E is a proprietary analysis grid. It replaces neither the notary, nor *agrément*, nor the FGCMPI, nor land and technical checks.
 

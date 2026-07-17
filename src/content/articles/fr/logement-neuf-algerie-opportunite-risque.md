@@ -84,7 +84,7 @@ La présence d’un promoteur agréé, le recours au notaire, la lecture attenti
 
 Le logement neuf fonctionne projet par projet. Deux programmes dans le même quartier peuvent présenter des niveaux de risque très différents selon le promoteur, le foncier, le financement du chantier et la gouvernance des paiements.
 
-C’est précisément l’angle de [S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) : une grille propriétaire de présélection (sécurisation, analyse, fiabilité, encadrement) qui n’est pas une certification étatique et ne remplace ni le notaire ni les contrôles techniques. Elle sert à structurer la question : ce projet mérite-t-il mon attention ?
+C’est précisément l’angle de [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/safe-certification-immobiliere) : une grille propriétaire de présélection (sécurisation, analyse, fiabilité, encadrement) qui n’est pas une certification étatique et ne remplace ni le notaire ni les contrôles techniques. Elle sert à structurer la question : ce projet mérite-t-il mon attention ?
 
 Pour Alger, croisez cette logique avec [acheter sur plan à Alger](/acheter-sur-plan-alger) et les vérifications détaillées de notre guide [points à vérifier avant de réserver](/articles/acheter-sur-plan-algerie-verifications).
 

@@ -27,7 +27,7 @@ Bij tweedehandsverkoop bezoekt de koper een lichamelijk goed, raadpleegt de [liv
 
 wet 11-04 kadert vastgoedontwikkeling en onderscheidt de erkende ontwikkelaar van de occasionele verkoper. Het legt transparantie, contractualisering en, binnen het voorgeschreven schema, mechanismen op die verband houden met de Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI — wederzijds garantiefonds voor vastgoedontwikkeling). decreet 13-431 specificeert de modellen voor reserverings- en off-plan verkoopcontracten. Deze teksten “garanderen” niet dat een project zonder wrijving zal eindigen; ze stellen een raamwerk vast dat de koper moet kunnen lezen.
 
-Controleer vóór elke ondertekening deze lezing met een gestructureerde projectanalyse. De gepatenteerde [S.A.F.E — Secure Approved For Estate](/nl/safe-vastgoedcertificering)-certificering vervangt noch de notariële noch de officiële controles, maar helpt bij de voorselectie: ontwikkelaar, bestand, betalingen, materialen, prijs, levering en kopersondersteuning.
+Controleer vóór elke ondertekening deze lezing met een gestructureerde projectanalyse. De eigen S.A.F.E-methode vervangt noch de notariële noch de officiële controles, maar helpt bij de voorselectie: ontwikkelaar, bestand, betalingen, materialen, prijs, levering en kopersondersteuning.
 
 Voor een overzicht van risico’s en garanties, zie ook [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije).
 
@@ -170,7 +170,7 @@ Nee. De brochure oriënteert; Het contract, de bijgevoegde plannen en de technis
 
 ## Vervangt S.A.F.E de notaris?
 
-Nee. [S.A.F.E](/nl/safe-vastgoedcertificering) is een eigen certificering voor preselectie en projectanalyse. Het is geen officiële staatscertificering, noch een wettelijke garantie, noch een vervanging voor de notaris.
+Nee. [S.A.F.E](/nl/safe-vastgoedcertificering) is een eigen methode voor preselectie en projectanalyse. Het is geen officiële staatscertificering, noch een wettelijke garantie, noch een vervanging voor de notaris.
 
 ## Wat moet ik doen als de ontwikkelaar weigert zijn goedkeuring te tonen?
 

@@ -10,7 +10,7 @@ Default language: French (EN / ES / NL live with hreflang)
 | 1 | Immobilier Algérie | `/immobilier` | `immobilier-algerie-2026`, `logement-neuf-algerie-opportunite-risque` |
 | 2 | Immobilier Alger | `/prix-immobilier-alger` | `pourquoi-investir-immobilier-alger`, `/acheter-sur-plan-alger` |
 | 3 | Achat sur plan Algérie | `/acheter-sur-plan-algerie` | `acheter-sur-plan-algerie-verifications`, `/livraison-logement-neuf-algerie` |
-| 4 | S.A.F.E certification | `/safe-certification-immobiliere` | All SAFE cluster pages + guides |
+| 4 | S.A.F.E method | `/safe-certification-immobiliere` | All SAFE cluster pages + guides |
 | 5 | Risques achat immobilier | `/risques-achat-immobilier-algerie` | `erreurs-acheter-immobilier-algerie` |
 | 6 | Promoteur immobilier Algérie | `/comment-verifier-promoteur-immobilier-algerie` | Guides + SAFE |
 | 7 | Documents / notaire / livret foncier | `/documents-achat-immobilier-algerie` | `cadre-juridique-immobilier-algerie` |

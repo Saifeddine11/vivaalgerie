@@ -99,9 +99,9 @@ Aanvullingen: [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-
 
 ## De rol van S.A.F.E bij risicoreductie
 
-**S.A.F.E** (Secure Approved For Estate) is een eigen Viva Algérie-raster voor het analyseren van projecten (beveiliging, investeringen, uitvoering, ondersteuning). Het garandeert **niet** de afwezigheid van risico en **is geen** overheidscertificering. Het helpt bij het structureren van een voorselectie.
+**S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) is een eigen Viva Algérie-raster voor het analyseren van projecten (beveiliging, investeringen, uitvoering, ondersteuning). Het garandeert **niet** de afwezigheid van risico en **is geen** overheidsvalidatie. Het helpt bij het structureren van een voorselectie.
 
-Details: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
+Details: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
 ## Belangrijkste afhaalrestaurants
 

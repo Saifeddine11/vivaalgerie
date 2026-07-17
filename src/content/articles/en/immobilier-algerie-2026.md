@@ -58,7 +58,7 @@ This discipline does not eliminate every risk, but it sharply reduces the costli
 
 The **Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI)** — the mutual guarantee fund for real-estate development — fits this sector-security logic. Its existence recalls that development is not an improvised private bargain: it is a regulated activity, with surety and guarantee mechanisms designed to protect public confidence. In 2026, mentioning the FGCMPI in a purchase conversation is no longer a sign of excessive distrust; it is a marker of seriousness.
 
-Our dossier [How to check a real-estate developer in Algeria](/en/how-to-check-real-estate-developer-algeria) details a practical control grid. For projects marketed before completion, also read [Buying off-plan in Algeria](/en/buying-off-plan-algeria) and [S.A.F.E and real-estate certification](/en/safe-real-estate-certification).
+Our dossier [How to check a real-estate developer in Algeria](/en/how-to-check-real-estate-developer-algeria) details a practical control grid. For projects marketed before completion, also read [Buying off-plan in Algeria](/en/buying-off-plan-algeria) and [S.A.F.E and real-estate analysis method](/en/safe-real-estate-certification).
 
 ## Off-plan sales: more framework, less improvisation
 

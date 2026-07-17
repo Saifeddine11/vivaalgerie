@@ -117,9 +117,9 @@ L’acheteur doit arriver chez le notaire **avec un dossier**, pas seulement ave
 
 ## Comment S.A.F.E complète (sans remplacer) le droit
 
-La grille **S.A.F.E** (Secure Approved For Estate) de Viva Algérie analyse des projets selon des critères de confiance (sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur). Elle est **propriétaire** : ce n’est pas une certification gouvernementale, et elle ne remplace ni le notaire, ni la conservation foncière, ni le FGCMPI.
+La grille **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie analyse des projets selon des critères de confiance (sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur). Elle est **propriétaire** : ce n’est pas une validation gouvernementale, et elle ne remplace ni le notaire, ni la conservation foncière, ni le FGCMPI.
 
-Découvrir le dispositif : [Certification immobilière S.A.F.E](/safe-certification-immobiliere).
+Découvrir le dispositif : [Méthode d’analyse immobilière S.A.F.E](/safe-certification-immobiliere).
 
 ## Méthode pratique pour la diaspora
 
@@ -160,7 +160,7 @@ Le décret 13-431 module le paiement selon l’avancement (notamment 20 %, 15 %,
 
 Ne réservez pas et ne versez pas d’acompte. L’exercice sans agrément est contraire au cadre de la promotion immobilière. Consultez un notaire et reportez-vous à notre guide de [vérification du promoteur](/comment-verifier-promoteur-immobilier-algerie).
 
-### La certification S.A.F.E remplace-t-elle les contrôles légaux ?
+### La méthode S.A.F.E remplace-t-elle les contrôles légaux ?
 
 Non. S.A.F.E est une grille propriétaire d’analyse. Elle ne remplace ni le notaire, ni l’agrément, ni le FGCMPI, ni les vérifications foncières et techniques.
 

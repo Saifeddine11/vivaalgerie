@@ -156,7 +156,7 @@ Gids: [Algerijnse diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier
 
 ## S.A.F.E en documenten
 
-Het **S.A.F.E**-raster evalueert vastgoedprojecten op basis van betrouwbaarheidscriteria. Het vervangt geen enkel officieel document en is geen staatscertificering.
+Het **S.A.F.E**-raster evalueert vastgoedprojecten op basis van betrouwbaarheidscriteria. Het vervangt geen enkel officieel document en is geen officiële staatscertificering.
 
 Details: [S.A.F.E](/nl/safe-vastgoedcertificering).
 

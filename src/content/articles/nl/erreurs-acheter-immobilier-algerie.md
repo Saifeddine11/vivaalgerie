@@ -50,7 +50,7 @@ Frequente waarschuwingssignalen:
 - deadlinebeloften zonder leesbaar contractueel mechanisme;
 - gebrek aan precieze antwoorden op de **FGCMPI** en garanties.
 
-Correctie: pas een verificatierooster toe vóór showroomverleiding. Speciale gids: [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije). Over certificering en beveiligingsstappen: [S.A.F.E vastgoedcertificering](/nl/safe-vastgoedcertificering).
+Correctie: pas een verificatierooster toe vóór showroomverleiding. Speciale gids: [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije). Over analysemethode en beveiligingsstappen: [S.A.F.E vastgoedanalysemethode](/nl/safe-vastgoedcertificering).
 
 ## Fout nr. 3: geloof dat ‘off-plan’ ‘minder formaliteiten’ betekent
 

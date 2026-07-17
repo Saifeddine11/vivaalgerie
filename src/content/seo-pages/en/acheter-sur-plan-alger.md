@@ -119,11 +119,11 @@ An off-plan purchase in Algiers is not a “liquid” placement. Treat it as a m
 
 ## Step 9 — Integrate a complementary S.A.F.E reading
 
-The **S.A.F.E** certification (Secure Approved For Estate) from Viva Algérie evaluates projects on four pillars: security, investment analysis, execution reliability, buyer support. Levels: Review, Certified, Prime, Confidential.
+The **S.A.F.E** method (Security, Analysis, Fidelity & Expert Guidance) from Viva Algérie evaluates projects on four pillars: security, investment analysis, execution reliability, buyer support. Levels: Review, Certified, Prime, Confidential.
 
-**Caution**: S.A.F.E is a **proprietary** grid, not a State certification. It replaces neither notary, nor *agrément*, nor FGCMPI.
+**Caution**: S.A.F.E is a **proprietary** grid, not an official state certification. It replaces neither notary, nor *agrément*, nor FGCMPI.
 
-Learn more: [S.A.F.E — real-estate certification](/en/safe-real-estate-certification).
+Learn more: [S.A.F.E — real-estate analysis method](/en/safe-real-estate-certification).
 
 ## Useful specifics for the diaspora in Algiers
 

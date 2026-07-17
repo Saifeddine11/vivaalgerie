@@ -155,7 +155,7 @@ Guide: [Algerian diaspora](/en/articles/diaspora-algerienne-acheter-immobilier).
 
 ## S.A.F.E and documents
 
-The **S.A.F.E** grid evaluates real estate projects according to confidence criteria. It does not replace any official document and is not a state certification.
+The **S.A.F.E** grid evaluates real estate projects according to confidence criteria. It does not replace any official document and is not an official state certification.
 
 Details: [S.A.F.E](/en/safe-real-estate-certification).
 

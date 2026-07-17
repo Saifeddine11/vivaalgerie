@@ -27,7 +27,7 @@ Dans une vente d’occasion, l’acheteur visite un bien tangible, consulte le [
 
 La loi 11-04 encadre l’activité de promotion immobilière et distingue le promoteur agréé du vendeur occasionnel. Elle impose transparence, contractualisation et, dans le dispositif prévu, des mécanismes liés au Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI). Le décret 13-431 précise les modèles de contrats de réservation et de vente sur plans. Ces textes ne « garantissent » pas qu’un projet ira au bout sans friction ; ils fixent un cadre que l’acheteur doit savoir lire.
 
-Avant toute signature, croisez cette lecture avec une analyse de projet structurée. La certification propriétaire [S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) ne remplace ni le notaire ni les contrôles officiels, mais elle aide à présélectionner : promoteur, dossier, paiements, matériaux, prix, livraison et encadrement acheteur.
+Avant toute signature, croisez cette lecture avec une analyse de projet structurée. La méthode propriétaire [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/safe-certification-immobiliere) ne remplace ni le notaire ni les contrôles officiels, mais elle aide à présélectionner : promoteur, dossier, paiements, matériaux, prix, livraison et encadrement acheteur.
 
 Pour une vue d’ensemble des risques et garanties, voir aussi [Acheter sur plan en Algérie](/acheter-sur-plan-algerie).
 
@@ -170,7 +170,7 @@ Non. La brochure oriente ; le contrat, les plans annexés et le descriptif techn
 
 ### S.A.F.E remplace-t-elle le notaire ?
 
-Non. [S.A.F.E](/safe-certification-immobiliere) est une certification propriétaire de présélection et d’analyse de projet. Elle ne constitue ni une certification officielle de l’État, ni une garantie juridique, ni un substitut au notaire.
+Non. [S.A.F.E](/safe-certification-immobiliere) est une méthode propriétaire de présélection et d’analyse de projet. Elle ne constitue ni une certification officielle de l’État, ni une garantie juridique, ni un substitut au notaire.
 
 ### Que faire si le promoteur refuse de montrer son agrément ?
 

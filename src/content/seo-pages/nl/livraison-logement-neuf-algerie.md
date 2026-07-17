@@ -161,7 +161,7 @@ Aanvulling: [Fouten bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-alge
 
 Een geanalyseerd project **S.A.F.E** (eigen Viva Algérie-raster) is niet “gegarandeerd vrij van gebreken”. Aanvaarding blijft een persoonlijke, notariële en technische handeling. S.A.F.E vervangt noch het rapport, noch de voorbehouden.
 
-Meer informatie: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
+Meer informatie: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
 ## Express-checklist om af te drukken
 

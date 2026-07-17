@@ -14,8 +14,8 @@ ARTICLES = ROOT / "articles"
 SEO = ROOT / "seo-pages"
 
 TERM_PHRASES = [
-    "S.A.F.E — Secure Approved For Estate",
-    "Secure Approved For Estate",
+    "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance",
+    "Security, Analysis, Fidelity & Expert Guidance",
     "S.A.F.E",
     "FGCMPI",
     "Law No. 11-04 of 17 February 2011",
@@ -176,15 +176,15 @@ AUTHOR = {"es": "Redacción Viva Algérie", "nl": "Redactie Viva Algérie"}
 
 GLOSSARY = {
     "es": [
-        (r"(?i)\bproprietary certification\b", "certificación propietaria"),
-        (r"(?i)\bcertificación patentada\b", "certificación propietaria"),
+        (r"(?i)\bproprietary method\b", "metodología propietaria"),
+        (r"(?i)\bcertificación patentada\b", "metodología propietaria"),
         (r"(?i)\bel rejilla\b", "la rejilla"),
         (r"(?i)\bgrid de\b", "rejilla de"),
         (r"Maruecos|Marruecos|Morocco|Marokko", "Argelia"),
         (r"\bViva Argelia\b", "Viva Algérie"),
     ],
     "nl": [
-        (r"(?i)\bproprietary certification\b", "eigen certificering"),
+        (r"(?i)\bproprietary method\b", "eigen methode"),
         (r"Marokko|Morocco|Marruecos", "Algerije"),
         (r"\bViva Algerije\b", "Viva Algérie"),
     ],
@@ -341,7 +341,7 @@ def apply_post(text: str, lang: str) -> str:
         out = re.sub(r"\bshowroom\b", "sala de exposición", out)
         out = re.sub(r"(?i)\boff-plan\b", "sobre plano", out)
     if lang == "nl":
-        out = re.sub(r"(?i)\bproprietary certification\b", "eigen certificering", out)
+        out = re.sub(r"(?i)\bproprietary method\b", "eigen methode", out)
     return out
 
 

@@ -77,7 +77,7 @@ Residencias gestionadas, propiedades aptas para estancias cortas o medias, sujet
 ## E. Recalificación urbana
 Terrenos baldíos, cascos antiguos, bloques para renovar: potencial real, alta complejidad (títulos, copropiedad, estándares).
 
-En todos los casos prima el filtro documental. Guías: [Vérifier un promoteur](/es/como-verificar-promotor-inmobiliario-argelia), [Acheter sur plan](/es/comprar-sobre-plano-argelia), [Documents d’achat](/es/documentos-compra-inmobiliaria-argelia), [Risques](/es/riesgos-compra-inmobiliaria-argelia), [SAFE](/es/certificacion-inmobiliaria-safe), [Erreurs à éviter](/es/articulos/erreurs-acheter-immobilier-algerie), [Immobilier 2026](/es/articulos/immobilier-algerie-2026).
+En todos los casos prima el filtro documental. Guías: [Vérifier un promoteur](/es/como-verificar-promotor-inmobiliario-argelia), [Acheter sur plan](/es/comprar-sobre-plano-argelia), [Documents d’achat](/es/documentos-compra-inmobiliaria-argelia), [Risques](/es/riesgos-compra-inmobiliaria-argelia), [S.A.F.E](/es/certificacion-inmobiliaria-safe), [Erreurs à éviter](/es/articulos/erreurs-acheter-immobilier-algerie), [Immobilier 2026](/es/articulos/immobilier-algerie-2026).
 
 ## El riesgo de 2030: creer demasiado pronto, pagar demasiado caro
 

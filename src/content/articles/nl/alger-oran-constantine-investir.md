@@ -120,7 +120,7 @@ Cross-cutting gidsen:
 - [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije)
 - [Aankoopdocumenten](/nl/documenten-vastgoedkoop-algerije)
 - [Aankooprisico's](/nl/vastgoedrisicos-algerije)
-- [S.A.F.E-certificering](/nl/safe-vastgoedcertificering)
+- [S.A.F.E-methode](/nl/safe-vastgoedcertificering)
 - [Fouten om te vermijden](/nl/artikelen/erreurs-acheter-immobilier-algerie)
 - [Onroerend goed in Algerije in 2026](/nl/artikelen/immobilier-algerie-2026)
 

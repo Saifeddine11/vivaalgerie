@@ -121,9 +121,9 @@ Guía: [Diáspora: comprar en el extranjero](/es/articulos/diaspora-algerienne-a
 
 ## S.A.F.E: una rejilla complementaria, no sustitutiva
 
-**S.A.F.E** analiza proyectos según criterios de confianza (S/A/F/E) y niveles de Revisión/Certificado/Prime/Confidencial. Es una certificación **propietaria** Viva Algérie, **no** validación estatal. No sustituye ni a *agrément* ni al notario.
+**S.A.F.E** analiza proyectos según criterios de confianza (S/A/F/E) y niveles de Revisión/Certificado/Prime/Confidencial. Es una metodología **propietaria** Viva Algérie, **no** validación estatal. No sustituye ni a *agrément* ni al notario.
 
-Más información: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
+Más información: [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
 ## Conclusiones clave
 

@@ -58,7 +58,7 @@ Deze discipline elimineert niet elk risico, maar reduceert wel scherp de duurste
 
 Het **Fonds de garantie et de voorzichtigheid mutuelle de la promotion immobilière (FGCMPI)** – het wederzijdse garantiefonds voor vastgoedontwikkeling – past in deze sectorveiligheidslogica. Het bestaan ​​ervan herinnert eraan dat ontwikkeling geen geïmproviseerd particulier akkoord is: het is een gereguleerde activiteit, met zekerheids- en garantiemechanismen die zijn ontworpen om het vertrouwen van het publiek te beschermen. Anno 2026 is het noemen van de FGCMPI in een aankoopgesprek niet langer een teken van buitensporig wantrouwen; het is een teken van ernst.
 
-Ons dossier [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije) beschrijft een praktisch controlerooster. Voor projecten die vóór voltooiing op de markt zijn gebracht, lees ook [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije) en [S.A.F.E en vastgoedcertificering](/nl/safe-vastgoedcertificering).
+Ons dossier [Hoe een vastgoedontwikkelaar in Algerije te controleren](/nl/vastgoedontwikkelaar-controleren-algerije) beschrijft een praktisch controlerooster. Voor projecten die vóór voltooiing op de markt zijn gebracht, lees ook [Off-plan kopen in Algerije](/nl/off-plan-kopen-algerije) en [S.A.F.E en vastgoedanalysemethode](/nl/safe-vastgoedcertificering).
 
 ## Off-plan verkoop: meer raamwerk, minder improvisatie
 

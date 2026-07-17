@@ -28,7 +28,7 @@ En una venta de segunda mano, el comprador visita un bien tangible, consulta el 
 
 La Ley 11-04 regula la actividad de promoción inmobiliaria y distingue al promotor aprobado del vendedor ocasional. Impone transparencia, contractualización y, en el sistema previsto, mecanismos vinculados al Fondo de Garantía y Garantía Recíproca para el Desarrollo Inmobiliario (FGCMPI). El Decreto 13-431 especifica los modelos de contratos de reserva y compraventa de planos. Estos textos no “garantizan” que un proyecto se completará sin fricciones; establecen un marco que el comprador debe saber leer.
 
-Antes de cualquier firma, cruce esta lectura con un análisis estructurado del proyecto. La certificación de propietario [S.A.F.E — Secure Approved For Estate](/es/certificacion-inmobiliaria-safe) no sustituye ni a los controles notariales ni oficiales, pero ayuda a preseleccionar: promotor, expediente, pagos, materiales, precio, entrega y supervisión del comprador.
+Antes de cualquier firma, cruce esta lectura con un análisis estructurado del proyecto. La metodología propietaria [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/es/certificacion-inmobiliaria-safe) no sustituye ni a los controles notariales ni oficiales, pero ayuda a preseleccionar: promotor, expediente, pagos, materiales, precio, entrega y supervisión del comprador.
 
 Para obtener una descripción general de los riesgos y garantías, consulte también [Acheter sur plan en Algérie](/es/comprar-sobre-plano-argelia).
 
@@ -171,7 +171,7 @@ No. El folleto indica; el contrato, los planos adjuntos y la descripción técni
 
 ## ¿S.A.F.E reemplaza al notario?
 
-No. [S.A.F.E](/es/certificacion-inmobiliaria-safe) es una certificación propia de análisis y preselección de proyectos. No constituye certificación oficial del Estado, ni garantía jurídica, ni sustituto del notario.
+No. [S.A.F.E](/es/certificacion-inmobiliaria-safe) es una metodología propia de análisis y preselección de proyectos. No constituye certificación oficial del Estado, ni garantía jurídica, ni sustituto del notario.
 
 ## ¿Qué hacer si el promotor se niega a mostrar su aprobación?
 

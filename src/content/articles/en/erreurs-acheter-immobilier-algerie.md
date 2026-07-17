@@ -50,7 +50,7 @@ Frequent warning signals:
 - deadline promises without a readable contractual mechanism;
 - absence of precise answers on the **FGCMPI** and guarantees.
 
-Correction: apply a verification grid before showroom seduction. Dedicated guide: [How to check a real-estate developer in Algeria](/en/how-to-check-real-estate-developer-algeria). On certification and security steps: [S.A.F.E real-estate certification](/en/safe-real-estate-certification).
+Correction: apply a verification grid before showroom seduction. Dedicated guide: [How to check a real-estate developer in Algeria](/en/how-to-check-real-estate-developer-algeria). On analysis method and security steps: [S.A.F.E real-estate analysis method](/en/safe-real-estate-certification).
 
 ## Mistake No. 3: believe “off-plan” means “fewer formalities”
 

@@ -121,7 +121,7 @@ Guías transversales:
 - [Acheter sur plan en Algérie](/es/comprar-sobre-plano-argelia)
 - [Documents d’achat](/es/documentos-compra-inmobiliaria-argelia)
 - [Risques de l’achat](/es/riesgos-compra-inmobiliaria-argelia)
-- [SAFE certification](/es/certificacion-inmobiliaria-safe)
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe)
 - [Erreurs à éviter](/es/articulos/erreurs-acheter-immobilier-algerie)
 - [Immobilier en Algérie en 2026](/es/articulos/immobilier-algerie-2026)
 

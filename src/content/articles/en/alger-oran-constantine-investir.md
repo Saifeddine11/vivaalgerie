@@ -120,7 +120,7 @@ Cross-cutting guides:
 - [Buying off-plan in Algeria](/en/buying-off-plan-algeria)
 - [Purchase documents](/en/real-estate-documents-algeria)
 - [Purchase risks](/en/real-estate-risks-algeria)
-- [S.A.F.E certification](/en/safe-real-estate-certification)
+- [S.A.F.E method](/en/safe-real-estate-certification)
 - [Mistakes to avoid](/en/articles/erreurs-acheter-immobilier-algerie)
 - [Real estate in Algeria in 2026](/en/articles/immobilier-algerie-2026)
 

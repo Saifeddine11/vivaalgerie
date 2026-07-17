@@ -46,7 +46,7 @@ Le **notaire** n’est pas un simple tampon de fin de parcours. Il intervient da
 
 ### Ce que le notaire n’est pas
 
-Le notaire ne garantit pas que le prix est « le bon prix de marché », ni que le bien est exempt de vices cachés techniques, ni que votre montage fiscal personnel est optimal. Il ne remplace pas non plus une certification propriétaire de projet comme [S.A.F.E](/safe-certification-immobiliere).
+Le notaire ne garantit pas que le prix est « le bon prix de marché », ni que le bien est exempt de vices cachés techniques, ni que votre montage fiscal personnel est optimal. Il ne remplace pas non plus une méthode propriétaire de projet comme [S.A.F.E](/safe-certification-immobiliere).
 
 ### Bonnes pratiques acheteur
 
@@ -99,7 +99,7 @@ Pour le parcours complet : [acheter sur plan en Algérie](/acheter-sur-plan-alge
 
 ## Le rôle de S.A.F.E dans la présélection
 
-Avant même la phase notariale lourde, beaucoup d’acheteurs se perdent dans un trop-plein d’offres. **S.A.F.E — Secure Approved For Estate** est une certification propriétaire (non étatique) qui structure l’analyse d’un projet selon quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution, encadrement acheteur.
+Avant même la phase notariale lourde, beaucoup d’acheteurs se perdent dans un trop-plein d’offres. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** est une méthode propriétaire (non étatique) qui structure l’analyse d’un projet selon quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution, encadrement acheteur.
 
 Son utilité pédagogique dans le cadre juridique est indirecte mais réelle : elle pousse à poser tôt les questions que le droit posera plus tard — qui est le promoteur, le dossier est-il lisible, les paiements sont-ils traçables, la livraison est-elle crédible ?
 
@@ -154,7 +154,7 @@ Dans la pratique des transferts immobiliers, le recours au notaire est structura
 
 ### S.A.F.E est-elle une certification officielle de l’État algérien ?
 
-Non. C’est une certification propriétaire de présélection et d’analyse de projets. Elle ne se substitue pas aux autorités publiques ni au notaire.
+Non. C’est une méthode propriétaire de présélection et d’analyse de projets. Elle ne se substitue pas aux autorités publiques ni au notaire.
 
 ### Que faire si un vendeur refuse de passer chez le notaire ?
 

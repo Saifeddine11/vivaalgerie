@@ -76,7 +76,7 @@ Résidences gérées, biens adaptés à des séjours courts ou moyens — sous r
 ### E. Requalification urbaine
 Friches, centres anciens, îlots à rénover : potentiel réel, complexité élevée (titres, indivisions, normes).
 
-Dans tous les cas, le filtre documentaire prime. Guides : [Vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie), [Acheter sur plan](/acheter-sur-plan-algerie), [Documents d’achat](/documents-achat-immobilier-algerie), [Risques](/risques-achat-immobilier-algerie), [SAFE](/safe-certification-immobiliere), [Erreurs à éviter](/articles/erreurs-acheter-immobilier-algerie), [Immobilier 2026](/articles/immobilier-algerie-2026).
+Dans tous les cas, le filtre documentaire prime. Guides : [Vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie), [Acheter sur plan](/acheter-sur-plan-algerie), [Documents d’achat](/documents-achat-immobilier-algerie), [Risques](/risques-achat-immobilier-algerie), [S.A.F.E](/safe-certification-immobiliere), [Erreurs à éviter](/articles/erreurs-acheter-immobilier-algerie), [Immobilier 2026](/articles/immobilier-algerie-2026).
 
 ## Le risque 2030 : croire trop tôt, payer trop cher
 

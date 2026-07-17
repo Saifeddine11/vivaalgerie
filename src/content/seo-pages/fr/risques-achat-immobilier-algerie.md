@@ -99,9 +99,9 @@ Compléments : [Erreurs à éviter](/articles/erreurs-acheter-immobilier-algerie
 
 ## Le rôle de S.A.F.E dans la réduction du risque
 
-**S.A.F.E** (Secure Approved For Estate) est une grille propriétaire de Viva Algérie pour analyser des projets (sécurisation, investissement, exécution, encadrement). Elle **ne garantit pas** l’absence de risque et **n’est pas** une certification gouvernementale. Elle aide à structurer une présélection.
+**S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) est une grille propriétaire de Viva Algérie pour analyser des projets (sécurisation, investissement, exécution, encadrement). Elle **ne garantit pas** l’absence de risque et **n’est pas** une validation gouvernementale. Elle aide à structurer une présélection.
 
-Détails : [Certification S.A.F.E](/safe-certification-immobiliere).
+Détails : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
 ## Ce qu’il faut retenir
 

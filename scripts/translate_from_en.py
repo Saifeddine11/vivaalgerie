@@ -80,8 +80,8 @@ EN_TO_LOC = {
 AUTHOR = {"es": "Redacción Viva Algérie", "nl": "Redactie Viva Algérie"}
 
 PROTECT = [
-    ("S.A.F.E — Secure Approved For Estate", "§SAFEFULL§"),
-    ("Secure Approved For Estate", "§SAFEMEAN§"),
+    ("S.A.F.E — Security, Analysis, Fidelity & Expert Guidance", "§SAFEFULL§"),
+    ("Security, Analysis, Fidelity & Expert Guidance", "§SAFEMEAN§"),
     ("S.A.F.E", "§SAFE§"),
     ("FGCMPI", "§FGCMPI§"),
     ("livret foncier", "§LIVRET§"),
@@ -106,8 +106,8 @@ POST_ES = [
     (r"\bOran\b", "Orán"),
     (r"\bConstantine\b", "Constantina"),
     (r"(?i)\b(Maruecos|Marruecos|Morocco)\b", "Argelia"),
-    ("§SAFEFULL§", "S.A.F.E — Secure Approved For Estate"),
-    ("§SAFEMEAN§", "Secure Approved For Estate"),
+    ("§SAFEFULL§", "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance"),
+    ("§SAFEMEAN§", "Security, Analysis, Fidelity & Expert Guidance"),
     ("§SAFE§", "S.A.F.E"),
     ("§FGCMPI§", "FGCMPI"),
     ("§LIVRET§", "livret foncier"),
@@ -130,8 +130,8 @@ POST_NL = [
     (r"\bAlgeria\b", "Algerije"),
     (r"\bAlgiers\b", "Algiers"),
     (r"(?i)\b(Marokko|Morocco)\b", "Algerije"),
-    ("§SAFEFULL§", "S.A.F.E — Secure Approved For Estate"),
-    ("§SAFEMEAN§", "Secure Approved For Estate"),
+    ("§SAFEFULL§", "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance"),
+    ("§SAFEMEAN§", "Security, Analysis, Fidelity & Expert Guidance"),
     ("§SAFE§", "S.A.F.E"),
     ("§FGCMPI§", "FGCMPI"),
     ("§LIVRET§", "livret foncier"),

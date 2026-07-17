@@ -58,7 +58,7 @@ Useful guides:
 - [Buying off-plan in Algeria](/en/buying-off-plan-algeria)
 - [Documents for a property purchase](/en/real-estate-documents-algeria)
 - [Property purchase risks](/en/real-estate-risks-algeria)
-- [S.A.F.E and real-estate certification](/en/safe-real-estate-certification)
+- [S.A.F.E and real-estate analysis method](/en/safe-real-estate-certification)
 
 ## Segments getting attention in 2026
 

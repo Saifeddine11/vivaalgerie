@@ -1,194 +1,105 @@
 ---
-title: "S.A.F.E — Secure Approved For Estate | Real-estate certification in Algeria"
-h1: "S.A.F.E — Secure Approved For Estate"
-description: "S.A.F.E — Secure Approved For Estate analyses real-estate projects in Algeria: S/A/F/E pillars, Review, Certified, Prime and Confidential levels."
+title: "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance | Viva Algérie"
+h1: "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance"
+description: "S.A.F.E is Viva Algérie’s proprietary real-estate analysis method based on Security, Analysis, Fidelity & Expert Guidance: project security, investment analysis, consistency between promise and delivery, and expert buyer guidance."
 slug: "safe-certification-immobiliere"
 lang: "en"
-canonical: "https://vivaalgerie.com/en/safe-real-estate-certification"
+canonical: "https://vivaalgerie.com/en/safe-real-estate-certification/"
 translationKey: "safe-certification-immobiliere"
 ---
 
-**S.A.F.E — Secure Approved For Estate** is Viva Algérie’s proprietary certification grid for analysing real-estate projects against trust criteria: developer, file, payments, materials, price, delivery, transparency and fit with the buyer’s profile.
+**S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** is Viva Algérie’s proprietary method for analysing real-estate projects before they are presented to buyers.
 
-In a market where information asymmetry remains strong — especially for new build and *vente sur plans* (off-plan sale) — S.A.F.E aims to structure a **demanding pre-selection**. It does not erase Algerian law, the notary, or land checks.
+S.A.F.E keeps its official English phrase in every language. It is built on four ideas: **Security** for project security and trust signals, **Analysis** for investment analysis, **Fidelity** for consistency between promise and delivery, and **Expert Guidance** for buyer guidance through documents, payments, notarial steps and delivery.
 
-> **Important legal disclaimer.** S.A.F.E is a **proprietary certification** of Viva Algérie. It is **not** a government certification, a public *agrément* (approval), or a substitute for legal controls. S.A.F.E **does not promise** that a project is risk-free. S.A.F.E **does not replace** the legal, notarial, technical or financial checks required before any purchase. S.A.F.E is a pre-selection and analysis grid.
+> **Legal caution.** S.A.F.E is a proprietary analysis and pre-selection method. It is not an official state certification. It does not guarantee the absence of risk. It does not replace the legal, notarial, technical, tax or financial checks required before any acquisition.
 
-## What does S.A.F.E mean?
+## The four S.A.F.E pillars
 
-**S.A.F.E** = **Secure Approved For Estate**.
+<div class="safe-table" role="table" aria-label="S.A.F.E method pillars">
+  <div class="safe-table__head" role="row">
+    <span role="columnheader">Letter</span>
+    <span role="columnheader">English meaning</span>
+    <span role="columnheader">French pillar</span>
+    <span role="columnheader">Intent</span>
+  </div>
+  <div class="safe-table__row" role="row">
+    <span data-label="Letter" role="cell"><strong>S</strong></span>
+    <span data-label="English meaning" role="cell">Security</span>
+    <span data-label="French pillar" role="cell">Sécurisation du projet</span>
+    <span data-label="Intent" role="cell">File, developer, framework, traceability, trust signals</span>
+  </div>
+  <div class="safe-table__row" role="row">
+    <span data-label="Letter" role="cell"><strong>A</strong></span>
+    <span data-label="English meaning" role="cell">Analysis</span>
+    <span data-label="French pillar" role="cell">Analyse d’investissement</span>
+    <span data-label="Intent" role="cell">Price, location, use, horizon, economic coherence</span>
+  </div>
+  <div class="safe-table__row" role="row">
+    <span data-label="Letter" role="cell"><strong>F</strong></span>
+    <span data-label="English meaning" role="cell">Fidelity</span>
+    <span data-label="French pillar" role="cell">Fiabilité d’exécution</span>
+    <span data-label="Intent" role="cell">Consistency between promise and delivery: plans, materials, timelines, finishes</span>
+  </div>
+  <div class="safe-table__row" role="row">
+    <span data-label="Letter" role="cell"><strong>E</strong></span>
+    <span data-label="English meaning" role="cell">Expert Guidance</span>
+    <span data-label="French pillar" role="cell">Encadrement acheteur</span>
+    <span data-label="Intent" role="cell">Documents, payment, reservation, notary, delivery, decision</span>
+  </div>
+</div>
 
-Four pillars structure the analysis:
+## Security
 
-| Letter | Pillar | Intent |
-| --- | --- | --- |
-| **S** | Project security | File, actor, framework, traceability |
-| **A** | Investment analysis | Price / product / use / horizon coherence |
-| **F** | Execution reliability | Ability to deliver quality and timelines |
-| **E** | Buyer support | Transparency, information, journey |
+Security means project security and trust signals: identifying the developer, checking the coherence of the file, understanding the sales framework, tracing information and spotting early signs of confidence or concern.
 
-These pillars interact with the Algerian framework (Law **11-04**, Decree **13-431**, FGCMPI, *agrément*, *livret foncier*, notary) without replacing it.
+## Analysis
 
-## Why a private grid makes sense in Algeria
+Analysis means investment analysis: price, location, intended use, holding horizon, rental potential, economic coherence and fit with the buyer’s profile.
 
-The Algerian buyer — resident or diaspora — faces:
+## Fidelity
 
-- programmes marketed too early;
-- interlocutors sometimes outside the *agrément* framework (a point reinforced by Justice vigilance in 2025);
-- gaps between marketing and the delivered product;
-- poorly disciplined payments;
-- difficulty comparing projects on stable criteria.
+Fidelity means consistency between what is promised and what is actually delivered: plans, materials, finishes, timelines, equipment, common areas and final quality.
 
-S.A.F.E does not “save” a weak file. It helps you **refuse earlier** and **prioritise** projects that pass a documented filter.
+## Expert Guidance
 
-For the upstream legal framework: [Buying off-plan](/en/buying-off-plan-algeria), [Checking a developer](/en/how-to-check-real-estate-developer-algeria), [Documents](/en/real-estate-documents-algeria), [Risks](/en/real-estate-risks-algeria).
-
-## Pillar S — Project security
-
-Typical questions:
-
-- Does the developer hold an **agrément**, a **commercial register** entry, and registration on the **national table** of developers?
-- Are land rights and the **building permit** coherent?
-- Does the contract align with Algerian ***vente sur plans*** when applicable?
-- Is there **FGCMPI** / project traceability?
-- Do payments avoid opaque circuits?
-
-A project weak on S is rarely “rescued” by a handsome 3D render.
-
-## Pillar A — Investment analysis
-
-Without publishing false prices, the analysis looks at:
-
-- product / neighbourhood / use fit;
-- coherence of the displayed price with the segment (method, not a magic quote);
-- holding horizon and probable liquidity;
-- hidden costs (charges, parking, works, delay).
-
-In Algiers, that means reading Hydra differently from Bab Ezzouar, and off-plan differently from a delivered unit. See [Property prices in Algiers](/en/algiers-property-prices), [Buying off-plan in Algiers](/en/buying-off-plan-algiers).
-
-## Pillar F — Execution reliability
-
-- delivery history;
-- quality observed on references;
-- site organisation;
-- realism of the schedule;
-- management of reservations and after-sales.
-
-Delivery is the moment of truth: [New housing delivery](/en/new-housing-delivery-algeria).
-
-## Pillar E — Buyer support
-
-- clarity of documents provided;
-- transparency on risks and delays;
-- quality of answers;
-- absence of abusive pressure;
-- readability of the notarial journey.
-
-A project can be legally “presentable” and still poorly support the buyer: S.A.F.E treats this as a criterion, not a commercial detail.
-
-## The S.A.F.E levels
-
-### S.A.F.E Review
-
-Entry level: structured review of the file and available signals. Useful as a first filter, without claiming deep validation of every execution aspect.
-
-### S.A.F.E Certified
-
-Standard certification level: fuller analysis across the four pillars, with a file judged robust enough for framed visibility — always under the legal reservations above.
-
-### S.A.F.E Prime
-
-Higher level: strengthened requirements on security, execution and transparency. Reserved for projects that demonstrate superior documentary and operational maturity.
-
-### S.A.F.E Confidential
-
-A more restricted analysis / support level in public dissemination: sensitive files, limited access, or a deep-dive not intended for an open showcase. “Confidential” refers to the mode of handling / dissemination, not a promise of absolute secrecy or a guaranteed outcome.
-
-**Important**: a higher level means a more demanding analysis within the Viva Algérie grid — **not** all-risks insurance.
+Expert Guidance means buyer guidance: understanding the file, knowing which documents to ask for, reading the payment schedule, reservation process, notarial steps, delivery conditions and decision points.
 
 ## What S.A.F.E is not
 
-- not a wilaya *agrément*;
-- not registration on the national table;
-- not a substitute for the FGCMPI;
-- not a judicial expertise;
-- not a yield promise;
-- not government validation.
-
-Buyers should continue reading: [Legal framework](/en/articles/cadre-juridique-immobilier-algerie), [Mistakes to avoid](/en/articles/erreurs-acheter-immobilier-algerie).
-
-## How to use S.A.F.E in practice
-
-1. Identify a project of interest.
-2. Check the basic legal framework (developer, permit, contract).
-3. Consult the S.A.F.E level if one exists for that project.
-4. Read the published limits.
-5. Go to the **notary** with your questions.
-6. Do not pay outside a secured circuit.
-
-For the diaspora: [Buying from abroad](/en/articles/diaspora-algerienne-acheter-immobilier).
-
-## S.A.F.E and new build / off-plan
-
-It is on new build that the grid adds the most educational value: payment schedule, progress, materials, delivery, transparency. It complements these pages:
-
-- [Buying off-plan in Algeria](/en/buying-off-plan-algeria)
-- [Buying off-plan in Algiers](/en/buying-off-plan-algiers)
-- [New housing](/en/articles/logement-neuf-algerie-opportunite-risque)
-- [Off-plan checks](/en/articles/acheter-sur-plan-algerie-verifications)
-
-## Editorial governance
-
-Viva Algérie publishes real-estate, tourism and investment analysis centred on Algeria. S.A.F.E fits that line: require sources, refuse invented figures, recall limits. An uncertified project is not automatically “fraudulent”; a certified project is not automatically “perfect”.
-
-## Illustrative S / A / F / E readings
-
-- **Weak S**: aggressive marketing without presentable *agrément* documents → stop.
-- **Fragile A**: price disconnected from the segment without product justification → caution.
-- **Doubtful F**: no site or delivered references to visit despite an ambitious schedule → execution risk.
-- **Insufficient E**: evasive answers, 24-hour pressure, documents “later” → poor buyer support.
-
-These pedagogical examples do not score any real project; they show how to speak S.A.F.E language day to day.
-
-## How it connects with Viva Algérie guide pages
-
-S.A.F.E works best when read with the practical guides: [checking a developer](/en/how-to-check-real-estate-developer-algeria), [documents](/en/real-estate-documents-algeria), [risks](/en/real-estate-risks-algeria), [delivery](/en/new-housing-delivery-algeria) and [prices in Algiers](/en/algiers-property-prices). Certification orients; the guides operationalise. Also see our [guides](/en/guides) and [real estate](/en/real-estate) hubs.
-
-## Key takeaways
-
-**S.A.F.E** is a shared language for talking about real-estate trust in Algeria: project Security, investment Analysis, execution reliability (Fiability), buyer support (Encadrement) — with Review, Certified, Prime and Confidential levels. Use it as a **compass**, never as a legal **umbrella**.
-
-Next steps: the guide pages above, and the market reading [Real estate 2026](/en/articles/immobilier-algerie-2026).
+- S.A.F.E is not an official state certification.
+- S.A.F.E is not a government approval.
+- S.A.F.E is not a zero-risk promise.
+- S.A.F.E is not a delivery guarantee.
+- S.A.F.E does not replace the notary or qualified legal, technical, tax and financial checks.
 
 ## FAQ
 
-### Is S.A.F.E an official certification?
-
-No. S.A.F.E is a **proprietary** certification of Viva Algérie. It is not issued by the State and does not replace developer *agrément* or public controls.
-
 ### What does S.A.F.E mean?
 
-Secure Approved For Estate. The pillars are: project Security, investment Analysis, execution reliability, buyer support.
+S.A.F.E means Security, Analysis, Fidelity & Expert Guidance. The method covers project security, investment analysis, consistency between promise and delivery, and expert buyer guidance.
+
+### Why use the word Fidelity in S.A.F.E?
+
+Fidelity refers to consistency between the promise and the actual delivery of a project: plans, materials, finishes, timelines, equipment and execution quality.
+
+### What does Expert Guidance mean?
+
+Expert Guidance refers to buyer guidance: understanding the file, documents to request, reservation steps, payment, notary, delivery and decision support.
+
+### Is S.A.F.E an official certification?
+
+No. S.A.F.E is a proprietary analysis and pre-selection method. It is not an official state certification.
 
 ### Does S.A.F.E guarantee that a project is risk-free?
 
-No. No real-estate project is risk-free. S.A.F.E analyses and pre-selects; it does not guarantee the absence of delay, defects or disputes.
+No. S.A.F.E does not guarantee the absence of risk. It helps structure project analysis before a buyer presentation.
 
-### Why is S.A.F.E useful for a buyer?
+### Does S.A.F.E replace the notary or legal checks?
 
-Because it imposes a stable grid (actor, file, execution, transparency, investment coherence) and helps avoid purely emotional decisions.
-
-### What is the difference between Review, Certified, Prime and Confidential?
-
-They are levels of requirement / depth (and, for Confidential, of dissemination mode). The higher the level in the grid, the more demanding the analysis — without becoming insurance.
-
-### Can I buy without a notary if a project is S.A.F.E?
-
-No. The notary and legal checks remain essential, whatever the S.A.F.E level.
+No. S.A.F.E does not replace legal, notarial, technical, tax or financial checks. Before any acquisition, the buyer must consult qualified professionals.
 
 ## Sources
 
-- Buyer legal reference framework: Law 11-04, Decree 13-431, FGCMPI — [fgcmpi.org.dz](https://fgcmpi.org.dz)
-- 2025 vigilance on illegal development — Justice note / Algerian press coverage
-- Land documentation — [DGDN](https://www.dgdn.gov.dz)
-- Viva Algérie editorial methodology — this page and related guides
+- Viva Algérie editorial methodology — this page and related guides.
+- Algerian legal and notarial checks to be performed with competent authorities and professionals.

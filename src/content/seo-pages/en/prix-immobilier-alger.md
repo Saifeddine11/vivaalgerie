@@ -125,7 +125,7 @@ Complements: [Mistakes when buying](/en/articles/erreurs-acheter-immobilier-alge
 
 The **S.A.F.E** grid integrates an **investment analysis** among other pillars (security, execution reliability, support). It can help judge whether a project is coherent — without publishing an official quote and without replacing an expertise. S.A.F.E is **proprietary**, not governmental.
 
-Details: [S.A.F.E certification](/en/safe-real-estate-certification).
+Details: [S.A.F.E method](/en/safe-real-estate-certification).
 
 ## Mini-protocol before offering a price
 

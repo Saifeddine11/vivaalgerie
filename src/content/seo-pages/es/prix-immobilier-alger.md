@@ -125,7 +125,7 @@ Complementos: [Errores al comprar](/es/articulos/erreurs-acheter-immobilier-alge
 
 El grid **S.A.F.E** integra un **análisis de inversión** entre otros pilares (seguridad, confiabilidad de ejecución, soporte). Puede ayudar a juzgar si un proyecto es coherente, sin publicar una cotización oficial y sin reemplazar una experiencia. S.A.F.E es **propietario**, no gubernamental.
 
-Detalles: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
+Detalles: [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
 ## Miniprotocolo antes de ofrecer un precio
 

@@ -119,11 +119,11 @@ Un achat sur plan à Alger n’est pas un placement « liquide ». Traitez-le co
 
 ## Étape 9 — Intégrer une lecture S.A.F.E (complémentaire)
 
-La certification **S.A.F.E** (Secure Approved For Estate) de Viva Algérie évalue des projets selon quatre piliers : sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur. Niveaux : Review, Certified, Prime, Confidential.
+La méthode **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie évalue des projets selon quatre piliers : sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur. Niveaux : Review, Certified, Prime, Confidential.
 
 **Attention** : S.A.F.E est une grille **propriétaire**, pas une certification d’État. Elle ne remplace ni notaire, ni agrément, ni FGCMPI.
 
-En savoir plus : [S.A.F.E — certification immobilière](/safe-certification-immobiliere).
+En savoir plus : [S.A.F.E — méthode d’analyse immobilière](/safe-certification-immobiliere).
 
 ## Spécificités utiles pour la diaspora à Alger
 

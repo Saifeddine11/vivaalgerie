@@ -121,9 +121,9 @@ Guide : [Diaspora : acheter depuis l’étranger](/articles/diaspora-algerienne-
 
 ## S.A.F.E : une grille complémentaire, pas un substitut
 
-**S.A.F.E** analyse des projets selon des critères de confiance (S/A/F/E) et des niveaux Review / Certified / Prime / Confidential. C’est une certification **propriétaire** Viva Algérie, **pas** une validation d’État. Elle ne remplace pas l’agrément ni le notaire.
+**S.A.F.E** analyse des projets selon des critères de confiance (S/A/F/E) et des niveaux Review / Certified / Prime / Confidential. C’est une méthode **propriétaire** Viva Algérie, **pas** une validation d’État. Elle ne remplace pas l’agrément ni le notaire.
 
-En savoir plus : [Certification S.A.F.E](/safe-certification-immobiliere).
+En savoir plus : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
 ## Ce qu’il faut retenir
 

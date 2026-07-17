@@ -125,7 +125,7 @@ Aanvullingen: [Fouten bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-al
 
 Het **S.A.F.E**-raster integreert een **investeringsanalyse** naast andere pijlers (veiligheid, uitvoeringsbetrouwbaarheid, ondersteuning). Het kan helpen beoordelen of een project coherent is – zonder een officieel citaat te publiceren en zonder een expertise te vervangen. S.A.F.E is **eigendom**, niet van de overheid.
 
-Details: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
+Details: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
 ## Miniprotocol voordat een prijs wordt aangeboden
 

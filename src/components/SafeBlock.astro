@@ -27,7 +27,10 @@ const href = SAFE_PATH[locale];
       <div class="relative max-w-2xl">
         <p class="mb-3 inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-medium uppercase tracking-[0.16em]">
           <Icon name="shield" size={14} />
-          {t(locale, 'safe.badge')}
+          <span class="flex flex-col gap-0.5 leading-tight">
+            <span>{t(locale, 'safe.badge')}</span>
+            <span class="normal-case tracking-normal text-white/75">{t(locale, 'safe.badgeLine')}</span>
+          </span>
         </p>
         <h2 class="mb-4 text-3xl text-white sm:text-4xl">{t(locale, 'home.safeTitle')}</h2>
         <p class="mb-8 text-white/85">{t(locale, 'home.safeText')}</p>

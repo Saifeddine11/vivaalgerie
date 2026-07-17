@@ -57,7 +57,7 @@ Esta disciplina no elimina todos los riesgos, pero reduce en gran medida los err
 
 El **Fondo de Garantía Recíproca para el Desarrollo Inmobiliario (FGCMPI)** es parte de esta lógica de aseguramiento del sector. Su existencia nos recuerda que el desarrollo inmobiliario no es un mercado extrabursátil improvisado: es una actividad regulada, con mecanismos de depósito y garantía destinados a proteger la confianza del público. En 2026, mencionar al FGCMPI en una conversación de compras ya no será un signo de desconfianza excesiva; es un marcador de seriedad.
 
-Nuestro archivo [Comment vérifier un promoteur immobilier en Algérie](/es/como-verificar-promotor-inmobiliario-argelia) detalla una práctica rejilla de control. Para proyectos comercializados antes de su finalización, lea también [Acheter sur plan en Algérie](/es/comprar-sobre-plano-argelia) y [SAFE et certification immobilière](/es/certificacion-inmobiliaria-safe).
+Nuestro archivo [Comment vérifier un promoteur immobilier en Algérie](/es/como-verificar-promotor-inmobiliario-argelia) detalla una práctica rejilla de control. Para proyectos comercializados antes de su finalización, lea también [Acheter sur plan en Algérie](/es/comprar-sobre-plano-argelia) y [S.A.F.E et méthode d’analyse immobilière](/es/certificacion-inmobiliaria-safe).
 
 ## Venta de planos: más supervisión, menos improvisación
 

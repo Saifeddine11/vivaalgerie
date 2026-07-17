@@ -91,7 +91,7 @@ Guías Viva Argelia:
 - [Comment vérifier un promoteur](/es/como-verificar-promotor-inmobiliario-argelia)
 - [Documents d’achat immobilier](/es/documentos-compra-inmobiliaria-argelia)
 - [Risques de l’achat](/es/riesgos-compra-inmobiliaria-argelia)
-- [SAFE certification](/es/certificacion-inmobiliaria-safe)
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe)
 - [Erreurs à éviter](/es/articulos/erreurs-acheter-immobilier-algerie)
 
 ## Efectos urbanos indirectos: más allá de la playa

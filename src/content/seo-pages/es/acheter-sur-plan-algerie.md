@@ -117,9 +117,9 @@ El comprador debe llegar a la notaría **con un expediente**, no sólo con un fo
 
 ## Cómo S.A.F.E complementa (sin sustituir) la ley
 
-La cuadrícula **S.A.F.E** (Secure Approved For Estate) de Viva Algérie analiza proyectos según criterios de confianza (seguridad, análisis de inversiones, confiabilidad de ejecución, soporte al comprador). Es **propietario**: no es una certificación gubernamental, y no reemplaza ni a la notaria, ni a la *conservation foncière*, ni a la FGCMPI.
+La cuadrícula **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie analiza proyectos según criterios de confianza (seguridad, análisis de inversiones, confiabilidad de ejecución, soporte al comprador). Es **propietario**: no es una validación gubernamental, y no reemplaza ni a la notaria, ni a la *conservation foncière*, ni a la FGCMPI.
 
-Descubre el esquema: [S.A.F.E certificación inmobiliaria](/es/certificacion-inmobiliaria-safe).
+Descubre el esquema: [S.A.F.E metodología de análisis inmobiliario](/es/certificacion-inmobiliaria-safe).
 
 ## Método práctico para la diáspora.
 
@@ -160,7 +160,7 @@ decreto 13-431 modula el pago en función del progreso (en particular, 20%, 15%,
 
 No reserve y no pague depósito. Practicar sin *agrément* es contrario al marco de desarrollo inmobiliario. Consulte a un notario y consulte nuestra guía sobre [comprobando el promotor](/es/como-verificar-promotor-inmobiliario-argelia).
 
-## ¿La certificación S.A.F.E reemplaza los controles legales?
+## ¿La metodología S.A.F.E reemplaza los controles legales?
 
 No. S.A.F.E es una cuadrícula de análisis propietaria. No sustituye ni al notario, ni al *agrément*, ni al FGCMPI, ni a los controles territoriales y técnicos.
 

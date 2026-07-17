@@ -92,7 +92,7 @@ Guides Viva Algérie :
 - [Comment vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie)
 - [Documents d’achat immobilier](/documents-achat-immobilier-algerie)
 - [Risques de l’achat](/risques-achat-immobilier-algerie)
-- [SAFE certification](/safe-certification-immobiliere)
+- [Méthode S.A.F.E](/safe-certification-immobiliere)
 - [Erreurs à éviter](/articles/erreurs-acheter-immobilier-algerie)
 
 ## Effets urbains indirects : au-delà de la plage

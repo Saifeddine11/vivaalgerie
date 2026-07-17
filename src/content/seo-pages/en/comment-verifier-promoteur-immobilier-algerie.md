@@ -121,9 +121,9 @@ Guide: [Diaspora: buying from abroad](/en/articles/diaspora-algerienne-acheter-i
 
 ## S.A.F.E: a complementary grid, not a substitute
 
-**S.A.F.E** analyses projects against trust criteria (S/A/F/E) and Review / Certified / Prime / Confidential levels. It is a **proprietary** Viva Algérie certification, **not** State validation. It replaces neither *agrément* nor the notary.
+**S.A.F.E** analyses projects against trust criteria (S/A/F/E) and Review / Certified / Prime / Confidential levels. It is a **proprietary** Viva Algérie method, **not** State validation. It replaces neither *agrément* nor the notary.
 
-Learn more: [S.A.F.E certification](/en/safe-real-estate-certification).
+Learn more: [S.A.F.E method](/en/safe-real-estate-certification).
 
 ## Key takeaways
 

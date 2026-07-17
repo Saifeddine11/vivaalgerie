@@ -121,9 +121,9 @@ Gids: [Diaspora: kopen in het buitenland](/nl/artikelen/diaspora-algerienne-ache
 
 ## S.A.F.E: een aanvullend raster, geen vervanging
 
-**S.A.F.E** analyseert projecten op basis van vertrouwenscriteria (S/A/F/E) en beoordelings-, gecertificeerde, prime- en vertrouwelijke niveaus. Het is een **eigen** Viva Algérie-certificering, **geen** staatsvalidatie. Het vervangt noch *agrément*, noch de notaris.
+**S.A.F.E** analyseert projecten op basis van vertrouwenscriteria (S/A/F/E) en beoordelings-, gecertificeerde, prime- en vertrouwelijke niveaus. Het is een **eigen** Viva Algérie-methode, **geen** staatsvalidatie. Het vervangt noch *agrément*, noch de notaris.
 
-Meer informatie: [S.A.F.E-certificering](/nl/safe-vastgoedcertificering).
+Meer informatie: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
 ## Belangrijkste afhaalrestaurants
 

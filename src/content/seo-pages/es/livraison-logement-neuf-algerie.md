@@ -161,7 +161,7 @@ Complemento: [Errores al comprar](/es/articulos/erreurs-acheter-immobilier-alger
 
 Un proyecto analizado **S.A.F.E** (rejilla propietaria Viva Algérie) no está “garantizado libre de defectos”. La aceptación sigue siendo un acto personal, notarial y técnico. S.A.F.E no reemplaza ni el informe ni las reservas.
 
-Más información: [Certificación S.A.F.E](/es/certificacion-inmobiliaria-safe).
+Más información: [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
 ## Lista de verificación exprés para imprimir
 

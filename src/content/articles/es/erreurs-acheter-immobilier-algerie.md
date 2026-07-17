@@ -51,7 +51,7 @@ Señales de advertencia comunes:
 - promesas de plazos sin un mecanismo contractual legible;
 - ausencia de respuestas precisas sobre el **FGCMPI** y las garantías.
 
-Corrección: aplicar una cuadrícula de verificación antes de la seducción del showroom. Guía dedicada: [Comment vérifier un promoteur immobilier en Algérie](/es/como-verificar-promotor-inmobiliario-argelia). Sobre procedimientos de certificación y seguridad: [SAFE certification immobilière](/es/certificacion-inmobiliaria-safe).
+Corrección: aplicar una cuadrícula de verificación antes de la seducción del showroom. Guía dedicada: [Comment vérifier un promoteur immobilier en Algérie](/es/como-verificar-promotor-inmobiliario-argelia). Sobre metodología de análisis y seguridad: [méthode S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
 ## Error nº3: creer que “según lo previsto” significa “menos trámites”
 

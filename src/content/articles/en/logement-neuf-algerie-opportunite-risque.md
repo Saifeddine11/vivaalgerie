@@ -84,7 +84,7 @@ The presence of an approved developer, recourse to the notary, careful contract 
 
 New housing works project by project. Two programmes in the same neighbourhood can present very different risk levels depending on the developer, the land, site financing and payment governance.
 
-That is precisely the angle of [S.A.F.E — Secure Approved For Estate](/en/safe-real-estate-certification): a proprietary pre-selection grid (security, analysis, reliability, support) that is not a state certification and replaces neither the notary nor technical controls. It serves to structure the question: does this project deserve my attention?
+That is precisely the angle of [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/en/safe-real-estate-certification): a proprietary pre-selection grid (security, analysis, reliability, support) that is not an official state certification and replaces neither the notary nor technical controls. It serves to structure the question: does this project deserve my attention?
 
 For Algiers, cross this logic with [buying off-plan in Algiers](/en/buying-off-plan-algiers) and the detailed checks in our guide [points to verify before reserving](/en/articles/acheter-sur-plan-algerie-verifications).
 

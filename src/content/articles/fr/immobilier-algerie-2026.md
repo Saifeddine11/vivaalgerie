@@ -58,7 +58,7 @@ Cette discipline n’élimine pas tout risque, mais elle réduit fortement les e
 
 Le **Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI)** s’inscrit dans cette logique de sécurisation du secteur. Son existence rappelle que la promotion immobilière n’est pas un marché de gré à gré improvisé : c’est une activité réglementée, avec des mécanismes de caution et de garantie destinés à protéger la confiance du public. En 2026, mentionner le FGCMPI dans une conversation d’achat n’est plus un signe de méfiance excessive ; c’est un marqueur de sérieux.
 
-Notre dossier [Comment vérifier un promoteur immobilier en Algérie](/comment-verifier-promoteur-immobilier-algerie) détaille une grille pratique de contrôle. Pour les projets commercialisés avant achèvement, lisez aussi [Acheter sur plan en Algérie](/acheter-sur-plan-algerie) et [SAFE et certification immobilière](/safe-certification-immobiliere).
+Notre dossier [Comment vérifier un promoteur immobilier en Algérie](/comment-verifier-promoteur-immobilier-algerie) détaille une grille pratique de contrôle. Pour les projets commercialisés avant achèvement, lisez aussi [Acheter sur plan en Algérie](/acheter-sur-plan-algerie) et [S.A.F.E et méthode d’analyse immobilière](/safe-certification-immobiliere).
 
 ## Vente sur plans : plus d’encadrement, moins d’improvisation
 

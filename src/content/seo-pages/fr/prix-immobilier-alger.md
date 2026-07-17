@@ -125,7 +125,7 @@ Compléments : [Erreurs à l’achat](/articles/erreurs-acheter-immobilier-alger
 
 La grille **S.A.F.E** intègre une **analyse d’investissement** parmi d’autres piliers (sécurisation, fiabilité d’exécution, encadrement). Elle peut aider à juger si un projet est cohérent — sans publier une cote officielle et sans remplacer une expertise. S.A.F.E est **propriétaire**, pas gouvernementale.
 
-Détails : [Certification S.A.F.E](/safe-certification-immobiliere).
+Détails : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
 ## Mini-protocole avant d’offrir un prix
 

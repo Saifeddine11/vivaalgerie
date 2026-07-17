@@ -46,7 +46,7 @@ The **notary** is not a simple end-of-process stamp. They intervene in formalisi
 
 ### What the notary is not
 
-The notary does not guarantee that the price is “the right market price”, nor that the property is free of hidden technical defects, nor that your personal tax setup is optimal. They also do not replace a proprietary project certification such as [S.A.F.E](/en/safe-real-estate-certification).
+The notary does not guarantee that the price is “the right market price”, nor that the property is free of hidden technical defects, nor that your personal tax setup is optimal. They also do not replace a proprietary project method such as [S.A.F.E](/en/safe-real-estate-certification).
 
 ### Buyer good practices
 
@@ -99,7 +99,7 @@ For the full journey: [buying off-plan in Algeria](/en/buying-off-plan-algeria) 
 
 ## The role of S.A.F.E in pre-selection
 
-Even before the heavy notarial phase, many buyers get lost in a surplus of offers. **S.A.F.E — Secure Approved For Estate** is a proprietary (non-state) certification that structures project analysis around four pillars: project security, investment analysis, execution reliability, and buyer support.
+Even before the heavy notarial phase, many buyers get lost in a surplus of offers. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** is a proprietary (non-state) method that structures project analysis around four pillars: project security, investment analysis, execution reliability, and buyer support.
 
 Its pedagogical usefulness within the legal framework is indirect but real: it pushes buyers to ask early the questions the law will ask later — who is the developer, is the file readable, are payments traceable, is delivery credible?
 
@@ -158,7 +158,7 @@ In the practice of property transfers, recourse to the notary is structural. For
 
 ### Is S.A.F.E an official certification of the Algerian State?
 
-No. It is a proprietary certification for project pre-selection and analysis. It does not substitute for public authorities or the notary.
+No. It is a proprietary method for project pre-selection and analysis. It does not substitute for public authorities or the notary.
 
 ### What if a seller refuses to go through a notary?
 

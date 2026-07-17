@@ -27,7 +27,7 @@ In a second-hand sale, the buyer visits a tangible property, consults the [livre
 
 Law 11-04 frames real-estate development and distinguishes the approved developer from the occasional seller. It imposes transparency, contractualisation and, within the prescribed scheme, mechanisms linked to the Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI — mutual guarantee fund for real-estate development). Decree 13-431 specifies the models for reservation and off-plan sale contracts. These texts do not “guarantee” that a project will finish without friction; they set a framework the buyer must know how to read.
 
-Before any signature, cross-check this reading with a structured project analysis. The proprietary [S.A.F.E — Secure Approved For Estate](/en/safe-real-estate-certification) certification replaces neither the notary nor official controls, but it helps pre-select: developer, file, payments, materials, price, delivery and buyer support.
+Before any signature, cross-check this reading with a structured project analysis. The proprietary [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/en/safe-real-estate-certification) method replaces neither the notary nor official controls, but it helps pre-select: developer, file, payments, materials, price, delivery and buyer support.
 
 For an overview of risks and guarantees, also see [Buying off-plan in Algeria](/en/buying-off-plan-algeria).
 
@@ -170,7 +170,7 @@ No. The brochure orients; the contract, annexed plans and technical description 
 
 ### Does S.A.F.E replace the notary?
 
-No. [S.A.F.E](/en/safe-real-estate-certification) is a proprietary pre-selection and project-analysis certification. It is neither an official State certification, nor a legal guarantee, nor a substitute for the notary.
+No. [S.A.F.E](/en/safe-real-estate-certification) is a proprietary pre-selection and project-analysis method. It is neither an official state certification, nor a legal guarantee, nor a substitute for the notary.
 
 ### What if the developer refuses to show their approval?
 

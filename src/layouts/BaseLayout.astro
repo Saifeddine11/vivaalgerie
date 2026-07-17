@@ -14,6 +14,10 @@ interface Props {
   hreflang?: { lang: string; href: string }[];
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   ogLocale?: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  twitterTitle?: string;
+  twitterDescription?: string;
 }
 
 const {
@@ -27,11 +31,19 @@ const {
   hreflang = [],
   jsonLd = [],
   ogLocale,
+  ogTitle,
+  ogDescription,
+  twitterTitle,
+  twitterDescription,
 } = Astro.props;
 
 const canonicalUrl = canonical ?? absoluteUrl(Astro.url.pathname.replace(/\.html$/, ''));
 const imageUrl = image.startsWith('http') ? image : absoluteUrl(image);
 const fullTitle = title.includes('Viva Algérie') ? title : `${title} | Viva Algérie`;
+const socialTitle = ogTitle ?? fullTitle;
+const socialDescription = ogDescription ?? description;
+const twTitle = twitterTitle ?? socialTitle;
+const twDescription = twitterDescription ?? socialDescription;
 const ogLoc =
   ogLocale ??
   ({ fr: 'fr_DZ', en: 'en_GB', es: 'es_ES', nl: 'nl_NL' }[locale] ?? 'fr_DZ');
@@ -59,15 +71,15 @@ const htmlLang = locale === 'fr' ? 'fr' : locale;
 
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={SITE.name} />
-    <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:title" content={socialTitle} />
+    <meta property="og:description" content={socialDescription} />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={imageUrl} />
     <meta property="og:locale" content={ogLoc} />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:title" content={twTitle} />
+    <meta name="twitter:description" content={twDescription} />
     <meta name="twitter:image" content={imageUrl} />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

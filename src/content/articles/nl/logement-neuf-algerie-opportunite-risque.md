@@ -84,7 +84,7 @@ De aanwezigheid van een erkende ontwikkelaar, een beroep op de notaris, zorgvuld
 
 Nieuwbouwprojecten project voor project. Twee programma's in dezelfde buurt kunnen zeer verschillende risiconiveaus met zich meebrengen, afhankelijk van de ontwikkelaar, de grond, de locatiefinanciering en het betalingsbeheer.
 
-Dat is precies de invalshoek van [S.A.F.E — Secure Approved For Estate](/nl/safe-vastgoedcertificering): een eigen preselectieraster (veiligheid, analyse, betrouwbaarheid, ondersteuning) dat geen staatscertificering is en noch de notariële noch de technische controles vervangt. Het dient om de vraag te structureren: verdient dit project mijn aandacht?
+Dat is precies de invalshoek van [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/nl/safe-vastgoedcertificering): een eigen preselectieraster (veiligheid, analyse, betrouwbaarheid, ondersteuning) dat geen staatscertificering is en noch de notariële noch de technische controles vervangt. Het dient om de vraag te structureren: verdient dit project mijn aandacht?
 
 Voor Algiers kruist u deze logica met [off-plan kopen in Algiers](/nl/off-plan-kopen-algiers) en de gedetailleerde controles in onze gids [punten om te verifiëren voordat u reserveert](/nl/artikelen/acheter-sur-plan-algerie-verifications).
 

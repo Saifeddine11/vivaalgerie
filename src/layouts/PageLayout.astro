@@ -16,6 +16,10 @@ interface Props {
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   showNewsletter?: boolean;
   noindex?: boolean;
+  ogTitle?: string;
+  ogDescription?: string;
+  twitterTitle?: string;
+  twitterDescription?: string;
 }
 
 const {
@@ -29,6 +33,10 @@ const {
   jsonLd = [],
   showNewsletter = true,
   noindex = false,
+  ogTitle,
+  ogDescription,
+  twitterTitle,
+  twitterDescription,
 } = Astro.props;
 
 const orgSchema = {
@@ -77,6 +85,10 @@ const languagePaths = hreflang
   hreflang={hreflang}
   jsonLd={allJsonLd}
   noindex={noindex}
+  ogTitle={ogTitle}
+  ogDescription={ogDescription}
+  twitterTitle={twitterTitle}
+  twitterDescription={twitterDescription}
 >
   <Header locale={locale} languagePaths={languagePaths} />
   <main id="main">
