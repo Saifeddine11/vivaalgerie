@@ -14,7 +14,14 @@ import {
 } from '../lib/site';
 
 function url(path: string, lastmod?: Date) {
-  const loc = path === '/' ? SITE.url : `${SITE.url}${path}`;
+  const clean = path.startsWith('/') ? path : `/${path}`;
+  const normalized =
+    clean === '/' || /\.[a-z0-9]+$/i.test(clean)
+      ? clean
+      : clean.endsWith('/')
+        ? clean
+        : `${clean}/`;
+  const loc = normalized === '/' ? SITE.url : `${SITE.url}${normalized}`;
   const lm = lastmod ? `\n    <lastmod>${lastmod.toISOString().slice(0, 10)}</lastmod>` : '';
   return `  <url>\n    <loc>${loc}</loc>${lm}\n  </url>`;
 }

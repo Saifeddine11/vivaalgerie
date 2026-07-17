@@ -6,9 +6,9 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   site: 'https://vivaalgerie.com',
   output: 'static',
-  trailingSlash: 'never',
+  trailingSlash: 'always',
   build: {
-    format: 'file',
+    format: 'directory',
   },
   vite: {
     plugins: [tailwindcss()],

@@ -137,6 +137,20 @@ const jsonLd = [blogPosting, breadcrumbLd, faqLd].filter(Boolean) as Record<stri
             fetchpriority="high"
           />
         </div>
+        {
+          article.data.imageCredit && (
+            <p class="mt-2 text-xs text-muted">
+              Image :{' '}
+              {article.data.imageSource ? (
+                <a href={article.data.imageSource} class="text-green hover:underline">
+                  {article.data.imageCredit}
+                </a>
+              ) : (
+                article.data.imageCredit
+              )}
+            </p>
+          )
+        }
       </div>
     </header>
 

@@ -14,7 +14,13 @@ import type { Category } from './site';
 
 export function absoluteUrl(path: string): string {
   const clean = path.startsWith('/') ? path : `/${path}`;
-  return `${SITE.url}${clean === '/' ? '' : clean}`;
+  const normalized =
+    clean === '/' || /\.[a-z0-9]+$/i.test(clean)
+      ? clean
+      : clean.endsWith('/')
+        ? clean
+        : `${clean}/`;
+  return `${SITE.url}${normalized === '/' ? '' : normalized}`;
 }
 
 export function localePath(locale: Locale, path: string): string {

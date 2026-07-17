@@ -136,6 +136,31 @@
     @apply my-8 border-l-4 border-green bg-green-soft/50 py-4 pl-5 pr-4 italic text-muted;
   }
 
+  .prose-editorial .article-figure {
+    @apply my-10;
+  }
+
+  .prose-editorial .article-figure img {
+    @apply w-full rounded-[var(--radius-card)] border border-border object-cover shadow-[var(--shadow-soft)];
+  }
+
+  .prose-editorial .article-figure figcaption {
+    @apply mt-2 text-sm leading-6 text-muted;
+  }
+
+  .prose-editorial .article-figure figcaption a {
+    @apply text-green no-underline hover:underline;
+  }
+
+  .prose-editorial .key-facts {
+    @apply my-8 rounded-[var(--radius-card)] border border-green/20 bg-green-soft/50 p-6;
+  }
+
+  .prose-editorial .key-facts p:last-child,
+  .prose-editorial .key-facts ul:last-child {
+    @apply mb-0;
+  }
+
   .eyebrow {
     @apply text-xs font-medium uppercase tracking-[0.18em] text-green;
   }

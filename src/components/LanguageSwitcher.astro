@@ -13,6 +13,11 @@ interface Props {
 }
 
 const { locale, paths } = Astro.props;
+const availableLocales = paths ? LOCALES.filter((l) => paths[l]) : LOCALES;
+const routePath = (path: string) =>
+  path === '/' || /\.[a-z0-9]+$/i.test(path) || path.endsWith('/')
+    ? path
+    : `${path}/`;
 ---
 
 <div class="relative" data-lang-switcher>
@@ -34,10 +39,10 @@ const { locale, paths } = Astro.props;
     data-lang-menu
   >
     {
-      LOCALES.map((l) => (
+      availableLocales.map((l) => (
         <li role="option" aria-selected={l === locale}>
           <a
-            href={paths?.[l] ?? HOME_PATH[l]}
+            href={routePath(paths?.[l] ?? HOME_PATH[l])}
             class:list={[
               'block px-4 py-2.5 text-sm hover:bg-green-soft hover:text-green',
               l === locale && 'bg-green-soft font-medium text-green',

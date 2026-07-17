@@ -57,6 +57,14 @@ const allJsonLd = [
   websiteSchema,
   ...(Array.isArray(jsonLd) ? jsonLd : [jsonLd]),
 ];
+
+const languagePaths = hreflang
+  ? Object.fromEntries(
+    hreflang
+    .filter((h) => h.lang !== 'x-default')
+    .map((h) => [h.lang, new URL(h.href).pathname]),
+  )
+  : undefined;
 ---
 
 <BaseLayout
@@ -70,7 +78,7 @@ const allJsonLd = [
   jsonLd={allJsonLd}
   noindex={noindex}
 >
-  <Header locale={locale} />
+  <Header locale={locale} languagePaths={languagePaths} />
   <main id="main">
     <slot />
   </main>

@@ -13,9 +13,10 @@ import { t } from '../i18n/ui';
 
 interface Props {
   locale?: Locale;
+  languagePaths?: Partial<Record<Locale, string>>;
 }
 
-const { locale = 'fr' } = Astro.props;
+const { locale = 'fr', languagePaths } = Astro.props;
 const legal = getLegalPaths(locale);
 const home = HOME_PATH[locale];
 
@@ -79,7 +80,7 @@ const links =
     </nav>
 
     <div class="flex items-center gap-2">
-      <LanguageSwitcher locale={locale} />
+      <LanguageSwitcher locale={locale} paths={languagePaths} />
       <a href={legal.contact} class="btn-primary hidden !px-4 !py-2 text-xs sm:inline-flex">
         {t(locale, 'nav.contact')}
       </a>
