@@ -46,7 +46,7 @@ The **notary** is not a simple end-of-process stamp. They intervene in formalisi
 
 ### What the notary is not
 
-The notary does not guarantee that the price is “the right market price”, nor that the property is free of hidden technical defects, nor that your personal tax setup is optimal. They also do not replace a proprietary project method such as [S.A.F.E](/en/safe-real-estate-certification).
+The notary does not guarantee that the price is “the right market price”, nor that the property is free of hidden technical defects, nor that your personal tax setup is optimal. They also do not replace an international proprietary real estate analysis and pre-screening methodology such as [S.A.F.E](/en/safe-real-estate-certification).
 
 ### Buyer good practices
 
@@ -99,7 +99,7 @@ For the full journey: [buying off-plan in Algeria](/en/buying-off-plan-algeria) 
 
 ## The role of S.A.F.E in pre-selection
 
-Even before the heavy notarial phase, many buyers get lost in a surplus of offers. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** is a proprietary (non-state) method that structures project analysis around four pillars: project security, investment analysis, execution reliability, and buyer support.
+Even before the heavy notarial phase, many buyers get lost in a surplus of offers. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** is an international proprietary real estate analysis and pre-screening methodology, geographically neutral and non-state. It structures project analysis around four pillars: project security, investment analysis, execution reliability, and expert guidance.
 
 Its pedagogical usefulness within the legal framework is indirect but real: it pushes buyers to ask early the questions the law will ask later — who is the developer, is the file readable, are payments traceable, is delivery credible?
 
@@ -156,9 +156,9 @@ It frames real-estate development and sets obligations. Effective protection als
 
 In the practice of property transfers, recourse to the notary is structural. For your specific operation, follow the indications of a qualified professional; do not improvise a private “arrangement” on a property.
 
-### Is S.A.F.E an official certification of the Algerian State?
+### Is S.A.F.E an official state certification?
 
-No. It is a proprietary method for project pre-selection and analysis. It does not substitute for public authorities or the notary.
+No. It is an international proprietary real estate analysis and pre-screening methodology. It does not substitute for public authorities or the notary.
 
 ### What if a seller refuses to go through a notary?
 
@@ -171,6 +171,6 @@ Treat it as a stop signal. Without a clear notarial path, legal risk becomes har
 - Institutional framework of conservation foncière and documentation relating to the livret foncier.
 - FGCMPI — Fonds de garantie et de caution mutuelle de la promotion immobilière.
 - Algerian notarial practice — role of the notary in property transfers (pedagogical orientation; individual consultation required).
-- Viva Algérie — [purchase documents](/en/real-estate-documents-algeria), [buying off-plan](/en/buying-off-plan-algeria), [S.A.F.E](/en/safe-real-estate-certification), [checking a developer](/en/how-to-check-real-estate-developer-algeria).
+- Related resources: [purchase documents](/en/real-estate-documents-algeria), [buying off-plan](/en/buying-off-plan-algeria), [S.A.F.E](/en/safe-real-estate-certification), [checking a developer](/en/how-to-check-real-estate-developer-algeria).
 
 *This article is an editorial and pedagogical analysis. It does not constitute legal, tax, financial or notarial advice.*

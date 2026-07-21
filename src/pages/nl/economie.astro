@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/economie') },
+  { lang: 'en', href: absoluteUrl('/en/economy') },
+  { lang: 'es', href: absoluteUrl('/es/economia') },
+  { lang: 'nl', href: absoluteUrl('/nl/economie') },
+  { lang: 'x-default', href: absoluteUrl('/economie') },
+];
+---
+
+<CategoryPage
+  category="economie"
+  locale="nl"
+  title="Algerijnse Economie — Energie, munt en strategische sectoren"
+  description="Economische berichtgeving van Viva Algérie: gas, energiezekerheid, munt, handel, industrie, investeringen en economische soevereiniteit."
+  h1="Algerijnse Economie"
+  intro="Een onderbouwde lezing van Algerijnse economische keuzes: koolwaterstoffen, diversificatie, buitenlandse vraag, munt en beleid."
+  relatedLinks={[
+    { href: '/nl/artikelen/algerie-energie-souverainete-gaz', label: 'Gas en soevereiniteit' },
+    { href: '/nl/investeren', label: 'Investeren' },
+    { href: '/nl/analyses', label: 'Analyses' },
+  ]}
+  hreflang={hreflang}
+/>

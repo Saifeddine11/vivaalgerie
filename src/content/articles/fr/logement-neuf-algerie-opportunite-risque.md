@@ -163,4 +163,4 @@ Non. S.A.F.E est une méthode propriétaire d’analyse et de présélection. El
 - Office national des statistiques (ONS) — démographie et statistiques officielles algériennes (contexte, sans invention d’indices de prix).
 - Office national du tourisme (ONAT) — 3,548 millions de visiteurs en 2024.
 - Banque mondiale / FMI — rapports macroéconomiques (usage prudent, non extrapolé à un bien précis).
-- Viva Algérie — [immobilier](/immobilier), [acheter sur plan](/acheter-sur-plan-algerie), [S.A.F.E](/safe-certification-immobiliere).
+- Ressources liées : [immobilier](/immobilier), [acheter sur plan](/acheter-sur-plan-algerie), [S.A.F.E](/safe-certification-immobiliere).

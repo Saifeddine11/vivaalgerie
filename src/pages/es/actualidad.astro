@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/actualite') },
+  { lang: 'en', href: absoluteUrl('/en/news') },
+  { lang: 'es', href: absoluteUrl('/es/actualidad') },
+  { lang: 'nl', href: absoluteUrl('/nl/nieuws') },
+  { lang: 'x-default', href: absoluteUrl('/actualite') },
+];
+---
+
+<CategoryPage
+  category="actualite"
+  locale="es"
+  title="Actualidad de Argelia — Sociedad, diplomacia y asuntos públicos"
+  description="Actualidad argelina con contexto y fuentes sobre sociedad, instituciones, diplomacia, alertas meteorológicas y asuntos de interés público."
+  h1="Actualidad de Argelia"
+  intro="Hechos actuales con contexto, prudencia y enlaces a fuentes: instituciones, sociedad, economía, diplomacia y seguridad pública."
+  relatedLinks={[
+    { href: '/es/analisis', label: 'Análisis' },
+    { href: '/es/economia', label: 'Economía' },
+    { href: '/es/blog', label: 'Blog' },
+  ]}
+  hreflang={hreflang}
+/>

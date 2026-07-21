@@ -85,7 +85,7 @@ La presencia de un promotor homologado, la utilización de un notario, la lectur
 
 Obras de vivienda nueva proyecto a proyecto. Dos programas en el mismo vecindario pueden presentar niveles de riesgo muy diferentes según el promotor, el terreno, el financiamiento de la construcción y la gobernanza de pagos.
 
-Éste es precisamente el ángulo del [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/es/certificacion-inmobiliaria-safe): una matriz propia de preselección (seguridad, análisis, fiabilidad, supervisión) que no es una certificación estatal y no sustituye ni al notario ni a los controles técnicos. Sirve para estructurar la pregunta: ¿este proyecto merece mi atención?
+Éste es precisamente el ángulo del [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/es/certificacion-inmobiliaria-safe): una metodología internacional propietaria de análisis y preselección inmobiliaria que no es una certificación estatal y no sustituye ni al notario ni a los controles técnicos. Sirve para estructurar la pregunta: ¿este proyecto merece mi atención?
 
 Para Argel, cruce esta lógica con [acheter sur plan à Alger](/es/comprar-sobre-plano-argel) y las comprobaciones detalladas en nuestra guía [points à vérifier avant de réserver](/es/articulos/acheter-sur-plan-algerie-verifications).
 
@@ -154,7 +154,7 @@ Aprobación de demanda, contrato legible, cronograma trazable, lectura notarial 
 
 ## ¿S.A.F.E garantiza el éxito de una nueva inversión?
 
-No. S.A.F.E es un método propietario de análisis y preselección. No promete la ausencia de riesgo y no sustituye al notario, al perito técnico ni al asesoramiento financiero personalizado.
+No. S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria. No promete la ausencia de riesgo y no sustituye al notario, al perito técnico ni al asesoramiento financiero personalizado.
 
 ## Fuentes
 
@@ -164,4 +164,5 @@ No. S.A.F.E es un método propietario de análisis y preselección. No promete l
 - Oficina Nacional de Estadística (ONS): demografía y estadísticas oficiales argelinas (contexto, sin invención de índices de precios).
 - Oficina Nacional de Turismo (ONAT) — 3.548 millones de visitantes en 2024.
 - Banco Mundial/FMI: informes macroeconómicos (uso cauteloso, no extrapolados a un bien específico).
-- Viva Argelia — [immobilier](/es/inmobiliario), [acheter sur plan](/es/comprar-sobre-plano-argelia), [S.A.F.E](/es/certificacion-inmobiliaria-safe).
+- Viva Argelia — [immobilier](/es/inmobiliario), [acheter sur plan](/es/comprar-sobre-plano-argelia).
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).

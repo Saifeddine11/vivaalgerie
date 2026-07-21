@@ -119,9 +119,9 @@ An off-plan purchase in Algiers is not a “liquid” placement. Treat it as a m
 
 ## Step 9 — Integrate a complementary S.A.F.E reading
 
-The **S.A.F.E** method (Security, Analysis, Fidelity & Expert Guidance) from Viva Algérie evaluates projects on four pillars: security, investment analysis, execution reliability, buyer support. Levels: Review, Certified, Prime, Confidential.
+The **S.A.F.E** method (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology. It evaluates opportunities on four pillars: security, investment analysis, execution reliability and expert guidance.
 
-**Caution**: S.A.F.E is a **proprietary** grid, not an official state certification. It replaces neither notary, nor *agrément*, nor FGCMPI.
+**Caution**: S.A.F.E is an international proprietary methodology, not an official state certification. It replaces neither notary, nor *agrément*, nor FGCMPI.
 
 Learn more: [S.A.F.E — real-estate analysis method](/en/safe-real-estate-certification).
 
@@ -220,4 +220,4 @@ No. S.A.F.E helps structure a pre-selection. Your decision must remain grounded 
 - Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
 - 2025 Ministry of Justice note to notaries (illegal real-estate development) — Algerian press coverage
 - *Conservation foncière* / land documentation — DGDN references
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

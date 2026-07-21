@@ -184,4 +184,5 @@ Considérelo una razón para detenerse. Sin una mínima transparencia en materia
 - Sistema FGCMPI — Fondo de garantía y de garantía recíproca para la promoción inmobiliaria (textos e información institucionales argelinos).
 - Conservación del territorio/*livret foncier*: marco documental de la propiedad inmobiliaria en Argelia.
 - Oficina Nacional de Turismo (ONAT): datos de asistencia turística (contexto macro; 3.548 millones de visitantes en 2024) para situar la dinámica territorial, sin deducir la rentabilidad inmobiliaria.
-- Viva Argelia — páginas asociadas: [acheter sur plan Algérie](/es/comprar-sobre-plano-argelia), [vérifier un promoteur](/es/como-verificar-promotor-inmobiliario-argelia), [S.A.F.E](/es/certificacion-inmobiliaria-safe).
+- Viva Argelia — páginas asociadas: [acheter sur plan Algérie](/es/comprar-sobre-plano-argelia), [vérifier un promoteur](/es/como-verificar-promotor-inmobiliario-argelia).
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).

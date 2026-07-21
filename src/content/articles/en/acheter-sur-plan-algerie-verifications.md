@@ -170,7 +170,7 @@ No. The brochure orients; the contract, annexed plans and technical description 
 
 ### Does S.A.F.E replace the notary?
 
-No. [S.A.F.E](/en/safe-real-estate-certification) is a proprietary pre-selection and project-analysis method. It is neither an official state certification, nor a legal guarantee, nor a substitute for the notary.
+No. [S.A.F.E](/en/safe-real-estate-certification) is an international proprietary real estate analysis and pre-screening methodology. It is neither an official state certification, nor a legal guarantee, nor a substitute for the notary.
 
 ### What if the developer refuses to show their approval?
 
@@ -183,4 +183,4 @@ Treat it as a stop reason. Without minimum transparency on approval and legal id
 - FGCMPI scheme — Fonds de garantie et de caution mutuelle de la promotion immobilière (Algerian institutional texts and information).
 - Conservation foncière / livret foncier — documentary framework of property ownership in Algeria.
 - National Tourism Office (ONAT) — tourism attendance data (macro context; 3.548 million visitors in 2024) to situate territorial dynamics, without deducing a property yield.
-- Viva Algérie — related pages: [buying off-plan Algeria](/en/buying-off-plan-algeria), [checking a developer](/en/how-to-check-real-estate-developer-algeria), [S.A.F.E](/en/safe-real-estate-certification).
+- Related pages: [buying off-plan Algeria](/en/buying-off-plan-algeria), [checking a developer](/en/how-to-check-real-estate-developer-algeria), [S.A.F.E](/en/safe-real-estate-certification).

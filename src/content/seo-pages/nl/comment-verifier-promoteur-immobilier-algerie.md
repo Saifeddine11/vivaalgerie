@@ -121,7 +121,7 @@ Gids: [Diaspora: kopen in het buitenland](/nl/artikelen/diaspora-algerienne-ache
 
 ## S.A.F.E: een aanvullend raster, geen vervanging
 
-**S.A.F.E** analyseert projecten op basis van vertrouwenscriteria (S/A/F/E) en beoordelings-, gecertificeerde, prime- en vertrouwelijke niveaus. Het is een **eigen** Viva Algérie-methode, **geen** staatsvalidatie. Het vervangt noch *agrément*, noch de notaris.
+**S.A.F.E** is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie. Het kan helpen om een project gestructureerd te lezen, maar is **geen** staatsvalidatie en vervangt noch *agrément*, noch de notaris.
 
 Meer informatie: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
@@ -211,7 +211,7 @@ Ja, in gevallen waarin het wettelijke kader niet wordt gerespecteerd. Dat is bes
 
 ## Vervangt S.A.F.E *agrément* verificatie?
 
-Nee. S.A.F.E is bedrijfseigen en complementair. *Agrément* en wettelijke registraties blijven essentieel.
+Nee. S.A.F.E is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie, aanvullend op lokale controles. *Agrément* en wettelijke registraties blijven essentieel.
 
 ## Bronnen
 
@@ -219,4 +219,4 @@ Nee. S.A.F.E is bedrijfseigen en complementair. *Agrément* en wettelijke regist
 - FGCMPI — officiële site [fgcmpi.org.dz](https://fgcmpi.org.dz)
 - Nota van het Ministerie van Justitie van augustus 2025 aan notarissen (illegale vastgoedontwikkeling) – TSA, Algérie Eco, ObservAlgérie, etc.
 - Uitvoeringsdecreet nr. 13-431 (verkoopcontracten en betalingen buiten plan) — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

@@ -119,7 +119,7 @@ Un achat sur plan à Alger n’est pas un placement « liquide ». Traitez-le co
 
 ## Étape 9 — Intégrer une lecture S.A.F.E (complémentaire)
 
-La méthode **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie évalue des projets selon quatre piliers : sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur. Niveaux : Review, Certified, Prime, Confidential.
+« S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition. » Elle évalue les opportunités selon quatre piliers : sécurisation, analyse d’investissement, fiabilité d’exécution et encadrement expert.
 
 **Attention** : S.A.F.E est une grille **propriétaire**, pas une certification d’État. Elle ne remplace ni notaire, ni agrément, ni FGCMPI.
 
@@ -220,4 +220,4 @@ Non. S.A.F.E aide à structurer une présélection. Votre décision doit rester 
 - Décret exécutif n° 13-431 du 18 décembre 2013 — [FGCMPI / décrets](https://www.fgcmpi.org.dz/Decrets)
 - Note 2025 du ministère de la Justice aux notaires (promotion immobilière illégale) — couverture presse algérienne
 - Conservation foncière / documentation foncière — référentiels DGDN
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)

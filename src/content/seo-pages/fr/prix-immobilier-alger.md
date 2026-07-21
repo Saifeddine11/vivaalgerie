@@ -227,4 +227,4 @@ Non. C’est une grille d’analyse propriétaire, pas une cote publique ni une 
 - Observation qualitative du marché algérois (segments urbains) — analyse éditoriale Viva Algérie
 - Cadre promotion / vente sur plans : loi 11-04, décret 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - Conservation foncière / titre : [DGDN](https://www.dgdn.gov.dz)
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)

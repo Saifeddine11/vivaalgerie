@@ -159,7 +159,7 @@ Complement: [Mistakes when buying](/en/articles/erreurs-acheter-immobilier-alger
 
 ## S.A.F.E and delivery
 
-A project analysed **S.A.F.E** (proprietary Viva Algérie grid) is not “guaranteed defect-free”. Acceptance remains a personal, notarial and technical act. S.A.F.E replaces neither the report nor the reservations.
+A project analysed through **S.A.F.E** is not “guaranteed defect-free”. S.A.F.E is an international proprietary real estate analysis and pre-screening methodology; acceptance remains a personal, notarial and technical act, and S.A.F.E replaces neither the report nor the reservations.
 
 Learn more: [S.A.F.E method](/en/safe-real-estate-certification).
 
@@ -273,4 +273,4 @@ No. It helps upstream. Quality is recorded at acceptance.
 - Law No. 11-04 of 17 February 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
 - Executive Decree No. 13-431 (payments, penalties, models) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
 - Notarial practice of taking-possession reports (*vente sur plans*)
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

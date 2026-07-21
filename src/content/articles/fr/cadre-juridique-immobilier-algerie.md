@@ -46,7 +46,7 @@ Le **notaire** n’est pas un simple tampon de fin de parcours. Il intervient da
 
 ### Ce que le notaire n’est pas
 
-Le notaire ne garantit pas que le prix est « le bon prix de marché », ni que le bien est exempt de vices cachés techniques, ni que votre montage fiscal personnel est optimal. Il ne remplace pas non plus une méthode propriétaire de projet comme [S.A.F.E](/safe-certification-immobiliere).
+Le notaire ne garantit pas que le prix est « le bon prix de marché », ni que le bien est exempt de vices cachés techniques, ni que votre montage fiscal personnel est optimal. Il ne remplace pas non plus une méthode internationale propriétaire d’analyse et de présélection immobilière comme [S.A.F.E](/safe-certification-immobiliere).
 
 ### Bonnes pratiques acheteur
 
@@ -99,7 +99,7 @@ Pour le parcours complet : [acheter sur plan en Algérie](/acheter-sur-plan-alge
 
 ## Le rôle de S.A.F.E dans la présélection
 
-Avant même la phase notariale lourde, beaucoup d’acheteurs se perdent dans un trop-plein d’offres. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** est une méthode propriétaire (non étatique) qui structure l’analyse d’un projet selon quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution, encadrement acheteur.
+Avant même la phase notariale lourde, beaucoup d’acheteurs se perdent dans un trop-plein d’offres. **S.A.F.E — Security, Analysis, Fidelity & Expert Guidance** est une méthode internationale propriétaire d’analyse et de présélection immobilière, géographiquement neutre et non étatique. Elle structure l’analyse d’un projet selon quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution, encadrement acheteur.
 
 Son utilité pédagogique dans le cadre juridique est indirecte mais réelle : elle pousse à poser tôt les questions que le droit posera plus tard — qui est le promoteur, le dossier est-il lisible, les paiements sont-ils traçables, la livraison est-elle crédible ?
 
@@ -152,9 +152,9 @@ Elle encadre la promotion immobilière et pose des obligations. La protection ef
 
 Dans la pratique des transferts immobiliers, le recours au notaire est structurant. Pour votre opération précise, suivez les indications d’un professionnel qualifié ; n’improvisez pas un « arrangement » privé sur un bien immobilier.
 
-### S.A.F.E est-elle une certification officielle de l’État algérien ?
+### S.A.F.E est-elle une certification officielle d’État ?
 
-Non. C’est une méthode propriétaire de présélection et d’analyse de projets. Elle ne se substitue pas aux autorités publiques ni au notaire.
+Non. C’est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle ne se substitue pas aux autorités publiques ni au notaire.
 
 ### Que faire si un vendeur refuse de passer chez le notaire ?
 
@@ -167,4 +167,4 @@ Traitez-le comme un signal d’arrêt. Sans parcours notarial clair, le risque j
 - Cadre institutionnel de la conservation foncière et documentation relative au livret foncier.
 - FGCMPI — Fonds de garantie et de caution mutuelle de la promotion immobilière.
 - Pratique notariale algérienne — rôle du notaire dans les mutations immobilières (orientation pédagogique ; consultation individuelle requise).
-- Viva Algérie — [documents d’achat](/documents-achat-immobilier-algerie), [acheter sur plan](/acheter-sur-plan-algerie), [S.A.F.E](/safe-certification-immobiliere), [vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie).
+- Ressources liées : [documents d’achat](/documents-achat-immobilier-algerie), [acheter sur plan](/acheter-sur-plan-algerie), [S.A.F.E](/safe-certification-immobiliere), [vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie).

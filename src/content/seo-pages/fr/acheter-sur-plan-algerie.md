@@ -117,7 +117,7 @@ L’acheteur doit arriver chez le notaire **avec un dossier**, pas seulement ave
 
 ## Comment S.A.F.E complète (sans remplacer) le droit
 
-La grille **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie analyse des projets selon des critères de confiance (sécurisation, analyse d’investissement, fiabilité d’exécution, encadrement acheteur). Elle est **propriétaire** : ce n’est pas une validation gouvernementale, et elle ne remplace ni le notaire, ni la conservation foncière, ni le FGCMPI.
+« S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition. » Elle peut structurer les critères de confiance, mais ce n’est pas une validation gouvernementale et elle ne remplace ni le notaire, ni la conservation foncière, ni le FGCMPI.
 
 Découvrir le dispositif : [Méthode d’analyse immobilière S.A.F.E](/safe-certification-immobiliere).
 
@@ -170,4 +170,4 @@ Non. S.A.F.E est une grille propriétaire d’analyse. Elle ne remplace ni le no
 - Décret exécutif n° 13-431 du 18 décembre 2013 — [FGCMPI / décrets](https://www.fgcmpi.org.dz/Decrets)
 - Présentation et commentaires sur lkeria.com (loi 11-04, décret 13-431)
 - Alertes 2025 sur la promotion immobilière illégale (médias algériens relayant la note du ministère de la Justice aux notaires)
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)

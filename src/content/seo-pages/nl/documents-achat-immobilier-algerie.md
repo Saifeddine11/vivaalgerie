@@ -156,7 +156,7 @@ Gids: [Algerijnse diaspora](/nl/artikelen/diaspora-algerienne-acheter-immobilier
 
 ## S.A.F.E en documenten
 
-Het **S.A.F.E**-raster evalueert vastgoedprojecten op basis van betrouwbaarheidscriteria. Het vervangt geen enkel officieel document en is geen officiële staatscertificering.
+**S.A.F.E** is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie. Ze kan kansen beoordelen op basis van betrouwbaarheidscriteria, maar vervangt geen enkel officieel document en is geen officiële staatscertificering.
 
 Details: [S.A.F.E](/nl/safe-vastgoedcertificering).
 
@@ -252,7 +252,7 @@ Goedkeuring van de promotor, register, nationale tabel, vergunning, conform cont
 
 ## Vervangt een S.A.F.E-bestand deze documenten?
 
-Nee. S.A.F.E is complementair en bedrijfseigen. De officiële documenten blijven de basis.
+Nee. S.A.F.E is een internationale bedrijfseigen en aanvullende methode. De officiële documenten blijven de basis.
 
 ## Bronnen
 
@@ -260,4 +260,4 @@ Nee. S.A.F.E is complementair en bedrijfseigen. De officiële documenten blijven
 - DGDN-praktijken en -pagina's — [dgdn.gov.dz](https://www.dgdn.gov.dz)
 - Wet nr. 11-04 en decreet 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - Nota Justitie 2025 (notariële waakzaamheid/promotie) — Algerijnse pers
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

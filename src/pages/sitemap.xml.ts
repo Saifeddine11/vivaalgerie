@@ -64,8 +64,10 @@ export const GET: APIRoute = async () => {
 
   // Multilingual homes + core pages
   const legacyLocalizedCategories = [
+    'actualite',
     'immobilier',
     'tourisme',
+    'economie',
     'investissement',
     'villes',
     'guides',

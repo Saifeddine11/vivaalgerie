@@ -159,7 +159,7 @@ Aanvulling: [Fouten bij het kopen](/nl/artikelen/erreurs-acheter-immobilier-alge
 
 ## S.A.F.E en levering
 
-Een geanalyseerd project **S.A.F.E** (eigen Viva Algérie-raster) is niet “gegarandeerd vrij van gebreken”. Aanvaarding blijft een persoonlijke, notariële en technische handeling. S.A.F.E vervangt noch het rapport, noch de voorbehouden.
+Een met **S.A.F.E** geanalyseerd project is niet “gegarandeerd vrij van gebreken”. S.A.F.E is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie; aanvaarding blijft een persoonlijke, notariële en technische handeling, en S.A.F.E vervangt noch het rapport, noch de voorbehouden.
 
 Meer informatie: [S.A.F.E-methode](/nl/safe-vastgoedcertificering).
 
@@ -273,4 +273,4 @@ Nee. Het helpt stroomopwaarts. Bij acceptatie wordt de kwaliteit vastgelegd.
 -wet nr. 11-04 van 17 februari 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
 - Uitvoeringsdecreet nr. 13-431 (betalingen, boetes, modellen) — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
 - Notariële praktijk van beslagleggingsrapporten (*vente sur plans*)
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

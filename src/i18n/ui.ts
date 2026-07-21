@@ -39,7 +39,7 @@ const fr: Dict = {
   'home.cities': 'Villes à suivre',
   'home.safeTitle': 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
   'home.safeText':
-    'Security · Analysis · Fidelity · Expert Guidance : une méthode propriétaire pour qualifier les projets immobiliers avant décision.',
+    "S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition.",
   'home.newsletterTitle': 'Recevoir les analyses Viva Algérie',
   'home.newsletterText':
     'Une sélection éditoriale sur l’actualité, le Maghreb, le tourisme, l’économie et la culture algérienne.',
@@ -148,7 +148,7 @@ const en: Dict = {
   'home.cities': 'Cities to watch',
   'home.safeTitle': 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
   'home.safeText':
-    'Security · Analysis · Fidelity · Expert Guidance: a proprietary method to better qualify real-estate projects before a decision.',
+    'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology designed to help buyers and investors evaluate property opportunities before making a purchase.',
   'home.newsletterTitle': 'Get Viva Algérie analyses',
   'home.newsletterText':
     'An editorial selection on real estate, tourism and investment in Algeria.',
@@ -257,7 +257,7 @@ const es: Dict = {
   'home.cities': 'Ciudades a seguir',
   'home.safeTitle': 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
   'home.safeText':
-    'Security · Analysis · Fidelity · Expert Guidance: una metodología propietaria para cualificar mejor los proyectos inmobiliarios.',
+    'S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria, diseñada para ayudar a compradores e inversores a evaluar oportunidades antes de comprar.',
   'home.newsletterTitle': 'Recibir los análisis de Viva Algérie',
   'home.newsletterText':
     'Una selección editorial sobre inmobiliario, turismo e inversión en Argelia.',
@@ -366,7 +366,7 @@ const nl: Dict = {
   'home.cities': 'Steden om te volgen',
   'home.safeTitle': 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
   'home.safeText':
-    'Security · Analysis · Fidelity · Expert Guidance: een eigen methode om vastgoedprojecten beter te beoordelen.',
+    'S.A.F.E is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie, ontworpen om kopers en investeerders vastgoedkansen te helpen beoordelen vóór aankoop.',
   'home.newsletterTitle': 'Ontvang analyses van Viva Algérie',
   'home.newsletterText':
     'Een redactionele selectie over vastgoed, toerisme en investeringen in Algerije.',

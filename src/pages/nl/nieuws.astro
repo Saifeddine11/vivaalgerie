@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/actualite') },
+  { lang: 'en', href: absoluteUrl('/en/news') },
+  { lang: 'es', href: absoluteUrl('/es/actualidad') },
+  { lang: 'nl', href: absoluteUrl('/nl/nieuws') },
+  { lang: 'x-default', href: absoluteUrl('/actualite') },
+];
+---
+
+<CategoryPage
+  category="actualite"
+  locale="nl"
+  title="Algerije Nieuws — Samenleving, diplomatie en actualiteit"
+  description="Actueel nieuws over Algerije met context en bronnen over samenleving, instellingen, diplomatie, weerwaarschuwingen en publieke veiligheid."
+  h1="Algerije Nieuws"
+  intro="Actualiteit met context, terughoudendheid en bronverwijzingen: instellingen, samenleving, economie, diplomatie en openbare veiligheid."
+  relatedLinks={[
+    { href: '/nl/analyses', label: 'Analyses' },
+    { href: '/nl/economie', label: 'Economie' },
+    { href: '/nl/blog', label: 'Blog' },
+  ]}
+  hreflang={hreflang}
+/>

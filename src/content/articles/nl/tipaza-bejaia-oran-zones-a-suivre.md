@@ -182,4 +182,4 @@ Ja, wanneer u een promotieproject moet kwalificeren. Geografische veranderingen;
 - Nationaal Bureau voor Toerisme (ONAT) – 3,548 miljoen bezoekers in 2024.
 - Nationaal Bureau voor de Statistiek (ONS) — officiële demografische en territoriale gegevens.
 - Wet nr. 11-04 van 17 februari 2011 en uitvoeringsdecreet nr. 13-431 – kader voor ontwikkeling en verkoop op plan (als het nieuwe woningen betreft).
-- Viva Algérie — [steden](/nl/steden), [kusttoerisme](/nl/artikelen/tourisme-villes-cotieres-algerie), [S.A.F.E](/nl/safe-vastgoedcertificering), [off-plan kopen](/nl/off-plan-kopen-algerije).
+- Gerelateerde bronnen: [steden](/nl/steden), [kusttoerisme](/nl/artikelen/tourisme-villes-cotieres-algerie), [S.A.F.E](/nl/safe-vastgoedcertificering), [off-plan kopen](/nl/off-plan-kopen-algerije).

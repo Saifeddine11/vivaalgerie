@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/actualite') },
+  { lang: 'en', href: absoluteUrl('/en/news') },
+  { lang: 'es', href: absoluteUrl('/es/actualidad') },
+  { lang: 'nl', href: absoluteUrl('/nl/nieuws') },
+  { lang: 'x-default', href: absoluteUrl('/actualite') },
+];
+---
+
+<CategoryPage
+  category="actualite"
+  locale="en"
+  title="Algeria News — Society, diplomacy and current affairs"
+  description="Current Algeria news with sourced context on society, institutions, diplomacy, weather alerts and major public-interest developments."
+  h1="Algeria News"
+  intro="Current affairs with context, restraint and source links: institutions, society, economy, diplomacy and public safety."
+  relatedLinks={[
+    { href: '/en/analysis', label: 'Analysis' },
+    { href: '/en/economy', label: 'Economy' },
+    { href: '/en/blog', label: 'Blog' },
+  ]}
+  hreflang={hreflang}
+/>

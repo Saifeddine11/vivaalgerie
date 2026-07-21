@@ -119,7 +119,7 @@ Una compra sobre plano en Argel no es una colocación “líquida”. Trátelo c
 
 ## Paso 9: integrar una lectura S.A.F.E complementaria
 
-La metodología **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie evalúa proyectos en cuatro pilares: seguridad, análisis de inversiones, confiabilidad de ejecución y soporte al comprador. Niveles: Revisión, Certificado, Prime, Confidencial.
+La metodología **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) es una metodología internacional propietaria de análisis y preselección inmobiliaria. Evalúa oportunidades en cuatro pilares: seguridad, análisis de inversión, confiabilidad de ejecución y acompañamiento experto.
 
 **Precaución**: S.A.F.E es una metodología **propietaria**, no una certificación estatal. No sustituye ni a notario, ni a *agrément*, ni a FGCMPI.
 
@@ -220,4 +220,4 @@ No. S.A.F.E ayuda a estructurar una preselección. Su decisión debe basarse en 
 - Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
 - Nota del Ministerio de Justicia a los notarios de 2025 (promoción inmobiliaria ilegal) — Cobertura de la prensa argelina
 - *Conservación foncière* / documentación territorial — Referencias DGDN
-- [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E — metodología internacional de análisis inmobiliario](/es/certificacion-inmobiliaria-safe)

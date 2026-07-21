@@ -119,7 +119,7 @@ Een off-plan aankoop in Algiers is geen “vloeibare” plaatsing. Beschouw het 
 
 ## Stap 9 — Integreer een aanvullende S.A.F.E-meting
 
-De **S.A.F.E**-methode (Security, Analysis, Fidelity & Expert Guidance) van Viva Algérie evalueert projecten op vier pijlers: veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning. Niveaus: Review, Certified, Prime, Confidential.
+De **S.A.F.E**-methode (Security, Analysis, Fidelity & Expert Guidance) is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie. Ze beoordeelt kansen rond vier pijlers: veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid en deskundige begeleiding.
 
 **Let op**: S.A.F.E is een **eigen** methode, geen officiële staatscertificering. Het vervangt noch de notaris, noch *agrément*, noch FGCMPI.
 
@@ -220,4 +220,4 @@ Nee. S.A.F.E helpt bij het structureren van een voorselectie. Uw beslissing moet
 -uitvoerend decreet nr. 13-431 van 18 december 2013 — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
 - Nota van het Ministerie van Justitie uit 2025 aan notarissen (illegale vastgoedontwikkeling) – berichtgeving in de Algerijnse pers
 - *Conservation foncière* / landdocumentatie — DGDN-referenties
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

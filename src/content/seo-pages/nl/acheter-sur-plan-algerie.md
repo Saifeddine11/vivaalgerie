@@ -117,7 +117,7 @@ De koper moet **met een dossier** bij de notaris aankomen, niet alleen met een b
 
 ## Hoe S.A.F.E de wet aanvult (zonder te vervangen).
 
-Het **S.A.F.E**-raster (Security, Analysis, Fidelity & Expert Guidance) van Viva Algérie analyseert projecten op basis van vertrouwenscriteria (veiligheid, investeringsanalyse, uitvoeringsbetrouwbaarheid, kopersondersteuning). Het is **eigendom**: het is geen overheidsvalidatie en vervangt noch de notaris, noch *conservation foncière*, noch de FGCMPI.
+De **S.A.F.E**-methode (Security, Analysis, Fidelity & Expert Guidance) is een internationale bedrijfseigen methode voor vastgoedanalyse en voorselectie. Ze kan vertrouwenscriteria structureren, maar is geen overheidsvalidatie en vervangt noch de notaris, noch *conservation foncière*, noch de FGCMPI.
 
 Ontdek het schema: [S.A.F.E vastgoedanalysemethode](/nl/safe-vastgoedcertificering).
 
@@ -170,4 +170,4 @@ Nee. S.A.F.E is een eigen analyseraster. Het vervangt noch de notaris, noch *agr
 -uitvoerend decreet nr. 13-431 van 18 december 2013 — [FGCMPI / besluiten](https://www.fgcmpi.org.dz/Decrets)
 - Presentaties en commentaar op lkeria.com (wet 11-04, decreet 13-431)
 - Waarschuwingen uit 2025 over illegale vastgoedontwikkeling (Algerijnse media geven de nota van het ministerie van Justitie door aan notarissen)
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

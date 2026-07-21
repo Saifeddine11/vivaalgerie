@@ -115,7 +115,7 @@ Preguntar:
 
 ## Preselección de nuevos proyectos
 
-Para filtrar el ruido promocional, una cuadrícula como [S.A.F.E](/es/certificacion-inmobiliaria-safe) (seguridad, análisis, confiabilidad, supervisión) ayuda a hacer las preguntas correctas. Recordatorio: S.A.F.E no es una certificación oficial del estado y no reemplaza al notario.
+Para filtrar el ruido promocional, una metodología internacional como [S.A.F.E](/es/certificacion-inmobiliaria-safe) (Security, Analysis, Fidelity & Expert Guidance) ayuda a hacer las preguntas correctas. Recordatorio: S.A.F.E no es una certificación oficial del Estado y no reemplaza al notario.
 
 ## Fiscalidad y residencia: dos países, dos lógicas
 
@@ -196,4 +196,5 @@ No. Estructura una preselección de proyecto. Sus verificaciones notariales, doc
 - FGCMPI — garantía vinculada al desarrollo inmobiliario (cuando corresponda).
 - Oficina Nacional de Turismo (ONAT) — 3.548 millones de visitantes en 2024 (contexto).
 - Oficina Nacional de Estadística (ONS): datos demográficos oficiales.
-- Viva Argelia — [documents](/es/documentos-compra-inmobiliaria-argelia), [risques](/es/riesgos-compra-inmobiliaria-argelia), [S.A.F.E](/es/certificacion-inmobiliaria-safe).
+- Viva Argelia — [documents](/es/documentos-compra-inmobiliaria-argelia), [risques](/es/riesgos-compra-inmobiliaria-argelia).
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).

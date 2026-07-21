@@ -197,6 +197,6 @@ Nee. Het structureert de voorselectie van projecten. Uw notariële, documentaire
 - FGCMPI — garantie gekoppeld aan vastgoedontwikkeling (indien van toepassing).
 - Nationaal Bureau voor Toerisme (ONAT) — 3,548 miljoen bezoekers in 2024 (context).
 - Nationaal Bureau voor de Statistiek (ONS) — officiële demografische gegevens.
-- Viva Algérie — [documenten](/nl/documenten-vastgoedkoop-algerije), [risico's](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
+- Gerelateerde bronnen: [documenten](/nl/documenten-vastgoedkoop-algerije), [risico's](/nl/vastgoedrisicos-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
 
 *Dit artikel is een redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.*

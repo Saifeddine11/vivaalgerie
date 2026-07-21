@@ -84,7 +84,7 @@ The presence of an approved developer, recourse to the notary, careful contract 
 
 New housing works project by project. Two programmes in the same neighbourhood can present very different risk levels depending on the developer, the land, site financing and payment governance.
 
-That is precisely the angle of [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/en/safe-real-estate-certification): a proprietary pre-selection grid (security, analysis, reliability, support) that is not an official state certification and replaces neither the notary nor technical controls. It serves to structure the question: does this project deserve my attention?
+That is precisely the angle of [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/en/safe-real-estate-certification): an international proprietary real estate analysis and pre-screening methodology that is not an official state certification and replaces neither the notary nor technical controls. It serves to structure the question: does this project deserve my attention?
 
 For Algiers, cross this logic with [buying off-plan in Algiers](/en/buying-off-plan-algiers) and the detailed checks in our guide [points to verify before reserving](/en/articles/acheter-sur-plan-algerie-verifications).
 
@@ -155,7 +155,7 @@ Require agrément, a readable contract, a traceable schedule, notarial reading, 
 
 ### Does S.A.F.E guarantee the success of a new-housing investment?
 
-No. S.A.F.E is a proprietary analysis and pre-selection method. It does not promise absence of risk and does not replace notary, technical expert or personalised financial advice.
+No. S.A.F.E is an international proprietary real estate analysis and pre-screening methodology. It does not promise absence of risk and does not replace notary, technical expert or personalised financial advice.
 
 ## Sources
 
@@ -165,6 +165,6 @@ No. S.A.F.E is a proprietary analysis and pre-selection method. It does not prom
 - National Statistics Office (ONS) — Algerian demography and official statistics (context, without inventing price indices).
 - National Tourism Office (ONAT) — 3.548 million visitors in 2024.
 - World Bank / IMF — macroeconomic reports (prudent use, not extrapolated to a specific property).
-- Viva Algérie — [real estate](/en/real-estate), [buying off-plan](/en/buying-off-plan-algeria), [S.A.F.E](/en/safe-real-estate-certification).
+- Related resources: [real estate](/en/real-estate), [buying off-plan](/en/buying-off-plan-algeria), [S.A.F.E](/en/safe-real-estate-certification).
 
 *This article is an editorial analysis and does not constitute legal, tax, financial or notarial advice.*

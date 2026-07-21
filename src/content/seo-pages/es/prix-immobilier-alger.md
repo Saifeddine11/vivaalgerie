@@ -227,4 +227,4 @@ No. Es una rejilla de análisis propietaria, no una cotización pública ni una 
 - Observación cualitativa del mercado de Argel (segmentos urbanos) — Análisis editorial Viva Algérie
 - Desarrollo / framework *vente sur plans*: ley 11-04, decreto 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - *Conservación foncière* / título: [DGDN](https://www.dgdn.gov.dz)
-- [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E — metodología internacional de análisis inmobiliario](/es/certificacion-inmobiliaria-safe)

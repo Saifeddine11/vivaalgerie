@@ -114,7 +114,7 @@ Demandez :
 
 ### Présélection de projets neufs
 
-Pour filtrer le bruit promotionnel, une grille comme [S.A.F.E](/safe-certification-immobiliere) (sécurisation, analyse, fiabilité, encadrement) aide à poser les bonnes questions. Rappel : S.A.F.E n’est pas une certification officielle de l’État et ne remplace pas le notaire.
+Pour filtrer le bruit promotionnel, une méthode internationale comme [S.A.F.E](/safe-certification-immobiliere) (Security, Analysis, Fidelity & Expert Guidance) aide à poser les bonnes questions. Rappel : S.A.F.E n’est pas une certification officielle d’État et ne remplace pas le notaire.
 
 ## Fiscalité et résidence : deux pays, deux logiques
 
@@ -195,4 +195,4 @@ Non. Elle structure une présélection de projet. Vos vérifications notariales,
 - FGCMPI — garantie liée à la promotion immobilière (lorsque applicable).
 - Office national du tourisme (ONAT) — 3,548 millions de visiteurs en 2024 (contexte).
 - Office national des statistiques (ONS) — données démographiques officielles.
-- Viva Algérie — [documents](/documents-achat-immobilier-algerie), [risques](/risques-achat-immobilier-algerie), [S.A.F.E](/safe-certification-immobiliere).
+- Ressources liées : [documents](/documents-achat-immobilier-algerie), [risques](/risques-achat-immobilier-algerie), [S.A.F.E](/safe-certification-immobiliere).

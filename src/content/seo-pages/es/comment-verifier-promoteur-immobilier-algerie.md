@@ -121,7 +121,7 @@ Guía: [Diáspora: comprar en el extranjero](/es/articulos/diaspora-algerienne-a
 
 ## S.A.F.E: una rejilla complementaria, no sustitutiva
 
-**S.A.F.E** analiza proyectos según criterios de confianza (S/A/F/E) y niveles de Revisión/Certificado/Prime/Confidencial. Es una metodología **propietaria** Viva Algérie, **no** validación estatal. No sustituye ni a *agrément* ni al notario.
+**S.A.F.E** es una metodología internacional propietaria de análisis y preselección inmobiliaria. Puede ayudar a estructurar una primera lectura del proyecto, pero no es validación estatal y no sustituye ni a *agrément* ni al notario.
 
 Más información: [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
@@ -211,7 +211,7 @@ Sí, en los casos en que no se respete el marco legal. Esto es una protección p
 
 ## ¿S.A.F.E reemplaza la verificación *agrément*?
 
-No. S.A.F.E es propietario y complementario. El *Agrément* y los registros legales siguen siendo esenciales.
+No. S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria, complementaria a los controles locales. El *Agrément* y los registros legales siguen siendo esenciales.
 
 ## Fuentes
 
@@ -219,4 +219,4 @@ No. S.A.F.E es propietario y complementario. El *Agrément* y los registros lega
 - FGCMPI — sitio oficial [fgcmpi.org.dz](https://fgcmpi.org.dz)
 - Nota del Ministerio de Justicia a los notarios de agosto de 2025 (promoción inmobiliaria ilegal) — TSA, Algérie Eco, ObservAlgérie, etc.
 - Decreto Ejecutivo N° 13-431 (contratos y pagos de venta sobre plano) — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
-- [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E — metodología internacional de análisis inmobiliario](/es/certificacion-inmobiliaria-safe)

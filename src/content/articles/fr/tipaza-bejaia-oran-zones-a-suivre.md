@@ -176,4 +176,4 @@ Oui, dès qu’il s’agit de qualifier un projet promotionnel. La géographie c
 - Office national du tourisme (ONAT) — 3,548 millions de visiteurs en 2024.
 - Office national des statistiques (ONS) — données démographiques et territoriales officielles.
 - Loi n° 11-04 du 17 février 2011 et décret exécutif n° 13-431 — cadre de la promotion et des ventes sur plans (lorsque le neuf est concerné).
-- Viva Algérie — [villes](/villes), [tourisme côtier](/articles/tourisme-villes-cotieres-algerie), [S.A.F.E](/safe-certification-immobiliere), [acheter sur plan](/acheter-sur-plan-algerie).
+- Ressources liées : [villes](/villes), [tourisme côtier](/articles/tourisme-villes-cotieres-algerie), [S.A.F.E](/safe-certification-immobiliere), [acheter sur plan](/acheter-sur-plan-algerie).

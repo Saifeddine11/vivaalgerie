@@ -177,4 +177,5 @@ Sí, a la hora de calificar un proyecto promocional. Cambios geográficos; el re
 - Oficina Nacional de Turismo (ONAT) — 3.548 millones de visitantes en 2024.
 - Oficina Nacional de Estadística (ONS): datos demográficos y territoriales oficiales.
 - Ley N° 11-04 de 17 de febrero de 2011 y Decreto Ejecutivo N° 13-431 — marco para la promoción y venta sobre plano (cuando se trata de obra nueva).
-- Viva Argelia — [villes](/es/ciudades), [tourisme côtier](/es/articulos/tourisme-villes-cotieres-algerie), [S.A.F.E](/es/certificacion-inmobiliaria-safe), [acheter sur plan](/es/comprar-sobre-plano-argelia).
+- Viva Argelia — [villes](/es/ciudades), [tourisme côtier](/es/articulos/tourisme-villes-cotieres-algerie), [acheter sur plan](/es/comprar-sobre-plano-argelia).
+- [Metodología S.A.F.E](/es/certificacion-inmobiliaria-safe).

@@ -154,7 +154,7 @@ Guide : [Diaspora algérienne](/articles/diaspora-algerienne-acheter-immobilier)
 
 ## S.A.F.E et documents
 
-La grille **S.A.F.E** évalue des projets immobiliers selon des critères de confiance. Elle ne remplace aucune pièce officielle et n’est pas une certification d’État.
+« S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition. » Elle ne remplace aucune pièce officielle et n’est pas une certification d’État.
 
 Détails : [S.A.F.E](/safe-certification-immobiliere).
 
@@ -251,7 +251,7 @@ Agrément promoteur, registre, tableau national, permis, contrat conforme, éch�
 
 ### Un dossier S.A.F.E remplace-t-il ces documents ?
 
-Non. S.A.F.E est complémentaire et propriétaire. Les pièces officielles restent la base.
+Non. S.A.F.E est une méthode internationale propriétaire et complémentaire. Les pièces officielles restent la base.
 
 ## Sources
 
@@ -259,4 +259,4 @@ Non. S.A.F.E est complémentaire et propriétaire. Les pièces officielles reste
 - Pratiques et pages DGDN — [dgdn.gov.dz](https://www.dgdn.gov.dz)
 - Loi n° 11-04 et décret 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - Note Justice 2025 (vigilance notariale / promotion) — presse algérienne
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)

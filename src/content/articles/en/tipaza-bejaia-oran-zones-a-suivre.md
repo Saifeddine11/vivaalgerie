@@ -182,4 +182,4 @@ Yes, whenever you need to qualify a promotional project. Geography changes; the 
 - National Tourism Office (ONAT) — 3.548 million visitors in 2024.
 - National Statistics Office (ONS) — official demographic and territorial data.
 - Law No. 11-04 of 17 February 2011 and Executive Decree No. 13-431 — framework for development and off-plan sales (when new housing is concerned).
-- Viva Algérie — [cities](/en/cities), [coastal tourism](/en/articles/tourisme-villes-cotieres-algerie), [S.A.F.E](/en/safe-real-estate-certification), [buying off-plan](/en/buying-off-plan-algeria).
+- Related resources: [cities](/en/cities), [coastal tourism](/en/articles/tourisme-villes-cotieres-algerie), [S.A.F.E](/en/safe-real-estate-certification), [buying off-plan](/en/buying-off-plan-algeria).

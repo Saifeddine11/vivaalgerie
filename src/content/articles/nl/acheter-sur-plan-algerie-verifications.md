@@ -183,4 +183,4 @@ Beschouw het als een stopreden. Zonder minimale transparantie over goedkeuring e
 - FGCMPI-schema — Fonds de garantie et de caution mutuelle de la promotion immobilière (Algerijnse institutionele teksten en informatie).
 - Conservation foncière / livret foncier — documentair raamwerk van eigendom van onroerend goed in Algerije.
 - Nationaal Bureau voor Toerisme (ONAT) – bezoekersaantallen op het gebied van toerisme (macrocontext; 3,548 miljoen bezoekers in 2024) om de territoriale dynamiek te situeren, zonder hieruit een vastgoedopbrengst af te leiden.
-- Viva Algérie — gerelateerde pagina's: [off-plan Algerije kopen](/nl/off-plan-kopen-algerije), [een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).
+- Gerelateerde pagina's: [off-plan Algerije kopen](/nl/off-plan-kopen-algerije), [een ontwikkelaar controleren](/nl/vastgoedontwikkelaar-controleren-algerije), [S.A.F.E](/nl/safe-vastgoedcertificering).

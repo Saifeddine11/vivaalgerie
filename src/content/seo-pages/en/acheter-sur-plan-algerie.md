@@ -117,7 +117,7 @@ The buyer must arrive at the notary **with a file**, not only with a brochure. P
 
 ## How S.A.F.E complements (without replacing) the law
 
-The **S.A.F.E** grid (Security, Analysis, Fidelity & Expert Guidance) from Viva Algérie analyses projects against trust criteria (security, investment analysis, execution reliability, buyer support). It is **proprietary**: it is not a government validation, and it replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
+The **S.A.F.E** method (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology. It can structure a first reading of trust criteria (security, investment analysis, execution reliability, expert guidance), but it is not a government validation and replaces neither the notary, nor *conservation foncière*, nor the FGCMPI.
 
 Discover the scheme: [S.A.F.E real-estate analysis method](/en/safe-real-estate-certification).
 
@@ -170,4 +170,4 @@ No. S.A.F.E is a proprietary analysis grid. It replaces neither the notary, nor 
 - Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
 - Presentations and commentary on lkeria.com (Law 11-04, Decree 13-431)
 - 2025 alerts on illegal real-estate development (Algerian media relaying the Ministry of Justice note to notaries)
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

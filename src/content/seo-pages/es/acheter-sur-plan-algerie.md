@@ -117,7 +117,7 @@ El comprador debe llegar a la notaría **con un expediente**, no sólo con un fo
 
 ## Cómo S.A.F.E complementa (sin sustituir) la ley
 
-La cuadrícula **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) de Viva Algérie analiza proyectos según criterios de confianza (seguridad, análisis de inversiones, confiabilidad de ejecución, soporte al comprador). Es **propietario**: no es una validación gubernamental, y no reemplaza ni a la notaria, ni a la *conservation foncière*, ni a la FGCMPI.
+La metodología **S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) es una metodología internacional propietaria de análisis y preselección inmobiliaria. Puede estructurar criterios de confianza, pero no es una validación gubernamental y no reemplaza ni a la notaría, ni a la *conservation foncière*, ni a la FGCMPI.
 
 Descubre el esquema: [S.A.F.E metodología de análisis inmobiliario](/es/certificacion-inmobiliaria-safe).
 
@@ -170,4 +170,4 @@ No. S.A.F.E es una cuadrícula de análisis propietaria. No sustituye ni al nota
 - Executive Decree No. 13-431 of 18 December 2013 — [FGCMPI / decretos](https://www.fgcmpi.org.dz/Decrets)
 - Presentaciones y comentarios sobre lkeria.com (ley 11-04, decreto 13-431)
 - Alertas para 2025 sobre la promoción inmobiliaria ilegal (los medios de comunicación argelinos transmiten la nota del Ministerio de Justicia a los notarios)
-- [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E — metodología internacional de análisis inmobiliario](/es/certificacion-inmobiliaria-safe)

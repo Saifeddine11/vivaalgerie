@@ -121,7 +121,7 @@ Guide: [Diaspora: buying from abroad](/en/articles/diaspora-algerienne-acheter-i
 
 ## S.A.F.E: a complementary grid, not a substitute
 
-**S.A.F.E** analyses projects against trust criteria (S/A/F/E) and Review / Certified / Prime / Confidential levels. It is a **proprietary** Viva Algérie method, **not** State validation. It replaces neither *agrément* nor the notary.
+**S.A.F.E** is an international proprietary real estate analysis and pre-screening methodology. It can support a structured first reading of a project, but it is **not** State validation and replaces neither *agrément* nor the notary.
 
 Learn more: [S.A.F.E method](/en/safe-real-estate-certification).
 
@@ -211,7 +211,7 @@ Yes, in cases where the legal framework is not respected. That is protection for
 
 ### Does S.A.F.E replace *agrément* verification?
 
-No. S.A.F.E is proprietary and complementary. *Agrément* and legal registrations remain essential.
+No. S.A.F.E is an international proprietary real estate analysis and pre-screening methodology, complementary to local checks. *Agrément* and legal registrations remain essential.
 
 ## Sources
 
@@ -219,4 +219,4 @@ No. S.A.F.E is proprietary and complementary. *Agrément* and legal registration
 - FGCMPI — official site [fgcmpi.org.dz](https://fgcmpi.org.dz)
 - August 2025 Ministry of Justice note to notaries (illegal real-estate development) — TSA, Algérie Eco, ObservAlgérie, etc.
 - Executive Decree No. 13-431 (off-plan sale contracts and payments) — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

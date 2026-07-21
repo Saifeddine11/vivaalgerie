@@ -99,7 +99,7 @@ Complements: [Mistakes to avoid](/en/articles/erreurs-acheter-immobilier-algerie
 
 ## The role of S.A.F.E in risk reduction
 
-**S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) is a proprietary Viva Algérie grid for analysing projects (security, investment, execution, support). It **does not guarantee** the absence of risk and **is not** a government validation. It helps structure a pre-selection.
+**S.A.F.E** (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology. It can be applied internationally to structure project analysis (security, investment, execution, expert guidance), but it **does not guarantee** the absence of risk and **is not** a government validation.
 
 Details: [S.A.F.E method](/en/safe-real-estate-certification).
 
@@ -184,4 +184,4 @@ No. It complements an analysis. Notarial, land and technical checks remain essen
 - Executive Decree No. 13-431 — [FGCMPI / decrees](https://www.fgcmpi.org.dz/Decrets)
 - Ordinance No. 75-74 (general cadastre and land book) and *conservation foncière* practice — [DGDN](https://www.dgdn.gov.dz)
 - 2025 Ministry of Justice / National Chamber of Notaries note (illegal development) — Algerian press
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

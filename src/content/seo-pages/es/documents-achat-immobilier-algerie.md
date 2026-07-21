@@ -156,7 +156,7 @@ Guía: [diáspora argelina](/es/articulos/diaspora-algerienne-acheter-immobilier
 
 ## S.A.F.E y documentos
 
-La rejilla **S.A.F.E** evalúa proyectos inmobiliarios según criterios de confianza. No reemplaza ningún documento oficial y no es una certificación estatal.
+**S.A.F.E** es una metodología internacional propietaria de análisis y preselección inmobiliaria. Puede evaluar oportunidades según criterios de confianza, pero no reemplaza ningún documento oficial y no es una certificación estatal.
 
 Detalles: [S.A.F.E](/es/certificacion-inmobiliaria-safe).
 
@@ -252,7 +252,7 @@ Aprobación del promotor, registro, cuadro nacional, permiso, contrato conforme,
 
 ## ¿Un archivo S.A.F.E reemplaza estos documentos?
 
-No. S.A.F.E es complementario y propietario. Los documentos oficiales siguen siendo la base.
+No. S.A.F.E es una metodología internacional propietaria y complementaria. Los documentos oficiales siguen siendo la base.
 
 ## Fuentes
 
@@ -260,4 +260,4 @@ No. S.A.F.E es complementario y propietario. Los documentos oficiales siguen sie
 - Prácticas y páginas DGDN — [dgdn.gov.dz](https://www.dgdn.gov.dz)
 - Ley N° 11-04 y decreto 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - Nota Justicia 2025 (vigilancia / promoción notarial) — Prensa argelina
-- [Viva Algérie — S.A.F.E](/es/certificacion-inmobiliaria-safe)
+- [S.A.F.E — metodología internacional de análisis inmobiliario](/es/certificacion-inmobiliaria-safe)

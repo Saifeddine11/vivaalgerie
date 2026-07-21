@@ -114,7 +114,7 @@ Ask for:
 
 ### Pre-selection of new projects
 
-To filter promotional noise, a grid such as [S.A.F.E](/en/safe-real-estate-certification) (security, analysis, reliability, support) helps ask the right questions. Reminder: S.A.F.E is not an official state certification and does not replace the notary.
+To filter promotional noise, an international methodology such as [S.A.F.E](/en/safe-real-estate-certification) (Security, Analysis, Fidelity & Expert Guidance) helps ask the right questions. Reminder: S.A.F.E is not an official state certification and does not replace the notary.
 
 ## Tax and residence: two countries, two logics
 
@@ -197,6 +197,6 @@ No. It structures project pre-selection. Your notarial, documentary and financia
 - FGCMPI — guarantee linked to real-estate development (when applicable).
 - National Tourism Office (ONAT) — 3.548 million visitors in 2024 (context).
 - National Statistics Office (ONS) — official demographic data.
-- Viva Algérie — [documents](/en/real-estate-documents-algeria), [risks](/en/real-estate-risks-algeria), [S.A.F.E](/en/safe-real-estate-certification).
+- Related resources: [documents](/en/real-estate-documents-algeria), [risks](/en/real-estate-risks-algeria), [S.A.F.E](/en/safe-real-estate-certification).
 
 *This article is an editorial analysis and does not constitute legal, tax, financial or notarial advice.*

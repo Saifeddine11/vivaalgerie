@@ -1,0 +1,27 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { absoluteUrl } from '../../lib/paths';
+
+const hreflang = [
+  { lang: 'fr', href: absoluteUrl('/economie') },
+  { lang: 'en', href: absoluteUrl('/en/economy') },
+  { lang: 'es', href: absoluteUrl('/es/economia') },
+  { lang: 'nl', href: absoluteUrl('/nl/economie') },
+  { lang: 'x-default', href: absoluteUrl('/economie') },
+];
+---
+
+<CategoryPage
+  category="economie"
+  locale="es"
+  title="Economía argelina — Energía, divisa y sectores estratégicos"
+  description="Cobertura económica de Viva Algérie: gas, seguridad energética, divisa, comercio, industria, inversión y soberanía económica."
+  h1="Economía argelina"
+  intro="Una lectura documentada de las decisiones económicas de Argelia: hidrocarburos, diversificación, demanda exterior, divisa y política pública."
+  relatedLinks={[
+    { href: '/es/articulos/algerie-energie-souverainete-gaz', label: 'Gas y soberanía' },
+    { href: '/es/inversion', label: 'Inversión' },
+    { href: '/es/analisis', label: 'Análisis' },
+  ]}
+  hreflang={hreflang}
+/>

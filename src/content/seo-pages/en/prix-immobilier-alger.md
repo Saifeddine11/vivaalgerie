@@ -227,4 +227,4 @@ No. It is a proprietary analysis grid, not a public quote or a substitute expert
 - Qualitative observation of the Algiers market (urban segments) — Viva Algérie editorial analysis
 - Development / *vente sur plans* framework: Law 11-04, Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - *Conservation foncière* / title: [DGDN](https://www.dgdn.gov.dz)
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

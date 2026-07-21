@@ -159,7 +159,7 @@ Complément : [Erreurs à l’achat](/articles/erreurs-acheter-immobilier-algeri
 
 ## S.A.F.E et livraison
 
-Un projet analysé **S.A.F.E** (grille propriétaire Viva Algérie) n’est pas « garanti sans défaut ». La réception reste un acte personnel, notarié et technique. S.A.F.E ne remplace pas le PV ni les réserves.
+Un projet analysé avec **S.A.F.E** n’est pas « garanti sans défaut ». S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière ; la réception reste un acte personnel, notarié et technique, et S.A.F.E ne remplace pas le PV ni les réserves.
 
 En savoir plus : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
@@ -273,4 +273,4 @@ Non. Elle aide en amont. La qualité se constate à la réception.
 - Loi n° 11-04 du 17 février 2011 — [FGCMPI](https://fgcmpi.org.dz/Loi_N_11_04)
 - Décret exécutif n° 13-431 (paiements, pénalités, modèles) — [FGCMPI / décrets](https://www.fgcmpi.org.dz/Decrets)
 - Pratique notariale de PV de prise de possession (vente sur plans)
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)

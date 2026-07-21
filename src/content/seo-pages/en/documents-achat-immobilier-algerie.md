@@ -155,7 +155,7 @@ Guide: [Algerian diaspora](/en/articles/diaspora-algerienne-acheter-immobilier).
 
 ## S.A.F.E and documents
 
-The **S.A.F.E** grid evaluates real estate projects according to confidence criteria. It does not replace any official document and is not an official state certification.
+**S.A.F.E** is an international proprietary real estate analysis and pre-screening methodology. It can help evaluate property opportunities according to confidence criteria, but it does not replace any official document and is not an official state certification.
 
 Details: [S.A.F.E](/en/safe-real-estate-certification).
 
@@ -251,7 +251,7 @@ Promoter approval, register, national table, permit, compliant contract, timetab
 
 ### Does a S.A.F.E file replace these documents?
 
-No. S.A.F.E is complementary and proprietary. The official documents remain the basis.
+No. S.A.F.E is an international proprietary and complementary methodology. The official documents remain the basis.
 
 ## Sources
 
@@ -259,4 +259,4 @@ No. S.A.F.E is complementary and proprietary. The official documents remain the 
 - DGDN practices and pages — [dgdn.gov.dz](https://www.dgdn.gov.dz)
 - Law No. 11-04 and Decree 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - Note Justice 2025 (notarial vigilance / promotion) — Algerian press
-- [Viva Algérie — S.A.F.E](/en/safe-real-estate-certification)
+- [S.A.F.E — international real estate analysis methodology](/en/safe-real-estate-certification)

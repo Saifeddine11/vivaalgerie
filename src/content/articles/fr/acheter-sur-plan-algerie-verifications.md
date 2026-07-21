@@ -27,7 +27,7 @@ Dans une vente d’occasion, l’acheteur visite un bien tangible, consulte le [
 
 La loi 11-04 encadre l’activité de promotion immobilière et distingue le promoteur agréé du vendeur occasionnel. Elle impose transparence, contractualisation et, dans le dispositif prévu, des mécanismes liés au Fonds de garantie et de caution mutuelle de la promotion immobilière (FGCMPI). Le décret 13-431 précise les modèles de contrats de réservation et de vente sur plans. Ces textes ne « garantissent » pas qu’un projet ira au bout sans friction ; ils fixent un cadre que l’acheteur doit savoir lire.
 
-Avant toute signature, croisez cette lecture avec une analyse de projet structurée. La méthode propriétaire [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/safe-certification-immobiliere) ne remplace ni le notaire ni les contrôles officiels, mais elle aide à présélectionner : promoteur, dossier, paiements, matériaux, prix, livraison et encadrement acheteur.
+Avant toute signature, croisez cette lecture avec une analyse de projet structurée. La méthode internationale propriétaire [S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/safe-certification-immobiliere) ne remplace ni le notaire ni les contrôles officiels, mais elle aide à présélectionner : promoteur, dossier, paiements, matériaux, prix, livraison et encadrement acheteur.
 
 Pour une vue d’ensemble des risques et garanties, voir aussi [Acheter sur plan en Algérie](/acheter-sur-plan-algerie).
 
@@ -111,7 +111,7 @@ Posez-vous des questions simples :
 - Pouvez-vous supporter un retard de 12 à 24 mois sans rupture de trésorerie ?
 - Le projet reste-t-il cohérent si le prix final ou les délais glissent légèrement ?
 
-La grille [S.A.F.E](/safe-certification-immobiliere) insiste sur l’adéquation projet / profil acheteur précisément pour éviter ces décalages.
+La méthode internationale [S.A.F.E](/safe-certification-immobiliere) insiste sur l’adéquation projet / profil acheteur précisément pour éviter ces décalages.
 
 ## 7. Le notaire : allié central, pas figurant
 
@@ -170,7 +170,7 @@ Non. La brochure oriente ; le contrat, les plans annexés et le descriptif techn
 
 ### S.A.F.E remplace-t-elle le notaire ?
 
-Non. [S.A.F.E](/safe-certification-immobiliere) est une méthode propriétaire de présélection et d’analyse de projet. Elle ne constitue ni une certification officielle de l’État, ni une garantie juridique, ni un substitut au notaire.
+Non. [S.A.F.E](/safe-certification-immobiliere) est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle ne constitue ni une certification officielle d’État, ni une garantie juridique, ni un substitut au notaire.
 
 ### Que faire si le promoteur refuse de montrer son agrément ?
 
@@ -183,4 +183,4 @@ Considérez-le comme un motif d’arrêt. Sans transparence minimale sur l’agr
 - Dispositif FGCMPI — Fonds de garantie et de caution mutuelle de la promotion immobilière (textes et informations institutionnelles algériennes).
 - Conservation foncière / livret foncier — cadre documentaire de la propriété immobilière en Algérie.
 - Office national du tourisme (ONAT) — données de fréquentation touristique (contexte macro ; 3,548 millions de visiteurs en 2024) pour situer la dynamique territoriale, sans en déduire un rendement immobilier.
-- Viva Algérie — pages associées : [acheter sur plan Algérie](/acheter-sur-plan-algerie), [vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie), [S.A.F.E](/safe-certification-immobiliere).
+- Pages associées : [acheter sur plan Algérie](/acheter-sur-plan-algerie), [vérifier un promoteur](/comment-verifier-promoteur-immobilier-algerie), [S.A.F.E](/safe-certification-immobiliere).

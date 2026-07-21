@@ -227,4 +227,4 @@ Nee. Het is een eigen analyseraster, geen openbare quote of vervangende expertis
 - Kwalitatieve observatie van de Algiers-markt (stedelijke segmenten) — Viva Algérie redactionele analyse
 - Ontwikkeling / *vente sur plans* raamwerk: wet 11-04, decreet 13-431 — [FGCMPI](https://fgcmpi.org.dz)
 - *Conservation foncière* / titel: [DGDN](https://www.dgdn.gov.dz)
-- [Viva Algérie — S.A.F.E](/nl/safe-vastgoedcertificering)
+- [S.A.F.E — internationale vastgoedanalysemethode](/nl/safe-vastgoedcertificering)

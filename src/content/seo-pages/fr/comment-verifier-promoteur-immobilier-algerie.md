@@ -121,7 +121,7 @@ Guide : [Diaspora : acheter depuis l’étranger](/articles/diaspora-algerienne-
 
 ## S.A.F.E : une grille complémentaire, pas un substitut
 
-**S.A.F.E** analyse des projets selon des critères de confiance (S/A/F/E) et des niveaux Review / Certified / Prime / Confidential. C’est une méthode **propriétaire** Viva Algérie, **pas** une validation d’État. Elle ne remplace pas l’agrément ni le notaire.
+« S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition. » Elle peut structurer une première lecture, mais elle ne remplace pas l’agrément ni le notaire.
 
 En savoir plus : [Méthode S.A.F.E](/safe-certification-immobiliere).
 
@@ -211,7 +211,7 @@ Oui, dans les cas où le cadre légal n’est pas respecté. C’est une protect
 
 ### S.A.F.E remplace-t-elle la vérification d’agrément ?
 
-Non. S.A.F.E est propriétaire et complémentaire. L’agrément et les inscriptions légales restent indispensables.
+Non. S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière, complémentaire aux contrôles locaux. L’agrément et les inscriptions légales restent indispensables.
 
 ## Sources
 
@@ -219,4 +219,4 @@ Non. S.A.F.E est propriétaire et complémentaire. L’agrément et les inscript
 - FGCMPI — site officiel [fgcmpi.org.dz](https://fgcmpi.org.dz)
 - Note août 2025 du ministère de la Justice aux notaires (promotion immobilière illégale) — TSA, Algérie Eco, ObservAlgérie, etc.
 - Décret exécutif n° 13-431 (contrats et paiements vente sur plans) — [FGCMPI / décrets](https://www.fgcmpi.org.dz/Decrets)
-- [Viva Algérie — S.A.F.E](/safe-certification-immobiliere)
+- [S.A.F.E — méthode internationale d’analyse immobilière](/safe-certification-immobiliere)
