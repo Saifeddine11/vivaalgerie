@@ -173,3 +173,20 @@ All 24 visuals below are real, locally stored WebP images sourced from Wikimedia
 | coupe-monde-2026-bilan-algerie-maroc | `coupe-monde-2026-bilan-algerie-maroc-03.webp` | Inline 3 | [File:Aerial view of Arrowhead Stadium 08-31-2013 crop.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Arrowhead_Stadium_08-31-2013_crop.jpg) | CC BY-SA 4.0 | Yes - https://en.wikipedia.org/wiki/User:Ichabod | Kansas City a accueilli le spectaculaire Algérie-Autriche 3-3 du groupe J. | Vue aérienne du stade de Kansas City | real image integrated |
 
 <!-- multilingual-breaking-news-2026-07-21:end -->
+
+<!-- wildfires-canadair-2026-07-23 -->
+
+## Incendies Algérie / Canadair Maroc (23 juillet 2026)
+
+| Filename | Article | Languages | Original source | Photographer / author | Licence | Source URL | Original date | Location | Current / archive | Modifications | Credit text |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| `incendies-algerie-juillet-2026-hero.webp` | incendies-algerie-canadair-maroc-intervention | FR/EN/ES/NL | Wikimedia Commons | Jalel l'Apiculteur | check Commons file page | https://commons.wikimedia.org/wiki/File:Edough.jpg | 2012-11-16 | Edough / Annaba area | Context (not active flames) | Resize + WebP | Jalel l'Apiculteur / Wikimedia Commons |
+| `protection-civile-algerie-operation.webp` | same | all | Wikimedia Commons | Jawi13 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:VSAV_PC.jpg | 2021-09-11 | Algeria | Context operational | Resize + WebP | Jawi13 / Wikimedia Commons, CC BY-SA 4.0 |
+| `incendie-seraidi-annaba-2026.webp` | same | all | Wikimedia Commons | Ladyalgeria | check Commons | https://commons.wikimedia.org/wiki/File:Plage_de_seraidi_%C3%A0_15km_d%27Annaba.jpg | 2020-06-28 | Seraïdi / Annaba | Context coastline | Resize + WebP | Ladyalgeria / Wikimedia Commons |
+| `seraidi-edough-foret-contexte.webp` | same | all | Wikimedia Commons | Commons contributor | check Commons | https://commons.wikimedia.org/wiki/File:Cascade_two_in_Sera%C3%AFdi.jpg | — | Seraïdi | Context forest | Resize + WebP | Wikimedia Commons |
+| `avion-lutte-incendie-algerie.webp` | same | all | Wikimedia Commons | Commons contributor | check Commons | https://commons.wikimedia.org/wiki/File:Canadair_in_action,_loading_water_for_fire_fighting.jpg | — | — | Archive aerial firefighting | Resize + WebP | Wikimedia Commons |
+| `canadair-maroc-image-archive.webp` | same | all | Wikimedia Commons | Commons contributor | check Commons | https://commons.wikimedia.org/wiki/File:P%C3%A9lican_42_(Bombardier_CL-415).jpg | — | France (Sécurité civile) | **Archive type illustration — NOT proof of Moroccan intervention in Algeria** | Resize + WebP | Wikimedia Commons — archive CL-415 |
+| `carte-wilayas-incendies-algerie-2026.svg` | same | all | Viva Algérie original | Viva Algérie | Original editorial | — | 2026-07-23 | Editorial schematic | Original SVG | Viva Algérie |
+| `chronologie-incendies-algerie-2026.svg` | same | all | Viva Algérie original | Viva Algérie | Original editorial | — | 2026-07-23 | Editorial timeline | Original SVG | Viva Algérie |
+| `fact-check-canadair-maroc-algerie.svg` | same | all | Viva Algérie original | Viva Algérie | Original editorial | — | 2026-07-23 | Fact-check card | Original SVG | Viva Algérie |
+| `foret-algerie-contexte-feux.webp` | spare context | — | Wikimedia Commons | Walid2687 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chrea_National_Park.jpg | — | Chréa | Context forest | Resize + WebP | Walid2687 / Wikimedia Commons |

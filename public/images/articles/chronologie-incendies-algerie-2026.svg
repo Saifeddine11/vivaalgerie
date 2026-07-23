@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">Chronologie  incendies Algérie juillet 2026</title>
+  <desc id="desc">Frise éditoriale des alertes, mobilisations, bilan humain et information Canadair transmise à Viva Algérie.</desc>
+  <rect width="1400" height="980" fill="#f4f6f3"/>
+  <rect x="72" y="48" width="900" height="100" rx="22" fill="#fff" stroke="rgba(0,0,0,.08)"/>
+  <text x="104" y="100" font-family="Georgia, serif" font-size="34" fill="#0a0a0a">Chronologie éditoriale</text>
+  <text x="104" y="132" font-family="Arial, sans-serif" font-size="16" fill="#5f6660">Incendies Algérie · juillet 2026 · sources attribuées</text>
+  <line x1="160" y1="200" x2="160" y2="900" stroke="#006233" stroke-width="4"/>
+  <g font-family="Arial, sans-serif">
+    <circle cx="160" cy="220" r="12" fill="#006233"/>
+    <text x="200" y="216" font-size="15" fill="#006233">Maidébut juillet 2026</text>
+    <text x="200" y="242" font-size="18" fill="#0a0a0a">Hausse marquée des départs de feu (DGPC / médias)</text>
+    <text x="200" y="266" font-size="14" fill="#5f6660">3/719 feux cités du 1er mai au 20 juillet vs 1/501 en 2025 (AA / CGTN)</text>
+
+    <circle cx="160" cy="330" r="12" fill="#006233"/>
+    <text x="200" y="326" font-size="15" fill="#006233">Mi-juillet 2026</text>
+    <text x="200" y="352" font-size="18" fill="#0a0a0a">Canicule, vents, rappel deffectifs Protection civile</text>
+    <text x="200" y="376" font-size="14" fill="#5f6660">Plus de 100 feux ; évacuations locales (Anadolu Agency)</text>
+
+    <circle cx="160" cy="440" r="12" fill="#d21034"/>
+    <text x="200" y="436" font-size="15" fill="#d21034">Mardi 2122 juillet 2026</text>
+    <text x="200" y="462" font-size="18" fill="#0a0a0a">Feu majeur à Seraïdi (Annaba) ; hôpital évacué</text>
+    <text x="200" y="486" font-size="14" fill="#5f6660">~150 habitations citées endommagées (presse algérienne)</text>
+
+    <circle cx="160" cy="550" r="12" fill="#d21034"/>
+    <text x="200" y="546" font-size="15" fill="#d21034">Mardi 22 juillet 2026</text>
+    <text x="200" y="572" font-size="18" fill="#0a0a0a">Bilan : 6 morts (ministère de lIntérieur / AFP)</text>
+    <text x="200" y="596" font-size="14" fill="#5f6660">Ordre de recensement des dégâts et indemnisation</text>
+
+    <circle cx="160" cy="660" r="12" fill="#006233"/>
+    <text x="200" y="656" font-size="15" fill="#006233">Mercredi 22 juillet 2026</text>
+    <text x="200" y="682" font-size="18" fill="#0a0a0a">Visite ministérielle à Annaba (Sayoud) ; bilans DGPC</text>
+    <text x="200" y="706" font-size="14" fill="#5f6660">Ex. : 142 feux éteints / 53 actifs (fenêtre 24 h citée)</text>
+
+    <circle cx="160" cy="770" r="12" fill="#b8860b"/>
+    <text x="200" y="766" font-size="15" fill="#b8860b">Publication Viva Algérie</text>
+    <text x="200" y="792" font-size="18" fill="#0a0a0a">Information directe : Canadair marocains rapportés</text>
+    <text x="200" y="816" font-size="14" fill="#5f6660">Statut : non confirmé officiellement au moment de publication</text>
+
+    <circle cx="160" cy="880" r="12" fill="#6b7280"/>
+    <text x="200" y="876" font-size="15" fill="#6b7280">2472 h suivantes</text>
+    <text x="200" y="902" font-size="18" fill="#0a0a0a">Surveillance, météo, bilans actualisés, vérifications</text>
+  </g>
+</svg>

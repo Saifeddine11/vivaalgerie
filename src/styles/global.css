@@ -212,6 +212,35 @@
     @apply text-xs font-medium uppercase tracking-[0.18em] text-green;
   }
 
+  .urgent-badge {
+    @apply inline-flex items-center rounded-full border border-red-soft bg-red-soft/50 px-3 py-1 text-[0.7rem] font-semibold uppercase tracking-[0.16em] text-[#8a1f2b];
+  }
+
+  .prose-editorial .fact-check-card {
+    @apply my-8 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-6;
+  }
+
+  .prose-editorial .transparency-note {
+    @apply my-8 rounded-[var(--radius-card)] border border-amber-200/80 bg-amber-50/60 p-5 text-sm leading-7 text-muted;
+  }
+
+  .prose-editorial .wilaya-table {
+    @apply my-8 w-full overflow-x-auto rounded-[var(--radius-card)] border border-border text-sm;
+  }
+
+  .prose-editorial .wilaya-table table {
+    @apply w-full min-w-[640px] border-collapse;
+  }
+
+  .prose-editorial .wilaya-table th,
+  .prose-editorial .wilaya-table td {
+    @apply border-b border-border px-3 py-3 text-left align-top;
+  }
+
+  .prose-editorial .wilaya-table th {
+    @apply bg-bg-secondary font-semibold text-text;
+  }
+
   .section-pad {
     @apply py-16 sm:py-24;
   }

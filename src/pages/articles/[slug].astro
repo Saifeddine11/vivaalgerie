@@ -123,6 +123,19 @@ const jsonLd = [blogPosting, breadcrumbLd, faqLd].filter(Boolean) as Record<stri
           <time datetime={article.data.pubDate.toISOString()}>
             {formatDate(article.data.pubDate, locale)}
           </time>
+          {
+            article.data.updatedDate && (
+              <time datetime={article.data.updatedDate.toISOString()}>
+                {locale === 'fr'
+                  ? `MàJ ${formatDate(article.data.updatedDate, locale)}`
+                  : locale === 'es'
+                    ? `Act. ${formatDate(article.data.updatedDate, locale)}`
+                    : locale === 'nl'
+                      ? `Bijgewerkt ${formatDate(article.data.updatedDate, locale)}`
+                      : `Updated ${formatDate(article.data.updatedDate, locale)}`}
+              </time>
+            )
+          }
           <span>{minutes} {t(locale, 'article.minRead')}</span>
         </div>
       </div>
