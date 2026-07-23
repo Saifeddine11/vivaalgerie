@@ -110,7 +110,7 @@ const faqLd = faqs.length
       </div>
       <div class="container-editorial max-w-5xl pb-12">
         <div class="overflow-hidden rounded-[1.5rem] border border-border">
-          <img src={article.data.image} alt={article.data.imageAlt} class="aspect-[21/9] w-full object-cover" width="1400" height="600" fetchpriority="high" />
+          <img src={article.data.heroImage ?? article.data.image} alt={article.data.imageAlt} class="aspect-[21/9] w-full object-cover" width="1400" height="600" fetchpriority="high" />
         </div>
       </div>
     </header>

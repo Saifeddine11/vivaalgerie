@@ -190,3 +190,5 @@ All 24 visuals below are real, locally stored WebP images sourced from Wikimedia
 | `chronologie-incendies-algerie-2026.svg` | same | all | Viva Algérie original | Viva Algérie | Original editorial | — | 2026-07-23 | Editorial timeline | Original SVG | Viva Algérie |
 | `fact-check-canadair-maroc-algerie.svg` | same | all | Viva Algérie original | Viva Algérie | Original editorial | — | 2026-07-23 | Fact-check card | Original SVG | Viva Algérie |
 | `foret-algerie-contexte-feux.webp` | spare context | — | Wikimedia Commons | Walid2687 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chrea_National_Park.jpg | — | Chréa | Context forest | Resize + WebP | Walid2687 / Wikimedia Commons |
+
+| `incendies-algerie-juillet-2026-hero.webp` / `...-og.webp` | wildfire article | FR/EN/ES/NL | Wikimedia File:Bushfire.jpg | Mark Marathon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bushfire.jpg | archive | Active flames + smoke (illustrative, not July 2026 Algeria footage) | Resize/crop WebP | Mark Marathon / Wikimedia Commons, CC BY-SA 3.0 |

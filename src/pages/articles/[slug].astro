@@ -142,7 +142,7 @@ const jsonLd = [blogPosting, breadcrumbLd, faqLd].filter(Boolean) as Record<stri
       <div class="container-editorial max-w-5xl pb-12">
         <div class="overflow-hidden rounded-[1.5rem] border border-border">
           <img
-            src={article.data.image}
+            src={article.data.heroImage ?? article.data.image}
             alt={article.data.imageAlt}
             class="aspect-[21/9] w-full object-cover"
             width={1400}

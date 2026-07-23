@@ -7,11 +7,11 @@ lang: "es"
 pubDate: 2026-07-23
 updatedDate: 2026-07-23
 author: "Redacción Viva Algérie"
-image: "/images/articles/incendies-algerie-juillet-2026-hero.webp"
+image: "/images/articles/incendies-algerie-juillet-2026-og.webp"
 heroImage: "/images/articles/incendies-algerie-juillet-2026-hero.webp"
-imageAlt: "Macizo del Edough cerca de Annaba, zona forestal expuesta a los incendios de julio de 2026"
-imageCredit: "Jalel l'Apiculteur / Wikimedia Commons"
-imageSource: "https://commons.wikimedia.org/wiki/File:Edough.jpg"
+imageAlt: "Incendio de vegetación con llamas y columna de humo — imagen de archivo ilustrativa"
+imageCredit: "Mark Marathon / Wikimedia Commons, CC BY-SA 3.0"
+imageSource: "https://commons.wikimedia.org/wiki/File:Bushfire.jpg"
 featured: true
 draft: false
 translationKey: "incendies-algerie-canadair-maroc-intervention"
