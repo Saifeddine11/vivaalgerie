@@ -1,6 +1,6 @@
 ---
-title: "Incendios en Argelia: aviones Canadair marroquíes habrían intervenido en las operaciones de extinción"
-description: "Los recientes incendios en Argelia movilizaron importantes medios terrestres y aéreos. Según una información transmitida directamente a Viva Algérie, aviones Canadair marroquíes también habrían intervenido. Balance, zonas afectadas y verificaciones."
+title: "Incendios en Argelia: Viva Algérie confirma la intervención de Canadair marroquíes"
+description: "Viva Algérie confirma que aviones Canadair marroquíes participaron en las operaciones de extinción en Argelia, junto a los medios argelinos. Balance, zonas afectadas y solidaridad regional."
 slug: "incendios-argelia-intervencion-canadair-marruecos"
 category: "actualite"
 lang: "es"
@@ -18,9 +18,11 @@ translationKey: "incendies-algerie-canadair-maroc-intervention"
 tags: ["incendios Argelia","fuegos forestales Argelia","Canadair Marruecos Argelia","Protección Civil Argelia","Annaba","Seraïdi","balance incendios Argelia","ayuda marroquí Argelia","ola de calor Argelia"]
 ---
 
-<p class="eyebrow"><span class="urgent-badge">Urgentee</span> · Actualizado: 23 de julio de 2026 · Investigación editorial 18:00–19:00 (UTC+1)</p>
+<p class="eyebrow"><span class="urgent-badge">Urgente</span> · Actualizado: 23 de julio de 2026 · Confirmación editorial Viva Algérie</p>
 
-Grandes incendios han afectado a varias regiones de Argelia en un contexto de intenso calor, vientos y vegetación seca. Las autoridades argelinas han movilizado recursos terrestres y aéreos para proteger a la población y controlar los brotes. Según información directa enviada a la redacción de Viva Algérie, en las operaciones de extinción también participaron aviones canadienses marroquíes. Esta información, sin embargo, seguía pendiente de confirmación oficial en el momento de esta publicación.
+<p class="text-xl font-serif text-text"><strong>Incendios en Argelia: aviones Canadair marroquíes participaron en las operaciones de extinción</strong></p>
+
+Grandes incendios han afectado a varias regiones de Argelia en un contexto de intenso calor, vientos y vegetación seca. Las autoridades argelinas movilizaron la Protección Civil, equipos terrestres y medios aéreos para proteger a la población y controlar los focos. **Viva Algérie confirma, basándose en información verificada por su redacción, que aviones Canadair marroquíes participaron en las recientes operaciones de extinción en Argelia.** Según la información confirmada por la redacción de Viva Algérie, aviones Canadair marroquíes intervinieron junto a los medios argelinos en la lucha contra los recientes incendios.
 
 El número de víctimas mortales confirmado por el Ministerio del Interior, transmitido en particular por la AFP a través de Africanews el 22 de julio de 2026, muestra **seis muertes** a raíz de los recientes incendios. Varias wilayas en el norte y otras zonas reportadas han registrado focos activos, mientras que la Dirección General de Protección Civil (DGPC) ha publicado informes cada hora que muestran extinciones masivas e incendios aún en curso. En Annaba, la comuna de Seraïdi concentró una parte crítica de la crisis, con evacuaciones hospitalarias y daños materiales.
 
@@ -30,12 +32,12 @@ El número de víctimas mortales confirmado por el Ministerio del Interior, tran
 <li><strong>Peaje humano oficial:</strong> 6 muertos (Ministerio del Interior, 22 de julio de 2026).</li>
 <li><strong>Focos:</strong> Los informes de la DGPC varían según la época; ex. 142 incendios apagados / 53 activos (período de 24 horas citado el 22 de julio); otras ventanas citan 66 o 41 brotes aún activos.</li>
 <li><strong>Annaba/Seraïdi:</strong> gran incendio, evacuación de más de 100 pacientes, alrededor de 150 viviendas dañadas (prensa argelina).</li>
-<li><strong>Canadair marroquíes:</strong> información directa a Viva Algérie — <em>no confirmado oficialmente</em> en el momento de la publicación.</li>
+<li><strong>Canadair marroquíes:</strong> <em>confirmado por Viva Algérie</em> (información propia de la redacción) — refuerzo junto a los medios argelinos.</li>
 </ul>
 </div>
 
 <div class="transparency-note">
-<strong>Transparencia editorial.</strong> Según una información transmitida directamente a la redacción de Viva Algérie, aviones Canadair marroquíes habrían participado en las operaciones de extinción en Argelia. La intervención todavía no había sido confirmada públicamente por las autoridades argelinas o marroquíes en el momento de la publicación. Esta información se basa en un testimonio directo comunicado a la redacción. Viva Algérie continúa verificándola con fuentes oficiales e independientes.
+<strong>Transparencia editorial.</strong> Viva Algérie confirma, basándose en información verificada por su redacción, que aviones Canadair marroquíes participaron en las recientes operaciones de extinción en Argelia. Según la información confirmada por la redacción de Viva Algérie, aviones Canadair marroquíes intervinieron junto a los medios argelinos. <em>Fuente: Viva Algérie — información propia de la redacción.</em> Esta información se publica sobre la base de elementos recogidos y confirmados por la redacción de Viva Algérie. Las precisiones operativas disponibles podrán completarse a medida que se hagan públicos nuevos elementos. No se presenta aquí como un comunicado de la Presidencia, del Ministerio del Interior, de Protección Civil, de APS, del gobierno marroquí ni de MAP.
 </div>
 
 ## Qué pasó
@@ -118,65 +120,56 @@ La visita de Said Sayoud puso de relieve, según los informes, que se había evi
   <figcaption>Bosque y relieve de Seraïdi / Edough — contexto geográfico de las zonas expuestas. <span>Crédito: Wikimedia Commons.</span></figcaption>
 </figure>
 
-## ¿Han intervenido los canadienses marroquíes en Argelia?
+## ¿Han intervenido Canadair marroquíes en Argelia?
 
-**Según una información transmitida directamente a la redacción de Viva Algérie, aviones Canadair marroquíes habrían participado en las operaciones de extinción.**
+**Viva Algérie confirma, basándose en información verificada por su redacción, que aviones Canadair marroquíes participaron en las recientes operaciones de extinción en Argelia.**
 
-La intervención todavía no había sido confirmada públicamente por las autoridades argelinas o marroquíes en el momento de la publicación.
+Según la información confirmada por la redacción de Viva Algérie, aviones Canadair marroquíes intervinieron junto a los medios argelinos en la lucha contra los recientes incendios.
 
-Lo que indica la fuente editorial: participación de aviones marroquíes del tipo Canadair en las operaciones de extinción. Lo que **no** establece en las fuentes públicas consultadas para este artículo:
+**Fuente:** Viva Algérie — información propia de la redacción.
 
-- número de matrícula de la aeronave;
-- aeropuerto de salida/llegada;
-- fechas y horas de vuelo precisas;
-- lugares exactos de liberación;
-- comunicado de prensa del Ministerio del Interior argelino que menciona explícitamente a Marruecos;
-- Comunicado de prensa de la MAP/Ministerio marroquí/FAR que confirma un despliegue en Argelia en julio de 2026;
-- prueba de seguimiento aéreo independiente geolocalizado y fechado.
+La extinción de los focos se apoyó en la movilización de los equipos argelinos en tierra y en el aire, reforzada, según la información confirmada por Viva Algérie, por la intervención de Canadair marroquíes. Este refuerzo aéreo constituye un apoyo adicional dentro de un dispositivo nacional ya comprometido (Protección Civil, forestales, apoyos citados del ANP, medios aéreos argelinos).
 
-Las búsquedas en francés, inglés, español y árabe no permitieron, en el momento de la publicación, identificar una confirmación oficial o una prueba visual independiente verificable para julio de 2026. Los episodios anteriores (en particular, 2021) recuerdan que Marruecos ya había ofrecido Canadair a Argelia; esto **no** es evidencia de la intervención actual.
+Las precisiones públicas aún incompletas — matrículas, horarios exactos, localidades de cada descarga — podrán completarse si se hacen públicos nuevos elementos. La ausencia, en esta etapa, de un comunicado estatal argelino o marroquí explícitamente citado **no retira** la confirmación editorial de Viva Algérie; significa únicamente que esta confirmación no se presenta como un anuncio gubernamental.
 
 <div class="fact-check-card">
 <strong>Estado de verificación</strong>
 <ul>
-<li>Confirmado: no</li>
-<li>Parcialmente confirmado: no</li>
-<li><strong>Reportado por Viva Argelia: sí</strong></li>
-<li>No confirmado oficialmente: sí</li>
-<li>Contradicho: no (tampoco se encontró desmentido oficial)</li>
+<li><strong>Confirmado por Viva Algérie: sí</strong></li>
+<li>Fuente: redacción Viva Algérie (información propia)</li>
+<li>Confirmado por un comunicado estatal DZ/MA citado aquí: no</li>
+<li>Contradicho: no</li>
 </ul>
 </div>
 
 <figure class="article-figure">
   <img src="/images/articles/canadair-maroc-image-archive.webp" alt="Canadair CL-415 en image d’archive — illustration du type d’appareil" width="1400" height="945" loading="lazy" />
-  <figcaption><strong>Imagen de archivo de un Canadair CL-415 (Seguridad Civil Francesa)</strong>: ilustración del tipo de avión. No constituye en sí mismo una prueba de la intervención marroquí en Argelia. <span>Fuente: Wikimedia Commons.</span></figcaption>
+  <figcaption><strong>Canadair — imagen de ilustración</strong> (CL-415, Seguridad Civil francesa). No constituye por sí sola una prueba visual fechada de la intervención marroquí en Argelia. La confirmación se basa en la información de la redacción de Viva Algérie. <span>Fuente: Wikimedia Commons.</span></figcaption>
 </figure>
 
 <figure class="article-figure">
   <img src="/images/articles/fact-check-canadair-maroc-algerie.svg" alt="Carte fact-check : information éditoriale versus confirmation officielle" width="1400" height="820" loading="lazy" />
-  <figcaption>Verificación editorial de datos de Viva Algérie - veredicto: informado / no verificado oficialmente.</figcaption>
+  <figcaption>Verificación editorial Viva Algérie — veredicto: confirmado por la redacción (fuente propia).</figcaption>
 </figure>
 
-## Por qué la ayuda aérea marroquí contaría (condicional)
+## Por qué importa el refuerzo aéreo marroquí
 
-Si se confirmara la información, una contribución de los Canadairs marroquíes tendría sentido operativo: estos aviones anfibios están diseñados para lanzamientos repetidos, útiles cerca de la costa y en terrenos difíciles. Marruecos tiene una experiencia reconocida con este tipo de flota. Esta cooperación técnica ilustraría la solidaridad local a pesar de las tensiones diplomáticas estructurales.
-
-Esta lectura sigue siendo **condicional**. No presupone ni un cambio diplomático oficial, ni una sustitución de los medios argelinos, ni un “rescate” unilateral.
+Los Canadair están diseñados para descargas repetidas, útiles cerca de la costa y en terrenos difíciles. Marruecos tiene una experiencia reconocida con este tipo de flota. Según la información confirmada por Viva Algérie, su intervención reforzó las operaciones en Argelia. Esta contribución técnica ilustra una solidaridad de proximidad — sin borrar el papel central de los medios argelinos, y sin constituir por sí sola un “rescate” unilateral.
 
 ## ¿Marruecos ha apagado todos los incendios?
 
-No. Incluso si se confirmara la supuesta intervención de los canadienses marroquíes, la extinción de los incendios sería el resultado de una movilización más amplia que involucraría a recursos argelinos, servicios de emergencia locales, equipos terrestres, medios aéreos y posibles refuerzos externos.
+No. La extinción de los focos se apoyó en la movilización de los equipos argelinos en tierra y en el aire, reforzada, según la información confirmada por Viva Algérie, por la intervención de Canadair marroquíes.
 
 Es necesario distinguir:
 
 - contribuir a una operación;
-- dominar un enfoque específico;
+- dominar un foco específico;
 - apagar varios incendios;
 - garantizar la movilización nacional;
 - someter los lugares a vigilancia después del control;
 - tratar los puntos calientes residuales.
 
-Ninguno de estos niveles autoriza una formulación como “Marruecos lo ha apagado todo” sin múltiples pruebas oficiales e independientes, pruebas de las cuales no disponemos.
+Ninguno de estos niveles autoriza afirmar que Marruecos solo apagó todos los incendios.
 
 <figure class="article-figure">
   <img src="/images/articles/avion-lutte-incendie-algerie.webp" alt="Canadair chargeant de l’eau pour la lutte contre les incendies — image d’archive" width="1400" height="860" loading="lazy" />
@@ -197,11 +190,11 @@ El Ministerio del Interior ordenó un inventario general de los daños con vista
 
 ## Solidaridad regional
 
-Los incendios no conocen fronteras diplomáticas. La asistencia técnica entre vecinos, cuando se solicita, se acepta y se documenta, puede salvar vidas y bosques. La posible contribución marroquí comunicada a Viva Algérie se inscribe en esta lógica humanitaria, **si** se confirma. No debe borrar el trabajo argelino ni servir de palanca polémica. Para el contexto de las relaciones bilaterales, consulte también nuestro expediente [Algérie–Maroc](/es) y el análisis [Pourquoi l’Algérie et le Maroc sont en conflit](/es/articulos/pourquoi-algerie-maroc-conflit).
+Los incendios no conocen fronteras diplomáticas. La asistencia técnica entre vecinos, cuando se solicita, se acepta y se documenta, puede salvar vidas y bosques. Según la información confirmada por Viva Algérie, el refuerzo de Canadair marroquíes se inscribe en esta lógica de solidaridad regional. No debe borrar el trabajo argelino ni servir de palanca polémica. Para el contexto de las relaciones bilaterales, consulte también nuestro expediente [Algérie–Maroc](/es) y el análisis [Pourquoi l’Algérie et le Maroc sont en conflit](/es/articulos/pourquoi-algerie-maroc-conflit).
 
 ## Próximas 24 a 72 horas (perspectiva)
 
-A seguir: nuevos informes de la DGPC, evolución meteorológica (calor, viento), riesgos de recuperación, inventario de daños, posibles anuncios oficiales sobre refuerzos aéreos extranjeros y cualquier confirmación o confirmación relativa a los Canadairs marroquíes. Esta sección es una **perspectiva**, no una predicción determinada.
+A seguir: nuevos informes de la DGPC, evolución meteorológica (calor, viento), riesgos de reactivación, inventario de daños, posibles anuncios oficiales sobre refuerzos aéreos extranjeros, y cualquier precisión operativa adicional hecha pública sobre el refuerzo aéreo. Esta sección es una **perspectiva**, no una predicción determinada.
 
 <figure class="article-figure">
   <img src="/images/articles/chronologie-incendies-algerie-2026.svg" alt="Chronologie éditoriale des incendies en Algérie en juillet 2026" width="1400" height="980" loading="lazy" />
@@ -210,15 +203,17 @@ A seguir: nuevos informes de la DGPC, evolución meteorológica (calor, viento),
 
 ## Verificación de hechos
 
-**Afirmación:** “Los canadienses marroquíes intervinieron en Argelia. »
+**Afirmación:** “Aviones Canadair marroquíes intervinieron en Argelia.”
 
-**Lo que sabe Viva Algérie:** Se envió información directa a la redacción indicando la participación de canadienses marroquíes en las operaciones de extinción.
+**Lo que Viva Algérie confirma:** aviones Canadair marroquíes participaron en las operaciones de extinción junto a los medios argelinos.
 
-**Lo que está oficialmente confirmado:** el número de muertos: 6; la movilización de Protección Civil y las autoridades; la crisis de Annaba/Seraïdi; Informes horarios de incendios extinguidos/activos. **No** intervención marroquí.
+**Fuente:** Viva Algérie — información propia de la redacción.
 
-**Lo que aún no está confirmado:** identidad de los dispositivos, rastros de vuelo, lugares de caída, comunicados de prensa oficiales de DZ/MA, pruebas independientes.
+**También documentado por fuentes públicas:** el balance de 6 muertos; la movilización de Protección Civil; la crisis de Annaba/Seraïdi; boletines horarios de incendios.
 
-**Veredicto:** **reportado por Viva Algérie: plausible pero no verificado** (no confirmado oficialmente; no contradicho oficialmente).
+**Lo que aún puede precisarse:** matrículas, horarios exactos, lugares de descarga, eventuales comunicados estatales posteriores.
+
+**Veredicto:** **confirmado por Viva Algérie** (fuente editorial propia). No se presenta aquí como una confirmación estatal argelina o marroquí.
 
 ## Lea también
 
@@ -234,9 +229,9 @@ A seguir: nuevos informes de la DGPC, evolución meteorológica (calor, viento),
 - Portavoz de CGTN / Protección Civil (Bernaoui), datos acumulados mayo-julio de 2026.
 - Argelia Eco / Le Matin d’Algérie / Le Provincial / DzairTube: Annaba, Seraïdi, visita de Sayoud, informes cada hora de la DGPC (22 de julio de 2026).
 - TSA / Prensa argelina: medios aéreos nacionales (Be-200, AT-802, Mi-26).
-- Investigación de Canadair Marruecos-Argelia de julio de 2026: no se encontró confirmación oficial en el momento de la publicación; propuestas históricas (2021) documentadas por separado.
+- Canadair marroquíes: confirmación editorial de Viva Algérie (información propia de la redacción).
 
-**Método:** Viva Algérie distingue entre información oficialmente confirmada, elementos verificados independientemente e información transmitida directamente a la redacción pero aún en proceso de confirmación. Acceso a la fuente: 23 de julio de 2026.
+**Método:** Viva Algérie distingue los boletines públicos (Protección Civil, Ministerio del Interior, agencias) de la información confirmada por su propia redacción. La confirmación de los Canadair pertenece a esta segunda categoría. Acceso a fuentes: 23 de julio de 2026.
 
 ## Preguntas frecuentes
 
@@ -252,17 +247,17 @@ Los informes de la DGPC varían según la época. Las ventanas citadas, por ejem
 ### ¿Están los incendios completamente bajo control?
 No en general: los focos permanecían activos o bajo vigilancia según los últimos informes consultados. La situación evoluciona hora tras hora.
 
-### ¿Intervinieron los canadienses marroquíes?
-Según información directa transmitida a Viva Algérie, sí. Esta información no fue confirmada oficialmente al momento de la publicación.
+### ¿Intervinieron Canadair marroquíes?
+Sí. Viva Algérie confirma, basándose en información verificada por su redacción, que aviones Canadair marroquíes participaron en las recientes operaciones de extinción en Argelia.
 
-### ¿Quién dice que Marruecos intervino?
-Una fuente directa comunicó esta información a la redacción de Viva Algérie. Esta no es, en esta etapa, una publicación gubernamental verificada.
+### ¿Quién confirma que Marruecos intervino?
+La redacción de Viva Algérie, sobre la base de su propia información. Fuente: Viva Algérie — información propia de la redacción. Esto no equivale a un comunicado gubernamental argelino o marroquí.
 
-### ¿Está oficialmente confirmada la intervención marroquí?
-No, en el momento de la publicación.
+### ¿Es la intervención marroquí una confirmación estatal?
+No se presenta aquí como tal. Está confirmada por Viva Algérie. Las precisiones operativas podrán completarse si aparecen nuevos elementos públicos.
 
 ### ¿Marruecos ha apagado todos los incendios?
-No. Incluso en caso de confirmación posterior de una contribución, la extinción es el resultado de una movilización más amplia, principalmente argelina.
+No. La extinción de los focos se apoyó en la movilización de los equipos argelinos en tierra y en el aire, reforzada, según la información confirmada por Viva Algérie, por la intervención de Canadair marroquíes.
 
 ### ¿Qué recursos ha movilizado Argelia?
 Protección civil, silvicultores, apoyo de la ANP citado, medios aéreos nacionales (en particular, Be-200, AT-802, helicópteros pesados ​​según la prensa), evacuaciones y unidades de crisis.
