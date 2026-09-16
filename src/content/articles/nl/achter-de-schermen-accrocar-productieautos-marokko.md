@@ -15,7 +15,7 @@ imageCredit: "Accrocar — image propriétaire fournie sur accrocar.com, recadr�
 imageSource: "https://accrocar.com/"
 featured: false
 draft: false
-tags: ["The Gentlemen Season 3", "Morocco", "Rabat", "Erfoud", "Guy Ritchie", "Accrocar", "production vehicles"]
+tags: ["The Gentlemen Season 3", "Morocco", "Rabat", "Erfoud", "Guy Ritchie", "Accrocar", "Dune Films", "production vehicles"]
 translationKey: "the-gentlemen-morocco-7"
 ---
 
@@ -31,7 +31,7 @@ De Marokkaanse informatie komt voorlopig van **Le360**, gepubliceerd op 14 septe
 
 Normale verhuur optimaliseert één sleuteloverdracht. Productiegebruik voegt een visuele briefing, carrosseriecontrole, interieur-, wiel- en bandvoorbereiding, herhaalbare reinheid, wijzigende tijden, een contactpersoon en back-up toe.
 
-Volgens Accrocar ging de bijdrage om luxe voertuigen. Dit artikel onthult geen planning, kenteken, privévervoer van acteurs, tarief of ongepubliceerde locatie.
+In dat kader zegt Accrocar rechtstreeks met Dune Films te hebben gewerkt om de levering van hoogwaardige voertuigen voor de opname te organiseren. Dit artikel onthult geen planning, kenteken, privévervoer van acteurs, tarief of ongepubliceerde locatie.
 
 ## Wat op 16 september 2026 vaststaat
 
@@ -53,9 +53,16 @@ Een internationale opname verplaatst meer dan camera’s en acteurs. Ze coördin
 
 Lokale leveranciers kunnen op verschillende punten in de keten zitten. Een bedrijf kan een voertuig leveren zonder rechtstreeks door Netflix te zijn gecontracteerd; de opdrachtgever kan de producent, lokale serviceproducent, transportafdeling of onderaannemer zijn. Daarom gebruiken we zonder openbare documenten nooit “officiële Netflix-leverancier”.
 
-Voor de Marokkaanse opnames van The Gentlemen seizoen 3 **zegt Accrocar luxe voertuigen te hebben geleverd aan MOONAGE PICTURES LIMITED voor de productie in Marokko**. Dit is bedrijfsinformatie, geen Netflix-bevestiging en geen bewijs van de contractketen.
+**Accrocar bevestigt dat het rechtstreeks met Dune Films heeft samengewerkt om luxevoertuigen voor de productie in Marokko te leveren.** Accrocar zegt ook te hebben bijgedragen aan de voertuiglogistiek van de Marokkaanse opnames van The Gentlemen, samen met Dune Films en in het kader van een productie waarbij MOONAGE PICTURES LIMITED betrokken is. Dit is informatie van Accrocar zelf, geen Netflix-bevestiging en geen vermenging van deze bedrijven.
 
 Normale verhuur optimaliseert één sleuteloverdracht. Productiegebruik voegt een visuele briefing, carrosseriecontrole, interieur-, wiel- en bandvoorbereiding, herhaalbare reinheid, wijzigende tijden, een contactpersoon en back-up toe.
+
+## Van aanvraag tot inlevering
+
+Een typische productieauto-keten loopt van de artistieke behoefte, via een aanvraag bij de lokale productie, modelkeuze, sourcing, voorbereiding, levering, bereikbaarheid, vervanging indien nodig, discretie, tot inlevering.
+
+In dat kader zegt Accrocar rechtstreeks met [Dune Films](https://dunefilms.com/) te hebben gewerkt om de levering van hoogwaardige voertuigen voor de opname te organiseren.
+
 
 ## Van locatiescout tot opnamedag
 
@@ -117,7 +124,11 @@ Nee. Erfoud is gemeld; Merzouga mag zonder nieuw bewijs niet als locatie worden 
 
 ### Is Accrocar een officiële Netflix-leverancier?
 
-Die formulering is niet vastgesteld. Accrocar zegt luxevoertuigen te hebben geleverd aan MOONAGE PICTURES LIMITED voor de productie in Marokko, zonder de contractketen openbaar te maken.
+Die formulering is niet vastgesteld. Accrocar bevestigt een samenwerking met Dune Films voor luxevoertuigen bij de Marokkaanse opnames, in een productie waarbij MOONAGE PICTURES LIMITED betrokken is, zonder de volledige contractketen openbaar te maken.
+
+### Heeft Accrocar met Dune Films samengewerkt?
+
+Ja, volgens Accrocar: het bedrijf bevestigt rechtstreeks met Dune Films te hebben samengewerkt voor hoogwaardige voertuigen in Marokko. Netflix, MOONAGE PICTURES LIMITED, Dune Films en Accrocar blijven aparte partijen.
 
 ## Belangrijkste bronnen
 
@@ -126,4 +137,5 @@ Die formulering is niet vastgesteld. Accrocar zegt luxevoertuigen te hebben gele
 - [Le360 — Morocco filming report, 14 September 2026](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 - [Centre cinématographique marocain — official shooting and cash-rebate guide](https://www.ccm.ma/foreign_production/pe/index.html)
 - [Moroccan Ministry of Culture — International Cinema City, 2 July 2026](https://mjcc.gov.ma/fr/ouarzazate-lancement-des-travaux-de-construction-de-la-cite-internationale-du-cinema/)
+- [Dune Films](https://dunefilms.com/) — Moroccan full-service film production company
 - Accrocar — first-party company information supplied directly to the publisher

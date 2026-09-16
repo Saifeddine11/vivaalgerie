@@ -49,6 +49,10 @@ for (const article of articles) {
   if (article.key.match(/-(?:6|7|8|9|10)$/)) {
     const links = (article.body.match(/https:\/\/accrocar\.com\/?/g) ?? []).length;
     if (links < 1 || links > 3) failures.push(`${article.locale}/${article.file}: ${links} Accrocar links.`);
+    const dune = (article.body.match(/https:\/\/dunefilms\.com/g) ?? []).length;
+    if (dune < 1 || dune > 2) failures.push(`${article.locale}/${article.file}: ${dune} Dune Films links.`);
+    if (!article.body.includes('Dune Films')) failures.push(`${article.locale}/${article.file}: missing Dune Films.`);
+    if (!article.body.includes('MOONAGE PICTURES LIMITED')) failures.push(`${article.locale}/${article.file}: missing MOONAGE PICTURES LIMITED.`);
   }
 }
 

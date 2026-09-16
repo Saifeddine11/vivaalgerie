@@ -352,6 +352,39 @@
     }
   }
 
+  .prose-editorial .production-chain {
+    @apply my-8 overflow-hidden rounded-[var(--radius-card)] border border-border bg-bg-secondary p-5 sm:p-7;
+  }
+
+  .prose-editorial .production-chain__steps {
+    @apply m-0 flex list-none flex-col gap-2 p-0;
+  }
+
+  .prose-editorial .production-chain__steps li {
+    @apply relative rounded-2xl border border-green/25 bg-white px-4 py-3 text-sm font-medium shadow-sm;
+  }
+
+  .prose-editorial .production-chain__steps li + li::before {
+    content: '↓';
+    @apply mb-1 block text-center text-green;
+  }
+
+  .prose-editorial .production-chain__note {
+    @apply mb-0 mt-5 border-t border-border pt-4 text-sm leading-6 text-muted;
+  }
+
+  .prose-editorial .case-study {
+    @apply my-8 rounded-[var(--radius-card)] border border-border bg-bg-secondary p-5 sm:p-7;
+  }
+
+  .prose-editorial .case-study h3 {
+    @apply mt-0;
+  }
+
+  .prose-editorial .case-study ul {
+    @apply mb-0;
+  }
+
   .prose-editorial .newsletter-cta {
     @apply my-10 rounded-[var(--radius-card)] bg-green p-6 text-white shadow-[var(--shadow-soft)];
   }
