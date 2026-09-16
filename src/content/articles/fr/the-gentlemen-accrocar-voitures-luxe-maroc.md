@@ -1,7 +1,7 @@
 ---
 title: "The Gentlemen saison 3 : Accrocar fournit des voitures de luxe à la production au Maroc"
 h1: "The Gentlemen saison 3 : Accrocar fournit des voitures de luxe à la production au Maroc"
-description: "Accrocar indique avoir fourni des véhicules de luxe à la production de The Gentlemen au Maroc. Rôle, préparation et limites de cette information."
+description: "Accrocar indique avoir fourni des véhicules de luxe à MOONAGE PICTURES LIMITED dans le cadre du tournage marocain de The Gentlemen. Rôle, préparation et limites de cette information."
 slug: "the-gentlemen-accrocar-voitures-luxe-maroc"
 category: "culture"
 lang: "fr"
@@ -19,7 +19,7 @@ tags: ["The Gentlemen Season 3", "Morocco", "Rabat", "Erfoud", "Guy Ritchie", "A
 translationKey: "the-gentlemen-morocco-6"
 ---
 
-<div class="key-facts"><strong>À retenir</strong><p>Accrocar indique avoir fourni des véhicules de luxe à la production de The Gentlemen au Maroc. Rôle, préparation et limites de cette information.</p></div>
+<div class="key-facts"><strong>À retenir</strong><p>Accrocar indique avoir fourni des véhicules de luxe à MOONAGE PICTURES LIMITED dans le cadre du tournage marocain de The Gentlemen. Rôle, préparation et limites de cette information.</p></div>
 
 ## Réponse immédiate
 
@@ -29,7 +29,7 @@ Le volet marocain repose à ce jour sur le reportage de **Le360**, publié le 14
 
 ## Le rôle déclaré d’Accrocar
 
-Dans le cadre du tournage marocain de la saison 3 de The Gentlemen, **Accrocar indique avoir fourni des véhicules de luxe destinés aux besoins de la production au Maroc**. Cette information vient directement de l’entreprise. Elle n’est pas présentée comme une confirmation de Netflix et ne permet pas de reconstituer la chaîne contractuelle.
+Dans le cadre du tournage marocain de la saison 3 de The Gentlemen, **Accrocar indique avoir fourni des véhicules de luxe à MOONAGE PICTURES LIMITED**. Cette information vient directement de l’entreprise. Elle n’est pas présentée comme une confirmation de Netflix et ne permet pas de reconstituer la chaîne contractuelle.
 
 Un fournisseur automobile spécialisé doit comprendre les contraintes de disponibilité, d’état cosmétique, de livraison, de discrétion, de continuité et de remplacement. La valeur tient autant à la coordination qu’au modèle livré.
 
@@ -53,7 +53,7 @@ Un tournage international ne déplace pas seulement une caméra et des comédien
 
 Les prestataires locaux interviennent à des niveaux différents. Une société peut fournir un véhicule sans être contractée directement par Netflix : la relation peut passer par la production, la production exécutive, la régie, le département transport ou un sous-traitant. C’est pourquoi nous évitons l’expression « fournisseur officiel de Netflix » en l’absence de document public.
 
-Dans le cadre du tournage marocain de la saison 3 de The Gentlemen, **Accrocar indique avoir fourni des véhicules de luxe destinés aux besoins de la production au Maroc**. Cette information vient directement de l’entreprise. Elle n’est pas présentée comme une confirmation de Netflix et ne permet pas de reconstituer la chaîne contractuelle.
+Dans le cadre du tournage marocain de la saison 3 de The Gentlemen, **Accrocar indique avoir fourni des véhicules de luxe à MOONAGE PICTURES LIMITED**. Cette information vient directement de l’entreprise. Elle n’est pas présentée comme une confirmation de Netflix et ne permet pas de reconstituer la chaîne contractuelle.
 
 Une location classique optimise la remise des clés au client. Une utilisation de production ajoute un brief visuel, une inspection de carrosserie, la préparation de l’habitacle, des pneus et jantes, la propreté répétable, des horaires mouvants, une personne de contact et un plan de secours.
 
@@ -115,7 +115,7 @@ Non. Erfoud est rapportée ; Merzouga ne doit pas être présentée comme lieu d
 
 ### Accrocar est-il un fournisseur officiel de Netflix ?
 
-Cette formulation n’est pas établie. Accrocar indique avoir fourni des véhicules à la production au Maroc, sans rendre publique la chaîne contractuelle.
+Cette formulation n’est pas établie. Accrocar indique avoir fourni des véhicules de luxe à MOONAGE PICTURES LIMITED dans le cadre du tournage marocain, sans rendre publique la chaîne contractuelle.
 
 ## Sources principales
 

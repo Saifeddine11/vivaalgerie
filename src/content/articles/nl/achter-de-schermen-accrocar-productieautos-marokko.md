@@ -53,7 +53,7 @@ Een internationale opname verplaatst meer dan camera’s en acteurs. Ze coördin
 
 Lokale leveranciers kunnen op verschillende punten in de keten zitten. Een bedrijf kan een voertuig leveren zonder rechtstreeks door Netflix te zijn gecontracteerd; de opdrachtgever kan de producent, lokale serviceproducent, transportafdeling of onderaannemer zijn. Daarom gebruiken we zonder openbare documenten nooit “officiële Netflix-leverancier”.
 
-Voor de Marokkaanse opnames van The Gentlemen seizoen 3 **zegt Accrocar luxe voertuigen te hebben geleverd voor de behoeften van de productie in Marokko**. Dit is bedrijfsinformatie, geen Netflix-bevestiging en geen bewijs van de contractketen.
+Voor de Marokkaanse opnames van The Gentlemen seizoen 3 **zegt Accrocar luxe voertuigen te hebben geleverd aan MOONAGE PICTURES LIMITED voor de productie in Marokko**. Dit is bedrijfsinformatie, geen Netflix-bevestiging en geen bewijs van de contractketen.
 
 Normale verhuur optimaliseert één sleuteloverdracht. Productiegebruik voegt een visuele briefing, carrosseriecontrole, interieur-, wiel- en bandvoorbereiding, herhaalbare reinheid, wijzigende tijden, een contactpersoon en back-up toe.
 
@@ -117,7 +117,7 @@ Nee. Erfoud is gemeld; Merzouga mag zonder nieuw bewijs niet als locatie worden 
 
 ### Is Accrocar een officiële Netflix-leverancier?
 
-Die formulering is niet vastgesteld. Accrocar zegt voertuigen te hebben geleverd zonder de contractketen openbaar te maken.
+Die formulering is niet vastgesteld. Accrocar zegt luxevoertuigen te hebben geleverd aan MOONAGE PICTURES LIMITED voor de productie in Marokko, zonder de contractketen openbaar te maken.
 
 ## Belangrijkste bronnen
 

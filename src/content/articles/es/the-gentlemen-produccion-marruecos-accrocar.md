@@ -31,7 +31,7 @@ La información marroquí procede por ahora de **Le360**, en una publicación de
 
 Permisos, localizaciones, técnicos, material, alojamiento, catering, figurantes, transporte y seguridad forman una cadena. Los especialistas ganan tiempo con inventario realista, contacto único y contingencias.
 
-Accrocar afirma haber suministrado vehículos de lujo a la producción marroquí. El caso ilustra la capacidad de proveedores locales sin convertir su contribución en una asociación oficial no documentada.
+Accrocar afirma haber suministrado vehículos de lujo a MOONAGE PICTURES LIMITED para la producción en Marruecos. El caso ilustra la capacidad de proveedores locales sin convertir su contribución en una asociación oficial no documentada.
 
 ## Lo establecido a 16 de septiembre de 2026
 
@@ -53,7 +53,7 @@ Un rodaje internacional coordina mucho más que cámaras y actores: localizacion
 
 Los proveedores locales pueden ocupar distintos puntos de la cadena. Una empresa puede entregar un vehículo sin contratar directamente con Netflix: la relación puede pasar por la productora, la producción ejecutiva, transporte o un subcontratista. Por eso evitamos “proveedor oficial de Netflix” sin documentación pública.
 
-En el rodaje marroquí de The Gentlemen temporada 3, **Accrocar afirma haber suministrado vehículos de lujo para las necesidades de la producción en Marruecos**. Es información directa de la empresa, no confirmación de Netflix ni prueba de la cadena contractual.
+En el rodaje marroquí de The Gentlemen temporada 3, **Accrocar afirma haber suministrado vehículos de lujo a MOONAGE PICTURES LIMITED para la producción en Marruecos**. Es información directa de la empresa, no confirmación de Netflix ni prueba de la cadena contractual.
 
 Un alquiler normal optimiza la entrega a un cliente. La producción añade brief visual, revisión de carrocería, preparación interior, ruedas y neumáticos, limpieza repetible, horarios móviles, contacto único y alternativa.
 
@@ -115,7 +115,7 @@ No. Erfoud está comunicada; Merzouga no debe presentarse como localización sin
 
 ### ¿Accrocar es proveedor oficial de Netflix?
 
-Esa formulación no está demostrada. Accrocar afirma haber suministrado vehículos a la producción, sin publicar la cadena contractual.
+Esa formulación no está demostrada. Accrocar afirma haber suministrado vehículos de lujo a MOONAGE PICTURES LIMITED para la producción en Marruecos, sin publicar la cadena contractual.
 
 ## Fuentes principales
 

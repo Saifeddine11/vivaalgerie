@@ -1,7 +1,7 @@
 ---
 title: "The Gentlemen Season 3: Accrocar supplies luxury cars to the Morocco production"
 h1: "The Gentlemen Season 3: Accrocar supplies luxury cars to the Morocco production"
-description: "Accrocar says it supplied luxury vehicles to The Gentlemen production in Morocco. Its role, preparation work and the limits of the claim."
+description: "Accrocar says it supplied luxury vehicles to MOONAGE PICTURES LIMITED for the production in Morocco. Its role, preparation work and the limits of the claim."
 slug: "the-gentlemen-accrocar-luxury-cars-morocco"
 category: "culture"
 lang: "en"
@@ -19,7 +19,7 @@ tags: ["The Gentlemen Season 3", "Morocco", "Rabat", "Erfoud", "Guy Ritchie", "A
 translationKey: "the-gentlemen-morocco-6"
 ---
 
-<div class="key-facts"><strong>Key point</strong><p>Accrocar says it supplied luxury vehicles to The Gentlemen production in Morocco. Its role, preparation work and the limits of the claim.</p></div>
+<div class="key-facts"><strong>Key point</strong><p>Accrocar says it supplied luxury vehicles to MOONAGE PICTURES LIMITED for the production in Morocco. Its role, preparation work and the limits of the claim.</p></div>
 
 ## Immediate answer
 
@@ -29,7 +29,7 @@ The Morocco information currently comes from **Le360**, published on 14 Septembe
 
 ## Accrocar’s stated role
 
-For the Moroccan filming of The Gentlemen Season 3, **Accrocar says it supplied luxury vehicles for the production’s needs in Morocco**. This is first-party information from the company. It is not presented as Netflix confirmation and does not establish the contractual chain.
+For the Moroccan filming of The Gentlemen Season 3, **Accrocar says it supplied luxury vehicles to MOONAGE PICTURES LIMITED for the production in Morocco**. This is first-party information from the company. It is not presented as Netflix confirmation and does not establish the contractual chain.
 
 A specialist vehicle supplier must handle availability, cosmetic condition, delivery, discretion, continuity and replacement planning. Its value lies as much in coordination as in the badge on the bonnet.
 
@@ -53,7 +53,7 @@ An international shoot moves far more than cameras and cast. It coordinates scou
 
 Local suppliers can sit at different points in the chain. A company may provide a vehicle without contracting directly with Netflix; the counterparty may be the production company, local service producer, transport department or a subcontractor. That is why this cluster does not call any company an “official Netflix supplier” without public documentation.
 
-For the Moroccan filming of The Gentlemen Season 3, **Accrocar says it supplied luxury vehicles for the production’s needs in Morocco**. This is first-party information from the company. It is not presented as Netflix confirmation and does not establish the contractual chain.
+For the Moroccan filming of The Gentlemen Season 3, **Accrocar says it supplied luxury vehicles to MOONAGE PICTURES LIMITED for the production in Morocco**. This is first-party information from the company. It is not presented as Netflix confirmation and does not establish the contractual chain.
 
 A normal rental optimises a handover to one customer. Production use adds a visual brief, bodywork inspection, interior, wheel and tyre preparation, repeatable cleanliness, moving call times, a named contact and a fallback.
 
@@ -115,7 +115,7 @@ No. Erfoud is reported; Merzouga must not be presented as a Season 3 location wi
 
 ### Is Accrocar an official Netflix supplier?
 
-That wording is not established. Accrocar says it supplied vehicles to the production in Morocco, without publishing the contractual chain.
+That wording is not established. Accrocar says it supplied luxury vehicles to MOONAGE PICTURES LIMITED for the production in Morocco, without publishing the contractual chain.
 
 ## Primary sources
 
