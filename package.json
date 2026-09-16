@@ -10,7 +10,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "audit:language": "python3 scripts/audit_language.py --fail"
+    "audit:language": "python3 scripts/audit_language.py --fail",
+    "audit:cluster": "node scripts/audit_morocco_algeria_cluster.mjs",
+    "audit:gentlemen": "node scripts/audit_gentlemen_cluster.mjs"
   },
   "dependencies": {
     "@fontsource-variable/dm-sans": "^5.2.8",

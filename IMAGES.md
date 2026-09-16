@@ -192,3 +192,52 @@ All 24 visuals below are real, locally stored WebP images sourced from Wikimedia
 | `foret-algerie-contexte-feux.webp` | spare context | — | Wikimedia Commons | Walid2687 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chrea_National_Park.jpg | — | Chréa | Context forest | Resize + WebP | Walid2687 / Wikimedia Commons |
 
 | `incendies-algerie-juillet-2026-hero.webp` / `...-og.webp` | wildfire article | FR/EN/ES/NL | Wikimedia File:Bushfire.jpg | Mark Marathon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bushfire.jpg | archive | Active flames + smoke (illustrative, not July 2026 Algeria footage) | Resize/crop WebP | Mark Marathon / Wikimedia Commons, CC BY-SA 3.0 |
+
+<!-- morocco-algeria-comparison-cluster-2026-09-05:start -->
+
+## Morocco–Algeria comparison cluster — 5 September 2026
+
+All files are stored locally, converted to WebP, resized and centre-cropped to 1400 × 788 pixels. Below-fold uses are lazy-loaded with explicit dimensions and responsive `sizes`. The four language versions share the same documentary images but provide translated alt text and captions. Source and licence pages were rechecked on 5 September 2026.
+
+| Local file | Articles / use | Original source | Author / credit | Licence | Original date | Verified location / context | Transformation |
+|---|---|---|---|---|---|---|---|
+| `fdi-maroc-algerie-tanger-med.webp` | FDI hero; infrastructure port | [Vue générale Tanger Med](https://commons.wikimedia.org/wiki/File:Vue_g%C3%A9n%C3%A9raleH13A0659.JPG) | Tanger Med | CC BY-SA 4.0 | 2016-04-01 | Tanger Med, Morocco | Resize, crop, WebP |
+| `fdi-maroc-algerie-automobiles-export.webp` | FDI / automotive exports | [Vehicles ready for export in Tanger Med](https://commons.wikimedia.org/wiki/File:Vehicles_ready_for_export_in_Tanger_Med.jpg) | Moroccan Ministry of Equipment and Transport | CC BY 3.0 | 2016-05-30 | Tanger Med, Morocco | Resize, crop, WebP |
+| `fdi-maroc-algerie-zone-industrielle-tanger.webp` | FDI / industrial ecosystem | [Tanger industrias mapa](https://commons.wikimedia.org/wiki/File:Tanger_industrias_mapa.svg) | Adbar | CC BY-SA 4.0 | 2021 (Commons record) | Documentary schematic of Tangier industrial and transport sites | Rasterise, adapt, crop, WebP |
+| `comparatif-maroc-algerie-aeroport-casablanca.webp` | FDI, infrastructure and tourism / air access | [Mohammed V Airport, Casablanca](https://commons.wikimedia.org/wiki/File:%D9%85%D8%B7%D8%A7%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A8%D8%A7%D9%84%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1.jpg) | Anass Sedrati | CC BY-SA 4.0 | 2018-08-04 | Casablanca, Morocco | Resize, crop, WebP |
+| `comparatif-maroc-algerie-aeroport-alger.webp` | FDI and infrastructure / Algerian connectivity | [Algiers's Airport](https://commons.wikimedia.org/wiki/File:Algiers%27s_Airport.jpg) | Yane Casouf | CC BY-SA 4.0 | 2019-07-14 | Houari Boumediene Airport, Algiers, Algeria | Resize, crop, WebP |
+| `fdi-maroc-algerie-energie-algerie.webp` | FDI / Mediterranean gas-infrastructure context | [Saipem 7000, Almeria](https://commons.wikimedia.org/wiki/File:Saipem_7000,_Almeria.jpg) | horrapics | CC BY 2.0 | Source date retained on Commons page | Almería, Spain — captions expressly state this is not an Algerian site | Resize, crop, WebP |
+| `maroc-2030-al-boraq-casablanca.webp` | Infrastructure hero / operational high-speed rail | [Al Boraq RGV 1208 in Casablanca](https://commons.wikimedia.org/wiki/File:Al_Boraq_RGV_1208_in_Casablanca%2C_Gare_de_Voyageurs%2C_May_2024.jpg) | Matthias-Tf | CC BY 4.0 | 2024-05-01 | Casablanca Voyageurs station, Morocco | Resize, crop, WebP |
+| `football-maroc-algerie-academie-mohammed-vi.webp` | Football hero / academy | [Mohammed VI Football Academy entrance](https://commons.wikimedia.org/wiki/File:Entrance_of_Mohammed_VI_Football_Academy_in_Sal%C3%A9,_Morocco.jpg) | Anass Sedrati | CC BY-SA 4.0 | 2025-10-25 | Salé, Morocco | Resize, crop, WebP |
+| `football-maroc-algerie-entrainement-algerie.webp` | Football / Algerian training context | [Algeria NT training 2013 AFCON](https://commons.wikimedia.org/wiki/File:Algeria_NT_training_2013_AFCON.jpg) | Magharebia | CC BY 2.0 | 2013-01-18 | South Africa — archive image; captions expressly say it is not Sidi Moussa | Resize, crop, WebP |
+| `football-maroc-algerie-stade-rabat.webp` | Football / Moroccan stadium | [Moulay Abdellah Stadium](https://commons.wikimedia.org/wiki/File:Moulay_Abdellah_Stadium.jpg) | Reda Benkhadra | CC BY-SA 4.0 | 2025-09-05 | Rabat, Morocco | Resize, crop, WebP |
+| `football-maroc-algerie-stade-nelson-mandela.webp` | Football / Algerian stadium | [Nelson Mandela Stadium](https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Stadium.jpg) | Riad Salih Senouci Bereksi | CC BY-SA 2.0 | 2023-03-19 | Baraki, Algiers, Algeria | Resize, crop, WebP |
+| `tourisme-maroc-algerie-marrakech.webp` | Tourism hero / Marrakech | [View of Marrakech from the sky 2024](https://commons.wikimedia.org/wiki/File:View_of_Marrakech_from_the_sky_2024.jpg) | Hamza Izourane | CC0 1.0 | 2024-11-03 | Marrakech, Morocco | Resize, crop, WebP |
+| `tourisme-maroc-algerie-agadir.webp` | Tourism / Moroccan coast | [Agadir beach and Mountain](https://commons.wikimedia.org/wiki/File:Agadir_beach_and_Mountain.jpeg) | Abderrahman Ait Ali | CC BY-SA 2.0 | 2018-04-09 | Agadir, Morocco | Resize, crop, WebP |
+| `tourisme-maroc-algerie-tipasa.webp` | Tourism / Algerian coast and archaeology | [View of Tipasa 01](https://commons.wikimedia.org/wiki/File:View_of_Tipasa_01.jpg) | Bernard Gagnon | CC BY 4.0 | 2025-10-05 | Tipasa, Algeria | Resize, crop, WebP |
+| `tourisme-maroc-algerie-tassili.webp` | Tourism / Algerian Sahara | [Tassili n'Ajjer, 2019-08-20](https://commons.wikimedia.org/wiki/File:Tassili_n%27Ajjer,_Algeria,_2019-08-20,_DD_109.jpg) | Dagelf | CC BY-SA 4.0 | 2019-08-20 | Tassili n’Ajjer, Algeria | Resize, crop, WebP |
+
+The diplomacy article also reuses previously documented assets: `minurso-onu-sahara-occidental-cover.webp`, `minurso-onu-sahara-occidental-01.webp`, `algerie-vs-maroc-visions-maghreb-cover.webp`, and `a-qui-appartient-sahara-occidental-03.webp`. Their licences and territorial-context notes remain in the geopolitical image section above.
+
+<!-- morocco-algeria-comparison-cluster-2026-09-05:end -->
+
+<!-- gentlemen-morocco-cluster-2026-09-16:start -->
+
+## The Gentlemen Morocco editorial cluster — 16 September 2026
+
+All assets are stored locally at 1600 × 900, converted to WebP and rendered with explicit dimensions. Wikimedia licences were checked on the source pages. Accrocar assets are first-party company images published on accrocar.com and are used only to illustrate its public fleet; captions do not claim that a pictured model appears in *The Gentlemen*.
+
+| Local file | Use | Original source | Credit / licence | Context guardrail | Transformation |
+|---|---|---|---|---|---|
+| `gentlemen/rabat-hassan-tower.webp` | Rabat/news heroes | [Hassan Tower](https://commons.wikimedia.org/wiki/File:Hassan_Tower.jpg) | Bernard Gagnon, CC BY-SA 3.0 | Real Rabat context; not represented as a Season 3 set photo | Resize, centre crop, WebP |
+| `gentlemen/rabat-kasbah-oudayas.webp` | Rabat inline context | [Morocco - Kasbah of the Udayas](https://commons.wikimedia.org/wiki/File:Morocco_-_Kasbah_of_the_Udayas.jpg) | P. Hughes, CC BY 4.0 | Real Rabat context; no street or scene attribution | Resize, centre crop, WebP |
+| `gentlemen/erfoud-oasis-architecture.webp` | Erfoud hero | [Berber architecture south of Erfoud](https://commons.wikimedia.org/wiki/File:Berber_architecture_south_of_the_town_of_Erfoud,_Morocco.jpg) | Licence per Commons file page | Real regional context; not represented as production photography | Resize, centre crop, WebP |
+| `gentlemen/erg-chebbi-desert-context.webp` | Desert explainer | [Dunes-Merzouga-Erg Chebi](https://commons.wikimedia.org/wiki/File:Dunes-Merzouga-Erg_Chebi.JPG) | Nomadz, CC BY-SA 3.0 | Caption expressly states Merzouga is not a confirmed Season 3 location | Resize, centre crop, WebP |
+| `gentlemen/ouarzazate-atlas-film-studios.webp` | Morocco film-infrastructure hero | [Atlas Film Studios Ouarzazate](https://commons.wikimedia.org/wiki/File:Atlas_Film_Studios_Ouarzazate_Morocco.JPG) | Manuel Heinemann, public domain | Ecosystem illustration only; Ouarzazate is not listed as a Season 3 location | Resize, centre crop, WebP |
+| `gentlemen/accrocar-luxury-vehicle-morocco.webp` | Accrocar/production logistics hero | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Public-fleet illustration; no on-screen-use claim | Resize, centre crop, WebP |
+| `gentlemen/accrocar-bentley-bentayga.webp` | Accrocar fleet articles | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Availability illustration; no Season 3 model claim | Resize, centre crop, WebP |
+| `gentlemen/accrocar-rolls-royce-cullinan.webp` | Accrocar fleet articles | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Availability illustration; no Season 3 model claim | Resize, centre crop, WebP |
+
+No Season 1/2 still is presented as Season 3, no paparazzi imagery is used, and no current-production photograph without an established reuse licence is included.
+
+<!-- gentlemen-morocco-cluster-2026-09-16:end -->

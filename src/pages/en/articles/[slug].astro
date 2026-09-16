@@ -41,6 +41,7 @@ const blogPosting = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
   headline: article.data.title,
+  articleSection: CATEGORY_LABELS[locale][article.data.category],
   description: article.data.description,
   image: absoluteUrl(article.data.image),
   datePublished: article.data.pubDate.toISOString(),
@@ -95,7 +96,7 @@ const faqLd = faqs.length
           ]}
         />
         <p class="eyebrow mb-4">{CATEGORY_LABELS[locale][article.data.category]}</p>
-        <h1 class="mb-5 text-3xl sm:text-5xl">{article.data.title}</h1>
+        <h1 class="mb-5 text-3xl sm:text-5xl">{article.data.h1 ?? article.data.title}</h1>
         <p class="mb-6 text-lg text-muted">{article.data.description}</p>
         <div class="flex flex-wrap gap-4 text-sm text-muted">
           <span>{t(locale, 'article.by')} {article.data.author}</span>
@@ -112,6 +113,11 @@ const faqLd = faqs.length
         <div class="overflow-hidden rounded-[1.5rem] border border-border">
           <img src={article.data.heroImage ?? article.data.image} alt={article.data.imageAlt} class="aspect-[21/9] w-full object-cover" width="1400" height="600" fetchpriority="high" />
         </div>
+        {article.data.imageCredit && (
+          <p class="mt-2 text-xs text-muted">
+            Image: {article.data.imageSource ? <a href={article.data.imageSource} class="text-green hover:underline">{article.data.imageCredit}</a> : article.data.imageCredit}
+          </p>
+        )}
       </div>
     </header>
     <div class="container-editorial max-w-3xl py-12">

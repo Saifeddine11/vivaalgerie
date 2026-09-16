@@ -68,6 +68,7 @@ export const GET: APIRoute = async () => {
     'immobilier',
     'tourisme',
     'economie',
+    'culture',
     'investissement',
     'villes',
     'guides',

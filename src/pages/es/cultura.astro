@@ -1,0 +1,19 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { categoryHreflang } from '../../lib/hreflang';
+---
+
+<CategoryPage
+  category="culture"
+  locale="es"
+  title="Cultura y cine en Marruecos — producciones y localizaciones"
+  description="Actualidad y análisis sobre producciones internacionales en Marruecos, localizaciones, equipos, infraestructura y cultura audiovisual."
+  h1="Cultura y cine en Marruecos"
+  intro="Información verificada sobre producciones, localizaciones y los profesionales y servicios de la industria audiovisual marroquí."
+  relatedLinks={[
+    { href: '/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud', label: 'The Gentlemen temporada 3 en Marruecos' },
+    { href: '/es/turismo', label: 'Turismo' },
+    { href: '/es/analisis', label: 'Análisis' },
+  ]}
+  hreflang={categoryHreflang('culture')}
+/>

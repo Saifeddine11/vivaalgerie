@@ -1,0 +1,19 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { categoryHreflang } from '../../lib/hreflang';
+---
+
+<CategoryPage
+  category="culture"
+  locale="nl"
+  title="Cultuur en film in Marokko — internationale producties en locaties"
+  description="Nieuws en analyse over internationale producties in Marokko, filmlocaties, crews, infrastructuur en beeldcultuur."
+  h1="Cultuur en film in Marokko"
+  intro="Gecontroleerde berichtgeving over producties, locaties en de mensen en diensten achter de Marokkaanse filmindustrie."
+  relatedLinks={[
+    { href: '/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud', label: 'The Gentlemen seizoen 3 in Marokko' },
+    { href: '/nl/toerisme', label: 'Toerisme' },
+    { href: '/nl/analyses', label: 'Analyses' },
+  ]}
+  hreflang={categoryHreflang('culture')}
+/>

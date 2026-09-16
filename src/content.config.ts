@@ -9,6 +9,7 @@ const articles = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
+    h1: z.string().optional(),
     description: z.string(),
     slug: z.string(),
     category: z.enum([

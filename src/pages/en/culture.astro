@@ -1,0 +1,19 @@
+---
+import CategoryPage from '../../components/CategoryPage.astro';
+import { categoryHreflang } from '../../lib/hreflang';
+---
+
+<CategoryPage
+  category="culture"
+  locale="en"
+  title="Culture and film in Morocco — international productions and locations"
+  description="Reporting and analysis on international productions in Morocco, filming locations, crews, infrastructure and screen culture."
+  h1="Culture and film in Morocco"
+  intro="Verified reporting on productions, locations and the people and services behind Morocco’s screen industry."
+  relatedLinks={[
+    { href: '/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud', label: 'The Gentlemen Season 3 in Morocco' },
+    { href: '/en/tourism', label: 'Tourism' },
+    { href: '/en/analysis', label: 'Analysis' },
+  ]}
+  hreflang={categoryHreflang('culture')}
+/>
