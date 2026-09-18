@@ -220,24 +220,3 @@ All files are stored locally, converted to WebP, resized and centre-cropped to 1
 The diplomacy article also reuses previously documented assets: `minurso-onu-sahara-occidental-cover.webp`, `minurso-onu-sahara-occidental-01.webp`, `algerie-vs-maroc-visions-maghreb-cover.webp`, and `a-qui-appartient-sahara-occidental-03.webp`. Their licences and territorial-context notes remain in the geopolitical image section above.
 
 <!-- morocco-algeria-comparison-cluster-2026-09-05:end -->
-
-<!-- gentlemen-morocco-cluster-2026-09-16:start -->
-
-## The Gentlemen Morocco editorial cluster — 16 September 2026
-
-All assets are stored locally at 1600 × 900, converted to WebP and rendered with explicit dimensions. Wikimedia licences were checked on the source pages. Accrocar assets are first-party company images published on accrocar.com and are used only to illustrate its public fleet; captions do not claim that a pictured model appears in *The Gentlemen*.
-
-| Local file | Use | Original source | Credit / licence | Context guardrail | Transformation |
-|---|---|---|---|---|---|
-| `gentlemen/rabat-hassan-tower.webp` | Rabat/news heroes | [Hassan Tower](https://commons.wikimedia.org/wiki/File:Hassan_Tower.jpg) | Bernard Gagnon, CC BY-SA 3.0 | Real Rabat context; not represented as a Season 3 set photo | Resize, centre crop, WebP |
-| `gentlemen/rabat-kasbah-oudayas.webp` | Rabat inline context | [Morocco - Kasbah of the Udayas](https://commons.wikimedia.org/wiki/File:Morocco_-_Kasbah_of_the_Udayas.jpg) | P. Hughes, CC BY 4.0 | Real Rabat context; no street or scene attribution | Resize, centre crop, WebP |
-| `gentlemen/erfoud-oasis-architecture.webp` | Erfoud hero | [Berber architecture south of Erfoud](https://commons.wikimedia.org/wiki/File:Berber_architecture_south_of_the_town_of_Erfoud,_Morocco.jpg) | Licence per Commons file page | Real regional context; not represented as production photography | Resize, centre crop, WebP |
-| `gentlemen/erg-chebbi-desert-context.webp` | Desert explainer | [Dunes-Merzouga-Erg Chebi](https://commons.wikimedia.org/wiki/File:Dunes-Merzouga-Erg_Chebi.JPG) | Nomadz, CC BY-SA 3.0 | Caption expressly states Merzouga is not a confirmed Season 3 location | Resize, centre crop, WebP |
-| `gentlemen/ouarzazate-atlas-film-studios.webp` | Morocco film-infrastructure hero | [Atlas Film Studios Ouarzazate](https://commons.wikimedia.org/wiki/File:Atlas_Film_Studios_Ouarzazate_Morocco.JPG) | Manuel Heinemann, public domain | Ecosystem illustration only; Ouarzazate is not listed as a Season 3 location | Resize, centre crop, WebP |
-| `gentlemen/accrocar-luxury-vehicle-morocco.webp` | Accrocar/production logistics hero | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Public-fleet illustration; no on-screen-use claim | Resize, centre crop, WebP |
-| `gentlemen/accrocar-bentley-bentayga.webp` | Accrocar fleet articles | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Availability illustration; no Season 3 model claim | Resize, centre crop, WebP |
-| `gentlemen/accrocar-rolls-royce-cullinan.webp` | Accrocar fleet articles | [Accrocar](https://accrocar.com/) | Accrocar first-party company image | Availability illustration; no Season 3 model claim | Resize, centre crop, WebP |
-
-No Season 1/2 still is presented as Season 3, no paparazzi imagery is used, and no current-production photograph without an established reuse licence is included.
-
-<!-- gentlemen-morocco-cluster-2026-09-16:end -->
