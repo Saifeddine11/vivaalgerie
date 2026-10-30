@@ -32,7 +32,7 @@ const related = await getRelatedArticles(article, 3);
 const minutes = readingTime(article.body ?? '');
 const canonical = absoluteUrl(getArticlePath(locale, article.data.slug));
 const key = article.data.translationKey ?? article.data.slug;
-const allLang = await getCollection('articles', ({ data }) => !data.draft && (data.translationKey === key || data.slug === key));
+const allLang = await getCollection('articles', ({ data }) => !data.draft && data.visibility.indexable && (data.translationKey === key || data.slug === key));
 const slugs: Partial<Record<Locale, string>> = {};
 for (const a of allLang) slugs[a.data.lang as Locale] = a.data.slug;
 const faqs = extractFaqsFromMarkdown(article.body ?? '');
@@ -84,6 +84,7 @@ const faqLd = faqs.length
   type="article"
   hreflang={articleHreflang(slugs, article.data.slug)}
   jsonLd={[blogPosting, breadcrumbLd, faqLd].filter(Boolean) as Record<string, unknown>[]}
+  noindex={!article.data.visibility.indexable}
 >
   <article class="pb-20">
     <header class="border-b border-border bg-bg-secondary">

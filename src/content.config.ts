@@ -1,6 +1,38 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const articleVisibility = z.object({
+  homepage: z.boolean().default(true),
+  articleGrid: z.boolean().default(true),
+  categoryGrid: z.boolean().default(true),
+  related: z.boolean().default(true),
+  featured: z.boolean().default(true),
+  trending: z.boolean().default(true),
+  popular: z.boolean().default(true),
+  searchUI: z.boolean().default(true),
+  recommendations: z.boolean().default(true),
+  carousel: z.boolean().default(true),
+  rss: z.boolean().default(true),
+  sitemap: z.boolean().default(true),
+  indexable: z.boolean().default(true),
+});
+
+const defaultArticleVisibility = {
+  homepage: true,
+  articleGrid: true,
+  categoryGrid: true,
+  related: true,
+  featured: true,
+  trending: true,
+  popular: true,
+  searchUI: true,
+  recommendations: true,
+  carousel: true,
+  rss: true,
+  sitemap: true,
+  indexable: true,
+};
+
 const articles = defineCollection({
   loader: glob({
     pattern: '**/*.md',
@@ -39,6 +71,7 @@ const articles = defineCollection({
     draft: z.boolean().default(false),
     tags: z.array(z.string()).default([]),
     translationKey: z.string().optional(),
+    visibility: articleVisibility.default(defaultArticleVisibility),
   }),
 });
 

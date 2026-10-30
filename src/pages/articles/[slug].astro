@@ -31,7 +31,7 @@ const minutes = readingTime(article.body ?? '');
 const canonical = absoluteUrl(getArticlePath(locale, article.data.slug));
 
 const allLangArticles = await getCollection('articles', ({ data }) => {
-  return !data.draft && (data.translationKey === (article.data.translationKey ?? article.data.slug) || data.slug === article.data.slug);
+  return !data.draft && data.visibility.indexable && (data.translationKey === (article.data.translationKey ?? article.data.slug) || data.slug === article.data.slug);
 });
 
 const slugs: Partial<Record<Locale, string>> = {};
@@ -102,6 +102,7 @@ const jsonLd = [blogPosting, breadcrumbLd, faqLd].filter(Boolean) as Record<stri
   type="article"
   hreflang={hreflang}
   jsonLd={jsonLd}
+  noindex={!article.data.visibility.indexable}
 >
   <article class="pb-20">
     <header class="border-b border-border bg-bg-secondary">

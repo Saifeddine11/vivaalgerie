@@ -15,7 +15,7 @@ interface Props {
 
 const { locale, title, description } = Astro.props;
 const featured = await getFeaturedArticles(locale, 1);
-const latest = (await getArticles(locale)).slice(0, 6);
+const latest = (await getArticles(locale, 'homepage')).slice(0, 6);
 const featuredArticle = featured[0];
 
 const metaTitle = title ?? SITE.defaultTitle;

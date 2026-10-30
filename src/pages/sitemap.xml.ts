@@ -27,7 +27,10 @@ function url(path: string, lastmod?: Date) {
 }
 
 export const GET: APIRoute = async () => {
-  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  const articles = await getCollection(
+    'articles',
+    ({ data }) => !data.draft && data.visibility.indexable && data.visibility.sitemap,
+  );
   const seoPages = await getCollection('seo-pages');
   const now = new Date();
 

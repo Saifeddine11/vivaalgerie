@@ -3,8 +3,9 @@ import type { Category, Locale } from './site';
 
 export type ArticleEntry = CollectionEntry<'articles'>;
 export type SeoEntry = CollectionEntry<'seo-pages'>;
+export type ArticleVisibilitySurface = keyof ArticleEntry['data']['visibility'];
 
-export async function getArticles(locale: Locale = 'fr'): Promise<ArticleEntry[]> {
+async function getPublishedArticles(locale: Locale): Promise<ArticleEntry[]> {
   const all = await getCollection('articles', ({ data }) => {
     return !data.draft && data.lang === locale;
   });
@@ -13,11 +14,19 @@ export async function getArticles(locale: Locale = 'fr'): Promise<ArticleEntry[]
   );
 }
 
+export async function getArticles(
+  locale: Locale = 'fr',
+  surface: ArticleVisibilitySurface = 'articleGrid',
+): Promise<ArticleEntry[]> {
+  const articles = await getPublishedArticles(locale);
+  return articles.filter((article) => article.data.visibility[surface]);
+}
+
 export async function getArticlesByCategory(
   category: Category,
   locale: Locale = 'fr',
 ): Promise<ArticleEntry[]> {
-  const articles = await getArticles(locale);
+  const articles = await getArticles(locale, 'categoryGrid');
   return articles.filter((a) => a.data.category === category);
 }
 
@@ -25,8 +34,10 @@ export async function getFeaturedArticles(
   locale: Locale = 'fr',
   limit = 1,
 ): Promise<ArticleEntry[]> {
-  const articles = await getArticles(locale);
-  const featured = articles.filter((a) => a.data.featured);
+  const articles = await getArticles(locale, 'homepage');
+  const featured = articles.filter(
+    (article) => article.data.featured && article.data.visibility.featured,
+  );
   return (featured.length ? featured : articles).slice(0, limit);
 }
 
@@ -34,7 +45,7 @@ export async function getRelatedArticles(
   article: ArticleEntry,
   limit = 3,
 ): Promise<ArticleEntry[]> {
-  const articles = await getArticles(article.data.lang);
+  const articles = await getArticles(article.data.lang, 'related');
   return articles
     .filter(
       (a) =>
