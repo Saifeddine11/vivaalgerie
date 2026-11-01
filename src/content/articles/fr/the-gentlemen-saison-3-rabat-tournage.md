@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Rabat accueille le tournage marocain rapporté de The Gentlemen saison 3. Faits établis, lecture des décors urbains et limites de ce qui est public.</p></div>

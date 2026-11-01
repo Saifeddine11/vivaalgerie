@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Comment l’automobile construit l’univers visuel de The Gentlemen, sans attribuer à la saison 3 un modèle non confirmé par Accrocar.</p></div>

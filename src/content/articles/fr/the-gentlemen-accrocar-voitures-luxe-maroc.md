@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Accrocar confirme avoir collaboré avec Dune Films pour fournir des véhicules de luxe dans le cadre d’une production impliquant MOONAGE PICTURES LIMITED.</p></div>

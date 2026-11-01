@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Locations, crews, studios, logistics and the cash rebate: Morocco’s verifiable strengths for international screen production.</p></div>

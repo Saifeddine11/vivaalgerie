@@ -1,0 +1,165 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection, render } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import { absoluteUrl, formatDate, getCategoryPath, getHomePath, readingTime } from '../lib/paths';
+import { extractFaqsFromMarkdown } from '../lib/content';
+import { CATEGORY_LABELS, t } from '../i18n/ui';
+import { SITE, type Locale } from '../lib/site';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const locale = article.data.lang as Locale;
+const canonicalPath = article.data.canonicalPath ?? `/${article.data.slug}/`;
+const canonical = absoluteUrl(canonicalPath);
+const minutes = readingTime(article.body ?? '');
+const faqs = extractFaqsFromMarkdown(article.body ?? '');
+const key = article.data.translationKey;
+
+const translations = key
+  ? await getCollection(
+      'articles',
+      ({ data }) => !data.draft && data.visibility.indexable && data.translationKey === key && Boolean(data.canonicalPath),
+    )
+  : [];
+const translated = translations.filter((entry) => entry.data.canonicalPath);
+const hreflang = translated.length > 1
+  ? translated
+      .map((entry) => ({
+        lang: entry.data.lang,
+        href: absoluteUrl(entry.data.canonicalPath as string),
+      }))
+      .concat([
+        {
+          lang: 'x-default',
+          href: absoluteUrl(
+            translated.find((entry) => entry.data.lang === 'fr')?.data.canonicalPath ?? canonicalPath,
+          ),
+        },
+      ])
+  : [];
+
+const isPillar = article.data.slug === 'the-gentlemen-maroc' || article.data.slug === 'the-gentlemen-morocco';
+const pillarPath = locale === 'en' ? '/en/the-gentlemen-morocco/' : '/the-gentlemen-maroc/';
+const pillarLabel = locale === 'en' ? 'The Gentlemen Morocco' : 'The Gentlemen Maroc';
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: article.data.title,
+  description: article.data.description,
+  image: absoluteUrl(article.data.image),
+  datePublished: article.data.pubDate.toISOString(),
+  dateModified: (article.data.updatedDate ?? article.data.pubDate).toISOString(),
+  author: { '@type': 'Organization', name: article.data.author },
+  publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  mainEntityOfPage: canonical,
+  inLanguage: locale,
+  articleSection: CATEGORY_LABELS[locale][article.data.category],
+  about: [
+    { '@type': 'TVSeries', name: 'The Gentlemen' },
+    { '@type': 'Country', name: 'Morocco' },
+    { '@type': 'Organization', name: 'Moonage Pictures' },
+    { '@type': 'Organization', name: 'Dune Films' },
+    { '@type': 'Organization', name: 'Accrocar' },
+  ],
+  citation: article.data.citations,
+};
+
+const breadcrumbItems = [
+  { label: t(locale, 'breadcrumb.home'), href: getHomePath(locale) },
+  {
+    label: CATEGORY_LABELS[locale][article.data.category],
+    href: getCategoryPath(locale, article.data.category),
+  },
+  ...(!isPillar ? [{ label: pillarLabel, href: pillarPath }] : []),
+  { label: article.data.title, href: canonicalPath },
+];
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems.map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: item.label,
+    item: absoluteUrl(item.href),
+  })),
+};
+const faqLd = faqs.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+      })),
+    }
+  : null;
+---
+
+<PageLayout
+  title={article.data.title}
+  description={article.data.description}
+  locale={locale}
+  canonical={canonical}
+  image={article.data.image}
+  type="article"
+  hreflang={hreflang}
+  jsonLd={[articleLd, breadcrumbLd, faqLd].filter(Boolean) as Record<string, unknown>[]}
+  noindex={!article.data.visibility.indexable}
+>
+  <article class="pb-20">
+    <header class="border-b border-border bg-bg-secondary">
+      <div class="container-editorial max-w-4xl py-12 sm:py-16">
+        <Breadcrumbs items={breadcrumbItems} />
+        <p class="eyebrow mb-4">{locale === 'en' ? 'Verified production guide' : 'Dossier de production vérifié'}</p>
+        <h1 class="mb-5 text-3xl sm:text-5xl">{article.data.h1 ?? article.data.title}</h1>
+        <p class="mb-6 text-lg text-muted">{article.data.description}</p>
+        <div class="flex flex-wrap gap-4 text-sm text-muted">
+          <span>{t(locale, 'article.by')} {article.data.author}</span>
+          <time datetime={article.data.pubDate.toISOString()}>{formatDate(article.data.pubDate, locale)}</time>
+          {article.data.updatedDate && (
+            <time datetime={article.data.updatedDate.toISOString()}>
+              {locale === 'en' ? 'Updated' : 'MàJ'} {formatDate(article.data.updatedDate, locale)}
+            </time>
+          )}
+          <span>{minutes} {t(locale, 'article.minRead')}</span>
+        </div>
+      </div>
+      <div class="container-editorial max-w-5xl pb-12">
+        <div class="overflow-hidden rounded-[1.5rem] border border-border bg-bg">
+          <img
+            src={article.data.heroImage ?? article.data.image}
+            alt={article.data.imageAlt}
+            class="aspect-[21/9] w-full object-cover"
+            width="1600"
+            height="686"
+            fetchpriority="high"
+          />
+        </div>
+        {article.data.imageCredit && (
+          <p class="mt-2 text-xs text-muted">
+            {locale === 'en' ? 'Image' : 'Image'} :{' '}
+            {article.data.imageSource ? (
+              <a href={article.data.imageSource} class="text-green hover:underline">{article.data.imageCredit}</a>
+            ) : article.data.imageCredit}
+          </p>
+        )}
+      </div>
+    </header>
+    <div class="container-editorial max-w-3xl py-12">
+      <div class="prose-editorial"><Content /></div>
+      <aside class="mt-10 rounded-2xl border border-border bg-bg-secondary px-5 py-4 text-sm text-muted">
+        {locale === 'en'
+          ? 'Editorial method: official sources are separated from press reporting and first-party supplier statements. Unknown production details are left unknown.'
+          : 'Méthode éditoriale : les sources officielles sont distinguées des informations de presse et des déclarations de fournisseur. Les détails de production inconnus restent présentés comme tels.'}
+      </aside>
+    </div>
+  </article>
+</PageLayout>

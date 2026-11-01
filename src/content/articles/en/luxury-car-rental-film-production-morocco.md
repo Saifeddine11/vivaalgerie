@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Picture cars, production vehicles, insurance, continuity and multi-city delivery: a B2B guide to vehicle rental in Morocco.</p></div>

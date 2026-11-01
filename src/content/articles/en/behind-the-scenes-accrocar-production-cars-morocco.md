@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Sourcing, preparation, continuity, delivery and confidentiality: production-car requirements explained through the Accrocar case.</p></div>

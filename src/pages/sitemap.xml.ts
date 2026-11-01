@@ -97,7 +97,7 @@ export const GET: APIRoute = async () => {
 
   for (const article of articles) {
     const locale = article.data.lang as Locale;
-    const path = `${ARTICLE_PATH[locale]}/${article.data.slug}`;
+    const path = article.data.canonicalPath ?? `${ARTICLE_PATH[locale]}/${article.data.slug}`;
     urls.push(
       url(path, article.data.updatedDate ?? article.data.pubDate),
     );

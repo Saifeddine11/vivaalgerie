@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>A sourced map and tracker for The Gentlemen Season 3 in Morocco: Rabat and Erfoud, with rumours kept separate from facts.</p></div>

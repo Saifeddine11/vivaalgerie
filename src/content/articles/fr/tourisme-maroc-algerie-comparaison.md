@@ -84,6 +84,8 @@ La feuille de route marocaine vise **26 millions de touristes en 2030** : c’es
 
 Pour replacer ces choix dans leur contexte, lire notre analyse des [infrastructures Maroc–Algérie à l’horizon 2030](/articles/maroc-2030-infrastructures-algerie), le dossier sur le [potentiel touristique algérien face au Maroc](/articles/algerie-maroc-potentiel-touristique) et le guide des [villes côtières algériennes](/articles/tourisme-villes-cotieres-algerie).
 
+Cette capacité à relier villes, hébergement et services intéresse aussi les productions audiovisuelles. Notre dossier vérifié sur [The Gentlemen au Maroc](/the-gentlemen-maroc/) montre comment Rabat, Erfoud et des prestataires spécialisés s’insèrent dans un tournage international, sans confondre promotion touristique et lieux de plateau confirmés.
+
 ## FAQ
 
 ### Le Maroc a-t-il vraiment reçu 19,8 millions de touristes en 2025 ?

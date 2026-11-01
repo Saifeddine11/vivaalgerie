@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Erfoud is reported as a Morocco location for The Gentlemen Season 3. Landscape, light, access and the essential distinction from Merzouga.</p></div>

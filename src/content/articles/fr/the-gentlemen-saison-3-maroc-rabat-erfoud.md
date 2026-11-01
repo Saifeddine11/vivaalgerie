@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Netflix a confirmé la saison 3. Le point vérifié sur le tournage signalé à Rabat depuis le 13 septembre 2026, Erfoud et les informations encore inconnues.</p></div>

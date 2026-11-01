@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Netflix has confirmed Season 3. A verified guide to the reported Rabat shoot from 13 September 2026, Erfoud and what remains unknown.</p></div>

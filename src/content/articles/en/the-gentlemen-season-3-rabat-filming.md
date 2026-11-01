@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>Key point</strong><p>Rabat is hosting the reported Morocco shoot for The Gentlemen Season 3. Established facts, the city’s visual range and the limits of public information.</p></div>

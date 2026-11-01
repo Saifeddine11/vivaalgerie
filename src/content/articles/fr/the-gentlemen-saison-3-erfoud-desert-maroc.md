@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Erfoud est signalée parmi les lieux marocains de The Gentlemen saison 3. Paysages, lumière, accès et distinction essentielle avec Merzouga.</p></div>

@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Diversité des décors, équipes, studios, logistique et cash rebate : les atouts vérifiables du Maroc pour les productions internationales.</p></div>

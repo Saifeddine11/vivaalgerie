@@ -84,6 +84,8 @@ Morocco’s roadmap targets **26 million tourists by 2030**. It is a target, not
 
 For the wider context, read our comparison of [Morocco–Algeria infrastructure through 2030](/en/articles/morocco-2030-infrastructure-algeria), the [tourism desk](/en/tourism) and our guide to [Algeria’s coastal cities](/en/articles/tourisme-villes-cotieres-algerie).
 
+The same network of cities, accommodation and services also matters to screen production. Our sourced guide to [The Gentlemen in Morocco](/en/the-gentlemen-morocco/) explains how Rabat, Erfoud and specialist suppliers fit an international shoot without treating tourism imagery as proof of a set.
+
 ## FAQ
 
 ### Did Morocco really receive 19.8 million tourists in 2025?

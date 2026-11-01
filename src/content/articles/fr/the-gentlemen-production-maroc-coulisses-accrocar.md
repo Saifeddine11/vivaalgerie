@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Lieux, permis, équipes, hébergement, transport et fournisseurs : comment s’organise une production internationale au Maroc.</p></div>

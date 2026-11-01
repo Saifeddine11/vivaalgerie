@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Sourcing, préparation, continuité, livraison et confidentialité : les exigences d’une voiture de production, expliquées avec le cas Accrocar.</p></div>

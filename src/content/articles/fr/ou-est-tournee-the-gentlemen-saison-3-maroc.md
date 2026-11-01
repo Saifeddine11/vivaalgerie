@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Carte et suivi des lieux marocains de The Gentlemen saison 3 : Rabat et Erfoud confirmés par la presse, rumeurs séparées des faits.</p></div>

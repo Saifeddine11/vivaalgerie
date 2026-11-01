@@ -29,8 +29,8 @@ visibility:
   recommendations: false
   carousel: false
   rss: false
-  sitemap: true
-  indexable: true
+  sitemap: false
+  indexable: false
 ---
 
 <div class="key-facts"><strong>À retenir</strong><p>Picture cars, véhicules de production, assurance, continuité et livraisons multi-villes : guide B2B de la location automobile au Maroc.</p></div>

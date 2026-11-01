@@ -71,6 +71,8 @@ const articles = defineCollection({
     draft: z.boolean().default(false),
     tags: z.array(z.string()).default([]),
     translationKey: z.string().optional(),
+    canonicalPath: z.string().regex(/^\/.+\/$/).optional(),
+    citations: z.array(z.string().url()).default([]),
     visibility: articleVisibility.default(defaultArticleVisibility),
   }),
 });
